@@ -1,0 +1,43 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+13054,Phenelzine 15mg tablets,,,,N06AF03,CEGEDIM
+13055,Nardil 15mg tablets (Kyowa Kirin Ltd),,,,N06AF03,CEGEDIM
+13056,Nardil 15mg tablets (Kyowa Kirin Ltd) 100 tablet,,,,N06AF03,CEGEDIM
+14488,Tranylcypromine 10mg tablets,,,,N06AF04,CEGEDIM
+14489,Tranylcypromine 10mg tablets (A A H Pharmaceuticals Ltd),,,,N06AF04,CEGEDIM
+14490,Tranylcypromine 10mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06AF04,CEGEDIM
+14493,Tranylcypromine 10mg tablets (Advanz Pharma),,,,N06AF04,CEGEDIM
+14494,Tranylcypromine 10mg tablets (Advanz Pharma) 28 tablet,,,,N06AF04,CEGEDIM
+14495,Tranylcypromine 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06AF04,CEGEDIM
+14496,Tranylcypromine 10mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N06AF04,CEGEDIM
+22805,Isocarboxazid 10mg tablets,,,,N06AF01,CEGEDIM
+22806,Isocarboxazid 10mg tablets (A A H Pharmaceuticals Ltd),,,,N06AF01,CEGEDIM
+22807,Isocarboxazid 10mg tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,N06AF01,CEGEDIM
+22810,Isocarboxazid 10mg tablets (Alliance Pharmaceuticals Ltd),,,,N06AF01,CEGEDIM
+22811,Isocarboxazid 10mg tablets (Alliance Pharmaceuticals Ltd) 56 tablet,,,,N06AF01,CEGEDIM
+22812,Isocarboxazid 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06AF01,CEGEDIM
+22813,Isocarboxazid 10mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet,,,,N06AF01,CEGEDIM
+94704,Isocarboxazid 20mg/5ml oral suspension,,,,N06AF01,CEGEDIM
+94705,Isocarboxazid 20mg/5ml oral suspension (Special Order),,,,N06AF01,CEGEDIM
+94706,Isocarboxazid 20mg/5ml oral suspension (Special Order) 1 ml,,,,N06AF01,CEGEDIM
+214195,Isocarboxazid 10mg tablets (Ennogen Healthcare Ltd),,,,N06AF01,CEGEDIM
+214196,Isocarboxazid 10mg tablets (Ennogen Healthcare Ltd) 56 tablet,,,,N06AF01,CEGEDIM
+232218,Tranylcypromine 10mg tablets (Waymade Healthcare Plc),,,,N06AF04,CEGEDIM
+232219,Tranylcypromine 10mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N06AF04,CEGEDIM
+248401,Tranylcypromine 10mg tablets (DE Pharmaceuticals),,,,N06AF04,CEGEDIM
+248402,Tranylcypromine 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06AF04,CEGEDIM
+256516,Tranylcypromine 10mg tablets (Teva UK Ltd),,,,N06AF04,CEGEDIM
+256517,Tranylcypromine 10mg tablets (Teva UK Ltd) 28 tablet,,,,N06AF04,CEGEDIM
+313578,Isocarboxazid 10mg Tablet (Cambridge Laboratories Ltd),,,,,CEGEDIM
+317253,Tranylcypromine with trifluoperazine Tablet,,,,,CEGEDIM
+318039,Trifluoperazine with tranylcypromine 1mg + 10mg Tablet,,,,,CEGEDIM
+343083,Tranylcypromine 10mg tablets (CST Pharma Ltd),,,,N06AF04,CEGEDIM
+343084,Tranylcypromine 10mg tablets (Pilsco Ltd),,,,N06AF04,CEGEDIM
+343203,Phenelzine 15mg tablets (Special Order),,,,N06AF03,CEGEDIM
+345028,Phenelzine 15mg tablets (Special Order) 1 tablet,,,,N06AF03,CEGEDIM
+345330,Tranylcypromine 10mg tablets (CST Pharma Ltd) 28 tablet,,,,N06AF04,CEGEDIM
+345417,Tranylcypromine 10mg tablets (Pilsco Ltd) 28 tablet,,,,N06AF04,CEGEDIM
+355298,Phenelzine 15mg capsules ,,,,N06AF03,CEGEDIM
+355299,Phenelzine 15mg capsules (Special Order),,,,N06AF03,CEGEDIM
+355300,Phenelzine 15mg capsules (Special Order) 1 capsule,,,,N06AF03,CEGEDIM
+355730,Phenelzine 15mg capsules (Imported),,,,N06AF03,CEGEDIM
+355731,Phenelzine 15mg capsules (Imported) 60 capsule,,,,N06AF03,CEGEDIM

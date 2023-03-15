@@ -1,0 +1,691 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+1.67441E+14,Buprenorphine Injection 300 micrograms    ,,,,,CPRD_AURUM
+8.85741E+14,Methadone Hydrochloride Injection 10mg/ml    ,,,,,CPRD_AURUM
+1.02524E+15,Oxycodone Pectinate Suppositories 30 mg    ,,,,,CPRD_AURUM
+1.15284E+15,Rapifen Injection 500 micrograms/ml    ,,,,,CPRD_AURUM
+2.05254E+15,Methadone Hydrochloride Diluent Oral Solution Sugar Free    ,,,,,CPRD_AURUM
+4.55634E+15,Morphine Sulfate Injection 10 mg/0.7 ml Auto-Injector    ,,,,,CPRD_AURUM
+9.33241E+14,Morphine Sulfate Sachets 20 mg    ,,,,,CPRD_AURUM
+1.01414E+15,Oramorph Sr M/R tablets 30 mg    ,,,,,CPRD_AURUM
+1.04194E+15,Papaveretum Tablets 10 mg    ,,,,,CPRD_AURUM
+1.41914E+15,Temgesic Injection 300 micrograms    ,,,,,CPRD_AURUM
+5.67641E+14,Fentanyl Citrate Injection 50 micrograms/ml    ,,,,,CPRD_AURUM
+4.47541E+14,Diamorphine Hydrochloride Injection 10 mg/ml    ,,,,,CPRD_AURUM
+9.28941E+14,Morphine Sulfate Injection 30 mg/ml    ,,,,,CPRD_AURUM
+9.33341E+14,Morphine Sulfate Sachets 30 mg    ,,,,,CPRD_AURUM
+1.01394E+15,Oramorph Sr M/R tablets 10 mg    ,,,,,CPRD_AURUM
+1.27394E+15,Sevredol Suppositories 30 mg    ,,,,,CPRD_AURUM
+2.18064E+15,Morphine Sulfate Suppositories 100 mg    ,,,,,CPRD_AURUM
+1.25762E+16,Fentanyl Solution for injection 100 micrograms/2 ml ampoule    ,,,,,CPRD_AURUM
+4.47741E+14,Diamorphine Hydrochloride Injection 500 mg/2 ml    ,,,,,CPRD_AURUM
+9.28041E+14,"Morphine Sulfate Injection 2 mg/ml, 50 ml syringe    ",,,,,CPRD_AURUM
+9.32041E+14,Morphine Oral solution 8.4 mg/ml    ,,,,,CPRD_AURUM
+1.01424E+15,Oramorph Sr M/R tablets 60 mg    ,,,,,CPRD_AURUM
+1.07394E+15,Physeptone Injection 10mg/ml    ,,,,,CPRD_AURUM
+1.07504E+15,Physeptone Linctus 2 mg/5 ml    ,,,,,CPRD_AURUM
+2.66134E+15,"Synastone Injection 10 mg/ml, 3.5 ml ampoule    ",,,,,CPRD_AURUM
+2.92704E+15,Mediject Morphine Sulfate Auto-Injector 10 mg/1 ml pre-filled disposable injection    ,,,,,CPRD_AURUM
+3.1541E+13,Alfentanil Injection 500 micrograms/ml    ,,,,,CPRD_AURUM
+9.24841E+14,Morphine Sulfate Epidural injection 2 mg/10 ml    ,,,,,CPRD_AURUM
+9.27941E+14,"Morphine Sulfate Injection 1 mg/ml, 50 ml syringe    ",,,,,CPRD_AURUM
+9.31041E+14,Morphine Hydrochloride Mixture 916 micrograms    ,,,,,CPRD_AURUM
+1.03424E+15,Papaveretum And Hyoscine Injection    ,,,,,CPRD_AURUM
+1.27374E+15,Sevredol Suppositories 10 mg    ,,,,,CPRD_AURUM
+1.27384E+15,Sevredol Suppositories 20 mg    ,,,,,CPRD_AURUM
+2.18044E+15,Morphine Sulfate Suppositories 50 mg    ,,,,,CPRD_AURUM
+4.43541E+14,Dihydrocodeine Tartrate Elixir 10mg/5 ml    ,,,,,CPRD_AURUM
+4.51341E+14,Diamorphine Hydrochloride Linctus 3mg/5 ml    ,,,,,CPRD_AURUM
+5.99141E+14,Fortral Capsules 50 mg    ,,,,,CPRD_AURUM
+9.11641E+14,Min-I-Jet Morphine Sulfate Injection 10 mg/ml    ,,,,,CPRD_AURUM
+9.34341E+14,Morphine Hydrochloride Suppositories 30 mg    ,,,,,CPRD_AURUM
+1.39234E+15,Sublimaze Injection 50 micrograms/ml    ,,,,,CPRD_AURUM
+2.26774E+15,"Methadone Hydrochloride Oral Solution, Sugar Free, Tartrazine Free 1 mg/1 ml    ",,,,,CPRD_AURUM
+2.18054E+15,Morphine Sulfate Suppositories 75 mg    ,,,,,CPRD_AURUM
+4.47641E+14,Diamorphine Hydrochloride Injection 5 mg    ,,,,,CPRD_AURUM
+4.66141E+14,Diamorphine Hydrochloride Tablets 10 mg    ,,,,,CPRD_AURUM
+1.01404E+15,Oramorph Sr M/R tablets 100 mg    ,,,,,CPRD_AURUM
+1.74474E+15,Morphine Sulfate Concentrated Oral Solution 20 mg/ml    ,,,,,CPRD_AURUM
+9.28641E+14,Morphine Injection 64mg/ml    ,,,,,CPRD_AURUM
+9.28741E+14,Morphine Sulfate Injection 10 mg/ml    ,,,,,CPRD_AURUM
+2.66124E+15,"Synastone Injection 10 mg/ml, 2 ml ampoule    ",,,,,CPRD_AURUM
+4.68641E+14,Dihydrocodeine Tartrate Tablets 30 mg    ,,,,,CPRD_AURUM
+6.01941E+14,Fortral Injection 30 mg/ml    ,,,,,CPRD_AURUM
+9.28841E+14,Morphine Sulfate Injection 15 mg/ml    ,,,,,CPRD_AURUM
+9.29241E+14,Morphine And Atropine Injection 1 ml ampoule    ,,,,,CPRD_AURUM
+1.03814E+15,Papaveretum Paediatric injection 7.7 mg/ml    ,,,,,CPRD_AURUM
+1.05394E+15,Pentazocine Lactate Injection 30 mg/ml    ,,,,,CPRD_AURUM
+5.67741E+14,Fentanyl Citrate Injection 2.5 mg/ml    ,,,,,CPRD_AURUM
+2.18034E+15,Morphine Sulfate Suppositories 35 mg    ,,,,,CPRD_AURUM
+3.98894E+15,Alfentanil Spray solution 5 mg/5 ml    ,,,,,CPRD_AURUM
+2.22804E+15,Actiq 1.6mg lozenges with integral oromucosal applicator (Teva UK Ltd) Lozenge Buccal Fentanyl citrate 1.600mg,4070200,,,,CPRD_AURUM
+2.22744E+15,Fentanyl 1.6mg lozenges Lozenge Buccal Fentanyl citrate 1.600mg,4070200,,,,CPRD_AURUM
+1.30118E+16,Cynril 1.6mg lozenges with integral oromucosal applicator (Fontus Health Ltd) Lozenge Buccal Fentanyl citrate 1.600mg,,,,,CPRD_AURUM
+2.22734E+15,Fentanyl 1.2mg lozenges Lozenge Buccal Fentanyl citrate 1.200mg,4070200,,,,CPRD_AURUM
+2.22794E+15,Actiq 1.2mg lozenges with integral oromucosal applicator (Teva UK Ltd) Lozenge Buccal Fentanyl citrate 1.200mg,4070200,,,,CPRD_AURUM
+1.30117E+16,Cynril 1.2mg lozenges with integral oromucosal applicator (Fontus Health Ltd) Lozenge Buccal Fentanyl citrate 1.200mg,,,,,CPRD_AURUM
+2.22784E+15,Actiq 800microgram lozenges with integral oromucosal applicator (Teva UK Ltd) Lozenge Buccal Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+2.22724E+15,Fentanyl 800microgram lozenges Lozenge Buccal Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+1.30116E+16,Cynril 800microgram lozenges with integral oromucosal applicator (Fontus Health Ltd) Lozenge Buccal Fentanyl citrate 800.000microgram,,,,,CPRD_AURUM
+2.22714E+15,Fentanyl 600microgram lozenges Lozenge Buccal Fentanyl citrate 600.000microgram,4070200,,,,CPRD_AURUM
+2.22774E+15,Actiq 600microgram lozenges with integral oromucosal applicator (Teva UK Ltd) Lozenge Buccal Fentanyl citrate 600.000microgram,4070200,,,,CPRD_AURUM
+1.30115E+16,Cynril 600microgram lozenges with integral oromucosal applicator (Fontus Health Ltd) Lozenge Buccal Fentanyl citrate 600.000microgram,,,,,CPRD_AURUM
+2.22764E+15,Actiq 400microgram lozenges with integral oromucosal applicator (Teva UK Ltd) Lozenge Buccal Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+2.22704E+15,Fentanyl 400microgram lozenges Lozenge Buccal Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+1.30114E+16,Cynril 400microgram lozenges with integral oromucosal applicator (Fontus Health Ltd) Lozenge Buccal Fentanyl citrate 400.000microgram,,,,,CPRD_AURUM
+2.22694E+15,Fentanyl 200microgram lozenges Lozenge Buccal Fentanyl citrate 200.000microgram,4070200,,,,CPRD_AURUM
+2.22754E+15,Actiq 200microgram lozenges with integral oromucosal applicator (Teva UK Ltd) Lozenge Buccal Fentanyl citrate 200.000microgram,4070200,,,,CPRD_AURUM
+1.30113E+16,Cynril 200microgram lozenges with integral oromucosal applicator (Fontus Health Ltd) Lozenge Buccal Fentanyl citrate 200.000microgram,,,,,CPRD_AURUM
+3.73141E+14,Co-dydramol 10mg/500mg tablets Tablet Oral Dihydrocodeine tartrate/ Paracetamol 10.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.23472E+16,Eroset 500mg/10mg tablets (M & A Pharmachem Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 10.000mg + 500.000mg,,,,,CPRD_AURUM
+8.6841E+13,Aspav dispersible tablets (Actavis UK Ltd) Dispersible tablet Oral Aspirin/ Papaveretum 500.000mg + 7.710mg,,,,,CPRD_AURUM
+3.84984E+15,Aspirin 500mg / Papaveretum 7.71mg dispersible tablets sugar free Dispersible tablet Oral Aspirin/ Papaveretum 500.000mg + 7.710mg,,,,,CPRD_AURUM
+9.33941E+14,Morphine sulfate 30mg suppositories Suppository Rectal Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+3.18024E+15,Co-dydramol 20mg/500mg tablets Tablet Oral Dihydrocodeine tartrate/ Paracetamol 20.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.16454E+15,Remedeine tablets (Crescent Pharma Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 20.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+7.85904E+15,Dypracet 20mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 20.000mg + 500.000mg,,,,,CPRD_AURUM
+7.85914E+15,Dypracet 30mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+1.15754E+15,Remedeine Forte tablets (Crescent Pharma Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.18014E+15,Co-dydramol 30mg/500mg tablets Tablet Oral Dihydrocodeine tartrate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+9.33841E+14,Morphine sulfate 15mg suppositories Suppository Rectal Morphine sulfate 15.000mg,4070200,,,,CPRD_AURUM
+9.34141E+14,Morphine sulfate 10mg suppositories Suppository Rectal Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+9.34241E+14,Morphine sulfate 20mg suppositories Suppository Rectal Morphine sulfate 20.000mg,4070200,,,,CPRD_AURUM
+9.34641E+14,Morphine hydrochloride 15mg suppositories Suppository Rectal Morphine hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.74241E+14,Buprenorphine 400microgram sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 400.000microgram,4070200,,,,CPRD_AURUM
+1.42864E+15,Temgesic 400microgram sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 400.000microgram,4070200,,,,CPRD_AURUM
+1.83554E+15,Subutex 0.4mg sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 400.000microgram,4100300,,,,CPRD_AURUM
+6.52744E+15,Prefibin 0.4mg sublingual tablets (Sandoz Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 400.000microgram,,,,,CPRD_AURUM
+6.52774E+15,Tephine 400microgram sublingual tablets (Sandoz Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 400.000microgram,,,,,CPRD_AURUM
+1.00457E+16,Gabup 0.4mg sublingual tablets (Martindale Pharmaceuticals Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 400.000microgram,,,,,CPRD_AURUM
+6.52714E+15,Prefibin 2mg sublingual tablets (Sandoz Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 2.000mg,,,,,CPRD_AURUM
+1.83564E+15,Subutex 2mg sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 2.000mg,4100300,,,,CPRD_AURUM
+1.83534E+15,Buprenorphine 2mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 2.000mg,4100300,,,,CPRD_AURUM
+1.00458E+16,Gabup 2mg sublingual tablets (Martindale Pharmaceuticals Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 2.000mg,,,,,CPRD_AURUM
+1.83544E+15,Buprenorphine 8mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 8.000mg,4100300,,,,CPRD_AURUM
+1.83574E+15,Subutex 8mg sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 8.000mg,4100300,,,,CPRD_AURUM
+6.52724E+15,Prefibin 8mg sublingual tablets (Sandoz Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 8.000mg,,,,,CPRD_AURUM
+1.00461E+16,Gabup 8mg sublingual tablets (Martindale Pharmaceuticals Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 8.000mg,,,,,CPRD_AURUM
+6.52764E+15,Tephine 200microgram sublingual tablets (Sandoz Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 200.000microgram,,,,,CPRD_AURUM
+1.42614E+15,Temgesic 200microgram sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 200.000microgram,4070200,,,,CPRD_AURUM
+1.72641E+14,Buprenorphine 200microgram sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 200.000microgram,4100000,,,,CPRD_AURUM
+4.66241E+14,Diamorphine 10mg tablets Tablet Oral Diamorphine hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+4.46141E+14,Diamorphine 10mg powder for solution for injection ampoules Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+4.46241E+14,Diamorphine 30mg powder for solution for injection ampoules Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 30.000mg,4070200,,,,CPRD_AURUM
+4.46041E+14,Diamorphine 100mg powder for solution for injection ampoules Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+4.48741E+14,Diamorphine 500mg powder for solution for injection ampoules Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 500.000mg,4070200,,,,CPRD_AURUM
+4.68541E+14,Dihydrocodeine 30mg tablets Tablet Oral Dihydrocodeine tartrate 30.000mg,4070200,,,,CPRD_AURUM
+4.68741E+14,Dihydrocodeine 60mg modified-release tablets Modified-release tablet Oral Dihydrocodeine tartrate 60.000mg,4070200,,,,CPRD_AURUM
+4.33341E+14,DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Dihydrocodeine tartrate 60.000mg,4070200,,,,CPRD_AURUM
+4.33541E+14,DHC Continus 90mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Dihydrocodeine tartrate 90.000mg,4070200,,,,CPRD_AURUM
+4.69541E+14,Dihydrocodeine 90mg modified-release tablets Modified-release tablet Oral Dihydrocodeine tartrate 90.000mg,4070200,,,,CPRD_AURUM
+4.69441E+14,Dihydrocodeine 120mg modified-release tablets Modified-release tablet Oral Dihydrocodeine tartrate 120.000mg,4070200,,,,CPRD_AURUM
+4.33441E+14,DHC Continus 120mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Dihydrocodeine tartrate 120.000mg,4070200,,,,CPRD_AURUM
+4.33141E+14,DF 118 Forte 40mg tablets (Martindale Pharmaceuticals Ltd) Tablet Oral Dihydrocodeine tartrate 40.000mg,4070200,,,,CPRD_AURUM
+4.62841E+14,Dihydrocodeine 40mg tablets Tablet Oral Dihydrocodeine tartrate 40.000mg,4070200,,,,CPRD_AURUM
+3.17964E+15,Dipipanone 10mg / Cyclizine 30mg tablets Tablet Oral Cyclizine hydrochloride/ Dipipanone hydrochloride 30.000mg + 10.000mg,4070200,,,,CPRD_AURUM
+4.70841E+14,Diconal tablets (Amdipharm Plc) Tablet Oral Cyclizine hydrochloride/ Dipipanone hydrochloride 30.000mg + 10.000mg,,,,,CPRD_AURUM
+1.08054E+15,Physeptone 5mg tablets (Martindale Pharmaceuticals Ltd) Tablet Oral Methadone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+8.97141E+14,Methadone 5mg tablets Tablet Oral Methadone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+1.04464E+15,Pentazocine 50mg capsules Capsule Oral Pentazocine hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.06804E+15,Pentazocine 25mg tablets Tablet Oral Pentazocine hydrochloride 25.000mg,4070200,,,,CPRD_AURUM
+6.09341E+14,Fortral 25mg tablets (Zentiva) Tablet Oral Pentazocine hydrochloride 25.000mg,4070200,,,,CPRD_AURUM
+6.07341E+14,Fortral 50mg suppositories (Sterwin Medicines) Suppository Rectal Pentazocine lactate 50.000mg,4070200,,,,CPRD_AURUM
+1.06314E+15,Pentazocine 50mg suppositories Suppository Rectal Pentazocine lactate 50.000mg,4070200,,,,CPRD_AURUM
+1.98714E+15,Oxycodone 5mg capsules Capsule Oral Oxycodone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+1.98804E+15,OxyNorm 5mg capsules (Napp Pharmaceuticals Ltd) Capsule Oral Oxycodone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+8.53734E+15,Lynlor 5mg capsules (Accord Healthcare Ltd) Capsule Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+9.06154E+15,Shortec 5mg capsules (Qdem Pharmaceuticals Ltd) Capsule Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.98814E+15,OxyNorm 10mg capsules (Napp Pharmaceuticals Ltd) Capsule Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+1.98724E+15,Oxycodone 10mg capsules Capsule Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+9.06164E+15,Shortec 10mg capsules (Qdem Pharmaceuticals Ltd) Capsule Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+8.53744E+15,Lynlor 10mg capsules (Accord Healthcare Ltd) Capsule Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.98734E+15,Oxycodone 20mg capsules Capsule Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+1.98824E+15,OxyNorm 20mg capsules (Napp Pharmaceuticals Ltd) Capsule Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+8.53754E+15,Lynlor 20mg capsules (Accord Healthcare Ltd) Capsule Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+9.06174E+15,Shortec 20mg capsules (Qdem Pharmaceuticals Ltd) Capsule Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.27854E+15,Sevredol 10mg tablets (Napp Pharmaceuticals Ltd) Tablet Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+9.36441E+14,Morphine 10mg tablets Tablet Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+9.39541E+14,Morphine 20mg tablets Tablet Oral Morphine sulfate 20.000mg,4070200,,,,CPRD_AURUM
+1.27864E+15,Sevredol 20mg tablets (Napp Pharmaceuticals Ltd) Tablet Oral Morphine sulfate 20.000mg,4070200,,,,CPRD_AURUM
+1.27664E+15,Sevredol 50mg tablets (Napp Pharmaceuticals Ltd) Tablet Oral Morphine sulfate 50.000mg,4070200,,,,CPRD_AURUM
+9.38241E+14,Morphine 50mg tablets Tablet Oral Morphine sulfate 50.000mg,4070200,,,,CPRD_AURUM
+1.48334E+15,Ultiva 1mg powder for solution for injection vials (Aspen Pharma Trading Ltd) Powder for solution for injection Intravenous Remifentanyl hydrochloride 1.000mg,15010403,,,,CPRD_AURUM
+1.16014E+15,Remifentanil 1mg powder for solution for injection vials Powder for solution for injection Intravenous Remifentanyl hydrochloride 1.000mg,15010403,,,,CPRD_AURUM
+1.16024E+15,Remifentanil 2mg powder for solution for injection vials Powder for solution for injection Intravenous Remifentanyl hydrochloride 2.000mg,15010403,,,,CPRD_AURUM
+1.48344E+15,Ultiva 2mg powder for solution for injection vials (Aspen Pharma Trading Ltd) Powder for solution for injection Intravenous Remifentanyl hydrochloride 2.000mg,15010403,,,,CPRD_AURUM
+1.48354E+15,Ultiva 5mg powder for solution for injection vials (Aspen Pharma Trading Ltd) Powder for solution for injection Intravenous Remifentanyl hydrochloride 5.000mg,15010403,,,,CPRD_AURUM
+1.16034E+15,Remifentanil 5mg powder for solution for injection vials Powder for solution for injection Intravenous Remifentanyl hydrochloride 5.000mg,15010403,,,,CPRD_AURUM
+4.59341E+14,Diamorphine hydrochloride powder Not applicable Route of administration not applicable Diamorphine hydrochloride 1.000mg/1.000mg,,,,,CPRD_AURUM
+3.96454E+15,Morphine sulfate 15mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 15.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.14692E+16,Fentanyl 40micrograms/dose transdermal system Transdermal system Transdermal Fentanyl 40.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+4.42574E+15,Ionsys 40micrograms/dose transdermal system (The Medicines Company UK Ltd) Transdermal system Transdermal Fentanyl 40.000microgram/1.000dose,,,,,CPRD_AURUM
+6.13234E+15,Palexia 75mg tablets (Grunenthal Ltd) Tablet Oral Tapentadol hydrochloride 75.000mg,4070200,,,,CPRD_AURUM
+6.13224E+15,Palexia 50mg tablets (Grunenthal Ltd) Tablet Oral Tapentadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+9.31741E+14,Morphine sulfate 10mg/5ml oral solution unit dose vials sugar free Oral solution Oral Morphine sulfate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.01444E+15,Oramorph 10mg/5ml oral solution unit dose vials (Boehringer Ingelheim Ltd) Oral solution Oral Morphine sulfate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.01454E+15,Oramorph 100mg/5ml oral solution unit dose vials (Boehringer Ingelheim Ltd) Oral solution Oral Morphine sulfate 20.000mg/1.000ml,,,,,CPRD_AURUM
+9.31841E+14,Morphine sulfate 100mg/5ml oral solution unit dose vials sugar free Oral solution Oral Morphine sulfate 20.000mg/1.000ml,,,,,CPRD_AURUM
+9.31941E+14,Morphine sulfate 30mg/5ml oral solution unit dose vials sugar free Oral solution Oral Morphine sulfate 6.000mg/1.000ml,,,,,CPRD_AURUM
+1.01464E+15,Oramorph 30mg/5ml oral solution unit dose vials (Boehringer Ingelheim Ltd) Oral solution Oral Morphine sulfate 6.000mg/1.000ml,,,,,CPRD_AURUM
+3.90441E+14,Cyclimorph 10 solution for injection 1ml ampoules (Advanz Pharma) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Cyclizine tartrate/ Morphine tartrate 50.000mg/1.000ml + 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.84014E+15,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Cyclizine tartrate/ Morphine tartrate 50.000mg/1.000ml + 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.84004E+15,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Cyclizine tartrate/ Morphine tartrate 50.000mg/1.000ml + 15.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.90541E+14,Cyclimorph 15 solution for injection 1ml ampoules (Advanz Pharma) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Cyclizine tartrate/ Morphine tartrate 50.000mg/1.000ml + 15.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.03484E+15,Pamergan P100 solution for injection 2ml ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Intravenous/ Intramuscular Pethidine hydrochloride/ Promethazine hydrochloride 50.000mg/1.000ml + 25.000mg/1.000ml,4070200,,,,CPRD_AURUM
+9.30041E+14,Morphine 100mg modified-release granules sachets sugar free Modified-release granules Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+9.40141E+14,MST Continus Suspension 100mg granules sachets (Napp Pharmaceuticals Ltd) Modified-release granules Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+9.40241E+14,MST Continus Suspension 200mg granules sachets (Napp Pharmaceuticals Ltd) Modified-release granules Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+9.30141E+14,Morphine 200mg modified-release granules sachets sugar free Modified-release granules Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+9.30241E+14,Morphine 60mg modified-release granules sachets sugar free Modified-release granules Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+9.40341E+14,MST Continus Suspension 60mg granules sachets (Napp Pharmaceuticals Ltd) Modified-release granules Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+2.09294E+15,Methadone hydrochloride powder Not applicable Route of administration not applicable Methadone hydrochloride 1.000mg/1.000mg,,,,,CPRD_AURUM
+9.40741E+14,MST Continus Suspension 20mg granules sachets (Napp Pharmaceuticals Ltd) Modified-release granules Oral Morphine sulfate 20.000mg,4070200,,,,CPRD_AURUM
+3.03284E+15,Morphine 20mg modified-release granules sachets sugar free Modified-release granules Oral Morphine sulfate 20.000mg,4070200,,,,CPRD_AURUM
+3.03294E+15,Morphine 30mg modified-release granules sachets sugar free Modified-release granules Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+9.40841E+14,MST Continus Suspension 30mg granules sachets (Napp Pharmaceuticals Ltd) Modified-release granules Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+1.04304E+15,Paramol tablets (SSL International Plc) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 7.460mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.03074E+15,Synastone 50mg/2ml solution for injection ampoules (Auden McKenzie (Pharma Division) Ltd) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Methadone hydrochloride 25.000mg/1.000ml,4100300,,,,CPRD_AURUM
+2.65934E+15,Methadone 50mg/2ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Methadone hydrochloride 25.000mg/1.000ml,4100300,,,,CPRD_AURUM
+5.83674E+15,Physeptone 50mg/2ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Methadone hydrochloride 25.000mg/1.000ml,,,,,CPRD_AURUM
+5.83664E+15,Physeptone 50mg/1ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Methadone hydrochloride 50.000mg/1.000ml,,,,,CPRD_AURUM
+8.83141E+14,Methadone 50mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Methadone hydrochloride 50.000mg/1.000ml,4100300,,,,CPRD_AURUM
+3.03064E+15,Synastone 50mg/1ml solution for injection ampoules (Auden McKenzie (Pharma Division) Ltd) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Methadone hydrochloride 50.000mg/1.000ml,4100300,,,,CPRD_AURUM
+3.85144E+15,Co-dydramol 10mg/500mg/5ml oral suspension Oral suspension Oral Dihydrocodeine tartrate/ Paracetamol 2.000mg/1.000ml + 100.000mg/1.000ml,,,,,CPRD_AURUM
+3.34364E+15,BuTrans 5micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.34334E+15,Buprenorphine 5micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.24095E+16,Busiete 5micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,,,,,CPRD_AURUM
+1.23257E+16,Bupramyl 5micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,,,,,CPRD_AURUM
+1.26034E+16,Bunov 5micrograms/hour transdermal patches (Glenmark Pharmaceuticals Europe Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,,,,,CPRD_AURUM
+1.10293E+16,Butec 5micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17325E+16,Reletrans 5micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17309E+16,Panitaz 5micrograms/hour transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17562E+16,Sevodyne 5micrograms/hour transdermal patches (Aspire Pharma Ltd) Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.34354E+15,Buprenorphine 20micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.34384E+15,BuTrans 20micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17564E+16,Sevodyne 20micrograms/hour transdermal patches (Aspire Pharma Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17308E+16,Panitaz 20micrograms/hour transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17324E+16,Reletrans 20micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.10295E+16,Butec 20micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.26033E+16,Bunov 20micrograms/hour transdermal patches (Glenmark Pharmaceuticals Europe Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,,,,,CPRD_AURUM
+1.2326E+16,Bupramyl 20micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,,,,,CPRD_AURUM
+1.24097E+16,Busiete 20micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,,,,,CPRD_AURUM
+3.34344E+15,Buprenorphine 10micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.34374E+15,BuTrans 10micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.24096E+16,Busiete 10micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,,,,,CPRD_AURUM
+1.23259E+16,Bupramyl 10micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,,,,,CPRD_AURUM
+1.26032E+16,Bunov 10micrograms/hour transdermal patches (Glenmark Pharmaceuticals Europe Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,,,,,CPRD_AURUM
+1.10294E+16,Butec 10micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17322E+16,Reletrans 10micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17307E+16,Panitaz 10micrograms/hour transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17563E+16,Sevodyne 10micrograms/hour transdermal patches (Aspire Pharma Ltd) Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.06004E+15,Morphine sulfate 10mg/10ml solution for injection Minijet pre-filled syringes (UCB Pharma Ltd) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 1.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.05994E+15,Morphine sulfate 10mg/10ml solution for injection pre-filled syringes Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 1.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.83944E+15,Durogesic DTrans 12micrograms/hour transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+3.83934E+15,Fentanyl 12micrograms/hour transdermal patches Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+4.02264E+15,Matrifen 12micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+4.38664E+15,Mezolar Matrix 12micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+5.30044E+15,Osmanil 12micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+6.44074E+15,Fencino 12micrograms/hour transdermal patches (Ethypharm UK Ltd) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+1.15076E+16,Victanyl 12micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+1.05982E+16,Yemex 12micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+9.20434E+15,Mylafent 12micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+8.88444E+15,Opiodur 12micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 12.000microgram/1.000hour,,,,,CPRD_AURUM
+3.99824E+15,Morphine sulfate 100mg/50ml solution for infusion vials Solution for infusion Intravenous Morphine sulfate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.06742E+16,Morphine sulfate 50mg/50ml solution for infusion vials Solution for infusion Intravenous Morphine sulfate 1.000mg/1.000ml,,,,,CPRD_AURUM
+4.01084E+15,Suboxone 2mg/500microgram sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 2.000mg + 500.000microgram,4100300,,,,CPRD_AURUM
+4.01064E+15,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 2.000mg + 500.000microgram,4100300,,,,CPRD_AURUM
+4.01074E+15,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 8.000mg + 2.000mg,4100300,,,,CPRD_AURUM
+4.01094E+15,Suboxone 8mg/2mg sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 8.000mg + 2.000mg,4100300,,,,CPRD_AURUM
+5.96674E+15,Diamorphine 25mg/5ml oral solution Oral solution Oral Diamorphine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
+4.51141E+14,Diamorphine 3mg/5ml oral solution Oral solution Oral Diamorphine hydrochloride 600.000microgram/1.000ml,,,,,CPRD_AURUM
+4.26824E+15,Eptadone 5mg/ml oral solution (Dee Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
+7.85994E+15,Morphine hydrochloride 10mg/5ml oral solution Oral solution Oral Morphine hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
+4.43424E+15,Morphine sulfate 5mg/5ml oral solution Oral solution Oral Morphine sulfate 1.000mg/1.000ml,,,,,CPRD_AURUM
+6.06764E+15,Methadone 100mg capsules Capsule Oral Methadone hydrochloride 100.000mg,,,,,CPRD_AURUM
+5.00884E+15,Methadone 30mg capsules Capsule Oral Methadone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.06459E+16,Morphine sulfate 5mg/5ml solution for injection ampoules Solution for injection Intravenous Morphine sulfate 1.000mg/1.000ml,,,,,CPRD_AURUM
+5.89124E+15,Co-dydramol 10mg/500mg/5ml oral solution Oral solution Oral Dihydrocodeine tartrate/ Paracetamol 2.000mg/1.000ml + 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.03524E+15,Papaveretum 15.4mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Papaveretum 15.400mg/1.000ml,4070200,,,,CPRD_AURUM
+1.03584E+15,Papaveretum 7.7mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Papaveretum 7.700mg/1.000ml,,,,,CPRD_AURUM
+9.77834E+15,Alfentanil 0.1% nasal spray Spray Nasal/ Oromucosal Alfentanil hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+4.89374E+15,Abstral 100microgram sublingual tablets (Kyowa Kirin Ltd) Sublingual tablet Sublingual Fentanyl citrate 100.000microgram,,,,,CPRD_AURUM
+4.89314E+15,Fentanyl 100microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 100.000microgram,,,,,CPRD_AURUM
+4.89324E+15,Fentanyl 200microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 200.000microgram,,,,,CPRD_AURUM
+4.89384E+15,Abstral 200microgram sublingual tablets (Kyowa Kirin Ltd) Sublingual tablet Sublingual Fentanyl citrate 200.000microgram,,,,,CPRD_AURUM
+4.89334E+15,Fentanyl 300microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 300.000microgram,,,,,CPRD_AURUM
+4.89394E+15,Abstral 300microgram sublingual tablets (Kyowa Kirin Ltd) Sublingual tablet Sublingual Fentanyl citrate 300.000microgram,,,,,CPRD_AURUM
+4.89344E+15,Fentanyl 400microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+4.89404E+15,Abstral 400microgram sublingual tablets (Kyowa Kirin Ltd) Sublingual tablet Sublingual Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+9.17864E+15,Recivit 400microgram sublingual tablets (Grunenthal Ltd) Sublingual tablet Sublingual Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+4.89414E+15,Abstral 600microgram sublingual tablets (Kyowa Kirin Ltd) Sublingual tablet Sublingual Fentanyl citrate 600.000microgram,,,,,CPRD_AURUM
+4.89354E+15,Fentanyl 600microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 600.000microgram,,,,,CPRD_AURUM
+4.89364E+15,Fentanyl 800microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+4.89424E+15,Abstral 800microgram sublingual tablets (Kyowa Kirin Ltd) Sublingual tablet Sublingual Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+9.17884E+15,Recivit 800microgram sublingual tablets (Grunenthal Ltd) Sublingual tablet Sublingual Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+4.90714E+15,Effentora 100microgram buccal tablets (Teva UK Ltd) Buccal tablet Buccal Fentanyl citrate 100.000microgram,4070200,,,,CPRD_AURUM
+4.90644E+15,Fentanyl 100microgram buccal tablets sugar free Buccal tablet Buccal Fentanyl citrate 100.000microgram,4070200,,,,CPRD_AURUM
+4.90654E+15,Fentanyl 200microgram buccal tablets sugar free Buccal tablet Buccal Fentanyl citrate 200.000microgram,4070200,,,,CPRD_AURUM
+4.90724E+15,Effentora 200microgram buccal tablets (Teva UK Ltd) Buccal tablet Buccal Fentanyl citrate 200.000microgram,4070200,,,,CPRD_AURUM
+4.90734E+15,Effentora 400microgram buccal tablets (Teva UK Ltd) Buccal tablet Buccal Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+4.90664E+15,Fentanyl 400microgram buccal tablets sugar free Buccal tablet Buccal Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+4.90674E+15,Fentanyl 600microgram buccal tablets sugar free Buccal tablet Buccal Fentanyl citrate 600.000microgram,4070200,,,,CPRD_AURUM
+4.90744E+15,Effentora 600microgram buccal tablets (Teva UK Ltd) Buccal tablet Buccal Fentanyl citrate 600.000microgram,4070200,,,,CPRD_AURUM
+4.90684E+15,Fentanyl 800microgram buccal tablets sugar free Buccal tablet Buccal Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+4.90754E+15,Effentora 800microgram buccal tablets (Teva UK Ltd) Buccal tablet Buccal Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+4.89814E+15,Oxycodone 10mg / Naloxone 5mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 5.000mg + 10.000mg,4070200,,,,CPRD_AURUM
+4.89844E+15,Targinact 10mg/5mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 5.000mg + 10.000mg,4070200,,,,CPRD_AURUM
+4.89834E+15,Targinact 20mg/10mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 10.000mg + 20.000mg,4070200,,,,CPRD_AURUM
+4.89824E+15,Oxycodone 20mg / Naloxone 10mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 10.000mg + 20.000mg,4070200,,,,CPRD_AURUM
+5.05584E+15,Morphine sulfate 10mg/1ml suspension for injection vials Suspension for injection Epidural Morphine sulfate 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.05594E+15,Depodur 10mg/1ml suspension for injection vials (Flynn Pharma Ltd) Suspension for injection Epidural Morphine sulfate 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.13154E+15,OxyNorm 50mg/1ml solution for injection ampoules (Napp Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 50.000mg/1.000ml,,,,,CPRD_AURUM
+5.13144E+15,Oxycodone 50mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.21869E+16,Shortec 50mg/1ml solution for injection ampoules (Qdem Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 50.000mg/1.000ml,,,,,CPRD_AURUM
+5.23454E+15,Targinact 40mg/20mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 20.000mg + 40.000mg,4070200,,,,CPRD_AURUM
+5.23434E+15,Oxycodone 40mg / Naloxone 20mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 20.000mg + 40.000mg,4070200,,,,CPRD_AURUM
+5.23424E+15,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 2.500mg + 5.000mg,4070200,,,,CPRD_AURUM
+5.23444E+15,Targinact 5mg/2.5mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 2.500mg + 5.000mg,4070200,,,,CPRD_AURUM
+5.29984E+15,Fentanyl 100micrograms/dose nasal spray Spray Nasal Fentanyl citrate 100.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.30014E+15,Instanyl 100micrograms/dose nasal spray (Takeda UK Ltd) Spray Nasal Fentanyl citrate 100.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.99244E+15,PecFent 100micrograms/dose nasal spray (Kyowa Kirin Ltd) Spray Nasal Fentanyl citrate 100.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.30024E+15,Instanyl 200micrograms/dose nasal spray (Takeda UK Ltd) Spray Nasal Fentanyl citrate 200.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.29994E+15,Fentanyl 200micrograms/dose nasal spray Spray Nasal Fentanyl citrate 200.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.29974E+15,Fentanyl 50micrograms/dose nasal spray Spray Nasal Fentanyl citrate 50.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.30004E+15,Instanyl 50micrograms/dose nasal spray (Takeda UK Ltd) Spray Nasal Fentanyl citrate 50.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.31994E+15,Diamorphine 100mg powder for solution for injection vials Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 100.000mg,,,,,CPRD_AURUM
+5.31954E+15,Diamorphine 10mg powder for solution for injection vials Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 10.000mg,,,,,CPRD_AURUM
+5.31964E+15,Diamorphine 30mg powder for solution for injection vials Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 30.000mg,,,,,CPRD_AURUM
+5.31974E+15,Diamorphine 500mg powder for solution for injection vials Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 500.000mg,,,,,CPRD_AURUM
+5.31984E+15,Diamorphine 5mg powder for solution for injection vials Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 5.000mg,,,,,CPRD_AURUM
+8.12684E+15,Bufyl 1mg/ml and 2micrograms/ml 250ml infusion bags (Advanz Pharma) Solution for infusion Epidural Bupivacaine hydrochloride/ Fentanyl 1.000mg/1.000ml + 2.000microgram/1.000ml,15020000,,,,CPRD_AURUM
+8.12674E+15,Bufyl 1mg/ml and 2micrograms/ml 500ml infusion bags (Advanz Pharma) Solution for infusion Epidural Bupivacaine hydrochloride/ Fentanyl 1.000mg/1.000ml + 2.000microgram/1.000ml,15020000,,,,CPRD_AURUM
+5.99234E+15,PecFent 400micrograms/dose nasal spray (Kyowa Kirin Ltd) Spray Nasal Fentanyl citrate 400.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+5.99214E+15,Fentanyl 400micrograms/dose nasal spray Spray Nasal Fentanyl citrate 400.000microgram/1.000dose,4070200,,,,CPRD_AURUM
+6.12534E+15,Oxycodone 120mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 120.000mg,,,,,CPRD_AURUM
+6.12574E+15,OxyContin 120mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 120.000mg,,,,,CPRD_AURUM
+1.04922E+16,Longtec 120mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 120.000mg,,,,,CPRD_AURUM
+6.13394E+15,Palexia SR 100mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tapentadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+6.13404E+15,Palexia SR 150mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tapentadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+6.13414E+15,Palexia SR 200mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tapentadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+6.13424E+15,Palexia SR 250mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tapentadol hydrochloride 250.000mg,4070200,,,,CPRD_AURUM
+6.13384E+15,Palexia SR 50mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tapentadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+4.81554E+15,Methadone 5mg capsules Capsule Oral Methadone hydrochloride 5.000mg,,,,,CPRD_AURUM
+8.12664E+15,Bufyl 1.25mg/ml and 2micrograms/ml 250ml infusion bags (Advanz Pharma) Solution for infusion Epidural Bupivacaine hydrochloride/ Fentanyl citrate 1.250mg/1.000ml + 2.000microgram/1.000ml,,,,,CPRD_AURUM
+8.12654E+15,Bufyl 1.25mg/ml and 2micrograms/ml 500ml infusion bags (Advanz Pharma) Solution for infusion Epidural Bupivacaine hydrochloride/ Fentanyl citrate 1.250mg/1.000ml + 2.000microgram/1.000ml,,,,,CPRD_AURUM
+1.06461E+16,Morphine sulfate 10mg/10ml solution for injection ampoules Solution for injection Intravenous Morphine sulfate 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.24279E+16,Morphine sulfate 1mg/1ml solution for injection ampoules Solution for injection Intravenous Morphine sulfate 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.02112E+16,Fentanyl 2.5mg/50ml solution for infusion vials Solution for infusion Intravenous Fentanyl citrate 50.000microgram/1.000ml,,,,,CPRD_AURUM
+1.14447E+16,Morphine 0.1% in Intrasite gel Gel Route of administration not applicable Morphine sulfate 1.000mg/1.000ml,,,,,CPRD_AURUM
+8.88394E+15,Breakyl 200microgram buccal films (Meda Pharmaceuticals Ltd) Buccal film Buccal Fentanyl citrate 200.000microgram,4070200,,,,CPRD_AURUM
+8.88364E+15,Fentanyl 200microgram buccal films sugar free Buccal film Buccal Fentanyl citrate 200.000microgram,4070200,,,,CPRD_AURUM
+8.88374E+15,Fentanyl 400microgram buccal films sugar free Buccal film Buccal Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+8.88404E+15,Breakyl 400microgram buccal films (Meda Pharmaceuticals Ltd) Buccal film Buccal Fentanyl citrate 400.000microgram,4070200,,,,CPRD_AURUM
+8.88414E+15,Breakyl 800microgram buccal films (Meda Pharmaceuticals Ltd) Buccal film Buccal Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+8.88384E+15,Fentanyl 800microgram buccal films sugar free Buccal film Buccal Fentanyl citrate 800.000microgram,4070200,,,,CPRD_AURUM
+8.96224E+15,Fentanyl 37.5microgram/hour transdermal patches Transdermal patch Transdermal Fentanyl 37.500microgram/1.000hour,,,,,CPRD_AURUM
+8.96234E+15,Mezolar Matrix 37.5microgram/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 37.500microgram/1.000hour,,,,,CPRD_AURUM
+1.00441E+16,Morphine 0.2% in Intrasite gel Gel Route of administration not applicable Morphine sulfate 2.000mg/1.000ml,,,,,CPRD_AURUM
+9.16024E+15,Palexia 20mg/ml oral solution (Grunenthal Ltd) Oral solution Oral Tapentadol hydrochloride 20.000mg/1.000ml,4070200,,,,CPRD_AURUM
+9.17814E+15,Fentanyl 133microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 133.000microgram,4070200,,,,CPRD_AURUM
+9.17844E+15,Recivit 133microgram sublingual tablets (Grunenthal Ltd) Sublingual tablet Sublingual Fentanyl citrate 133.000microgram,4070200,,,,CPRD_AURUM
+9.17854E+15,Recivit 267microgram sublingual tablets (Grunenthal Ltd) Sublingual tablet Sublingual Fentanyl citrate 267.000microgram,4070200,,,,CPRD_AURUM
+9.17824E+15,Fentanyl 267microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 267.000microgram,4070200,,,,CPRD_AURUM
+9.17834E+15,Fentanyl 533microgram sublingual tablets sugar free Sublingual tablet Sublingual Fentanyl citrate 533.000microgram,4070200,,,,CPRD_AURUM
+9.17874E+15,Recivit 533microgram sublingual tablets (Grunenthal Ltd) Sublingual tablet Sublingual Fentanyl citrate 533.000microgram,4070200,,,,CPRD_AURUM
+1.00452E+16,Buprenorphine 1mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 1.000mg,,,,,CPRD_AURUM
+1.00455E+16,Gabup 1mg sublingual tablets (Martindale Pharmaceuticals Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 1.000mg,,,,,CPRD_AURUM
+1.00459E+16,Gabup 4mg sublingual tablets (Martindale Pharmaceuticals Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 4.000mg,,,,,CPRD_AURUM
+1.00456E+16,Buprenorphine 4mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 4.000mg,,,,,CPRD_AURUM
+1.00454E+16,Buprenorphine 6mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride 6.000mg,,,,,CPRD_AURUM
+1.0046E+16,Gabup 6mg sublingual tablets (Martindale Pharmaceuticals Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride 6.000mg,,,,,CPRD_AURUM
+1.04879E+16,Diamorphine 1.6mg/dose nasal spray Spray Nasal Diamorphine hydrochloride 1.600mg/1.000dose,,,,,CPRD_AURUM
+1.04881E+16,Ayendi 1600micrograms/actuation nasal spray (Wockhardt UK Ltd) Spray Nasal Diamorphine hydrochloride 1.600mg/1.000dose,,,,,CPRD_AURUM
+1.0488E+16,Ayendi 720micrograms/actuation nasal spray (Wockhardt UK Ltd) Spray Nasal Diamorphine hydrochloride 720.000microgram/1.000dose,,,,,CPRD_AURUM
+1.04878E+16,Diamorphine 720micrograms/dose nasal spray Spray Nasal Diamorphine hydrochloride 720.000microgram/1.000dose,,,,,CPRD_AURUM
+1.10772E+16,BuTrans 15micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 15.000microgram/1.000hour,,,,,CPRD_AURUM
+1.1077E+16,Buprenorphine 15micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 15.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17323E+16,Reletrans 15micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 15.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.21068E+16,Butec 15micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 15.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17078E+16,Buprenorphine 16mg / Naloxone 4mg sublingual tablets sugar free Sublingual tablet Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 16.000mg + 4.000mg,,,,,CPRD_AURUM
+1.17079E+16,Suboxone 16mg/4mg sublingual tablets (Indivior UK Ltd) Sublingual tablet Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 16.000mg + 4.000mg,,,,,CPRD_AURUM
+1.92404E+15,Morphine 30mg modified-release capsules Modified-release capsule Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+2.91224E+15,Morphgesic SR 30mg tablets (Advanz Pharma) Modified-release tablet Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+9.41141E+14,MST Continus 30mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+2.75344E+15,Filnarine SR 30mg tablets (Teva UK Ltd) Modified-release tablet Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+9.36641E+14,Morphine 30mg modified-release tablets Modified-release tablet Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+9.30941E+14,Morcap SR 50mg capsules (Hospira UK Ltd) Modified-release capsule Oral Morphine sulfate 50.000mg,,,,,CPRD_AURUM
+2.06884E+15,Morphine 50mg modified-release capsules Modified-release capsule Oral Morphine sulfate 50.000mg,,,,,CPRD_AURUM
+9.40441E+14,MST Continus 5mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 5.000mg,4070200,,,,CPRD_AURUM
+9.30341E+14,Morphine 5mg modified-release tablets Modified-release tablet Oral Morphine sulfate 5.000mg,4070200,,,,CPRD_AURUM
+1.98254E+15,Oxycodone 80mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,4070200,,,,CPRD_AURUM
+1.17893E+16,Espranor 2mg oral lyophilisates (Martindale Pharmaceuticals Ltd) Oral lyophilisate Oromucosal Buprenorphine hydrochloride 2.000mg,4100300,,,,CPRD_AURUM
+1.17891E+16,Buprenorphine 2mg oral lyophilisates sugar free Oral lyophilisate Oromucosal Buprenorphine hydrochloride 2.000mg,4100300,,,,CPRD_AURUM
+1.17892E+16,Buprenorphine 8mg oral lyophilisates sugar free Oral lyophilisate Oromucosal Buprenorphine hydrochloride 8.000mg,4100300,,,,CPRD_AURUM
+1.17894E+16,Espranor 8mg oral lyophilisates (Martindale Pharmaceuticals Ltd) Oral lyophilisate Oromucosal Buprenorphine hydrochloride 8.000mg,4100300,,,,CPRD_AURUM
+4.46341E+14,Diamorphine 5mg powder for solution for injection ampoules Powder for solution for injection Subcutaneous/ Intravenous/ Intramuscular Diamorphine hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+3.86784E+15,Rapifen 1mg/2ml solution for injection ampoules (Piramal Critical Care Ltd) Solution for injection Intravenous Alfentanil hydrochloride 500.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+3.86764E+15,Alfentanil 1mg/2ml solution for injection ampoules Solution for injection Intravenous Alfentanil hydrochloride 500.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+3.86794E+15,Rapifen 5mg/10ml solution for injection ampoules (Piramal Critical Care Ltd) Solution for injection Intravenous Alfentanil hydrochloride 500.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+3.86774E+15,Alfentanil 5mg/10ml solution for injection ampoules Solution for injection Intravenous Alfentanil hydrochloride 500.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+1.15164E+15,Rapifen Intensive Care 5mg/1ml solution for injection ampoules (Piramal Critical Care Ltd) Solution for injection Intravenous Alfentanil hydrochloride 5.000mg/1.000ml,15010403,,,,CPRD_AURUM
+3.1741E+13,Alfentanil 5mg/1ml solution for injection ampoules Solution for injection Intravenous Alfentanil hydrochloride 5.000mg/1.000ml,15010403,,,,CPRD_AURUM
+2.92274E+15,Temgesic 300micrograms/1ml solution for injection ampoules (Indivior UK Ltd) Solution for injection Intravenous/ Intramuscular Buprenorphine hydrochloride 300.000microgram/1.000ml,4070200,,,,CPRD_AURUM
+2.92264E+15,Buprenorphine 300micrograms/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Buprenorphine hydrochloride 300.000microgram/1.000ml,4100000,,,,CPRD_AURUM
+2.73784E+15,Transtec 35micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+2.73754E+15,Buprenorphine 35micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.24284E+16,Turgeon 35micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,,,,,CPRD_AURUM
+1.26035E+16,Carlosafine 35micrograms/hour transdermal patches (Glenmark Pharmaceuticals Europe Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,,,,,CPRD_AURUM
+1.21949E+16,Relevtec 35micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17806E+16,Buplast 35micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.15079E+16,Prenotrix 35micrograms/hour transdermal patches (Genesis Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.14843E+16,Bupeaze 35micrograms/hour transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+8.88274E+15,Hapoctasin 35micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Buprenorphine 35.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+2.73794E+15,Transtec 52.5micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+8.88284E+15,Hapoctasin 52.5micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.14844E+16,Bupeaze 52.5micrograms/hour transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.15771E+16,Prenotrix 52.5micrograms/hour transdermal patches (Genesis Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17807E+16,Buplast 52.5micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.2195E+16,Relevtec 52.5micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.26036E+16,Carlosafine 52.5micrograms/hour transdermal patches (Glenmark Pharmaceuticals Europe Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,,,,,CPRD_AURUM
+1.24285E+16,Turgeon 52.5micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,,,,,CPRD_AURUM
+2.73764E+15,Buprenorphine 52.5micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 52.500microgram/1.000hour,4070200,,,,CPRD_AURUM
+2.73804E+15,Transtec 70micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+2.73774E+15,Buprenorphine 70micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.24286E+16,Turgeon 70micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,,,,,CPRD_AURUM
+1.26037E+16,Carlosafine 70micrograms/hour transdermal patches (Glenmark Pharmaceuticals Europe Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,,,,,CPRD_AURUM
+1.21951E+16,Relevtec 70micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.17808E+16,Buplast 70micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.15772E+16,Prenotrix 70micrograms/hour transdermal patches (Genesis Pharmaceuticals Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.14845E+16,Bupeaze 70micrograms/hour transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+8.88294E+15,Hapoctasin 70micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Buprenorphine 70.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.31187E+16,Morphine (Opium tincture) 10mg/ml oral drops sugar free Oral drops/ Oral solution Oral Morphine anhydrous 10.000mg/1.000ml,,,,,CPRD_AURUM
+1.31188E+16,Dropizol 10mg/ml oral drops (S.L.A. Pharma (UK) Ltd) Oral drops/ Oral solution Oral Morphine anhydrous 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.83684E+15,Papaveretum 15.4mg/1ml / Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Hyoscine hydrobromide/ Papaveretum 400.000microgram/1.000ml + 15.400mg/1.000ml,4070200,,,,CPRD_AURUM
+2.94414E+15,Fortral 30mg/1ml solution for injection ampoules (Zentiva) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Pentazocine lactate 30.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.94424E+15,Pentazocine 30mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Pentazocine lactate 30.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.94434E+15,Fortral 60mg/2ml solution for injection ampoules (Zentiva) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Pentazocine lactate 30.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.05164E+15,Pentazocine 60mg/2ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Pentazocine lactate 30.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.06924E+15,Physeptone 50mg/5ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.66144E+15,Synastone 50mg/5ml solution for injection ampoules (Auden McKenzie (Pharma Division) Ltd) Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
+1.97784E+15,Methadone 50mg/5ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.65444E+15,Methadose diluent oral solution sugar free (Rosemont Pharmaceuticals Ltd) Oral solution Oral  ,,,,,CPRD_AURUM
+4.50641E+14,Dihydrocodeine 50mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Dihydrocodeine tartrate 50.000mg/1.000ml,4070200,,,,CPRD_AURUM
+4.42841E+14,Dihydrocodeine 10mg/5ml oral solution Oral solution Oral Dihydrocodeine tartrate 2.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.92524E+15,Sublimaze 100micrograms/2ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intravenous/ Intramuscular Fentanyl citrate 50.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+2.92514E+15,Fentanyl 100micrograms/2ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Fentanyl citrate 50.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+4.90241E+14,Durogesic 100micrograms transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.24834E+15,Durogesic DTrans 100micrograms/hour transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+3.33314E+15,Tilofyl 100micrograms/hour transdermal patches (Tillomed Laboratories Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+4.42604E+15,Fentalis Reservoir 100micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+4.38694E+15,Mezolar Matrix 100micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+4.50314E+15,Osmach 100micrograms/hour transdermal patches (Ratiopharm UK Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+4.02304E+15,Matrifen 100micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+5.00734E+15,Victanyl 100micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+4.95634E+15,Osmanil 100micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+6.44114E+15,Fencino 100micrograms/hour transdermal patches (Ethypharm UK Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+5.74941E+14,Fentanyl 100micrograms/hour transdermal patches Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+9.20464E+15,Mylafent 100micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+1.05978E+16,Yemex 100micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+8.88434E+15,Opiodur 100micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 100.000microgram/1.000hour,,,,,CPRD_AURUM
+6.44084E+15,Fencino 25micrograms/hour transdermal patches (Ethypharm UK Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+4.95604E+15,Osmanil 25micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+5.00744E+15,Victanyl 25micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+4.02274E+15,Matrifen 25micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+4.50284E+15,Osmach 25micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+4.42634E+15,Fentalis Reservoir 25micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+4.38704E+15,Mezolar Matrix 25micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+3.33304E+15,Tilofyl 25micrograms/hour transdermal patches (Tillomed Laboratories Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+3.24804E+15,Durogesic DTrans 25micrograms/hour transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+4.90341E+14,Durogesic 25micrograms transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+8.88454E+15,Opiodur 25micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+1.05981E+16,Yemex 25micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+1.03368E+16,Mylafent 25micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,,,,,CPRD_AURUM
+5.75041E+14,Fentanyl 25micrograms/hour transdermal patches Transdermal patch Transdermal Fentanyl 25.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+1.39134E+15,Sublimaze 500micrograms/10ml solution for injection ampoules (Piramal Critical Care Ltd) Solution for injection Intravenous/ Intramuscular Fentanyl citrate 50.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+5.67341E+14,Fentanyl 500micrograms/10ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Fentanyl citrate 50.000microgram/1.000ml,15010403,,,,CPRD_AURUM
+4.90441E+14,Durogesic 50micrograms transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+3.24814E+15,Durogesic DTrans 50micrograms/hour transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+3.33294E+15,Tilofyl 50micrograms/hour transdermal patches (Tillomed Laboratories Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+4.38674E+15,Mezolar Matrix 50micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+4.42624E+15,Fentalis Reservoir 50micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+4.50294E+15,Osmach 50micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+4.02284E+15,Matrifen 50micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+5.00754E+15,Victanyl 50micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+4.95614E+15,Osmanil 50micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+6.44094E+15,Fencino 50micrograms/hour transdermal patches (Ethypharm UK Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+5.75141E+14,Fentanyl 50micrograms/hour transdermal patches Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+9.20444E+15,Mylafent 50micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+1.0598E+16,Yemex 50micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+8.88464E+15,Opiodur 50micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 50.000microgram/1.000hour,,,,,CPRD_AURUM
+6.44104E+15,Fencino 75micrograms/hour transdermal patches (Ethypharm UK Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+4.95624E+15,Osmanil 75micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+5.00724E+15,Victanyl 75micrograms/hour transdermal patches (Accord Healthcare Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+4.02294E+15,Matrifen 75micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+4.50304E+15,Osmach 75micrograms/hour transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+4.42614E+15,Fentalis Reservoir 75micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+4.38684E+15,Mezolar Matrix 75micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+3.33284E+15,Tilofyl 75micrograms/hour transdermal patches (Tillomed Laboratories Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+3.24824E+15,Durogesic DTrans 75micrograms/hour transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+4.90541E+14,Durogesic 75micrograms transdermal patches (Janssen-Cilag Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+8.88474E+15,Opiodur 75micrograms/hour transdermal patches (Zentiva) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+1.05979E+16,Yemex 75micrograms/hour transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+9.20454E+15,Mylafent 75micrograms/hour transdermal patches (Mylan) Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,,,,,CPRD_AURUM
+5.75241E+14,Fentanyl 75micrograms/hour transdermal patches Transdermal patch Transdermal Fentanyl 75.000microgram/1.000hour,4070200,,,,CPRD_AURUM
+2.06934E+15,Physeptone 10mg/1ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.66114E+15,Synastone 10mg/1ml solution for injection ampoules (Auden McKenzie (Pharma Division) Ltd) Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.06944E+15,Methadone 10mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.65574E+15,Methadose 10mg/ml oral solution concentrate (Rosemont Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 10.000mg/1.000ml,4100300,,,,CPRD_AURUM
+1.65594E+15,Methadone 10mg/ml oral solution sugar free Oral solution Oral Methadone hydrochloride 10.000mg/1.000ml,4100300,,,,CPRD_AURUM
+2.95724E+15,Physeptone 1mg/ml mixture (Martindale Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+4.26814E+15,Eptadone 1mg/ml oral solution (Dee Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+8.88541E+14,Methadone 1mg/ml oral solution Oral solution Oral Methadone hydrochloride 1.000mg/1.000ml,4100300,,,,CPRD_AURUM
+2.10394E+15,Metharose 1mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 1.000mg/1.000ml,4100300,,,,CPRD_AURUM
+2.95714E+15,Physeptone 1mg/ml oral solution sugar free (Martindale Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 1.000mg/1.000ml,4100300,,,,CPRD_AURUM
+2.00304E+15,Methadone 1mg/ml oral solution sugar free Oral solution Oral Methadone hydrochloride 1.000mg/1.000ml,4100300,,,,CPRD_AURUM
+2.06904E+15,Physeptone 20mg/2ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.97754E+15,Methadone 20mg/2ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.65584E+15,Methadose 20mg/ml oral solution concentrate (Rosemont Pharmaceuticals Ltd) Oral solution Oral Methadone hydrochloride 20.000mg/1.000ml,4100300,,,,CPRD_AURUM
+1.65604E+15,Methadone 20mg/ml oral solution sugar free Oral solution Oral Methadone hydrochloride 20.000mg/1.000ml,4100300,,,,CPRD_AURUM
+8.87841E+14,Methadone 2mg/5ml linctus Oral solution Oral Methadone hydrochloride 400.000microgram/1.000ml,3090100,,,,CPRD_AURUM
+2.06914E+15,Physeptone 35mg/3.5ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.97764E+15,Methadone 35mg/3.5ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Methadone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+9.44341E+14,MXL 30mg capsules (Napp Pharmaceuticals Ltd) Modified-release capsule Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+9.30741E+14,Morcap SR 100mg capsules (Hospira UK Ltd) Modified-release capsule Oral Morphine sulfate 100.000mg,,,,,CPRD_AURUM
+1.56124E+15,Zomorph 100mg modified-release capsules (Ethypharm UK Ltd) Modified-release capsule Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+1.92424E+15,Morphine 100mg modified-release capsules Modified-release capsule Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+2.91244E+15,Morphgesic SR 100mg tablets (Advanz Pharma) Modified-release tablet Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+9.41041E+14,MST Continus 100mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+2.75364E+15,Filnarine SR 100mg tablets (Teva UK Ltd) Modified-release tablet Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+9.36541E+14,Morphine 100mg modified-release tablets Modified-release tablet Oral Morphine sulfate 100.000mg,4070200,,,,CPRD_AURUM
+1.56114E+15,Zomorph 10mg modified-release capsules (Ethypharm UK Ltd) Modified-release capsule Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+1.92394E+15,Morphine 10mg modified-release capsules Modified-release capsule Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+2.91214E+15,Morphgesic SR 10mg tablets (Advanz Pharma) Modified-release tablet Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+9.40941E+14,MST Continus 10mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+2.75334E+15,Filnarine SR 10mg tablets (Teva UK Ltd) Modified-release tablet Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+9.29741E+14,Morphine 10mg modified-release tablets Modified-release tablet Oral Morphine sulfate 10.000mg,4070200,,,,CPRD_AURUM
+9.44041E+14,MXL 120mg capsules (Napp Pharmaceuticals Ltd) Modified-release capsule Oral Morphine sulfate 120.000mg,4070200,,,,CPRD_AURUM
+2.06854E+15,Morphine 120mg modified-release capsules Modified-release capsule Oral Morphine sulfate 120.000mg,4070200,,,,CPRD_AURUM
+9.44141E+14,MXL 150mg capsules (Napp Pharmaceuticals Ltd) Modified-release capsule Oral Morphine sulfate 150.000mg,4070200,,,,CPRD_AURUM
+2.06864E+15,Morphine 150mg modified-release capsules Modified-release capsule Oral Morphine sulfate 150.000mg,4070200,,,,CPRD_AURUM
+9.40041E+14,MST Continus 15mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 15.000mg,4070200,,,,CPRD_AURUM
+9.29941E+14,Morphine 15mg modified-release tablets Modified-release tablet Oral Morphine sulfate 15.000mg,4070200,,,,CPRD_AURUM
+1.56134E+15,Zomorph 200mg modified-release capsules (Ethypharm UK Ltd) Modified-release capsule Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+9.44241E+14,MXL 200mg capsules (Napp Pharmaceuticals Ltd) Modified-release capsule Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+1.92434E+15,Morphine 200mg modified-release capsules Modified-release capsule Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+9.41341E+14,MST Continus 200mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+4.81724E+15,Filnarine SR 200mg tablets (Teva UK Ltd) Modified-release tablet Oral Morphine sulfate 200.000mg,,,,,CPRD_AURUM
+9.33141E+14,Morphine 200mg modified-release tablets Modified-release tablet Oral Morphine sulfate 200.000mg,4070200,,,,CPRD_AURUM
+9.30841E+14,Morcap SR 20mg capsules (Hospira UK Ltd) Modified-release capsule Oral Morphine sulfate 20.000mg,,,,,CPRD_AURUM
+2.06874E+15,Morphine 20mg modified-release capsules Modified-release capsule Oral Morphine sulfate 20.000mg,,,,,CPRD_AURUM
+1.56144E+15,Zomorph 30mg modified-release capsules (Ethypharm UK Ltd) Modified-release capsule Oral Morphine sulfate 30.000mg,4070200,,,,CPRD_AURUM
+1.56154E+15,Zomorph 60mg modified-release capsules (Ethypharm UK Ltd) Modified-release capsule Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+9.44441E+14,MXL 60mg capsules (Napp Pharmaceuticals Ltd) Modified-release capsule Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+1.92414E+15,Morphine 60mg modified-release capsules Modified-release capsule Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+2.91234E+15,Morphgesic SR 60mg tablets (Advanz Pharma) Modified-release tablet Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+9.41241E+14,MST Continus 60mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+2.75354E+15,Filnarine SR 60mg tablets (Teva UK Ltd) Modified-release tablet Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+9.36741E+14,Morphine 60mg modified-release tablets Modified-release tablet Oral Morphine sulfate 60.000mg,4070200,,,,CPRD_AURUM
+9.44541E+14,MXL 90mg capsules (Napp Pharmaceuticals Ltd) Modified-release capsule Oral Morphine sulfate 90.000mg,4070200,,,,CPRD_AURUM
+2.06844E+15,Morphine 90mg modified-release capsules Modified-release capsule Oral Morphine sulfate 90.000mg,4070200,,,,CPRD_AURUM
+2.09964E+15,Morphine and Cocaine elixir Oral solution Oral Cocaine hydrochloride/ Ethanol 90%/ Morphine hydrochloride/ Syrup 1.000gram/1.000litre + 125.000ml/1.000litre + 1.000gram/1.000litre + 250.000ml/1.000litre,,,,,CPRD_AURUM
+2.09314E+15,Morphine hydrochloride powder Not applicable Route of administration not applicable Morphine hydrochloride 1.000mg/1.000mg,,,,,CPRD_AURUM
+3.96444E+15,Morphine sulfate 10mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.75254E+15,Sevredol 10mg/5ml oral solution (Napp Pharmaceuticals Ltd) Oral solution Oral Morphine sulfate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.01484E+15,Oramorph 10mg/5ml oral solution (Boehringer Ingelheim Ltd) Oral solution Oral Morphine sulfate 2.000mg/1.000ml,4070200,,,,CPRD_AURUM
+9.31541E+14,Morphine sulfate 10mg/5ml oral solution Oral solution Oral Morphine sulfate 2.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.27944E+15,Morphine sulfate 20mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 20.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.75204E+15,Sevredol 20mg/ml concentrated oral solution (Napp Pharmaceuticals Ltd) Oral solution Oral Morphine sulfate 20.000mg/1.000ml,,,,,CPRD_AURUM
+1.01494E+15,Oramorph 20mg/ml concentrated oral solution (Boehringer Ingelheim Ltd) Oral solution Oral Morphine sulfate 20.000mg/1.000ml,4070200,,,,CPRD_AURUM
+9.31641E+14,Morphine sulfate 20mg/ml oral solution sugar free Oral solution Oral Morphine sulfate 20.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.30954E+15,Morphine sulfate 30mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 30.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.94624E+15,Morphine sulfate 60mg/2ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Morphine sulfate 30.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.09324E+15,Morphine sulfate powder Not applicable Route of administration not applicable Morphine sulfate 1.000mg/1.000mg,,,,,CPRD_AURUM
+1.98764E+15,OxyContin 10mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+7.88634E+15,Longtec 10mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+8.04814E+15,Oxylan 10mg modified-release tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.98194E+15,Oxycodone 10mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+1.26645E+16,Oxypro 10mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.26663E+16,Ixyldone 10mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.21853E+16,Onexila XL 10mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+1.26365E+16,Renocontin 10mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.06415E+16,Abtard 10mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.09849E+16,Carexil 10mg modified-release tablets (Sandoz Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.12432E+16,Zomestine 10mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.1808E+16,Leveraxo 10mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.03332E+16,Oxeltra 10mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+9.17734E+15,Reltebon 10mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+8.83884E+15,Dolocodon PR 10mg tablets (Zentiva) Modified-release tablet Oral Oxycodone hydrochloride 10.000mg,4070200,,,,CPRD_AURUM
+2.92674E+15,OxyNorm 10mg/1ml solution for injection ampoules (Napp Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.21867E+16,Shortec 10mg/1ml solution for injection ampoules (Qdem Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
+2.92654E+15,Oxycodone 10mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.98834E+15,OxyNorm 10mg/ml concentrate oral solution (Napp Pharmaceuticals Ltd) Oral solution Oral Oxycodone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.98754E+15,Oxycodone 10mg/ml oral solution sugar free Oral solution Oral Oxycodone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.21871E+16,Shortec 10mg/ml concentrate oral solution (Qdem Pharmaceuticals Ltd) Oral solution Oral Oxycodone hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
+6.12544E+15,OxyContin 15mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.26367E+16,Renocontin 15mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+6.12504E+15,Oxycodone 15mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.26664E+16,Ixyldone 15mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.26646E+16,Oxypro 15mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.06416E+16,Abtard 15mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.03333E+16,Oxeltra 15mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+1.04915E+16,Longtec 15mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+9.80964E+15,Reltebon 15mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 15.000mg,,,,,CPRD_AURUM
+8.04824E+15,Oxylan 20mg modified-release tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+7.88644E+15,Longtec 20mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+1.98774E+15,OxyContin 20mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+1.03334E+16,Oxeltra 20mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+8.83864E+15,Dolocodon PR 20mg tablets (Zentiva) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+9.17724E+15,Reltebon 20mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.06417E+16,Abtard 20mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.09851E+16,Carexil 20mg modified-release tablets (Sandoz Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.18081E+16,Leveraxo 20mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.12433E+16,Zomestine 20mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.26647E+16,Oxypro 20mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.26665E+16,Ixyldone 20mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.98204E+15,Oxycodone 20mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+1.26369E+16,Renocontin 20mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.21855E+16,Onexila XL 20mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 20.000mg,4070200,,,,CPRD_AURUM
+2.92684E+15,OxyNorm 20mg/2ml solution for injection ampoules (Napp Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.21868E+16,Shortec 20mg/2ml solution for injection ampoules (Qdem Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
+2.92664E+15,Oxycodone 20mg/2ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous Oxycodone hydrochloride 10.000mg/1.000ml,4070200,,,,CPRD_AURUM
+6.12554E+15,OxyContin 30mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+6.12514E+15,Oxycodone 30mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.26648E+16,Oxypro 30mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.26666E+16,Ixyldone 30mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.26372E+16,Renocontin 30mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.18082E+16,Leveraxo 30mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.06418E+16,Abtard 30mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.03335E+16,Oxeltra 30mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+1.04916E+16,Longtec 30mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+9.80974E+15,Reltebon 30mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 30.000mg,,,,,CPRD_AURUM
+7.88654E+15,Longtec 40mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,4070200,,,,CPRD_AURUM
+8.04834E+15,Oxylan 40mg modified-release tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.98784E+15,OxyContin 40mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,4070200,,,,CPRD_AURUM
+1.03336E+16,Oxeltra 40mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+9.17714E+15,Reltebon 40mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+8.83874E+15,Dolocodon PR 40mg tablets (Zentiva) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,4070200,,,,CPRD_AURUM
+1.06419E+16,Abtard 40mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.18083E+16,Leveraxo 40mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.12434E+16,Zomestine 40mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.14897E+16,Carexil 40mg modified-release tablets (Sandoz Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.26373E+16,Renocontin 40mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.21856E+16,Onexila XL 40mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,4070200,,,,CPRD_AURUM
+1.26649E+16,Oxypro 40mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.26667E+16,Ixyldone 40mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,,,,,CPRD_AURUM
+1.98214E+15,Oxycodone 40mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 40.000mg,4070200,,,,CPRD_AURUM
+2.74854E+15,OxyContin 5mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+8.04804E+15,Oxylan 5mg modified-release tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+7.88624E+15,Longtec 5mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+2.74844E+15,Oxycodone 5mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+1.26668E+16,Ixyldone 5mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.2665E+16,Oxypro 5mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.26364E+16,Renocontin 5mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.12431E+16,Zomestine 5mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.18084E+16,Leveraxo 5mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.06414E+16,Abtard 5mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.09848E+16,Carexil 5mg modified-release tablets (Sandoz Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+8.83854E+15,Dolocodon PR 5mg tablets (Zentiva) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,4070200,,,,CPRD_AURUM
+9.17704E+15,Reltebon 5mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.03331E+16,Oxeltra 5mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.98844E+15,OxyNorm liquid 1mg/ml oral solution (Napp Pharmaceuticals Ltd) Oral solution Oral Oxycodone hydrochloride 1.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.2187E+16,Shortec liquid 5mg/5ml oral solution (Qdem Pharmaceuticals Ltd) Oral solution Oral Oxycodone hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.98744E+15,Oxycodone 5mg/5ml oral solution sugar free Oral solution Oral Oxycodone hydrochloride 1.000mg/1.000ml,4070200,,,,CPRD_AURUM
+6.12564E+15,OxyContin 60mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+6.12524E+15,Oxycodone 60mg modified-release tablets Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.26651E+16,Oxypro 60mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.26669E+16,Ixyldone 60mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.26374E+16,Renocontin 60mg modified-release tablets (Glenmark Pharmaceuticals Europe Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.0642E+16,Abtard 60mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.18085E+16,Leveraxo 60mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.03337E+16,Oxeltra 60mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+1.0492E+16,Longtec 60mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+9.80984E+15,Reltebon 60mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 60.000mg,,,,,CPRD_AURUM
+8.04844E+15,Oxylan 80mg modified-release tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+7.88664E+15,Longtec 80mg modified-release tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,4070200,,,,CPRD_AURUM
+1.98794E+15,OxyContin 80mg modified-release tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,4070200,,,,CPRD_AURUM
+1.03338E+16,Oxeltra 80mg modified-release tablets (Wockhardt UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+9.17684E+15,Reltebon 80mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.18086E+16,Leveraxo 80mg modified-release tablets (Mylan) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.12435E+16,Zomestine 80mg modified-release tablets (Accord Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.14898E+16,Carexil 80mg modified-release tablets (Sandoz Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.06421E+16,Abtard 80mg modified-release tablets (Ethypharm UK Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.21857E+16,Onexila XL 80mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,4070200,,,,CPRD_AURUM
+1.2667E+16,Ixyldone 80mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.26652E+16,Oxypro 80mg modified-release tablets (Ridge Pharma Ltd) Modified-release tablet Oral Oxycodone hydrochloride 80.000mg,,,,,CPRD_AURUM
+1.29061E+16,Buvidal 128mg/0.36ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 355.560mg/1.000ml,,,,,CPRD_AURUM
+1.29054E+16,Buprenorphine 128mg/0.36ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 355.560mg/1.000ml,,,,,CPRD_AURUM
+1.29055E+16,Buprenorphine 16mg/0.32ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29062E+16,Buvidal 16mg/0.32ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29063E+16,Buvidal 24mg/0.48ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29056E+16,Buprenorphine 24mg/0.48ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29057E+16,Buprenorphine 32mg/0.64ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29064E+16,Buvidal 32mg/0.64ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29065E+16,Buvidal 64mg/0.18ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 355.560mg/1.000ml,,,,,CPRD_AURUM
+1.29058E+16,Buprenorphine 64mg/0.18ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 355.560mg/1.000ml,,,,,CPRD_AURUM
+1.29059E+16,Buprenorphine 8mg/0.16ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29066E+16,Buvidal 8mg/0.16ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.29067E+16,Buvidal 96mg/0.27ml prolonged-release solution for injection pre-filled syringes (Camurus AB) Prolonged-release solution for injection Subcutaneous Buprenorphine 355.560mg/1.000ml,,,,,CPRD_AURUM
+1.2906E+16,Buprenorphine 96mg/0.27ml prolonged-release solution for injection pre-filled syringes Prolonged-release solution for injection Subcutaneous Buprenorphine 355.560mg/1.000ml,,,,,CPRD_AURUM
+1.35829E+16,Dihydrocodeine 10mg/5ml oral suspension Dihydrocodeine 10mg/5ml oral suspension Oral suspension Oral Dihydrocodeine tartrate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.37548E+16,Morphine sulfate 500micrograms/5ml oral solution Morphine sulfate 500micrograms/5ml oral solution Oral solution Oral Morphine sulfate 100.000microgram/1.000ml,,,,,CPRD_AURUM
+1.35765E+16,Myloxifin 10mg/5mg modified-release tablets (Zentiva) Myloxifin 10mg/5mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 5.000mg + 10.000mg,,,,,CPRD_AURUM
+1.35766E+16,Myloxifin 20mg/10mg modified-release tablets (Zentiva) Myloxifin 20mg/10mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 10.000mg + 20.000mg,,,,,CPRD_AURUM
+1.35764E+16,Myloxifin 5mg/2.5mg modified-release tablets (Zentiva) Myloxifin 5mg/2.5mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 2.500mg + 5.000mg,,,,,CPRD_AURUM
+1.35767E+16,Myloxifin 40mg/20mg modified-release tablets (Zentiva) Myloxifin 40mg/20mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 20.000mg + 40.000mg,,,,,CPRD_AURUM
+1.37088E+16,Oxyact 10mg tablets (Kent Pharmaceuticals Ltd) Oxyact 10mg tablets Tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.37089E+16,Oxyact 20mg tablets (Kent Pharmaceuticals Ltd) Oxyact 20mg tablets Tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.37087E+16,Oxyact 5mg tablets (Kent Pharmaceuticals Ltd) Oxyact 5mg tablets Tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.37513E+16,Rebrikel 5micrograms/hour transdermal patches (Zentiva) Rebrikel 5micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 5.000microgram/1.000hour,,,,,CPRD_AURUM
+1.37514E+16,Rebrikel 10micrograms/hour transdermal patches (Zentiva) Rebrikel 10micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 10.000microgram/1.000hour,,,,,CPRD_AURUM
+1.37515E+16,Rebrikel 20micrograms/hour transdermal patches (Zentiva) Rebrikel 20micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 20.000microgram/1.000hour,,,,,CPRD_AURUM
+1.37085E+16,Oxycodone 10mg tablets Oxycodone 10mg tablets Tablet Oral Oxycodone hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.37086E+16,Oxycodone 20mg tablets Oxycodone 20mg tablets Tablet Oral Oxycodone hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.37084E+16,Oxycodone 5mg tablets Oxycodone 5mg tablets Tablet Oral Oxycodone hydrochloride 5.000mg,,,,,CPRD_AURUM
+1.37182E+16,Oxyargin 10mg/5mg modified-release tablets (Mylan) Oxyargin 10mg/5mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 5.000mg + 10.000mg,,,,,CPRD_AURUM
+1.37183E+16,Oxyargin 20mg/10mg modified-release tablets (Mylan) Oxyargin 20mg/10mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 10.000mg + 20.000mg,,,,,CPRD_AURUM
+1.37184E+16,Oxyargin 40mg/20mg modified-release tablets (Mylan) Oxyargin 40mg/20mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 20.000mg + 40.000mg,,,,,CPRD_AURUM
+1.37185E+16,Oxyargin 5mg/2.5mg modified-release tablets (Mylan) Oxyargin 5mg/2.5mg modified-release tablets Modified-release tablet Oral Naloxone hydrochloride/ Oxycodone hydrochloride 2.500mg + 5.000mg,,,,,CPRD_AURUM
+1.37174E+16,Sevodyne 15micrograms/hour transdermal patches (Aspire Pharma Ltd) Sevodyne 15micrograms/hour transdermal patches Transdermal patch Transdermal Buprenorphine 15.000microgram/1.000hour,,,,,CPRD_AURUM
+1.37544E+16,Suboxone 2mg/500microgram sublingual films (Indivior UK Ltd) Suboxone 2mg/500microgram sublingual films Sublingual film Sublingual/ Buccal Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 2.000mg + 500.000microgram,,,,,CPRD_AURUM
+1.37545E+16,Suboxone 8mg/2mg sublingual films (Indivior UK Ltd) Suboxone 8mg/2mg sublingual films Sublingual film Buccal/ Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 8.000mg + 2.000mg,,,,,CPRD_AURUM
+1.37542E+16,Buprenorphine 2mg / Naloxone 500microgram sublingual films sugar free Buprenorphine 2mg / Naloxone 500microgram sublingual films sugar free Sublingual film Sublingual/ Buccal Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 2.000mg + 500.000microgram,,,,,CPRD_AURUM
+1.37543E+16,Buprenorphine 8mg / Naloxone 2mg sublingual films sugar free Buprenorphine 8mg / Naloxone 2mg sublingual films sugar free Sublingual film Buccal/ Sublingual Buprenorphine hydrochloride/ Naloxone hydrochloride dihydrate 8.000mg + 2.000mg,,,,,CPRD_AURUM

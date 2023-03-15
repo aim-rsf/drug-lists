@@ -1,0 +1,489 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+16716978,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+21822978,Lorazepam 1mg/ml oral solution sugar free,0,0,0,,IMRD
+23096978,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free,0,0,0,,IMRD
+24099978,Zacco 5mg/5ml oral suspension,4010201,0,0,,IMRD
+30258978,Diazepam 5mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+30273978,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+30644978,Diazepam 2mg/5ml oral suspension,4010201,0,0,,IMRD
+31071978,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31072978,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31073978,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31074978,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31075978,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31076978,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31077978,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31078978,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31085978,Diazepam 5mg/5ml oral suspension,0,0,0,,IMRD
+31208978,Diazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+31582978,Clonazepam 1mg/1ml solution for injection ampoules and diluent,4080200,4080100,0,N03AE01,IMRD
+46957978,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+47289978,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+47483978,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+47484978,Clobazam 10mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+51907978,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+52978979,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52979979,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52980979,Clobazam 10mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52981979,Clobazam 10mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+55127978,Nitrazepam 2.5mg/5ml oral suspension sugar free,4010100,0,0,N05CD02,IMRD
+55639979,Midazolam 7.5mg/0.75ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55640979,Midazolam 7.5mg/0.75ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55641979,Midazolam 5mg/0.5ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55642979,Midazolam 5mg/0.5ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55643979,Midazolam 2.5mg/0.25ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+55644979,Midazolam 2.5mg/0.25ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+55885979,Midazolam 10mg/ml oromucosal solution,0,0,0,,IMRD
+55886979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free,0,0,0,,IMRD
+58780979,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+59477979,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+59576979,Clonazepam 500micrograms/5ml oral solution sugar free,0,0,0,,IMRD
+59577979,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+59819979,Clonazepam 2mg/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+60513979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+60728979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+61178979,Midazolam 10mg/ml oromucosal solution,0,0,0,,IMRD
+61179979,Midazolam 10mg/ml oromucosal solution,0,0,0,,IMRD
+61408979,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+61561979,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+62063979,Midazolam 7.5mg tablets,0,0,0,,IMRD
+62337979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+62393979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+62800979,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+62803979,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+62804979,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+62805979,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+63012979,Chlordiazepoxide 2.5mg/5ml oral suspension,0,0,0,,IMRD
+63014979,Chlordiazepoxide 2.5mg/5ml oral solution,0,0,0,,IMRD
+63098979,Midazolam 12.5mg/5ml oral suspension,0,0,0,,IMRD
+64770979,Diazepam 10mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+66421979,Midazolam 6.25mg/5ml oral solution,0,0,0,,IMRD
+66423979,Midazolam 5mg/5ml oral suspension,0,0,0,,IMRD
+66425979,Midazolam 5mg/5ml oral solution,0,0,0,,IMRD
+66439979,Midazolam 2.5mg/5ml oral suspension,0,0,0,,IMRD
+66441979,Midazolam 2.5mg/5ml oral solution,0,0,0,,IMRD
+66445979,Midazolam 11mg/5ml oral solution,0,0,0,,IMRD
+66449979,Midazolam 10mg/5ml oral solution,0,0,0,,IMRD
+68938979,Nitrazepam 10mg/5ml oral suspension,0,0,0,,IMRD
+68963979,Nitrazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+69558979,Clobazam 7.5mg/5ml oral suspension,0,0,0,,IMRD
+69574979,Clobazam 3.75mg/5ml oral suspension,0,0,0,,IMRD
+69586979,Clobazam 100mg/5ml oral suspension,0,0,0,,IMRD
+69590979,Clobazam 1.5mg/5ml oral suspension,0,0,0,,IMRD
+69758979,Clonazepam 50micrograms/5ml oral solution,0,0,0,,IMRD
+69776979,Clonazepam 312.5micrograms/5ml oral suspension,0,0,0,,IMRD
+69817979,Clonazepam 125micrograms/5ml oral suspension,0,0,0,,IMRD
+69819979,Clonazepam 125micrograms/5ml oral solution,0,0,0,,IMRD
+71620979,Midazolam 10mg/ml oral solution,0,0,0,,IMRD
+71621979,Midazolam 10mg/ml oral solution,0,0,0,,IMRD
+78370978,Lorazepam 2mg/1ml solution for injection ampoules,0,0,0,,IMRD
+79128979,Diazepam 2.5mg/5ml oral solution,0,0,0,,IMRD
+79130979,Diazepam 1mg/5ml oral solution,0,0,0,,IMRD
+79132979,Diazepam 10mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+79344978,Clonazepam 2.5mg/ml drops,0,0,0,,IMRD
+79563979,Lormetazepam 1mg/5ml oral suspension,0,0,0,,IMRD
+79565979,Lorazepam 5mg/5ml oral suspension,0,0,0,,IMRD
+79567979,Lorazepam 5mg/5ml oral solution,0,0,0,,IMRD
+79568979,Lorazepam 500micrograms/5ml oral suspension,4010201,0,0,,IMRD
+79571979,Lorazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+79714978,Midazolam 5mg/5ml solution for injection ampoules,0,0,0,,IMRD
+80513979,Clonazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+80516979,Clonazepam 250micrograms/5ml oral suspension,0,0,0,,IMRD
+80557979,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+80572979,Clobazam 4mg/5ml oral suspension,0,0,0,,IMRD
+80574979,Clobazam 4mg/5ml oral solution,0,0,0,,IMRD
+80580979,Clobazam 2mg/5ml oral suspension,0,0,0,,IMRD
+80586979,Clobazam 20mg/5ml oral suspension,0,0,0,,IMRD
+80590979,Clobazam 2.5mg/5ml oral suspension,0,0,0,,IMRD
+80592979,Clobazam 2.5mg/5ml oral solution,0,0,0,,IMRD
+80594979,Clobazam 1mg/5ml oral suspension,0,0,0,,IMRD
+81083998,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+81114998,Lorazepam 500micrograms/5ml oral solution,0,0,0,,IMRD
+81126998,Clobazam 5mg/5ml oral solution,0,0,0,,IMRD
+81127998,Clobazam 10mg/5ml oral solution,0,0,0,,IMRD
+81185998,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81186998,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81187998,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81188998,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81189998,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81190998,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81560998,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81561998,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81630998,Midazolam 2.5mg/ml oral solution,0,0,0,,IMRD
+81892998,Midazolam maleate buccal solution,0,0,0,,IMRD
+81908998,Midazolam buccal solution,0,0,0,,IMRD
+82668978,Midazolam 5mg/5ml solution for injection pre-filled syringes,0,0,0,,IMRD
+82670978,Midazolam 2mg/2ml solution for injection pre-filled syringes,0,0,0,,IMRD
+82672978,Midazolam 10mg/10ml solution for injection pre-filled syringes,0,0,0,,IMRD
+82713998,Clobazam 25mg/5ml oral solution,0,0,0,,IMRD
+82714998,Clobazam 25mg/5ml oral suspension,0,0,0,,IMRD
+84132998,Lorazepam 1mg/5ml oral solution,4010200,0,0,,IMRD
+84134998,Lorazepam 1mg/5ml oral suspension,4010200,0,0,,IMRD
+84633998,Midazolam oral solution,15010401,0,0,,IMRD
+85019978,Diazepam 10mg/5ml oral solution,0,0,0,,IMRD
+85206978,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+85258978,Midazolam 5mg/2ml solution for injection ampoules,0,0,0,,IMRD
+85423998,Clobazam 2.5mg capsules,4080100,4010200,0,N05BA09,IMRD
+85438998,Lorazepam oral solution,23000000,0,0,,IMRD
+85559998,Clonazepam 250micrograms/5ml oral solution,23010000,0,0,,IMRD
+85709998,Midazolam 90mg/18ml solution for injection ampoules,15010401,0,0,,IMRD
+85710998,Midazolam 50mg/10ml solution for injection ampoules,15010401,0,0,,IMRD
+85711998,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+85713998,Midazolam 5mg/5ml solution for injection ampoules,15010401,0,0,,IMRD
+85714998,Midazolam 2mg/2ml solution for injection ampoules,15010401,0,0,,IMRD
+85715998,Midazolam 50mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+85716998,Midazolam 100mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+85717998,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+86049998,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+86161998,Clobazam 5mg/5ml oral suspension,4010200,0,0,,IMRD
+86430998,Lorazepam 500micrograms/5ml oral suspension,4010200,0,0,,IMRD
+86457998,Clobazam 10mg/5ml oral suspension,4010200,0,0,,IMRD
+86604998,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+87286998,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+87287998,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+87289998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+87797998,Midazolam 10mg/ml buccal solution,4080200,0,0,,IMRD
+87798998,Midazolam 10mg/ml buccal solution,4080200,0,0,,IMRD
+88422998,Clonazepam 2.5mg/ml drops sugar free,23010000,0,0,,IMRD
+88423996,Clonazepam 2mg/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+88423997,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+88423998,Clonazepam 2.5mg/ml drops sugar free,4080100,0,0,,IMRD
+88944979,Diazepam 25mg/5ml oral solution,0,0,0,,IMRD
+89501998,Diazepam 10mg/2.5ml rectal solution tube,4010200,0,0,N05BA01,IMRD
+89770979,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+90224979,Midazolam 2mg/ml oral solution sugar free,0,0,0,,IMRD
+90617979,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+90618979,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+91282998,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+91354998,Diazepam 20mg rectal tubes,4080200,4010200,0,N03AE,IMRD
+92357990,Clonazepam 500microgram tablets,4080100,0,0,,IMRD
+92573998,Diazepam 20mg rectal tubes,4080200,4010200,0,N03AE,IMRD
+92690990,Diazepam 10mg tablets,4010201,0,0,,IMRD
+92796990,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+92814996,Diazepam 10mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+92814997,Diazepam 2.5mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+92814998,Diazepam 1mg/5ml suspension,4010200,0,0,N05BA01,IMRD
+92858997,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+92858998,Diazepam 10mg/2ml emulsion for injection ampoules,4010200,15010401,0,N03AE,IMRD
+92901998,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+92951990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+93083992,Temazepam ud 10ml 10 mg/5ml eli,4010100,0,0,N05CD07,IMRD
+93087992,Temazepam ud 5ml 10 mg/5ml eli,4010100,0,0,N05CD07,IMRD
+93294990,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+93296990,Midazolam 2mg/2ml solution for injection ampoules,15010401,0,0,,IMRD
+93415998,Temazepam 30mg capsules,4010100,0,0,N05CD07,IMRD
+93416996,Temazepam 20mg capsules,4010100,0,0,N05CD07,IMRD
+93416997,Temazepam 15mg capsules,4010100,0,0,N05CD07,IMRD
+93416998,Temazepam 10mg capsules,4010100,0,0,N05CD07,IMRD
+93417998,Temazepam 30mg gel-fill capsules,4010100,0,0,N05CD07,IMRD
+93418996,Temazepam 20mg gel-fill capsules,4010100,0,0,N05CD07,IMRD
+93418997,Temazepam 15mg gel-fill capsules,4010100,0,0,N05CD07,IMRD
+93418998,Temazepam 10mg gel-fill capsules,4010100,0,0,N05CD07,IMRD
+93485998,Temazepam 30mg capsules,4010100,0,0,N05CD07,IMRD
+93774996,Chlordiazepoxide 25mg tablets,4010200,0,0,N05BA02,IMRD
+93774997,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+93774998,Chlordiazepoxide 5mg tablets,4010200,0,0,N05BA02,IMRD
+93795990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+93826990,Diazepam 5mg tablets,4010201,0,0,,IMRD
+93848990,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+93849990,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+93913990,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+94220998,Temazepam 10mg capsules,4010100,0,0,N05CD07,IMRD
+94222992,Lorazepam 5 mg tab,4010200,0,0,,IMRD
+94223992,Lorazepam .5 mg tab,4010200,0,0,,IMRD
+94335992,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+94354992,Diazepam 5mg/ml rectal solution tube,4010200,0,0,N05BA01,IMRD
+94382990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+94499990,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+94664990,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+94666990,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+94704997,Amitriptyline 25mg / chlordiazepoxide 10mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+94704998,Amitriptyline 12.5mg / chlordiazepoxide 5mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+94736990,Diazepam 5mg tablets,4010201,0,0,,IMRD
+94737990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+94811996,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+94811997,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+94811998,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+94837979,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+95051997,Alprazolam 500microgram tablets,4010200,0,0,N05BA12,IMRD
+95051998,Alprazolam 250microgram tablets,4010200,0,0,N05BA12,IMRD
+95152990,Midazolam 1mg/ml injection,15010401,0,0,,IMRD
+95193990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+95215996,Temazepam 15mg capsules,4010100,0,0,N05CD07,IMRD
+95215997,Temazepam 20mg capsules,4010100,0,0,N05CD07,IMRD
+95215998,Temazepam 10mg capsules,4010100,0,0,N05CD07,IMRD
+95229990,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+95230990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+95231990,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+95244979,Clonazepam 2mg tablets,4080100,0,0,N03AE01,IMRD
+95246979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+95247979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+95331992,Lormetazepam 500mcg tablets,4010100,0,0,N05CD06,IMRD
+95469990,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+95520990,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+95578992,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+95666996,Oxazepam 30mg tablets,4010200,0,0,N05BA04,IMRD
+95666998,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+95667998,Oxazepam 30mg capsule,4010200,0,0,N05BA04,IMRD
+95720996,Nitrazepam 5mg/5ml oral suspension,4010100,0,0,N05CD02,IMRD
+95720997,Nitrazepam 2.5mg/5ml oral suspension sugar free,4010100,0,0,N05CD02,IMRD
+95720998,Nitrazepam 10mg tablet,4010100,0,0,N05CD02,IMRD
+95721998,Nitrazepam 5mg capsule,4010100,0,0,N05CD02,IMRD
+95802996,Midazolam 50mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+95802997,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+95802998,Midazolam 100mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+95992996,Lormetazepam 1mg Capsule,4010100,0,0,N05CD06,IMRD
+95992997,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+95992998,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+95993998,Lorazepam 4mg/1ml solution for injection ampoules,15010401,4010200,0,N05BA06,IMRD
+95994998,Loprazolam 1mg tablets,4010100,0,0,N05CD11,IMRD
+95995990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+95996990,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+95997990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96119990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96124990,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96160992,Clobazam 5 mg tab,4080100,0,0,,IMRD
+96195992,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+96242988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+96242989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96242990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96268989,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96268990,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96284989,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96284990,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96311988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+96311989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96311990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96374992,OXAZEPAM 15 MG CAP,4010200,0,0,N05BA04,IMRD
+96407996,Diazepam 2.5mg/1.25ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+96407997,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+96407998,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+96408997,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+96408998,Diazepam 5mg suppository,4010200,0,0,N05BA01,IMRD
+96409996,Diazepam 5mg,4010200,0,0,N05BA01,IMRD
+96409997,Diazepam 2mg capsules,4010200,0,0,N05BA01,IMRD
+96409998,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+96424990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+96497997,Flurazepam 30mg capsules,4010100,0,0,N05CD01,IMRD
+96497998,Flurazepam 15mg capsules,4010100,0,0,N05CD01,IMRD
+96504992,Diazepam 20mg/4ml injection,4010200,0,0,N05BA01,IMRD
+96520998,Flunitrazepam 1mg tablets,4010100,0,0,N05CD03,IMRD
+96546992,Diazepam 10mg/2ml injection,4010200,0,0,N05BA01,IMRD
+96560988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+96560989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96560990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96571990,Clonazepam 2mg/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+96603989,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+96603990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+96616990,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+96634996,Clonazepam 1mg/1ml solution for injection ampoules and diluent,4080200,4080100,0,N03AE01,IMRD
+96634997,Clonazepam 2mg tablets,4080100,0,0,N03AE01,IMRD
+96634998,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+96648997,Clobazam 10mg tablets,4080100,4010200,0,N05BA09,IMRD
+96648998,Clobazam 10mg capsules,4080100,4010200,0,N05BA09,IMRD
+96653990,Loprazolam 1mg tablets,4010100,0,0,N05CD11,IMRD
+96656998,Clidinium bromide with chlordiazepoxide tablets,1020100,0,0,A03CA02,IMRD
+96700989,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+96700990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+96753979,Clobazam 10mg tablets,4080100,4010200,0,N05BA09,IMRD
+96787979,Diazepam 5mg tablets,4010201,0,0,,IMRD
+96790979,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96791979,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96793979,Diazepam 5mg tablets,4010201,0,0,,IMRD
+96805998,Chlordiazepoxide hydrochloride 10mg tablets,4010200,0,0,N05BA02,IMRD
+96806996,Chlordiazepoxide hydrochloride 5mg tablets,4010200,0,0,N05BA02,IMRD
+96806997,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+96808997,Chlordiazepoxide 25mg tablets,4010200,0,0,N05BA02,IMRD
+96808998,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+96809996,Chlordiazepoxide 5mg tablets,4010200,0,0,N05BA02,IMRD
+96809997,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+96809998,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+96821989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+96821990,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+96840979,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+96853989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+96853990,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+96932990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+97013996,Oxazepam 30mg tablet,4010200,0,0,N05BA04,IMRD
+97013997,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+97013998,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+97158992,Clobazam 1 mg sus,4080100,0,0,,IMRD
+97159992,Clobazam 2.5 mg cap,4080100,0,0,,IMRD
+97160992,Clobazam 7.5 mg cap,4080100,0,0,,IMRD
+97161992,Clobazam 5 mg cap,4080100,0,0,,IMRD
+97173989,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+97173990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+97192997,Diazepam 5mg capsules,4010200,0,0,N05BA01,IMRD
+97193996,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+97205998,Nitrazepam 5mg capsules,4010100,0,0,N05CD02,IMRD
+97213997,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+97213998,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+97215998,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+97216996,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+97216997,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+97216998,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+97227998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+97259990,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+97268998,Nitrazepam 5mg capsules,4010100,0,0,N05CD02,IMRD
+97282992,Diazepam 10mg/2ml emulsion for injection ampoules,4010200,15010401,0,N05BA01,IMRD
+97290992,Diazepam 20 mg inj,4010200,0,0,N05BA01,IMRD
+97291992,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+97292992,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+97293992,Diazepam s/r 10 mg cap,4010200,0,0,,IMRD
+97427990,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+97464992,Flurazepam 15mg capsules,4010100,0,0,N05CD01,IMRD
+97465992,Flurazepam 30 mg tab,4010100,0,0,,IMRD
+97532998,Diazepam 10mg/2ml injection,4010200,0,0,N03AE,IMRD
+97533997,Diazepam 10mg/2.5ml rectal solution tube,4010200,4080200,0,N05BA01,IMRD
+97533998,Diazepam 5mg/2.5ml rectal solution tube,4010200,4080200,0,N05BA01,IMRD
+97549989,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+97549990,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+97638998,Loprazolam 1mg tablets,4010100,0,0,N05CD11,IMRD
+97679992,Lorazepam 1 mg sus,4010200,0,0,,IMRD
+97684988,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+97684989,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+97708990,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+97720989,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+97720990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+97742989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+97766990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+97777989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+97777990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+97901997,Alprazolam 500microgram tablets,4010200,0,0,N05BA12,IMRD
+97901998,Alprazolam 250microgram tablets,4010200,0,0,N05BA12,IMRD
+97913990,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+97950990,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+98022989,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+98022990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+98079989,Diazepam 2.5mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+98088990,Nitrazepam 5mg/5ml oral suspension,4010100,0,0,N05CD02,IMRD
+98135990,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+98190989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98190990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+98239988,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98239989,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+98241989,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+98241990,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+98248990,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98343998,Amitriptyline 25mg / chlordiazepoxide 10mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+98470990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+98501990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+98514989,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+98514990,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+98517998,Clonazepam 1mg/1ml solution for injection ampoules and diluent,4080200,4080100,0,N03AE01,IMRD
+98550997,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+98550998,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+98570989,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+98580989,Chlordiazepoxide 5mg tablets,4010200,0,0,N05BA02,IMRD
+98580990,Chlordiazepoxide 25mg tablets,4010200,0,0,N05BA02,IMRD
+98606988,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+98606989,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+98607988,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+98647988,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+98647989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98647990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+98648990,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+98649988,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+98649989,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+98649990,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+98675990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+98680988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+98680989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+98680990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+98790998,Lormetazepam 1mg capsule,4010100,0,0,,IMRD
+98870998,Temazepam 20mg capsules,4010100,0,0,N05CD07,IMRD
+98995997,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+98995998,Diazepam 5mg suppository,4010200,0,0,N05BA01,IMRD
+98996996,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+98996997,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+98996998,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+98997998,Diazepam 2mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+98998997,Diazepam 5mg capsules,4010200,0,0,N05BA01,IMRD
+98998998,Diazepam 2mg capsules,4010200,0,0,N05BA01,IMRD
+98999998,Diazepam 10mg/2ml injection,4010200,0,0,N05BA01,IMRD
+99047988,Temazepam 10mg/5ml oral solution sugar free,4010100,0,0,N05CD07,IMRD
+99125998,Nitrazepam 2.5mg/5ml oral suspension,4010100,0,0,N05CD02,IMRD
+99142990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99167989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99167990,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+99168989,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+99168990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+99170998,Flunitrazepam 1mg tablets,4010100,0,0,N05CD03,IMRD
+99176997,Clonazepam 2mg tablets,4080100,0,0,N03AE01,IMRD
+99176998,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+99235989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99300989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+99300990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+99319988,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+99319989,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+99339997,Temazepam 20mg capsules,4010100,0,0,N05CD07,IMRD
+99339998,Temazepam 10mg capsules,4010100,0,0,N05CD07,IMRD
+99348997,Lormetazepam 500mcg tablets,4010100,0,0,N05CD06,IMRD
+99348998,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99354998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99357988,Temazepam 10mg tablets,4010100,0,0,N05CD07,IMRD
+99357989,Temazepam 20mg tablets,4010100,0,0,N05CD07,IMRD
+99358989,Temazepam 20mg capsules,4010100,0,0,N05CD07,IMRD
+99358990,Temazepam 10mg capsules,4010100,0,0,N05CD07,IMRD
+99359990,Temazepam 10mg gel-fill capsules,4010100,0,0,N05CD07,IMRD
+99370989,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+99370990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+99404998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99472998,Amitriptyline & chlordiazepoxide 12.5mg+5mg capsules,4030100,4030100,4010200,N06CA01,IMRD
+99473997,Chlordiazepoxide hydrochloride 25mg tablets,4010200,0,0,N05BA02,IMRD
+99473998,Chlordiazepoxide hydrochloride 10mg tablets,4010200,0,0,N05BA02,IMRD
+99474996,Chlordiazepoxide hydrochloride 5mg tablets,4010200,0,0,N05BA02,IMRD
+99474997,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+99474998,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+99475998,Clidinium bromide with chlordiazepoxide tablets,1020100,0,0,A03CA02,IMRD
+99530989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99531989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99622997,Clobazam 10mg tablets,4080100,4010200,0,N05BA09,IMRD
+99622998,Clobazam 10mg capsules,4080100,4010200,0,N05BA09,IMRD
+99631988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99631989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99631990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+99632988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99632989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99632990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+99633988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99633989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99634988,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+99634989,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99634990,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99645988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99645989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99645990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+99705996,Diazepam 2.5mg/1.25ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+99705997,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+99705998,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+99713989,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+99713990,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+99716989,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+99716990,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+99717990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99718990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99719990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99720990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99761998,Diazepam 10mg/2ml emulsion for injection ampoules,4010200,4080200,0,N05BA01,IMRD
+99789997,Flurazepam 30mg capsules,4010100,0,0,N05CD01,IMRD
+99789998,Flurazepam 15mg capsules,4010100,0,0,N05CD01,IMRD
+99932997,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+99932998,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+99933998,Lorazepam 4mg/1ml solution for injection ampoules,15010401,4010200,0,N05BA06,IMRD
+99934997,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+7652978,Midazolam 5mg/1ml solution for injection ampoules   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10468978,Midazolam 10mg/5ml oral solution unit dose ampoules sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10470978,Lorazepam 2.5mg orodispersible tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10472978,Lorazepam 1mg orodispersible tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+12083978,Lorazepam 500microgram tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+59982979,Clonazepam 2mg/5ml oral solution solution 400 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+60717979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes solution 10 ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+61206979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes solution 10 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+66431979,Midazolam 25mg/5ml oral suspension suspension 5 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+66447979,Midazolam 10mg/5ml oral suspension suspension 2 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+80525979,Clonazepam 2.5mg/5ml oral solution solution 500 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+80527979,Clonazepam 1mg/5ml oral suspension suspension 200 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+80576979,Clobazam 3.5mg/5ml oral suspension suspension 700 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+80646979,Chlordiazepoxide 5mg/5ml oral suspension suspension 1 ,04.01.02.01,00.00.00.00,00.00.00.00,,IMRD
+82667978,Midazolam 5mg/5ml solution for injection pre-filled syringes injection 1 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD

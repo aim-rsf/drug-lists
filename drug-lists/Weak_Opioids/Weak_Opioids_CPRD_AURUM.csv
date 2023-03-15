@@ -1,0 +1,216 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+8.6941E+13,Aspirin Paracetamol And Codeine Tablets    ,,,,,CPRD_AURUM
+1.04004E+15,Paracetamol & Codeine Tablets    ,,,,,CPRD_AURUM
+1.02974E+15,Paracetamol & Codeine Dispersible tablets    ,,,,,CPRD_AURUM
+3.18041E+14,Co-Codamol 8/500 Dispersible tablets    ,,,,,CPRD_AURUM
+3.35641E+14,Codeine Linctus Diabetic Linctus 15 mg/5 ml    ,,,,,CPRD_AURUM
+3.35841E+14,Codeine Phosphate Linctus 15 mg/5 ml    ,,,,,CPRD_AURUM
+8.08641E+14,Larapam (Piroxicam) Capsules 10 mg    ,,,,,CPRD_AURUM
+4.43241E+14,Dimotane With Codeine Paediatric Elixir    ,,,,,CPRD_AURUM
+2.95341E+14,Co-Codamol 30/500 Caplets    ,,,,,CPRD_AURUM
+8.31641E+14,Linctus Of Codeine Linctus 15 mg/5 ml    ,,,,,CPRD_AURUM
+4.43541E+14,Dihydrocodeine Tartrate Elixir 10mg/5 ml    ,,,,,CPRD_AURUM
+8.08741E+14,Larapam (Piroxicam) Capsules 20 mg    ,,,,,CPRD_AURUM
+1.36524E+15,Solpadeine Tablets    ,,,,,CPRD_AURUM
+4.43141E+14,Dimotane With Codeine Elixir    ,,,,,CPRD_AURUM
+4.68641E+14,Dihydrocodeine Tartrate Tablets 30 mg    ,,,,,CPRD_AURUM
+7.95741E+14,Kaodene oral suspension (Sovereign Medical Ltd) Oral suspension Oral Codeine phosphate/ Kaolin light 1.000mg/1.000ml + 300.000mg/1.000ml,,,,,CPRD_AURUM
+2.64504E+15,Codeine 15mg/5ml linctus sugar free Oral solution Oral Codeine phosphate 3.000mg/1.000ml,3090200,,,,CPRD_AURUM
+6.24441E+14,Galcodine 15mg/5ml linctus (Thornton & Ross Ltd) Oral solution Oral Codeine phosphate 3.000mg/1.000ml,3090200,,,,CPRD_AURUM
+3.72941E+14,Co-codamol 8mg/500mg tablets Tablet Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+9.22541E+14,Migraleve Yellow tablets (McNeil Products Ltd) Tablet Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,4070401,,,,CPRD_AURUM
+4.59064E+15,Co-codamol 8mg/500mg caplets (Vantage) Tablet Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,,,,,CPRD_AURUM
+3.71041E+14,Co-codaprin 8mg/400mg dispersible tablets Dispersible tablet Oral Aspirin/ Codeine phosphate 400.000mg + 8.000mg,10010100,,,,CPRD_AURUM
+3.73141E+14,Co-dydramol 10mg/500mg tablets Tablet Oral Dihydrocodeine tartrate/ Paracetamol 10.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.23472E+16,Eroset 500mg/10mg tablets (M & A Pharmachem Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 10.000mg + 500.000mg,,,,,CPRD_AURUM
+1.58874E+15,Co-codamol 30mg/500mg effervescent powder sachets sugar free  Effervescent powder Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+1.62184E+15,Kapake Insts 30mg/500mg effervescent powder sachets (Galen Ltd)  Effervescent powder Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+1.74124E+15,Kapake Insts 60mg/1000mg effervescent powder sachets (Galen Ltd)  Effervescent powder Oral Codeine phosphate/ Paracetamol 60.000mg + 1.000gram,,,,,CPRD_AURUM
+7.96641E+14,Kapake 30mg/500mg tablets (Galen Ltd) Tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+2.74614E+15,Zapain 30mg/500mg tablets (Advanz Pharma) Tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.36384E+15,Solpadol 30mg/500mg caplets (Sanofi) Tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.70641E+14,Co-codamol 30mg/500mg tablets Tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.26847E+16,Emcozin 30mg/500mg tablets (M & A Pharmachem Ltd) Tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+3.73041E+14,Co-codamol 8mg/500mg effervescent tablets  Effervescent tablet Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.03014E+15,Paracodol 8mg/500mg effervescent tablets (Bayer Plc)  Effervescent tablet Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+4.43204E+15,Paracodol 8mg/500mg capsules (Bayer Plc) Capsule Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+2.94841E+14,Co-codamol 8mg/500mg capsules Capsule Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.26141E+14,Co-codamol 30mg/500mg effervescent tablets  Effervescent tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.47974E+15,Tylex 30mg/500mg effervescent tablets (UCB Pharma Ltd)  Effervescent tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.35254E+15,Solpadol 30mg/500mg effervescent tablets (Sanofi)  Effervescent tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.05754E+15,Kapake 30mg/500mg effervescent tablets (Galen Ltd)  Effervescent tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+3.33154E+15,Medocodene 30mg/500mg effervescent tablets (Mylan)  Effervescent tablet Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+3.33454E+15,Medocodene 30mg/500mg capsules (UCB Pharma Ltd) Capsule Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.69804E+15,Solpadol 30mg/500mg capsules (Sanofi) Capsule Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+2.74594E+15,Zapain 30mg/500mg capsules (Advanz Pharma) Capsule Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.47964E+15,Tylex 30mg/500mg capsules (UCB Pharma Ltd) Capsule Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.83084E+15,Kapake 30mg/500mg capsules (Galen Ltd) Capsule Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+2.95441E+14,Co-codamol 30mg/500mg capsules Capsule Oral Codeine phosphate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.18024E+15,Co-dydramol 20mg/500mg tablets Tablet Oral Dihydrocodeine tartrate/ Paracetamol 20.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.16454E+15,Remedeine tablets (Crescent Pharma Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 20.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+7.85904E+15,Dypracet 20mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 20.000mg + 500.000mg,,,,,CPRD_AURUM
+7.85914E+15,Dypracet 30mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 30.000mg + 500.000mg,,,,,CPRD_AURUM
+1.15754E+15,Remedeine Forte tablets (Crescent Pharma Ltd) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.18014E+15,Co-dydramol 30mg/500mg tablets Tablet Oral Dihydrocodeine tartrate/ Paracetamol 30.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+9.29294E+15,Solpadeine Max 12.8mg/500mg tablets (Omega Pharma Ltd) Tablet Oral Codeine phosphate/ Paracetamol 12.800mg + 500.000mg,4070100,,,,CPRD_AURUM
+2.96884E+15,Panadol Ultra 12.8mg/500mg tablets (GlaxoSmithKline Consumer Healthcare) Tablet Oral Codeine phosphate/ Paracetamol 12.800mg + 500.000mg,4070100,,,,CPRD_AURUM
+5.33454E+15,Co-codamol 12.8mg/500mg tablets Tablet Oral Codeine phosphate/ Paracetamol 12.800mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.71141E+14,Codeine 15mg tablets Tablet Oral Codeine phosphate 15.000mg,1040200,,,,CPRD_AURUM
+3.71241E+14,Codeine 30mg tablets Tablet Oral Codeine phosphate 30.000mg,1040200,,,,CPRD_AURUM
+3.71341E+14,Codeine 60mg tablets Tablet Oral Codeine phosphate 60.000mg,1040200,,,,CPRD_AURUM
+4.68541E+14,Dihydrocodeine 30mg tablets Tablet Oral Dihydrocodeine tartrate 30.000mg,4070200,,,,CPRD_AURUM
+4.68741E+14,Dihydrocodeine 60mg modified-release tablets Modified-release tablet Oral Dihydrocodeine tartrate 60.000mg,4070200,,,,CPRD_AURUM
+4.33341E+14,DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Dihydrocodeine tartrate 60.000mg,4070200,,,,CPRD_AURUM
+4.33541E+14,DHC Continus 90mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Dihydrocodeine tartrate 90.000mg,4070200,,,,CPRD_AURUM
+4.69541E+14,Dihydrocodeine 90mg modified-release tablets Modified-release tablet Oral Dihydrocodeine tartrate 90.000mg,4070200,,,,CPRD_AURUM
+4.69441E+14,Dihydrocodeine 120mg modified-release tablets Modified-release tablet Oral Dihydrocodeine tartrate 120.000mg,4070200,,,,CPRD_AURUM
+4.33441E+14,DHC Continus 120mg tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Dihydrocodeine tartrate 120.000mg,4070200,,,,CPRD_AURUM
+4.33141E+14,DF 118 Forte 40mg tablets (Martindale Pharmaceuticals Ltd) Tablet Oral Dihydrocodeine tartrate 40.000mg,4070200,,,,CPRD_AURUM
+4.62841E+14,Dihydrocodeine 40mg tablets Tablet Oral Dihydrocodeine tartrate 40.000mg,4070200,,,,CPRD_AURUM
+1.45424E+15,Tramadol 50mg capsules Capsule Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.45454E+15,Tramake 50mg capsules (Galen Ltd) Capsule Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.54804E+15,Zamadol 50mg capsules (Mylan) Capsule Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.56434E+15,Zydol 50mg capsules (Grunenthal Ltd) Capsule Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.56484E+15,Zydol 50mg soluble tablets (Grunenthal Ltd) Soluble tablet Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.46574E+15,Tramadol 50mg soluble tablets sugar free Soluble tablet Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+1.70224E+15,Tramadol 50mg effervescent powder sachets sugar free  Effervescent powder Oral Tramadol hydrochloride 50.000mg,,,,,CPRD_AURUM
+1.70204E+15,Tramake Insts 50mg sachets (Galen Ltd)  Effervescent powder Oral Tramadol hydrochloride 50.000mg,,,,,CPRD_AURUM
+1.70194E+15,Tramake Insts 100mg sachets (Galen Ltd)  Effervescent powder Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.70214E+15,Tramadol 100mg effervescent powder sachets sugar free  Effervescent powder Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+5.09354E+15,Migraleve Ultra 50mg tablets (McNeil Products Ltd) Tablet Oral Sumatriptan succinate 50.000mg,,,,,CPRD_AURUM
+2.22834E+15,Nurofen Plus tablets (Reckitt Benckiser Healthcare (UK) Ltd) Tablet Oral Codeine phosphate/ Ibuprofen 12.800mg + 200.000mg,10010100,,,,CPRD_AURUM
+2.96864E+15,Solpaflex tablets (GlaxoSmithKline Consumer Healthcare) Tablet Oral Codeine phosphate/ Ibuprofen 12.800mg + 200.000mg,10010100,,,,CPRD_AURUM
+3.07794E+15,Cuprofen PLUS tablets (SSL International Plc) Tablet Oral Codeine phosphate/ Ibuprofen 12.800mg + 200.000mg,,,,,CPRD_AURUM
+1.27088E+16,Ibuprofen 200mg / Codeine 12.8mg tablets Tablet Oral Codeine phosphate/ Ibuprofen 12.800mg + 200.000mg,10010100,,,,CPRD_AURUM
+8.96441E+14,Meptid 200mg tablets (Almirall Ltd) Tablet Oral Meptazinol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+8.78241E+14,Meptid 100mg/1ml solution for injection ampoules (Almirall Ltd) Solution for injection Intravenous/ Intramuscular Meptazinol hydrochloride 100.000mg/1.000ml,4070200,,,,CPRD_AURUM
+6.25141E+14,Galcodine 3mg/5ml linctus paediatric (Thornton & Ross Ltd) Oral solution Oral Codeine phosphate 600.000microgram/1.000ml,,,,,CPRD_AURUM
+9.16741E+14,Migraleve Pink tablets (McNeil Products Ltd) Tablet Oral Buclizine hydrochloride/ Codeine phosphate/ Paracetamol 6.250mg + 8.000mg + 500.000mg,4070401,,,,CPRD_AURUM
+9.18241E+14,Migraleve tablets (McNeil Products Ltd) Not applicable   ,4070401,,,,CPRD_AURUM
+2.87534E+15,Co-codamol 15mg/500mg tablets Tablet Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+2.85004E+15,Codipar 15mg/500mg tablets (Advanz Pharma) Tablet Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+6.13794E+15,Kapake 15mg/500mg tablets (Galen Ltd) Tablet Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,,,,,CPRD_AURUM
+1.04304E+15,Paramol tablets (SSL International Plc) Tablet Oral Dihydrocodeine tartrate/ Paracetamol 7.460mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.14054E+15,Propain caplets (Ceuta Healthcare Ltd) Tablet Oral Caffeine/ Codeine phosphate/ Diphenhydramine hydrochloride/ Paracetamol 50.000mg + 10.000mg + 5.000mg + 400.000mg,4070100,,,,CPRD_AURUM
+8.24614E+15,Solpadeine Plus capsules (Omega Pharma Ltd) Capsule Oral Caffeine/ Codeine phosphate/ Paracetamol 30.000mg + 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.51214E+15,Veganin tablets (Omega Pharma Ltd) Tablet Oral Caffeine/ Codeine phosphate/ Paracetamol 30.000mg + 8.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+3.93444E+15,Codis 500 dispersible tablets (Reckitt Benckiser Healthcare (UK) Ltd) Dispersible tablet Oral Aspirin/ Codeine phosphate 500.000mg + 8.000mg,4070100,,,,CPRD_AURUM
+3.93434E+15,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free Dispersible tablet Oral Aspirin/ Codeine phosphate 500.000mg + 8.000mg,4070100,,,,CPRD_AURUM
+2.98034E+15,Tramadol 50mg orodispersible tablets sugar free Orodispersible tablet Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+2.98044E+15,Zamadol Melt 50mg tablets (Mylan) Orodispersible tablet Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+3.18034E+15,Tramadol 37.5mg / Paracetamol 325mg tablets Tablet Oral Paracetamol/ Tramadol hydrochloride 325.000mg + 37.500mg,4070200,,,,CPRD_AURUM
+3.05764E+15,Tramacet 37.5mg/325mg tablets (Grunenthal Ltd) Tablet Oral Paracetamol/ Tramadol hydrochloride 325.000mg + 37.500mg,4070200,,,,CPRD_AURUM
+1.29052E+16,Trapadex 37.5mg/325mg tablets (Noumed Life Sciences Ltd) Tablet Oral Paracetamol/ Tramadol hydrochloride 325.000mg + 37.500mg,,,,,CPRD_AURUM
+1.40314E+15,Syndol caplets (Sanofi) Tablet Oral Caffeine/ Codeine phosphate/ Doxylamine succinate/ Paracetamol 30.000mg + 10.000mg + 5.000mg + 450.000mg,4070100,,,,CPRD_AURUM
+3.85144E+15,Co-dydramol 10mg/500mg/5ml oral suspension Oral suspension Oral Dihydrocodeine tartrate/ Paracetamol 2.000mg/1.000ml + 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.40841E+14,Benylin with Codeine oral solution (Pfizer Consumer Healthcare Ltd) Oral solution Oral Codeine phosphate/ Diphenhydramine hydrochloride/ Levomenthol 1.140mg/1.000ml + 2.800mg/1.000ml + 220.000microgram/1.000ml,3090200,,,,CPRD_AURUM
+1.17362E+16,Solpadeine Plus soluble tablets (Omega Pharma Ltd) Soluble tablet Oral Caffeine/ Codeine phosphate/ Paracetamol 30.000mg + 8.000mg + 500.000mg,,,,,CPRD_AURUM
+3.70941E+14,Co-codaprin 8mg/400mg tablets Tablet Oral Aspirin/ Codeine phosphate 400.000mg + 8.000mg,,,,,CPRD_AURUM
+4.25914E+15,Tramadol 50mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 50.000mg,,,,,CPRD_AURUM
+4.25924E+15,Zydol SR 50mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 50.000mg,,,,,CPRD_AURUM
+5.89124E+15,Co-dydramol 10mg/500mg/5ml oral solution Oral solution Oral Dihydrocodeine tartrate/ Paracetamol 2.000mg/1.000ml + 100.000mg/1.000ml,,,,,CPRD_AURUM
+3.68441E+14,Codeine 15mg/5ml linctus Oral solution Oral Codeine phosphate 3.000mg/1.000ml,3090100,,,,CPRD_AURUM
+5.59594E+15,Tramadol 37.5mg / Paracetamol 325mg effervescent tablets sugar free  Effervescent tablet Oral Paracetamol/ Tramadol hydrochloride 325.000mg + 37.500mg,4070200,,,,CPRD_AURUM
+5.59604E+15,Tramacet 37.5mg/325mg effervescent tablets (Grunenthal Ltd)  Effervescent tablet Oral Paracetamol/ Tramadol hydrochloride 325.000mg + 37.500mg,4070200,,,,CPRD_AURUM
+1.25836E+16,Solpadeine Max soluble tablets (Omega Pharma Ltd)  Effervescent tablet Oral Caffeine/ Codeine phosphate/ Paracetamol 30.000mg + 12.800mg + 500.000mg,,,,,CPRD_AURUM
+6.43144E+15,Codipar 15mg/500mg capsules (Advanz Pharma) Capsule Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,,,,,CPRD_AURUM
+6.43134E+15,Co-codamol 15mg/500mg capsules Capsule Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,,,,,CPRD_AURUM
+6.38914E+15,Tramadol 100mg/ml oral drops Oral drops Oral Tramadol hydrochloride 100.000mg/1.000ml,,,,,CPRD_AURUM
+6.38644E+15,Co-codamol 15mg/500mg effervescent tablets sugar free  Effervescent tablet Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+6.38654E+15,Codipar 15mg/500mg effervescent tablets (Advanz Pharma)  Effervescent tablet Oral Codeine phosphate/ Paracetamol 15.000mg + 500.000mg,4070100,,,,CPRD_AURUM
+1.23536E+16,Zytram SR 100mg tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.15678E+16,Maneo 100mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+2.07854E+15,Dromadol SR 200mg tablets (Teva UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+1.56474E+15,Zydol SR 200mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+4.02864E+15,Larapam SR 200mg tablets (Sandoz Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+1.1783E+16,Tramadol 75mg / Paracetamol 650mg tablets Tablet Oral Paracetamol/ Tramadol hydrochloride 650.000mg + 75.000mg,,,,,CPRD_AURUM
+1.23561E+16,Co-codamol 60mg/1000mg tablets Tablet Oral Codeine phosphate/ Paracetamol 60.000mg + 1.000gram,,,,,CPRD_AURUM
+1.24716E+16,Skudexa 75mg/25mg tablets (A. Menarini Farmaceutica Internazionale SRL) Tablet Oral Dexketoprofen/ Tramadol hydrochloride 25.000mg + 75.000mg,,,,,CPRD_AURUM
+1.24715E+16,Tramadol 75mg / Dexketoprofen 25mg tablets Tablet Oral Dexketoprofen/ Tramadol hydrochloride 25.000mg + 75.000mg,,,,,CPRD_AURUM
+3.36041E+14,Codeine 3mg/5ml linctus paediatric Oral solution Oral Codeine phosphate 600.000microgram/1.000ml,3090100,,,,CPRD_AURUM
+1.2389E+16,Brimisol PR 100mg tablets (Bristol Laboratories Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.54924E+15,Zamadol SR 100mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+4.89924E+15,Maxitram SR 100mg capsules (Chiesi Ltd) Modified-release capsule Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+4.52314E+15,Tramquel SR 100mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.46264E+15,Tramadol 100mg modified-release capsules Modified-release capsule Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+3.99644E+15,Tradorec XL 100mg tablets (Endo Ventures Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+4.45934E+15,Tramulief SR 100mg tablets (Advanz Pharma) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+4.42424E+15,Nobligan retard 100mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+4.41774E+15,Zeridame SR 100mg tablets (Actavis UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+1.23469E+16,Oldaram 100mg modified-release tablets (Ranbaxy (UK) Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+4.82424E+15,Marol 100mg modified-release tablets (Teva UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.235E+16,Tilodol SR 100mg tablets (Sandoz Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.23464E+16,Invodol SR 100mg tablets (Ennogen Healthcare Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+2.07834E+15,Dromadol SR 100mg tablets (Teva UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,,,,,CPRD_AURUM
+1.56454E+15,Zydol SR 100mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+4.02834E+15,Larapam SR 100mg tablets (Sandoz Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+3.90954E+15,Mabron 100mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+1.46234E+15,Tramadol 100mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 100.000mg,4070200,,,,CPRD_AURUM
+1.71314E+15,Zamadol 100mg/2ml solution for injection ampoules (Mylan) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Tramadol hydrochloride 50.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.56444E+15,Zydol 100mg/2ml solution for injection ampoules (Grunenthal Ltd) Solution for injection Intravenous/ Intramuscular Tramadol hydrochloride 50.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.45924E+15,Tramadol 100mg/2ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Tramadol hydrochloride 50.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.54934E+15,Zamadol SR 150mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+4.89934E+15,Maxitram SR 150mg capsules (Chiesi Ltd) Modified-release capsule Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+4.52324E+15,Tramquel SR 150mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.46274E+15,Tramadol 150mg modified-release capsules Modified-release capsule Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+4.41764E+15,Zeridame SR 150mg tablets (Actavis UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+4.45944E+15,Tramulief SR 150mg tablets (Advanz Pharma) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.2347E+16,Oldaram 150mg modified-release tablets (Ranbaxy (UK) Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+4.82434E+15,Marol 150mg modified-release tablets (Teva UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.23466E+16,Invodol SR 150mg tablets (Ennogen Healthcare Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.23501E+16,Tilodol SR 150mg tablets (Sandoz Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+2.07844E+15,Dromadol SR 150mg tablets (Teva UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+2.18344E+15,Dromadol XL 150mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.56464E+15,Zydol SR 150mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+1.85014E+15,Zydol XL 150mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+3.90964E+15,Mabron 150mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+3.34414E+15,Zamadol 24hr 150mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+4.02854E+15,Larapam SR 150mg tablets (Sandoz Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+1.46244E+15,Tramadol 150mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 150.000mg,4070200,,,,CPRD_AURUM
+1.23537E+16,Zytram SR 150mg tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.15681E+16,Maneo 150mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 150.000mg,,,,,CPRD_AURUM
+1.54944E+15,Zamadol SR 200mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+4.89944E+15,Maxitram SR 200mg capsules (Chiesi Ltd) Modified-release capsule Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+4.52334E+15,Tramquel SR 200mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+1.46284E+15,Tramadol 200mg modified-release capsules Modified-release capsule Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+3.99654E+15,Tradorec XL 200mg tablets (Endo Ventures Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+4.45954E+15,Tramulief SR 200mg tablets (Advanz Pharma) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+4.41754E+15,Zeridame SR 200mg tablets (Actavis UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+1.23471E+16,Oldaram 200mg modified-release tablets (Ranbaxy (UK) Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+4.82444E+15,Marol 200mg modified-release tablets (Teva UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+1.23502E+16,Tilodol SR 200mg tablets (Sandoz Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+1.23467E+16,Invodol SR 200mg tablets (Ennogen Healthcare Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+1.85024E+15,Zydol XL 200mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+2.18354E+15,Dromadol XL 200mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+3.34424E+15,Zamadol 24hr 200mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+3.90974E+15,Mabron 200mg modified-release tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+1.46254E+15,Tramadol 200mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 200.000mg,4070200,,,,CPRD_AURUM
+1.23538E+16,Zytram SR 200mg tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+1.15684E+16,Maneo 200mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM
+3.34434E+15,Zamadol 24hr 300mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 300.000mg,4070200,,,,CPRD_AURUM
+2.18364E+15,Dromadol XL 300mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 300.000mg,,,,,CPRD_AURUM
+1.85034E+15,Zydol XL 300mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 300.000mg,4070200,,,,CPRD_AURUM
+3.99664E+15,Tradorec XL 300mg tablets (Endo Ventures Ltd) Modified-release tablet Oral Tramadol hydrochloride 300.000mg,4070200,,,,CPRD_AURUM
+1.84994E+15,Tramadol 300mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 300.000mg,4070200,,,,CPRD_AURUM
+2.18374E+15,Dromadol XL 400mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 400.000mg,,,,,CPRD_AURUM
+1.85044E+15,Zydol XL 400mg tablets (Grunenthal Ltd) Modified-release tablet Oral Tramadol hydrochloride 400.000mg,4070200,,,,CPRD_AURUM
+3.34444E+15,Zamadol 24hr 400mg modified-release tablets (Mylan) Modified-release tablet Oral Tramadol hydrochloride 400.000mg,4070200,,,,CPRD_AURUM
+1.85004E+15,Tramadol 400mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 400.000mg,4070200,,,,CPRD_AURUM
+2.07824E+15,Dromadol SR 75mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Tramadol hydrochloride 75.000mg,,,,,CPRD_AURUM
+2.07814E+15,Tramadol 75mg modified-release tablets Modified-release tablet Oral Tramadol hydrochloride 75.000mg,,,,,CPRD_AURUM
+1.23539E+16,Zytram SR 75mg tablets (Qdem Pharmaceuticals Ltd) Modified-release tablet Oral Tramadol hydrochloride 75.000mg,,,,,CPRD_AURUM
+1.54954E+15,Zamadol SR 50mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+4.52304E+15,Tramquel SR 50mg capsules (Mylan) Modified-release capsule Oral Tramadol hydrochloride 50.000mg,,,,,CPRD_AURUM
+4.89914E+15,Maxitram SR 50mg capsules (Chiesi Ltd) Modified-release capsule Oral Tramadol hydrochloride 50.000mg,,,,,CPRD_AURUM
+1.46294E+15,Tramadol 50mg modified-release capsules Modified-release capsule Oral Tramadol hydrochloride 50.000mg,4070200,,,,CPRD_AURUM
+3.36741E+14,Codafen Continus tablets (Napp Pharmaceuticals Ltd) Modified-release tablet Oral Codeine phosphate/ Ibuprofen 20.000mg + 300.000mg,,,,,CPRD_AURUM
+3.22914E+15,Ibuprofen 300mg modified-release / Codeine 20mg tablets Modified-release tablet Oral Codeine phosphate/ Ibuprofen 20.000mg + 300.000mg,,,,,CPRD_AURUM
+4.50641E+14,Dihydrocodeine 50mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intramuscular Dihydrocodeine tartrate 50.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.32141E+14,Codeine 60mg/1ml solution for injection ampoules Solution for injection Intramuscular Codeine phosphate 60.000mg/1.000ml,4070200,,,,CPRD_AURUM
+2.08614E+15,Codeine phosphate powder Not applicable Route of administration not applicable Codeine phosphate 1.000mg/1.000mg,,,,,CPRD_AURUM
+4.42841E+14,Dihydrocodeine 10mg/5ml oral solution Oral solution Oral Dihydrocodeine tartrate 2.000mg/1.000ml,4070200,,,,CPRD_AURUM
+3.68541E+14,Codeine 25mg/5ml oral solution Oral solution Oral Codeine phosphate 5.000mg/1.000ml,4070200,,,,CPRD_AURUM
+1.34177E+16,Co-codamol 30mg/500mg/5ml oral solution sugar free Oral solution Oral Codeine phosphate/ Paracetamol 6.000mg/1.000ml + 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.35829E+16,Dihydrocodeine 10mg/5ml oral suspension Dihydrocodeine 10mg/5ml oral suspension Oral suspension Oral Dihydrocodeine tartrate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.34975E+16,Co-codamol 8mg/500mg effervescent tablets sugar free Co-codamol 8mg/500mg effervescent tablets sugar free Effervescent tablet Oral Codeine phosphate/ Paracetamol 8.000mg + 500.000mg,,,,,CPRD_AURUM
+1.3712E+16,Brimisol PR 200mg tablets (Bristol Laboratories Ltd) Brimisol PR 200mg tablets Modified-release tablet Oral Tramadol hydrochloride 200.000mg,,,,,CPRD_AURUM

@@ -1,0 +1,398 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+73419,Trazodone 150mg tablets (A A H Pharmaceuticals Ltd) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+64458,Clomipramine 25mg/5ml oral suspension Clomipramine hydrochloride 5mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+35493,Sinepin 50mg capsules (Marlborough Pharmaceuticals Ltd) Doxepin hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+73639,Trazodone 100mg capsules (Actavis UK Ltd) Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+55139,Amitriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+3842,Doxepin 10mg capsules Doxepin hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+2525,Amitriptyline 75mg modified-release capsules Amitriptyline Hydrochloride 75mg Modified Release Capsules Oral,4030100,4070300,,,CPRD_GOLD
+57978,Trimipramine 25mg tablets (Waymade Healthcare Plc) Trimipramine maleate 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+55970,Nortriptyline 10mg tablets (King Pharmaceuticals Ltd) Nortriptyline hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+35258,Sinepin 25mg capsules (Marlborough Pharmaceuticals Ltd) Doxepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+41681,Imipramine 10mg tablets (A A H Pharmaceuticals Ltd) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+40396,Amitriptyline 50mg Tablet (Berk Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+19752,DEPIXOL (10ML VIAL)    ,0,,,,CPRD_GOLD
+79826,Amitriptyline 10mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+61835,Amitriptyline 10mg tablets (DE Pharmaceuticals) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+56703,Lofepramine 70mg tablets (Sandoz Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+65987,Amitriptyline 25mg tablets (Crescent Pharma Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+19779,Amitriptyline 10mg/ml injection Amitriptyline Hydrochloride 10mg/ml Injection ,4030100,,,,CPRD_GOLD
+62681,Dosulepin 75mg tablets (Sandoz Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+2533,TRIMIPRAMINE 50 MG TAB    ,0,,,,CPRD_GOLD
+34578,Lofepramine 70mg tablets (IVAX Pharmaceuticals UK Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+34470,Trazodone 150mg tablets (Zentiva) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+32439,Amitriptyline 25mg Tablet (Sussex Pharmaceutical Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+873,AMITRIPTYLINE 100 MG TAB    ,0,,,,CPRD_GOLD
+1809,Imipramine 25mg tablets Imipramine hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+66749,Trazodone 10mg/5ml oral solution Trazodone hydrochloride 2mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+34355,Imipramine 25mg tablets (Accord Healthcare Ltd) Imipramine hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+7059,Doxepin 75mg capsules Doxepin hydrochloride 75mg Capsule Oral,4030100,,,,CPRD_GOLD
+34197,Amitriptyline 25mg Tablet (Berk Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+41628,Clomipramine 10mg capsules (IVAX Pharmaceuticals UK Ltd) Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+42078,Amitriptyline 25mg tablets (Almus Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+2486,Lentizol 25mg modified-release capsules (Pfizer Ltd) Amitriptyline hydrochloride 25mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+78057,Clomipramine 5mg/5ml oral solution Clomipramine hydrochloride 1mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+70838,Dosulepin 25mg Capsule (Celltech Pharma Europe Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+15975,Xepin 5% cream (Cambridge Healthcare Supplies Ltd) Doxepin hydrochloride 50mg/1gram Cream Cutaneous,13030000,,,,CPRD_GOLD
+60355,Amitriptyline 25mg tablets (Phoenix Healthcare Distribution Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+39145,Nortriptyline 10mg/5ml Liquid Nortriptyline Hydrochloride 10mg/5ml Liquid Oral,4030100,4070300,,,CPRD_GOLD
+12129,Sinequan 25mg capsules (Pfizer Ltd) Doxepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+70991,Amitriptyline 10mg tablets (Arrow Generics Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+21819,Prepadine 75mg tablets (Teva UK Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+33624,Amitriptyline 50mg tablets (Teva UK Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+64330,Amitriptyline 50mg tablets (Almus Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+10649,IMIPRAMINE 75 MG TAB    ,0,,,,CPRD_GOLD
+42734,Dosulepin 75mg tablets (Almus Pharmaceuticals Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+27876,AMITRIPTYLINE    ,0,,,,CPRD_GOLD
+76952,Amitriptyline 5mg/5ml oral suspension Amitriptyline hydrochloride 1mg/1ml Oral suspension Oral,4030100,4070300,4070402,,CPRD_GOLD
+29875,Dosulepin 25mg capsules (Mylan) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+45242,Amitriptyline 10mg Tablet (Sussex Pharmaceutical Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+67990,Prothiaden 25mg capsules (Sigma Pharmaceuticals Plc) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+34046,Lofepramine 70mg tablets (A A H Pharmaceuticals Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+25070,LOFEPRAMINE    ,0,,,,CPRD_GOLD
+58450,Feprapax 70mg tablets (Ashbourne Pharmaceuticals Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+50722,Dosulepin 25mg/5ml oral solution Dosulepin hydrochloride 5mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+31824,Dosulepin 25mg capsules (IVAX Pharmaceuticals UK Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+29339,Trazodone 50mg capsules (Mylan) Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+79401,Amitriptyline 100mg/5ml oral solution Amitriptyline hydrochloride 20mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+19168,Dosulepin 25mg/5ml mixture Dosulepin Hydrochloride 25mg/5ml Mixture Oral,4030100,,,,CPRD_GOLD
+62620,Clomipramine 10mg capsules (Mylan) Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+4690,Amitriptyline 50mg/5ml oral solution sugar free Amitriptyline hydrochloride 10mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+20571,Fluphenazine with nortriptyline 500microgramswith10mg Tablet Fluphenazine Hydrochloride/Nortriptyline Hydrochloride 500mcg + 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+2276,Flupentixol 40mg/2ml solution for injection ampoules Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+76839,Amitriptyline 10mg tablets (Genesis Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+3195,CLOMIPRAMINE 25 MG TAB    ,0,,,,CPRD_GOLD
+25015,DEPIXOL-CONC (1ML AMP)    ,0,,,,CPRD_GOLD
+3183,Nortriptyline 10mg tablets Nortriptyline hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+68228,Nortriptyline 10mg/5ml oral suspension Nortriptyline hydrochloride 2mg/1ml Oral suspension Oral,4030100,7040251,,,CPRD_GOLD
+45737,Dosulepin 25mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd) Dosulepin Hydrochloride 25mg/5ml Oral Solution Oral,4030100,,,,CPRD_GOLD
+34058,Dosulepin 75mg tablets (Teva UK Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+8878,Tryptizol 10mg/5ml sugar free Oral solution (Merck Sharp and Dohme Ltd) Amitriptyline Hydrochloride 10mg/5ml Oral Solution Oral,4030100,4070300,,,CPRD_GOLD
+76480,Trazodone 150mg tablets (Alliance Healthcare (Distribution) Ltd) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+3670,Clomipramine 25mg capsules Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+3951,Fluanxol 1mg tablets (Lundbeck Ltd) Flupentixol dihydrochloride 1mg Tablet Oral,4030400,,,,CPRD_GOLD
+20712,AMITRIPTYLINE S/R    ,0,,,,CPRD_GOLD
+34003,Trazodone 50mg capsules (A A H Pharmaceuticals Ltd) Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+1310,Imipramine 10mg tablets Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+1453,Triptafen m 2mg+10mg Tablet (Goldshield Pharmaceuticals Ltd) Amitriptyline hydrochloride/Perphenazine 10mg + 2mg Tablet Oral,4020100,4030100,,,CPRD_GOLD
+5712,Depixol 3mg tablets (Lundbeck Ltd) Flupentixol dihydrochloride 3mg Tablet Oral,4020101,,,,CPRD_GOLD
+5190,Doxepin 5% cream Doxepin hydrochloride 50mg/1gram Cream Cutaneous,13030000,,,,CPRD_GOLD
+21353,XEPIN    ,0,,,,CPRD_GOLD
+24141,Amitriptyline 10mg tablets (Actavis UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+4404,Tofranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Imipramine hydrochloride 5mg/1ml Oral solution Oral,0,,,,CPRD_GOLD
+65762,Clomipramine 25mg capsules (Waymade Healthcare Plc) Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+24134,Amitriptyline 25mg tablets (Kent Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+70521,Trazodone 50mg/5ml oral solution sugar free (Advanz Pharma) Trazodone hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+3668,IMIPRAMINE 100 MG TAB    ,0,,,,CPRD_GOLD
+73636,Trazodone 150mg tablets (Actavis UK Ltd) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+24147,Amitriptyline 25mg tablets (Teva UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+19283,Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+3554,Doxepin 25mg capsules Doxepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+53161,Clomipramine 50mg/5ml oral solution Clomipramine hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+77497,Amitriptyline 75mg/5ml oral solution Amitriptyline hydrochloride 15mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+5073,Doxepin 50mg capsules Doxepin hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+77717,Lofepramine 70mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) Lofepramine hydrochloride 14mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+64000,Amitriptyline 10mg/5ml oral solution sugar free Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+34503,Amitriptyline 25mg tablets (IVAX Pharmaceuticals UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+9558,Xepin 5% Cream (Bioglan Laboratories Ltd) Doxepin hydrochloride 50mg/1gram Cream Cutaneous,13030000,,,,CPRD_GOLD
+4020,Trazodone 150mg tablets Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+34401,Amitriptyline 10mg tablets (Wockhardt UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+2093,Gamanil 70mg tablets (Merck Serono Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+77229,Amitriptyline 10mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,0,,,,CPRD_GOLD
+24152,Amitriptyline 10mg tablets (Teva UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+67742,Lofepramine 70mg tablets (Mylan) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+3194,Clomipramine 10mg capsules Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+57170,Psytixol 100mg/1ml solution for injection ampoules (Mylan) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+20026,Domical 25mg Tablet (Berk Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+27616,PROTHIADEN    ,0,,,,CPRD_GOLD
+26822,PROTHIADEN    ,0,,,,CPRD_GOLD
+55620,Flupentixol Liquid Flupentixol Dihydrochloride  Liquid ,4020100,4030400,,,CPRD_GOLD
+182,Tryptizol 10mg/ml Injection (Merck Sharp & Dohme Ltd) Amitriptyline Hydrochloride 10mg/ml Injection ,4030100,,,,CPRD_GOLD
+2985,Lentizol 50mg modified-release capsules (Pfizer Ltd) Amitriptyline hydrochloride 50mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+7910,Tofranil 25mg tablets (Novartis Pharmaceuticals UK Ltd) Imipramine hydrochloride 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+84,Dosulepin 25mg capsules Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+2136,Depixol 20mg/ml Injection (Lundbeck Ltd) Flupentixol Decanoate 20mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+2532,Surmontil 25mg tablets (Sanofi) Trimipramine maleate 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+34245,Clomipramine 25mg capsules (A A H Pharmaceuticals Ltd) Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+27008,Domical 50mg Tablet (Berk Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+65879,Amitriptyline 10mg tablets (Sigma Pharmaceuticals Plc) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+4218,Lofepramine 70mg/5ml oral suspension sugar free Lofepramine hydrochloride 14mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+33074,Praminil 10mg Tablet (DDSA Pharmaceuticals Ltd) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040200,,,CPRD_GOLD
+30738,AMITRIPTYLINE S/F    ,0,,,,CPRD_GOLD
+25444,Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd) Lofepramine hydrochloride 14mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+8726,Tryptizol 10mg Tablet (Merck Sharp & Dohme Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+8174,Molipaxin 50mg/5ml oral liquid (Sanofi) Trazodone hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+66493,Trimipramine 25mg/5ml oral suspension Trimipramine maleate 5mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+3083,Mianserin 10mg tablets Mianserin hydrochloride 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+8831,Tryptizol mr 75mg Modified-release capsule (Merck Sharp & Dohme Ltd) Amitriptyline Hydrochloride 75mg Modified-Release Capsule Oral,4030100,4070300,,,CPRD_GOLD
+5707,Flupentixol 3mg tablets Flupentixol dihydrochloride 3mg Tablet Oral,4020101,,,,CPRD_GOLD
+77167,Amitriptyline 25mg tablets (Ranbaxy (UK) Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+1169,Prothiaden 25mg capsules (Teofarma) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+59816,Psytixol 50mg/0.5ml solution for injection ampoules (Mylan) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+18155,Flupentixol 50mg/0.5ml solution for injection ampoules Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+73363,Doxepin 50mg/5ml oral solution Doxepin hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+14519,Sinequan 75mg capsules (Pfizer Ltd) Doxepin hydrochloride 75mg Capsule Oral,4030100,,,,CPRD_GOLD
+8250,AMITRIPTYLINE S/F 25 MG/5ML SYR    ,0,,,,CPRD_GOLD
+12125,Sinequan 50mg capsules (Pfizer Ltd) Doxepin hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+6255,Mianserin 30mg tablets Mianserin hydrochloride 30mg Tablet Oral,4030100,,,,CPRD_GOLD
+8928,Surmontil 10mg tablets (Sanofi) Trimipramine maleate 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+72291,Trazodone 100mg/5ml oral solution sugar free Trazodone hydrochloride 20mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+48065,Amitriptyline oral solution Amitriptyline Hydrochloride  Oral Liquid Oral,4030100,4070300,,,CPRD_GOLD
+4003,Molipaxin 150mg tablets (Zentiva) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+6312,Amitriptyline 25mg/5ml oral solution sugar free Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+71042,Amitriptyline 25mg tablets (Arrow Generics Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+7894,Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd) Clomipramine hydrochloride 75mg Modified-release tablet Oral,4030100,,,,CPRD_GOLD
+69355,Trazodone Oral solution Trazodone Hydrochloride  Oral Solution ,4030100,,,,CPRD_GOLD
+78221,Amitriptyline 50mg tablets (DE Pharmaceuticals) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+66201,Nortriptyline 25mg tablets (Sigma Pharmaceuticals Plc) Nortriptyline hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+34421,Trazodone 50mg capsules (Zentiva) Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+71031,Trazodone 50mg capsules (Actavis UK Ltd) Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+8712,Flupentixol decanoate 100mg/ml Injection Flupentixol Decanoate 100mg/ml Injection ,4020200,,,,CPRD_GOLD
+71253,Imipramine 10mg tablets (DE Pharmaceuticals) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+59161,Amitriptyline 10mg tablets (Waymade Healthcare Plc) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+76317,Dosulepin 25mg capsules (Strides Pharma UK Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+67728,Dosulepin 75mg tablets (Alliance Healthcare (Distribution) Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+7784,IMIPRAMINE 50 MG TAB    ,0,,,,CPRD_GOLD
+8055,Imipramine 25mg/5ml oral solution Imipramine hydrochloride 5mg/1ml Oral solution Oral,0,,,,CPRD_GOLD
+74586,Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+34223,Dosulepin 25mg capsules (Teva UK Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+7515,Anafranil 10mg capsules (Novartis Pharmaceuticals UK Ltd) Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+7780,Nortriptyline 10mg / Fluphenazine 500microgram tablets Fluphenazine hydrochloride/Nortriptyline hydrochloride 500microgram + 10mg Tablet Oral,0,,,,CPRD_GOLD
+21081,Amitriptyline 12.5mg / Chlordiazepoxide 5mg capsules Amitriptyline Hydrochloride/Chlordiazepoxide 12.5mg + 5mg Capsules Oral,4030100,,,,CPRD_GOLD
+26213,Domical 10mg Tablet (Berk Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+42228,Trimipramine 10mg tablets (A A H Pharmaceuticals Ltd) Trimipramine maleate 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+46818,Amitriptyline 10mg/5ml oral suspension Amitriptyline hydrochloride 2mg/1ml Oral suspension Oral,4030100,4070300,4070402,,CPRD_GOLD
+3196,Trimipramine 50mg capsules Trimipramine maleate 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+30983,Trazodone 150mg tablets (Mylan) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+48216,Nortriptyline 25mg tablets (A A H Pharmaceuticals Ltd) Nortriptyline hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+71023,Dosulepin 25mg/5ml oral solution sugar free (Special Order) Dosulepin hydrochloride 5mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+11963,Limbitrol 10 Capsule (Roche Products Ltd) Amitriptyline Hydrochloride/Chlordiazepoxide  Capsule Oral,4030100,,,,CPRD_GOLD
+70593,Dosulepin 25mg/5ml oral suspension Dosulepin hydrochloride 5mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+487,Amitriptyline 25mg modified-release capsules Amitriptyline hydrochloride 25mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+43024,Dosulepin 100mg/5ml oral solution Dosulepin hydrochloride 20mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+65804,Clomipramine 50mg capsules (Teva UK Ltd) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+57972,Amitriptyline 10mg tablets (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+60782,Psytixol 20mg/1ml solution for injection ampoules (Mylan) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+69317,Nortriptyline 50mg tablets Nortriptyline hydrochloride 50mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+34474,Amitriptyline 25mg Tablet (Regent Laboratories Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+12710,Trazodone 150mg modified-release tablets Trazodone hydrochloride 150mg Modified-release tablet Oral,0,,,,CPRD_GOLD
+50592,Fluanxol 1mg tablets (Sigma Pharmaceuticals Plc) Flupentixol dihydrochloride 1mg Tablet Oral,4030400,,,,CPRD_GOLD
+1940,Dothapax 25 capsules (Ashbourne Pharmaceuticals Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+68665,Clomipramine 10mg capsules (Almus Pharmaceuticals Ltd) Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+24145,Amitriptyline 25mg tablets (Actavis UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+42394,Amitriptyline 25mg Tablet (Crosspharma Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+66919,Trimipramine 50mg capsules (Waymade Healthcare Plc) Trimipramine maleate 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+13621,Molipaxin CR 150mg tablets (Aventis Pharma) Trazodone hydrochloride 150mg Modified-release tablet Oral,0,,,,CPRD_GOLD
+67127,Amitriptyline 25mg/5ml oral solution sugar free (DE Pharmaceuticals) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+21157,Thaden 75mg tablets (Opus Pharmaceuticals Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+41609,Trazodone 50mg capsules (Teva UK Ltd) Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+21820,Prepadine 25mg capsules (Teva UK Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+57107,Amitriptyline 10mg tablets (Phoenix Healthcare Distribution Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+52867,Amitriptyline 10mg tablets (Accord Healthcare Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+2579,Tofranil 10mg Tablet (Novartis Pharmaceuticals UK Ltd) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040200,,,CPRD_GOLD
+14966,Flupentixol 20mg/1ml solution for injection ampoules Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+74688,Fluanxol 500microgram tablets (Necessity Supplies Ltd) Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+65237,Nortriptyline 10mg tablets (A A H Pharmaceuticals Ltd) Nortriptyline hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+7573,IMIPRAMINE 25 MG CAP    ,0,,,,CPRD_GOLD
+114,Lofepramine 70mg tablets Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+59820,Amitriptyline 50mg/5ml oral solution sugar free (Wockhardt UK Ltd) Amitriptyline hydrochloride 10mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+72626,Nortriptyline 10mg/5ml oral solution Nortriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,7040251,,,CPRD_GOLD
+77227,Clomipramine 50mg capsules (Waymade Healthcare Plc) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+33164,Dosulepin 25mg capsules (Sandoz Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+34872,Imipramine 25mg Tablet (C P Pharmaceuticals Ltd) Imipramine hydrochloride 25mg Tablet Oral,4030100,7040200,,,CPRD_GOLD
+1888,Amitriptyline 50mg tablets Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+18197,Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+600,Flupentixol 1mg tablets Flupentixol dihydrochloride 1mg Tablet Oral,4030400,,,,CPRD_GOLD
+3903,Nortriptyline 25mg tablets Nortriptyline hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+61657,Trazodone 75mg/5ml oral solution Trazodone hydrochloride 15mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+34634,Amitriptyline 50mg tablets (Accord Healthcare Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+65483,Vortioxetine 10mg tablets Vortioxetine hydrobromide 10mg Tablet Oral,4030400,,,,CPRD_GOLD
+80135,Amitriptyline 10mg tablets (NorthStar Healthcare Unlimited Company) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+80399,Trazodone 50mg/5ml oral suspension Trazodone hydrochloride 10mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+4310,Trimipramine 10mg tablets Trimipramine maleate 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+2155,Depixol -conc 100mg/ml Injection (Lundbeck Ltd) Flupentixol Decanoate 100mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+25085,TRIMIPRAMINE    ,0,,,,CPRD_GOLD
+25045,TRIMIPRAMINE    ,0,,,,CPRD_GOLD
+3771,AMITRIPTYLINE 75 MG TAB    ,0,,,,CPRD_GOLD
+74,Dosulepin 75mg tablets Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+10948,Dosulepin 75mg/5ml oral solution sugar free Dosulepin Hydrochloride 75mg/5ml Oral Solution Sugar-Free Oral,4030100,,,,CPRD_GOLD
+27565,FLUANXOL    ,0,,,,CPRD_GOLD
+83,Amitriptyline 10mg tablets Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+2320,Prothiaden 75mg tablets (Teofarma) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+14534,Limbitrol 5 Capsule (Roche Products Ltd) Amitriptyline Hydrochloride/Chlordiazepoxide  Capsule Oral,4030100,,,,CPRD_GOLD
+76927,Amitriptyline 2.5mg/5ml oral solution Amitriptyline hydrochloride 500microgram/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+41709,Trazodone 100mg capsules (Teva UK Ltd) Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+47363,Mianserin 20mg Tablet (Berk Pharmaceuticals Ltd) Mianserin hydrochloride 20mg Tablet Oral,4030100,,,,CPRD_GOLD
+3777,Amitriptyline 10mg/5ml sugar free oral solution Amitriptyline Hydrochloride 10mg/5ml Oral Solution Sugar-Free Oral,4030100,4070300,,,CPRD_GOLD
+64647,Amitriptyline 25mg tablets (DE Pharmaceuticals) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+46801,Amitriptyline 10mg/5ml oral solution Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+8332,Tryptizol 50mg Tablet (Merck Sharp & Dohme Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+23426,Dosulepin 25mg capsules (A A H Pharmaceuticals Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+32863,Imipramine 10mg tablets (Teva UK Ltd) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+66890,Vortioxetine 20mg tablets Vortioxetine hydrobromide 20mg Tablet Oral,4030400,,,,CPRD_GOLD
+34643,Dosulepin 25mg capsules (Almus Pharmaceuticals Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+4329,Mianserin 20mg tablets Mianserin hydrochloride 20mg Tablet Oral,0,,,,CPRD_GOLD
+12368,Norval 10mg Tablet (Bencard) Mianserin hydrochloride 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+71067,Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd) Lofepramine hydrochloride 70mg Tablet Oral,0,,,,CPRD_GOLD
+46970,Amitriptyline 50mg tablets (IVAX Pharmaceuticals UK Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,,,,CPRD_GOLD
+7693,Anafranil 50mg capsules (Novartis Pharmaceuticals UK Ltd) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+80546,Nortriptyline 10mg/5ml oral solution sugar free Nortriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,7040251,,,CPRD_GOLD
+8661,Clomipramine 75mg modified-release tablets Clomipramine hydrochloride 75mg Modified-release tablet Oral,4030100,,,,CPRD_GOLD
+3925,Clomipramine 50mg capsules Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+69991,Brintellix 20mg tablets (Lundbeck Ltd) Vortioxetine hydrobromide 20mg Tablet Oral,4030400,,,,CPRD_GOLD
+77130,Dosulepin 10mg/5ml oral solution Dosulepin hydrochloride 2mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+55138,Trazodone 250mg/5ml oral solution Trazodone hydrochloride 50mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+24680,Elavil 10mg Tablet (DDSA Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+8640,Allegron 25mg tablets (King Pharmaceuticals Ltd) Nortriptyline hydrochloride 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+27568,SURMONTIL    ,0,,,,CPRD_GOLD
+77474,Trazodone 50mg/5ml oral solution sugar free (Zentiva) Trazodone hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+22070,Amitriptyline 10mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd) Amitriptyline Hydrochloride 10mg/5ml Oral Solution Oral,4030100,4070300,,,CPRD_GOLD
+14521,SINEQUAN 15 MG TAB    ,0,,,,CPRD_GOLD
+34222,Imipramine 10mg tablets (Accord Healthcare Ltd) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+2275,Flupentixol 500microgram tablets Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+4682,Amitriptyline 50mg modified-release capsules Amitriptyline hydrochloride 50mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+65152,Trazodone 100mg/5ml oral solution Trazodone hydrochloride 20mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+78324,Clomipramine 50mg capsules (Mylan) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+32121,Dosulepin 75mg tablets (A A H Pharmaceuticals Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+34274,Amitriptyline 50mg tablets (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+34182,Amitriptyline 50mg tablets (Kent Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+2936,Motival 10mg/500microgram tablets (Sanofi) Fluphenazine hydrochloride/Nortriptyline hydrochloride 500microgram + 10mg Tablet Oral,0,,,,CPRD_GOLD
+65439,Amitriptyline 25mg tablets (Sandoz Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+2156,Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+34866,Clomipramine 10mg capsules (A A H Pharmaceuticals Ltd) Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+61842,Trazodone 50mg/5ml oral solution Trazodone hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+45233,Amitriptyline 10mg tablets (IVAX Pharmaceuticals UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+41597,Clomipramine 50mg capsules (IVAX Pharmaceuticals UK Ltd) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+34950,Lofepramine 70mg tablets (Accord Healthcare Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+34731,Amitriptyline 10mg tablets (Kent Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+64141,Amitriptyline 5mg/5ml oral solution Amitriptyline hydrochloride 1mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+3490,Amitriptyline 10mg / Perphenazine 2mg tablets Amitriptyline hydrochloride/Perphenazine 10mg + 2mg Tablet Oral,0,,,,CPRD_GOLD
+3355,Trazodone 50mg capsules Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+56501,Tofranil 25mg tablets (Lexon (UK) Ltd) Imipramine hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+25036,CLOMIPRAMINE HYDROCHLORIDE    ,0,,,,CPRD_GOLD
+65213,Trimipramine 50mg/5ml oral solution Trimipramine maleate 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+80352,Nortriptyline 10mg tablets (Accord Healthcare Ltd) Nortriptyline hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+43534,Lofepramine 70mg/5ml Oral suspension (Rosemont Pharmaceuticals Ltd) Lofepramine hydrochloride 14mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+12192,Norval 30mg Tablet (Bencard) Mianserin hydrochloride 30mg Tablet Oral,4030100,,,,CPRD_GOLD
+19186,Dosulepin 75mg tablets (Actavis UK Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+34224,Amitriptyline 25mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+66579,Amitriptyline 25mg tablets (Mawdsley-Brooks & Company Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+60410,Amitriptyline 25mg/5ml oral solution sugar free (Wockhardt UK Ltd) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+78224,Nortriptyline 25mg tablets (Waymade Healthcare Plc) Nortriptyline hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+34672,Lofepramine 70mg tablets (Sterwin Medicines) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+78364,Amitriptyline 25mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+65445,Trimipramine 50mg capsules (A A H Pharmaceuticals Ltd) Trimipramine maleate 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+33090,Amitriptyline 10mg tablets (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+63276,Nortriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd) Nortriptyline hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+4118,Nortriptyline 10mg Capsule Nortriptyline Hydrochloride 10mg Capsule Oral,4030100,4070300,,,CPRD_GOLD
+8144,Bolvidon 20mg Tablet (Organon Laboratories Ltd) Mianserin hydrochloride 20mg Tablet Oral,4030100,,,,CPRD_GOLD
+53187,Clomipramine 50mg capsules (Kent Pharmaceuticals Ltd) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+67935,Imipramine 10mg tablets (Almus Pharmaceuticals Ltd) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+10413,Sinequan 10mg capsules (Pfizer Ltd) Doxepin hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+15632,Dothapax 75 tablets (Ashbourne Pharmaceuticals Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+13496,AMITRIPTYLINE 200 MG TAB    ,0,,,,CPRD_GOLD
+34129,Amitriptyline 25mg tablets (Wockhardt UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+12353,Aventyl 25mg Capsule (Eli Lilly and Company Ltd) Nortriptyline Hydrochloride 25mg Capsule Oral,4030100,4070300,,,CPRD_GOLD
+17183,Aventyl 10mg Capsule (Eli Lilly and Company Ltd) Nortriptyline Hydrochloride 10mg Capsule Oral,4030100,4070300,,,CPRD_GOLD
+8719,Anafranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Clomipramine hydrochloride 5mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+38827,Triptafen-M tablets (Mercury Pharma Group Ltd) Amitriptyline hydrochloride/Perphenazine 10mg + 2mg Tablet Oral,0,,,,CPRD_GOLD
+8826,TOFRANIL 50 MG TAB    ,0,,,,CPRD_GOLD
+6894,Perphenazine 2mg with Amitriptyline 25mg tablet Amitriptyline Hydrochloride/Perphenazine 2mg + 25mg Tablets Oral,4020100,4030100,,,CPRD_GOLD
+45350,Clomipramine 25mg capsules (Teva UK Ltd) Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+34813,Imipramine 25mg tablets (A A H Pharmaceuticals Ltd) Imipramine hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+8585,Bolvidon 30mg Tablet (Organon Laboratories Ltd) Mianserin hydrochloride 30mg Tablet Oral,4030100,,,,CPRD_GOLD
+57226,Trazodone 25mg/5ml oral suspension Trazodone hydrochloride 5mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+42247,Imipramine 25mg/5ml oral solution sugar free Imipramine hydrochloride 5mg/1ml Oral solution Oral,4030100,7040251,,,CPRD_GOLD
+7678,Nortriptyline 25mg Capsule Nortriptyline Hydrochloride 25mg Capsule Oral,4030100,4070300,,,CPRD_GOLD
+55137,Trazodone 150mg/5ml oral suspension Trazodone hydrochloride 30mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+6054,Dosulepin 25mg/5ml oral solution sugar free Dosulepin Hydrochloride 25mg/5ml Oral Solution Sugar-Free Oral,4030100,,,,CPRD_GOLD
+65482,Vortioxetine 5mg tablets Vortioxetine hydrobromide 5mg Tablet Oral,4030400,,,,CPRD_GOLD
+18342,Amitriptyline 25mg / Chlordiazepoxide 10mg capsules Amitriptyline Hydrochloride/Chlordiazepoxide 25mg + 10mg Capsules Oral,4030100,,,,CPRD_GOLD
+70300,Amitriptyline 10mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+7677,Allegron 10mg tablets (King Pharmaceuticals Ltd) Nortriptyline hydrochloride 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+53808,Trimipramine 10mg tablets (Phoenix Healthcare Distribution Ltd) Trimipramine maleate 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+34641,Dosulepin 25mg capsules (Sovereign Medical Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+8720,Clomipramine 25mg/5ml oral solution Clomipramine hydrochloride 5mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+41408,Imipramine 25mg tablets (Teva UK Ltd) Imipramine hydrochloride 25mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+4874,Molipaxin 50mg capsules (Zentiva) Trazodone hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+45226,Trimipramine 25mg tablets (A A H Pharmaceuticals Ltd) Trimipramine maleate 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+34916,Amitriptyline 10mg Tablet (Berk Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+34745,Dosulepin 25mg capsules (Actavis UK Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+11956,Norval 20mg Tablet (Bencard) Mianserin hydrochloride 20mg Tablet Oral,4030100,,,,CPRD_GOLD
+59593,Fluanxol 500microgram tablets (Lexon (UK) Ltd) Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+14889,Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+22872,DOXEPIN HCL    ,0,,,,CPRD_GOLD
+23497,AMITRIPTYLINE 300 MG TAB    ,0,,,,CPRD_GOLD
+13318,ANAFRANIL 25 MG INJ    ,0,,,,CPRD_GOLD
+29857,Trazodone 150mg tablets (Teva UK Ltd) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+41729,Amitriptyline 25mg Tablet (Celltech Pharma Europe Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+1730,Trazodone 100mg capsules Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+1733,Flupentixol decanoate 20mg/ml Injection Flupentixol Decanoate 20mg/ml Injection ,4020200,,,,CPRD_GOLD
+57762,Psytixol 40mg/2ml solution for injection ampoules (Mylan) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+49,Amitriptyline 25mg tablets Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+77915,Trazodone 150mg tablets (Accord Healthcare Ltd) Trazodone hydrochloride 150mg Tablet Oral,4030100,,,,CPRD_GOLD
+30376,Thaden 25mg capsules (Opus Pharmaceuticals Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+30375,Anafranil 25mg/2ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd) Clomipramine hydrochloride 12.5mg/1ml Solution for injection Intramuscular/Intravenous,0,,,,CPRD_GOLD
+79397,Lofepramine Oral solution Lofepramine  Oral Solution ,4030100,,,,CPRD_GOLD
+43561,Clomipramine 10mg capsules (Teva UK Ltd) Clomipramine hydrochloride 10mg Capsule Oral,4030100,,,,CPRD_GOLD
+14839,Flupentixol 200mg/1ml solution for injection ampoules Flupentixol decanoate 200mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+41563,Clomipramine 25mg capsules (IVAX Pharmaceuticals UK Ltd) Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+79276,Clomipramine 25mg capsules (Mylan) Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+31826,Dosulepin 75mg tablets (IVAX Pharmaceuticals UK Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+59931,Trazodone 50mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Trazodone hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+68657,Lofepramine 70mg tablets (Kent Pharmaceuticals Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+69992,Brintellix 5mg tablets (Lundbeck Ltd) Vortioxetine hydrobromide 5mg Tablet Oral,4030400,,,,CPRD_GOLD
+7468,Bolvidon 10mg Tablet (Organon Laboratories Ltd) Mianserin hydrochloride 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+45318,Clomipramine 50mg capsules (A A H Pharmaceuticals Ltd) Clomipramine hydrochloride 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+54877,Amitriptyline 25mg tablets (Accord Healthcare Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+67874,Brintellix 10mg tablets (Lundbeck Ltd) Vortioxetine hydrobromide 10mg Tablet Oral,4030400,,,,CPRD_GOLD
+55491,Amitriptyline 10mg tablets (Almus Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+69712,Amitriptyline 50mg tablets (Sigma Pharmaceuticals Plc) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+57926,Dosulepin 75mg/5ml oral solution Dosulepin hydrochloride 15mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+595,Amitriptyline 25mg / Perphenazine 2mg tablets Amitriptyline hydrochloride/Perphenazine 25mg + 2mg Tablet Oral,4030100,,,,CPRD_GOLD
+14578,Nortriptyline 30mg / Fluphenazine 1.5mg tablets Nortriptyline hydrochloride/Fluphenazine hydrochloride 30mg + 1.5mg Tablet Oral,0,,,,CPRD_GOLD
+3657,Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd) Clomipramine hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+44853,Dosulepin 25mg capsules (Kent Pharmaceuticals Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+66572,Amitriptyline 25mg tablets (Sigma Pharmaceuticals Plc) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+2039,Trimipramine 25mg tablets Trimipramine maleate 25mg Tablet Oral,4030100,,,,CPRD_GOLD
+51758,Prothiaden 25mg capsules (Stephar (U.K.) Ltd) Dosulepin hydrochloride 25mg Capsule Oral,4030100,,,,CPRD_GOLD
+7751,Tryptizol 25mg Tablet (Merck Sharp & Dohme Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,,,CPRD_GOLD
+56229,Lofepramine 70mg/5ml oral solution Lofepramine hydrochloride 14mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+34525,Dosulepin 75mg tablets (Mylan) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+4194,Molipaxin 100mg capsules (Zentiva) Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+19181,Trazodone 100mg capsules (Mylan) Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+12194,NORTRIPTYLINE 10 MG ELI    ,0,,,,CPRD_GOLD
+2531,Surmontil 50mg capsules (Sanofi) Trimipramine maleate 50mg Capsule Oral,4030100,,,,CPRD_GOLD
+70287,Imipramine 10mg tablets (Sigma Pharmaceuticals Plc) Imipramine hydrochloride 10mg Tablet Oral,4030100,7040251,,,CPRD_GOLD
+71059,Dosulepin 75mg tablets (Sovereign Medical Ltd) Dosulepin hydrochloride 75mg Tablet Oral,4030100,,,,CPRD_GOLD
+8493,Motipress tablets (Sanofi-Synthelabo Ltd) Nortriptyline hydrochloride/Fluphenazine hydrochloride 30mg + 1.5mg Tablet Oral,0,,,,CPRD_GOLD
+34107,Amitriptyline 50mg tablets (Wockhardt UK Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+38274,Clomipramine 50mg/5ml oral suspension Clomipramine hydrochloride 10mg/1ml Oral suspension Oral,4030100,,,,CPRD_GOLD
+60591,Lofepramine 70mg tablets (Teva UK Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+26513,Clomipramine 25mg/2ml solution for injection ampoules Clomipramine hydrochloride 12.5mg/1ml Solution for injection Intramuscular/Intravenous,0,,,,CPRD_GOLD
+34782,Amitriptyline 25mg tablets (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+66100,Lofepramine 70mg tablets (DE Pharmaceuticals) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+40777,Doxepin 25mg/5ml oral suspension Doxepin Hydrochloride 25mg/5ml Oral Suspension Oral,4030100,,,,CPRD_GOLD
+14130,Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 200mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+41710,Trazodone 100mg capsules (Zentiva) Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+12549,Aventyl 10mg/5ml Liquid (Eli Lilly and Company Ltd) Nortriptyline Hydrochloride 10mg/5ml Liquid Oral,4030100,4070300,,,CPRD_GOLD
+79766,Amitriptyline 25mg tablets (Genesis Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+16323,Perphenazine 2mg with Amitriptyline 10mg tablet Amitriptyline Hydrochloride/Perphenazine 2mg + 10mg Tablets Oral,4020100,4030100,,,CPRD_GOLD
+66578,Amitriptyline 10mg tablets (Mawdsley-Brooks & Company Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRD_GOLD
+34251,Amitriptyline 50mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+76298,Amitriptyline 10mg/5ml oral solution sugar free (Wockhardt UK Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRD_GOLD
+6442,Trazodone 50mg/5ml oral solution sugar free Trazodone hydrochloride 10mg/1ml Oral solution Oral,4030100,,,,CPRD_GOLD
+18175,Flupentixol 100mg/1ml solution for injection ampoules Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+34580,Trazodone 100mg capsules (A A H Pharmaceuticals Ltd) Trazodone hydrochloride 100mg Capsule Oral,4030100,,,,CPRD_GOLD
+1208,Triptafen tablets (Advanz Pharma) Amitriptyline hydrochloride/Perphenazine 25mg + 2mg Tablet Oral,4030100,,,,CPRD_GOLD
+3953,Fluanxol 500microgram tablets (Lundbeck Ltd) Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+41627,Lofepramine 70mg Tablet (Teva UK Ltd) Lofepramine hydrochloride 70mg Tablet Oral,4030100,,,,CPRD_GOLD
+80885,Imipramine 25mg tablets (Kent Pharmaceuticals Ltd)Imipramine hydrochloride25mgTabletOral ,4030100,7040251,,,CPRD_GOLD
+81126,Dosulepin 75mg tablets (Co-Pharma Ltd)Dosulepin hydrochloride75mgTabletOral ,4030100,,,,CPRD_GOLD
+81210,Trazodone 50mg tablets ,4030100,,,,CPRD_GOLD
+81245,Trazodone 100mg tablets ,4030100,,,,CPRD_GOLD
+81337,Doxepin 50mg/5ml oral suspensionDoxepin hydrochloride10mg/1mlOral suspensionOral ,4030100,,,,CPRD_GOLD
+81617,Clomipramine 25mg capsules (Actavis UK Ltd)Clomipramine hydrochloride25mgCapsuleOral ,4030100,,,,CPRD_GOLD
+81638,Imipramine 25mg Tablet (Celltech Pharma Europe Ltd)Imipramine hydrochloride25mgTabletOral ,4030100,7040200,,,CPRD_GOLD
+82403,Amitriptyline 50mg tablets (Arrow Generics Ltd)Amitriptyline hydrochloride50mgTabletOral ,4030100,4070300,4070402,,CPRD_GOLD
+82911,Imipramine 25mg tablets (Alliance Healthcare (Distribution) Ltd)Imipramine hydrochloride25mgTabletOral ,4030100,7040251,,,CPRD_GOLD

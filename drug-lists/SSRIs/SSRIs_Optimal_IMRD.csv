@@ -1,0 +1,212 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+13194978,Sertraline 12.5mg tablets,0,0,0,,IMRD
+17078978,Sertraline 50mg/5ml oral solution,0,0,0,,IMRD
+18589978,Sertraline 75mg/5ml oral suspension,4030300,0,0,,IMRD
+29586978,Paroxetine 40mg tablets,0,0,0,,IMRD
+29604978,Fluoxetine 40mg capsules,0,0,0,,IMRD
+30041978,Fluoxetine 30mg capsules,0,0,0,,IMRD
+30444978,Fluoxetine 40mg capsules,0,0,0,,IMRD
+30932978,Fluoxetine 10mg capsules,0,0,0,,IMRD
+33913978,Escitalopram 10mg tablets,4030300,0,0,,IMRD
+45791978,Vortioxetine 5mg tablets,4030400,4030300,0,N06AX26,IMRD
+45792978,Vortioxetine 5mg tablets,4030400,4030300,0,N06AX26,IMRD
+45793978,Vortioxetine 20mg tablets,4030400,4030300,0,N06AX26,IMRD
+45794978,Vortioxetine 20mg tablets,4030400,4030300,0,N06AX26,IMRD
+45795978,Vortioxetine 10mg tablets,4030400,4030300,0,N06AX26,IMRD
+45796978,Vortioxetine 10mg tablets,4030400,4030300,0,N06AX26,IMRD
+47364978,Generic sertraline 200mg/5ml oral suspension,0,0,0,,IMRD
+52696979,Citalopram 40mg/ml oral drops sugar free,4030300,0,0,N06AB04,IMRD
+52706979,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+54494979,Paroxetine 10mg tablets,4030300,0,0,N06AB05,IMRD
+54495979,Paroxetine 10mg tablets,4030300,0,0,N06AB05,IMRD
+60187979,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+60188979,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+63345979,Fluoxetine 2mg/5ml oral solution,0,0,0,,IMRD
+66183979,Sertraline 25mg/5ml oral suspension,0,0,0,,IMRD
+66185979,Sertraline 20mg/5ml oral suspension,0,0,0,,IMRD
+66187979,Sertraline 150mg/5ml oral suspension,0,0,0,,IMRD
+66189979,Sertraline 12.5mg/5ml oral suspension,0,0,0,,IMRD
+66533979,Paroxetine 30mg/5ml oral solution,4030300,0,0,,IMRD
+66539979,Paroxetine 10mg/5ml oral suspension,0,0,0,,IMRD
+66541979,Paroxetine 10mg/5ml oral suspension sugar free,4030300,0,0,N06AB05,IMRD
+69604979,Citalopram 20mg/5ml oral suspension,0,0,0,,IMRD
+69605979,Citalopram 10mg/5ml oral suspension,0,0,0,,IMRD
+69606979,Citalopram 10mg/5ml oral suspension,0,0,0,,IMRD
+73206978,Escitalopram 20mg tablets,4030300,0,0,N06AB10,IMRD
+73208978,Escitalopram 10mg tablets,4030300,0,0,,IMRD
+75904978,Fluoxetine 20mg dispersible tablets sugar free,4030300,0,0,N06AB03,IMRD
+75905978,Fluoxetine 20mg dispersible tablets sugar free,4030300,0,0,N06AB03,IMRD
+76398978,Fluoxetine 20mg dispersible tablets sugar free,4030300,0,0,N06AB03,IMRD
+79257979,Sertraline 50mg/5ml oral suspension,0,0,0,,IMRD
+79259979,Sertraline 10mg/5ml oral suspension,0,0,0,,IMRD
+79260979,Sertraline 100mg/5ml oral suspension,4030300,0,0,,IMRD
+79261979,Sertraline 100mg/5ml oral suspension,0,0,0,,IMRD
+80020978,Dapoxetine 60mg tablets,7040600,4030300,0,G04BX14,IMRD
+80021978,Dapoxetine 30mg tablets,7040600,4030300,0,G04BX14,IMRD
+80062979,Fluoxetine 2.5mg/5ml oral suspension,0,0,0,,IMRD
+80064979,Fluoxetine 2.5mg/5ml oral solution,0,0,0,,IMRD
+82037998,Dapoxetine 60mg tablets,7040600,4030300,0,G04BX14,IMRD
+82038998,Dapoxetine 30mg tablets,7040600,4030300,0,G04BX14,IMRD
+82367998,Fluoxetine 10mg tablets,0,0,0,,IMRD
+82790998,Escitalopram 20mg/ml oral drops sugar free,4030300,0,0,N06AB10,IMRD
+82791998,Escitalopram 20mg/ml oral drops sugar free,4030300,0,0,N06AB10,IMRD
+83894998,Paroxetine oral liquid,4030300,0,0,,IMRD
+84403998,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+84436998,Fluoxetine 20mg/5ml oral solution sugar free,4030300,0,0,N06AB03,IMRD
+84807998,Paroxetine 10mg tablets,4030300,0,0,N06AB05,IMRD
+85356998,Citalopram 30mg tablets,4030300,0,0,,IMRD
+85382998,Paroxetine 10mg tablets,4030300,0,0,N06AB05,IMRD
+85970998,Escitalopram 10mg/ml drops,4030300,0,0,N06AB10,IMRD
+85971998,Escitalopram 10mg/ml oral drops sugar free,4030300,0,0,N06AB10,IMRD
+86159998,Sertraline 50mg/5ml oral suspension,4030300,0,0,,IMRD
+87251998,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+87663998,Escitalopram 5mg tablets,4030300,0,0,N06AB10,IMRD
+87662998,Escitalopram 5mg tablets,4030300,0,0,N06AB10,IMRD
+88285998,Escitalopram 10mg tablets,4030300,0,0,N06AB10,IMRD
+89191979,Escitalopram 5mg tablets,4030300,0,0,N06AB10,IMRD
+89381979,Escitalopram 10mg tablets,4030300,0,0,N06AB10,IMRD
+89383979,Escitalopram 10mg tablets,4030300,0,0,N06AB10,IMRD
+90159998,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+90766998,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+90814998,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+91380996,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+91380997,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+91380998,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+91395996,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+91395997,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+91395998,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+91671998,Escitalopram 10mg tablets,4030300,0,0,N06AB10,IMRD
+91923990,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+91928990,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+92172998,Citalopram 40mg/ml oral drops sugar free,4030300,0,0,N06AB04,IMRD
+92174998,Citalopram 40mg/ml oral drops sugar free,4030300,0,0,N06AB04,IMRD
+92506990,Citalopram 40mg/ml oral drops sugar free,4030300,0,0,N06AB04,IMRD
+92728990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+92729990,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+93066990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+93173997,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+93173998,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93174997,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+93174998,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93487990,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+93489996,Paroxetine 10mg/5ml oral suspension sugar free,4030300,0,0,N06AB05,IMRD
+93489997,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+93489998,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+93490996,Paroxetine 10mg/5ml oral suspension sugar free,4030300,0,0,N06AB05,IMRD
+93490997,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+93490998,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+93694990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93728990,Sertraline 100mg tablets,4030300,0,0,,IMRD
+93729990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93732990,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+93733990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93749990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93752990,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+93753990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93842990,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+93843990,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+93905990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+93946990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+93947990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+93948990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+93994990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+93996990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+94447996,Fluoxetine 60mg capsules,4030300,0,0,N06AB03,IMRD
+94447997,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+94447998,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+94490996,Fluoxetine 60mg capsules,4030300,0,0,N06AB03,IMRD
+94490997,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+94490998,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+94603990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+94604990,Citalopram 10mg tablets,4030300,0,0,,IMRD
+94852990,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+94880990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+94893990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+94894990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+94895990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+94936990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+94937990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+94938990,Citalopram 10mg tablets,4030300,0,0,,IMRD
+95007990,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+95028990,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+95051990,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+95269990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95270990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+95271990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95332990,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+95333990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95334990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+95335990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95350990,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+95388990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+95418990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95420990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+95421990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95426990,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+95578990,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+95610990,Fluoxetine 60mg capsules,4030300,0,0,N06AB03,IMRD
+95631990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95632990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+95633990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95666990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95667990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+95668990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95703990,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95704990,Citalopram 20mg tablets,4030300,0,0,N06AB04,IMRD
+95705990,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95813990,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+95820990,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+95968979,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95969979,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95979979,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95984979,Citalopram 40mg tablets,4030300,0,0,N06AB04,IMRD
+95987979,Citalopram 10mg tablets,4030300,0,0,,IMRD
+95990979,Citalopram 10mg tablets,4030300,0,0,,IMRD
+95995979,Citalopram 10mg tablets,4030300,0,0,N06AB04,IMRD
+95999979,Citalopram 20mg tablets,4030300,0,0,,IMRD
+96014979,Citalopram 20mg tablets,4030300,0,0,,IMRD
+96068979,Paroxetine 10mg/5ml oral suspension sugar free,4030300,0,0,N06AB05,IMRD
+96070979,Paroxetine 10mg/5ml oral suspension sugar free,4030300,0,0,N06AB05,IMRD
+96082979,Paroxetine 30mg tablets,4030300,0,0,N06AB05,IMRD
+96087990,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+96093990,Fluvoxamine 50mg tablets,4030300,0,0,N06AB08,IMRD
+96098979,Paroxetine 20mg tablets,4030300,0,0,N06AB05,IMRD
+96114979,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+96118979,Sertraline 100mg tablets,4030300,0,0,N06AB06,IMRD
+96128979,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+96136979,Sertraline 50mg tablets,4030300,0,0,N06AB06,IMRD
+96143979,Fluoxetine 60mg capsules,4030300,0,0,N06AB03,IMRD
+96154979,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+96155979,Fluoxetine 20mg/5ml oral solution,4030300,0,0,N06AB03,IMRD
+96157979,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96161979,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96162979,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96168979,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96272990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96281990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96345989,Fluvoxamine 100mg tablets,4030300,0,0,N06AB08,IMRD
+96492997,Fluvoxamine 100mg tablets,4030300,0,0,N06AB08,IMRD
+96492998,Fluvoxamine 50mg tablets,4030300,0,0,N06AB08,IMRD
+96493997,Fluvoxamine 100mg tablets,4030300,0,0,N06AB08,IMRD
+96493998,Fluvoxamine 50mg tablets,4030300,0,0,N06AB08,IMRD
+96606990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96643990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96644990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96647990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96651990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96654990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96659990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96674990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96709990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96729990,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+96810989,Fluvoxamine 100mg tablets,4030300,0,0,N06AB08,IMRD
+98088998,Escitalopram 20mg tablets,4030300,0,0,N06AB10,IMRD
+98561998,Escitalopram 20mg tablets,4030300,0,0,N06AB10,IMRD
+99592998,Fluoxetine 20mg capsules,4030300,0,0,N06AB03,IMRD
+3658978,Sertraline 25mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+17080978,Sertraline 25mg/5ml oral solution solution 5 ,04.03.03.00,00.00.00.00,00.00.00.00,,IMRD
+22064978,Fluoxetine 10mg tablets tablets 10 ,04.03.03.00,00.00.00.00,00.00.00.00,,IMRD
+51979978,Sertraline 50mg tablets tablets 50 ,04.03.03.00,00.00.00.00,00.00.00.00,,IMRD
+93997990,Citalopram 10mg tablets tablets 10 ,04.03.03.00,00.00.00.00,00.00.00.00,,IMRD
+96121979,Sertraline 50mg tablets tablets 50 ,04.03.03.00,00.00.00.00,00.00.00.00,,IMRD
+96148979,Prozac 20mg/5ml liquid solution 4 ,04.03.03.00,00.00.00.00,00.00.00.00,,IMRD

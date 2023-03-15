@@ -1,0 +1,126 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+14620978,Majoven XL 37.5mg capsules,0,0,0,,IMRD
+17414978,Duloxetine 60mg/5ml oral suspension,0,0,0,,IMRD
+17416978,Duloxetine 30mg/5ml oral suspension,4030400,0,0,,IMRD
+18088978,Venzip XL 150mg capsules,4030400,0,0,,IMRD
+18089978,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+18380978,Venlafaxine 225mg modified-release tablets,0,0,0,,IMRD
+20477978,Duloxetine 30mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+20479978,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+21789978,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+21790978,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+22672978,Naltrexone 8mg / bupropion 90mg modified-release tablets,0,0,0,,IMRD
+22673978,Naltrexone 8mg / bupropion 90mg modified-release tablets,0,0,0,,IMRD
+23031978,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,,IMRD
+24780978,Venlafaxine 225mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+24785978,Venlafaxine 37.5mg modified-release capsules,0,0,0,,IMRD
+24878978,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+24879978,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+30261978,Venlafaxine 225mg modified-release capsules,0,0,0,,IMRD
+37600978,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+39137978,Venlafaxine 225mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+39138978,Venlafaxine 225mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+39667978,Duloxetine 30mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+39671978,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+39672978,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+39729978,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+39730978,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+46576978,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+46577978,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+51109978,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+52164979,Venlafaxine 75mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+52165979,Venlafaxine 150mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+52700979,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+64638979,Venlafaxine 75mg/5ml oral suspension,0,0,0,,IMRD
+64640979,Venlafaxine 75mg/5ml oral solution,0,0,0,,IMRD
+64642979,Venlafaxine 37.5mg/5ml oral solution,0,0,0,,IMRD
+64976979,Venlafaxine 150mg/5ml oral suspension,0,0,0,,IMRD
+79303978,Venlafaxine 37.5mg modified-release capsules,0,0,0,,IMRD
+79304978,Venlafaxine 37.5mg modified-release capsules,0,0,0,,IMRD
+80023978,Venlafaxine 75mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+80024978,Venlafaxine 150mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+81505998,Venlafaxine 37.5mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+81506998,Venlafaxine 37.5mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+81749998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+81750998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+81929998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+81930998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+82190998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+82191998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+82540998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+82874998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+82875998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+82959998,Venlafaxine 225mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+82961998,Venlafaxine 225mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+82962998,Venlafaxine 150mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+82963998,Venlafaxine 75mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+83074998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83075998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83114998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83115998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83145998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83146998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83149998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83150998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83157998,Venlafaxine 150mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+83158998,Venlafaxine 75mg modified-release tablets,4030400,0,0,N06AX16,IMRD
+83159998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83160998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83162998,Venlafaxine 75mg tablets,4030400,0,0,N06AX16,IMRD
+83163998,Venlafaxine 37.5mg tablets,4030400,0,0,N06AX16,IMRD
+83204998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83205998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83209998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83210998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83217998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83218998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83264998,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+83265998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+86431998,Venlafaxine 37.5mg/5ml oral suspension,4030400,0,0,,IMRD
+86996998,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+86997998,Duloxetine 30mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+86998998,Duloxetine 60mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+86999998,Duloxetine 30mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+87334998,Duloxetine 40mg gastro-resistant capsules,7040200,0,0,G04BD,IMRD
+87335998,Duloxetine 20mg gastro-resistant capsules,7040200,0,0,G04BD,IMRD
+87336998,Duloxetine 40mg gastro-resistant capsules,7040200,0,0,G04BD,IMRD
+87337998,Duloxetine 20mg gastro-resistant capsules,7040200,0,0,G04BD,IMRD
+88755997,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+88755998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+88776997,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+88776998,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+89023979,Duloxetine 30mg gastro-resistant capsules,4030400,0,0,N06AX21,IMRD
+92309998,Bupropion 150mg modified-release tablets,4100200,0,0,N06AX12,IMRD
+92311998,Bupropion 150mg modified-release tablets,4100200,0,0,N06AX12,IMRD
+92565990,Venlafaxine 75mg tablets,4030400,0,0,,IMRD
+92582990,Venlafaxine 150mg Modified-release capsule,4030400,0,0,,IMRD
+92583990,Venlafaxine 75mg Modified-release capsule,4030400,0,0,,IMRD
+92584990,Venlafaxine 75mg tablets,4030400,0,0,,IMRD
+92596990,Venlafaxine 75mg tablets,4030400,0,0,N06AX16,IMRD
+92597990,Venlafaxine 37.5mg tablets,4030400,0,0,N06AX16,IMRD
+94586979,Zyban 150mg modified-release tablets,4105100,0,0,,IMRD
+96022979,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96023979,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96024979,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96027979,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96029979,Venlafaxine 150mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96033979,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96034979,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96036979,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96041979,Venlafaxine 75mg modified-release capsules,4030400,0,0,N06AX16,IMRD
+96052979,Venlafaxine 75mg tablets,4030400,0,0,N06AX16,IMRD
+96054979,Venlafaxine 75mg tablets,4030400,0,0,N06AX16,IMRD
+96059979,Venlafaxine 37.5mg tablets,4030400,0,0,N06AX16,IMRD
+96065979,Venlafaxine 37.5mg tablets,4030400,0,0,N06AX16,IMRD
+98336996,Venlafaxine 50mg tablets,4030400,0,0,N06AX16,IMRD
+98336997,Venlafaxine 75mg tablets,4030400,0,0,N06AX16,IMRD
+98336998,Venlafaxine 37.5mg tablets,4030400,0,0,N06AX16,IMRD
+99896996,Venlafaxine 50mg tablets,4030400,0,0,N06AX16,IMRD
+99896997,Venlafaxine 75mg tablets,4030400,0,0,N06AX16,IMRD
+99896998,Venlafaxine 37.5mg tablets,4030400,0,0,N06AX16,IMRD
+8722978,Venlalic XL 300mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8723978,Venlafaxine 300mg modified-release tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14736978,ViePax XL 225mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+20677978,Venlafaxine 225mg modified-release capsules capsules 225 ,04.03.04.00,00.00.00.00,00.00.00.00,,IMRD
+46227978,Duloxetine 30mg gastro-resistant capsules capsules 30 ,04.03.04.00,00.00.00.00,00.00.00.00,,IMRD
+64644979,Venlafaxine 150mg/5ml oral solution solution 30 ,04.03.04.00,00.00.00.00,00.00.00.00,,IMRD

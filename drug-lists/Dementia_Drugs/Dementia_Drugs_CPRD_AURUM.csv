@@ -1,0 +1,122 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+4.80041E+14,Donepezil 5mg tablets Tablet Oral Donepezil hydrochloride 5.000mg,4110000,,,,CPRD_AURUM
+8.1141E+13,Aricept 5mg tablets (Eisai Ltd) Tablet Oral Donepezil hydrochloride 5.000mg,4110000,,,,CPRD_AURUM
+8.1041E+13,Aricept 10mg tablets (Eisai Ltd) Tablet Oral Donepezil hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+4.79941E+14,Donepezil 10mg tablets Tablet Oral Donepezil hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+1.67334E+15,Rivastigmine 1.5mg capsules Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,4110000,,,,CPRD_AURUM
+1.60924E+15,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,4110000,,,,CPRD_AURUM
+6.46944E+15,Nimvastid 1.5mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,,,,,CPRD_AURUM
+8.27164E+15,Kerstipon 1.5mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,,,,,CPRD_AURUM
+8.27174E+15,Kerstipon 3mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,,,,,CPRD_AURUM
+6.46954E+15,Nimvastid 3mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,,,,,CPRD_AURUM
+1.60934E+15,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,4110000,,,,CPRD_AURUM
+1.67344E+15,Rivastigmine 3mg capsules Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,4110000,,,,CPRD_AURUM
+1.67354E+15,Rivastigmine 4.5mg capsules Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,4110000,,,,CPRD_AURUM
+1.60944E+15,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,4110000,,,,CPRD_AURUM
+6.46964E+15,Nimvastid 4.5mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,,,,,CPRD_AURUM
+8.27184E+15,Kerstipon 4.5mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,,,,,CPRD_AURUM
+8.27194E+15,Kerstipon 6mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,,,,,CPRD_AURUM
+6.46974E+15,Nimvastid 6mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,,,,,CPRD_AURUM
+1.60954E+15,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,4110000,,,,CPRD_AURUM
+1.67364E+15,Rivastigmine 6mg capsules Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,4110000,,,,CPRD_AURUM
+2.19134E+15,Galantamine 4mg tablets Tablet Oral Galantamine hydrobromide 4.000mg,4110000,,,,CPRD_AURUM
+2.19164E+15,Reminyl 4mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 4.000mg,4110000,,,,CPRD_AURUM
+2.19174E+15,Reminyl 8mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
+2.19144E+15,Galantamine 8mg tablets Tablet Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
+2.19154E+15,Galantamine 12mg tablets Tablet Oral Galantamine hydrobromide 12.000mg,4110000,,,,CPRD_AURUM
+2.19184E+15,Reminyl 12mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 12.000mg,4110000,,,,CPRD_AURUM
+2.83534E+15,Memantine 10mg tablets Tablet Oral Memantine hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+2.83554E+15,Ebixa 10mg tablets (Lundbeck Ltd) Tablet Oral Memantine hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+1.1721E+16,Marixino 10mg tablets (Consilient Health Ltd) Tablet Oral Memantine hydrochloride 10.000mg,,,,,CPRD_AURUM
+8.53564E+15,Nemdatine 10mg tablets (Actavis UK Ltd) Tablet Oral Memantine hydrochloride 10.000mg,,,,,CPRD_AURUM
+2.80144E+15,Galantamine 20mg/5ml oral solution sugar free Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml,4110000,,,,CPRD_AURUM
+2.80154E+15,Reminyl 4mg/ml oral solution (Shire Pharmaceuticals Ltd) Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml,4110000,,,,CPRD_AURUM
+1.26038E+16,Galzemic 4mg/ml oral solution (Creo Pharma Ltd) Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml,,,,,CPRD_AURUM
+2.65644E+15,Rivastigmine 2mg/ml oral solution sugar free Oral solution Oral Rivastigmine hydrogen tartrate 2.000mg/1.000ml,4110000,,,,CPRD_AURUM
+2.65654E+15,Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Rivastigmine hydrogen tartrate 2.000mg/1.000ml,4110000,,,,CPRD_AURUM
+2.83544E+15,Memantine 10mg/ml oral solution sugar free Oral solution Oral Memantine hydrochloride 10.000mg/1.000ml,4110000,,,,CPRD_AURUM
+2.83564E+15,Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd) Oral solution Oral Memantine hydrochloride 10.000mg/1.000ml,4110000,,,,CPRD_AURUM
+6.43594E+15,Galsya XL 16mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,4110000,,,,CPRD_AURUM
+6.52934E+15,Zeebral XL 16mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+8.12734E+15,Gatalin XL 16mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+8.24304E+15,Lotprosin XL 16mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+7.69044E+15,Acumor XL 16mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+8.30544E+15,Elmino XL 16mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+3.29364E+15,Galantamine 16mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 16.000mg,4110000,,,,CPRD_AURUM
+3.29394E+15,Reminyl XL 16mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,4110000,,,,CPRD_AURUM
+1.26409E+16,Gaalin 16mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+9.67934E+15,Luventa XL 16mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+1.18258E+16,Galzemic XL 16mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+1.02174E+16,Consion XL 16mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+9.69924E+15,Gazylan XL 16mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
+3.29374E+15,Galantamine 24mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 24.000mg,4110000,,,,CPRD_AURUM
+3.29404E+15,Reminyl XL 24mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,4110000,,,,CPRD_AURUM
+8.30694E+15,Elmino XL 24mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+7.69014E+15,Acumor XL 24mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+8.24314E+15,Lotprosin XL 24mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+8.12744E+15,Gatalin XL 24mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+6.52944E+15,Zeebral XL 24mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+6.43604E+15,Galsya XL 24mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,4110000,,,,CPRD_AURUM
+9.69944E+15,Gazylan XL 24mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+1.02175E+16,Consion XL 24mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+1.18259E+16,Galzemic XL 24mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+9.67914E+15,Luventa XL 24mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+1.2641E+16,Gaalin 24mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
+6.43584E+15,Galsya XL 8mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
+6.52924E+15,Zeebral XL 8mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+8.12724E+15,Gatalin XL 8mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+8.24294E+15,Lotprosin XL 8mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+7.69064E+15,Acumor XL 8mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+8.30514E+15,Elmino XL 8mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+3.29354E+15,Galantamine 8mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
+3.29384E+15,Reminyl XL 8mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
+1.26411E+16,Gaalin 8mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+9.67924E+15,Luventa XL 8mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+1.18257E+16,Galzemic XL 8mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+1.02173E+16,Consion XL 8mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+9.69954E+15,Gazylan XL 8mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+1.23316E+16,Memantine 10mg soluble tablets sugar free Soluble tablet Oral Memantine hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.23318E+16,Alzhok 10mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) Soluble tablet Oral Memantine hydrochloride 10.000mg,,,,,CPRD_AURUM
+1.23317E+16,Memantine 20mg soluble tablets sugar free Soluble tablet Oral Memantine hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.23319E+16,Alzhok 20mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) Soluble tablet Oral Memantine hydrochloride 20.000mg,,,,,CPRD_AURUM
+4.02214E+15,Donepezil 10mg orodispersible tablets sugar free Orodispersible tablet Oral Donepezil hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+4.02234E+15,Aricept Evess 10mg orodispersible tablets (Eisai Ltd) Orodispersible tablet Oral Donepezil hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+4.02224E+15,Aricept Evess 5mg orodispersible tablets (Eisai Ltd) Orodispersible tablet Oral Donepezil hydrochloride 5.000mg,4110000,,,,CPRD_AURUM
+4.02204E+15,Donepezil 5mg orodispersible tablets sugar free Orodispersible tablet Oral Donepezil hydrochloride 5.000mg,4110000,,,,CPRD_AURUM
+4.32124E+15,Rivastigmine 4.6mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,4110000,,,,CPRD_AURUM
+4.32204E+15,Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,4110000,,,,CPRD_AURUM
+9.07344E+15,Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+8.34934E+15,Voleze 4.6mg/24hours transdermal patches (Advanz Pharma) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+1.21985E+16,Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+9.41184E+15,Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+9.36624E+15,Somniton 4.6mg/24hours transdermal patches (Zentiva) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+1.06745E+16,Eluden 4.6mg/24hours transdermal patches (Mylan) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+9.16544E+15,Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
+8.34944E+15,Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+9.07354E+15,Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+4.32264E+15,Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,4110000,,,,CPRD_AURUM
+4.32154E+15,Rivastigmine 9.5mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,4110000,,,,CPRD_AURUM
+9.16554E+15,Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+1.06746E+16,Eluden 9.5mg/24hours transdermal patches (Mylan) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+9.41204E+15,Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+9.36684E+15,Somniton 9.5mg/24hours transdermal patches (Zentiva) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+1.21987E+16,Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
+4.60784E+15,Memantine 20mg tablets Tablet Oral Memantine hydrochloride 20.000mg,,,,,CPRD_AURUM
+4.60794E+15,Ebixa 20mg tablets (Lundbeck Ltd) Tablet Oral Memantine hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.17209E+16,Marixino 20mg tablets (Consilient Health Ltd) Tablet Oral Memantine hydrochloride 20.000mg,,,,,CPRD_AURUM
+8.53574E+15,Nemdatine 20mg tablets (Actavis UK Ltd) Tablet Oral Memantine hydrochloride 20.000mg,,,,,CPRD_AURUM
+1.25322E+16,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack Not applicable Route of administration not applicable  ,,,,,CPRD_AURUM
+4.60804E+15,Ebixa tablets treatment initiation pack (Lundbeck Ltd) Not applicable   ,,,,,CPRD_AURUM
+1.17381E+16,Nemdatine tablets treatment initiation pack (Actavis UK Ltd) Not applicable   ,,,,,CPRD_AURUM
+8.34814E+15,Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
+8.34804E+15,Rivastigmine 13.3mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
+1.06426E+16,Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
+1.1403E+16,Voleze 13.3mg/24hours transdermal patches (Advanz Pharma) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
+9.30224E+15,Donepezil 1mg/ml oral solution sugar free Oral solution Oral Donepezil hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.14927E+16,Memantine 10mg orodispersible tablets sugar free Orodispersible tablet Oral Memantine hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+1.14929E+16,Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) Orodispersible tablet Oral Memantine hydrochloride 10.000mg,4110000,,,,CPRD_AURUM
+1.1493E+16,Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) Orodispersible tablet Oral Memantine hydrochloride 20.000mg,4110000,,,,CPRD_AURUM
+1.14928E+16,Memantine 20mg orodispersible tablets sugar free Orodispersible tablet Oral Memantine hydrochloride 20.000mg,4110000,,,,CPRD_AURUM
+1.23315E+16,Alzhok soluble tablets treatment initiation pack (Glenmark Pharmaceuticals Europe Ltd) Not applicable   ,,,,,CPRD_AURUM
+1.24845E+16,Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd) Not applicable   ,,,,,CPRD_AURUM
+1.33165E+16,Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free Not applicable Route of administration not applicable  ,,,,,CPRD_AURUM

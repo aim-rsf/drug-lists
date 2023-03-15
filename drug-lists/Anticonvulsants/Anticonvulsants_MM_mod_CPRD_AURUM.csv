@@ -1,0 +1,676 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+4.43374E+15,"Phenobarbital Sodium (The Specials Labs) Oral solution Alcohol And Sugar Free, 25 mg/5 ml    ",,,,,CPRD_AURUM
+7.67834E+15,Epistatus Buccal Liquid 5 mg/0.5 ml pre-filled oral syringe    ,,,,,CPRD_AURUM
+7.67844E+15,Epistatus Buccal Liquid 7.5 mg/0.75 ml pre-filled oral syringe    ,,,,,CPRD_AURUM
+1.23737E+16,Lorazepam Oral solution 1 mg/ml (5 mg/5 ml)    ,,,,,CPRD_AURUM
+4.58141E+14,Diazepam Rectubes Rectal tubes 20 mg    ,,,,,CPRD_AURUM
+4.60741E+14,Diazepam Syrup 2 mg/5 ml    ,,,,,CPRD_AURUM
+9.1541E+13,Ativan Tablets 1 mg    ,,,,,CPRD_AURUM
+6.64841E+14,Heminevrin Intravenous infusion 8 mg/ml    ,,,,,CPRD_AURUM
+9.23341E+14,Mogadon Capsules 5 mg    ,,,,,CPRD_AURUM
+9.72541E+14,Nitrazepam Mixture 150 ml    ,,,,,CPRD_AURUM
+1.17334E+15,"Rivotril Injection 1mg/ml, 1 ml ampoule    ",,,,,CPRD_AURUM
+1.37974E+15,Stesolid Injection 5 mg/ml    ,,,,,CPRD_AURUM
+1.07074E+15,Phenytoin Sodium Chewable tablets 50 mg    ,,,,,CPRD_AURUM
+3.34834E+15,Phenobarbital Paediatric Suspension (alcohol free) 25 mg/ml    ,,,,,CPRD_AURUM
+3.94044E+15,Phenobarbital Oral Suspension (Sugar-Free) 100 mg/5 ml    ,,,,,CPRD_AURUM
+3.18834E+15,Diazepam Syrup 5 mg/5 ml    ,,,,,CPRD_AURUM
+2.48641E+14,Chlordiazepoxide Hydrochloride Tablets 5 mg    ,,,,,CPRD_AURUM
+2.18241E+14,Carbamazepine C/r tablets 200 mg    ,,,,,CPRD_AURUM
+4.38341E+14,Diazepam Capsules 5 mg    ,,,,,CPRD_AURUM
+2.75541E+14,"Clonazepam Injection 1mg/ml, 1 ml ampoule    ",,,,,CPRD_AURUM
+8.60341E+14,Magnesium Sulfate Injection 50 %    ,,,,,CPRD_AURUM
+4.57741E+14,Diazepam Rectubes 10 mg    ,,,,,CPRD_AURUM
+5.33441E+14,Epimaz Tablets 400 mg    ,,,,,CPRD_AURUM
+4.43641E+14,Diazepam Elixir 2 mg/5 ml    ,,,,,CPRD_AURUM
+4.46741E+14,Diazepam Injection 5 mg/ml    ,,,,,CPRD_AURUM
+5.28941E+14,Epanutin Ready Mixed Parenteral Injection 50mg/ml    ,,,,,CPRD_AURUM
+1.35894E+15,Sodium Valproate Sugar-free liquid 200 mg/5 ml    ,,,,,CPRD_AURUM
+1.07794E+15,Phenytoin Sodium Suspension 30 mg/5 ml    ,,,,,CPRD_AURUM
+1.08284E+15,Phenytoin Tablets 100 mg    ,,,,,CPRD_AURUM
+4.18644E+15,Epistatus Buccal Liquid Sugar-Free 10 mg/ml    ,,,,,CPRD_AURUM
+7.67824E+15,Epistatus Buccal Liquid 2.5 mg/0.25 ml pre-filled oral syringe    ,,,,,CPRD_AURUM
+3.10304E+15,Phenobarbital Oral Suspension Sugar Free 50 mg/5 ml    ,,,,,CPRD_AURUM
+6.03194E+15,Xanax Tablets 1 mg    ,,,,,CPRD_AURUM
+2.18341E+14,Carbamazepine C/r tablets 400 mg    ,,,,,CPRD_AURUM
+2.14741E+14,Carbamazepine Tablets 100 mg    ,,,,,CPRD_AURUM
+4.57841E+14,Diazepam Rectubes 5 mg    ,,,,,CPRD_AURUM
+8.35041E+14,Librium Tablets 10 mg    ,,,,,CPRD_AURUM
+9.67841E+14,Nitrazepam Capsules 5 mg    ,,,,,CPRD_AURUM
+9.75241E+14,Nitrazepam Tablets 10 mg    ,,,,,CPRD_AURUM
+1.02594E+15,Oxazepam Tablets 30 mg    ,,,,,CPRD_AURUM
+5.65141E+14,Fenfluramine Hydrochloride Capsules 60 mg    ,,,,,CPRD_AURUM
+3.18934E+15,Topamax Sprinkle Capsules 15 mg    ,,,,,CPRD_AURUM
+2.14941E+14,Carbamazepine Tablets 400 mg    ,,,,,CPRD_AURUM
+4.16541E+14,Dexfenfluramine Hydrochloride Capsules 15 mg    ,,,,,CPRD_AURUM
+8.35141E+14,Librium Tablets 25 mg    ,,,,,CPRD_AURUM
+1.03574E+15,Paraldehyde Injection 10 ml/amp    ,,,,,CPRD_AURUM
+3.18944E+15,Topamax Sprinkle Capsules 25 mg    ,,,,,CPRD_AURUM
+3.18954E+15,Topamax Sprinkle Capsules 50 mg    ,,,,,CPRD_AURUM
+5.10994E+15,Dormicum Tablets 15 mg    ,,,,,CPRD_AURUM
+2.14841E+14,Carbamazepine Tablets 200 mg    ,,,,,CPRD_AURUM
+2.48541E+14,Chlordiazepoxide Hydrochloride Tablets 10 mg    ,,,,,CPRD_AURUM
+2.50241E+14,Chlordiazepoxide Tablets 25 mg    ,,,,,CPRD_AURUM
+2.50741E+14,Chlordiazepoxide Hydrochloride Tablets 25 mg    ,,,,,CPRD_AURUM
+4.38241E+14,Diazepam Capsules 2 mg    ,,,,,CPRD_AURUM
+5.33241E+14,Epimaz Tablets 100 mg    ,,,,,CPRD_AURUM
+8.35241E+14,Librium Tablets 5 mg    ,,,,,CPRD_AURUM
+1.36374E+15,Sodium Valproate Syrup 200 mg/5 ml    ,,,,,CPRD_AURUM
+1.07714E+15,Phenytoin S/f suspension 90 mg/5 ml    ,,,,,CPRD_AURUM
+2.90534E+15,Midazolam Buccal Liquid Sugar-Free 10 mg/ml    ,,,,,CPRD_AURUM
+3.10284E+15,Phenobarbital Oral Solution (alcohol free) 10 mg/1 ml    ,,,,,CPRD_AURUM
+2.21754E+15,Topiramate Capsules+e/c pellets 50 mg    ,,,,,CPRD_AURUM
+9.10944E+15,Phenytoin Sodium (Nrim) Capsules 100 mg    ,,,,,CPRD_AURUM
+5.29204E+15,"Phenobarbital Oral Suspension (Sugar-Free, Alcohol-Free) 15 mg/5 ml    ",,,,,CPRD_AURUM
+5.10984E+15,Dormicum Tablets 7.5 mg    ,,,,,CPRD_AURUM
+4.51604E+15,"Phenobarbital Oral Solution, Sugar Free 20 mg/5 ml, Alcohol and Colour Free    ",,,,,CPRD_AURUM
+2.08141E+14,Carbamazepine Sugar-free liquid 100mg/5ml    ,,,,,CPRD_AURUM
+2.08541E+14,Carbamazepine Syrup 100 mg/5 ml    ,,,,,CPRD_AURUM
+2.20141E+14,Celontin Kapseals Capsules 150 mg    ,,,,,CPRD_AURUM
+1.63341E+14,Bromazepam Tablets 1.5 mg    ,,,,,CPRD_AURUM
+1.63441E+14,Bromazepam Tablets 3 mg    ,,,,,CPRD_AURUM
+1.02264E+15,Oxazepam Capsules 30 mg    ,,,,,CPRD_AURUM
+1.08294E+15,Phenytoin Tablets 50 mg    ,,,,,CPRD_AURUM
+9.1641E+13,Ativan Tablets 2.5 mg    ,,,,,CPRD_AURUM
+2.37641E+14,Chlordiazepoxide Hydrochloride Capsules 10 mg    ,,,,,CPRD_AURUM
+4.46641E+14,Diazepam Injection 10 mg    ,,,,,CPRD_AURUM
+4.58441E+14,Diazepam Rectal tubes 20 mg    ,,,,,CPRD_AURUM
+5.33341E+14,Epimaz Tablets 200 mg    ,,,,,CPRD_AURUM
+8.60441E+14,Magnesium Sulfate Injection 10 %    ,,,,,CPRD_AURUM
+1.42834E+15,Tensium Tablets 5 mg    ,,,,,CPRD_AURUM
+1.84774E+15,Topiramate Capsules+e/c pellets 15 mg    ,,,,,CPRD_AURUM
+1.84784E+15,Topiramate Capsules+e/c pellets 25 mg    ,,,,,CPRD_AURUM
+2.27154E+15,Depakote 500mg gastro-resistant tablets (Sanofi) Gastro-resistant tablet Oral Valproate semisodium 500.000mg,4020300,,,,CPRD_AURUM
+2.71134E+15,Valproic acid 500mg gastro-resistant tablets Gastro-resistant tablet Oral Valproate semisodium 500.000mg,4020300,,,,CPRD_AURUM
+1.31496E+16,Belvo 500mg gastro-resistant tablets (Consilient Health Ltd) Gastro-resistant tablet Oral Valproate semisodium 500.000mg,,,,,CPRD_AURUM
+1.33495E+16,Syonell 500mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd) Gastro-resistant tablet Oral Valproate semisodium 500.000mg,,,,,CPRD_AURUM
+2.71124E+15,Valproic acid 250mg gastro-resistant tablets Gastro-resistant tablet Oral Valproate semisodium 250.000mg,4020300,,,,CPRD_AURUM
+2.27144E+15,Depakote 250mg gastro-resistant tablets (Sanofi) Gastro-resistant tablet Oral Valproate semisodium 250.000mg,4020300,,,,CPRD_AURUM
+1.33489E+16,Syonell 250mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd) Gastro-resistant tablet Oral Valproate semisodium 250.000mg,,,,,CPRD_AURUM
+1.31495E+16,Belvo 250mg gastro-resistant tablets (Consilient Health Ltd) Gastro-resistant tablet Oral Valproate semisodium 250.000mg,,,,,CPRD_AURUM
+3.08534E+15,Clomethiazole 192mg capsules Capsule Oral Clomethiazole 192.000mg,4010100,,,,CPRD_AURUM
+6.64141E+14,Heminevrin 192mg capsules (AstraZeneca UK Ltd) Capsule Oral Clomethiazole 192.000mg,,,,,CPRD_AURUM
+1.18414E+15,Rohypnol 1mg tablets (Roche Products Ltd) Tablet Oral Flunitrazepam 1.000mg,,,,,CPRD_AURUM
+5.95341E+14,Flunitrazepam 1mg tablets Tablet Oral Flunitrazepam 1.000mg,,,,,CPRD_AURUM
+3.96341E+14,Dalmane 15mg capsules (Mylan) Capsule Oral Flurazepam hydrochloride 15.000mg,4010100,,,,CPRD_AURUM
+3.96441E+14,Dalmane 30mg capsules (Mylan) Capsule Oral Flurazepam hydrochloride 30.000mg,4010100,,,,CPRD_AURUM
+8.50741E+14,Loprazolam 1mg tablets Tablet Oral Loprazolam mesilate 1.000mg,4010100,,,,CPRD_AURUM
+8.51441E+14,Lormetazepam 500microgram tablets Tablet Oral Lormetazepam 500.000microgram,4010100,,,,CPRD_AURUM
+8.51341E+14,Lormetazepam 1mg tablets Tablet Oral Lormetazepam 1.000mg,4010100,,,,CPRD_AURUM
+9.75341E+14,Nitrazepam 5mg tablets Tablet Oral Nitrazepam 5.000mg,4010100,,,,CPRD_AURUM
+9.39441E+14,Mogadon 5mg tablets (Mylan) Tablet Oral Nitrazepam 5.000mg,4010100,,,,CPRD_AURUM
+1.36354E+15,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd) Oral suspension Oral Nitrazepam 500.000microgram/1.000ml,4010100,,,,CPRD_AURUM
+9.74341E+14,Nitrazepam 2.5mg/5ml oral suspension Oral suspension Oral Nitrazepam 500.000microgram/1.000ml,4010100,,,,CPRD_AURUM
+5.41494E+15,Nitrazepam 5mg/5ml oral suspension Oral suspension Oral Nitrazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
+4.66841E+14,Diazepam 2mg tablets Tablet Oral Diazepam 2.000mg,15010401,,,,CPRD_AURUM
+1.42824E+15,Tensium 2mg tablets (DDSA Pharmaceuticals Ltd) Tablet Oral Diazepam 2.000mg,15010401,,,,CPRD_AURUM
+4.66941E+14,Diazepam 5mg tablets Tablet Oral Diazepam 5.000mg,15010401,,,,CPRD_AURUM
+4.66741E+14,Diazepam 10mg tablets Tablet Oral Diazepam 10.000mg,15010401,,,,CPRD_AURUM
+1.42814E+15,Tensium 10mg tablets (DDSA Pharmaceuticals Ltd) Tablet Oral Diazepam 10.000mg,15010401,,,,CPRD_AURUM
+2.76234E+15,Diazepam 2mg/5ml oral solution Oral solution Oral Diazepam 400.000microgram/1.000ml,15010401,,,,CPRD_AURUM
+1.72814E+15,Diazepam 5mg/5ml oral solution Oral solution Oral Diazepam 1.000mg/1.000ml,15010401,,,,CPRD_AURUM
+4.60041E+14,Diazepam 10mg suppositories Suppository Rectal Diazepam 10.000mg,,,,,CPRD_AURUM
+1.50294E+15,Valclair 10mg suppositories (Durbin Plc) Suppository Rectal Diazepam 10.000mg,,,,,CPRD_AURUM
+1.54354E+15,Xanax 250microgram tablets (Upjohn UK Ltd) Tablet Oral Alprazolam 250.000microgram,4010200,,,,CPRD_AURUM
+1.54364E+15,Xanax 500microgram tablets (Upjohn UK Ltd) Tablet Oral Alprazolam 500.000microgram,4010200,,,,CPRD_AURUM
+8.27941E+14,Librium 5mg capsules (Mylan) Capsule Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
+2.38141E+14,Chlordiazepoxide 5mg capsules Capsule Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
+2.38241E+14,Chlordiazepoxide 10mg capsules Capsule Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
+8.27841E+14,Librium 10mg capsules (Mylan) Capsule Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
+2.50841E+14,Chlordiazepoxide 5mg tablets Tablet Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
+2.50641E+14,Chlordiazepoxide 10mg tablets Tablet Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
+6.09541E+14,Frisium 10mg tablets (Sanofi) Tablet Oral Clobazam 10.000mg,4080100,,,,CPRD_AURUM
+2.62841E+14,Clobazam 10mg tablets Tablet Oral Clobazam 10.000mg,4080100,,,,CPRD_AURUM
+8.51141E+14,Lorazepam 1mg tablets Tablet Oral Lorazepam 1.000mg,15010401,,,,CPRD_AURUM
+8.51241E+14,Lorazepam 2.5mg tablets Tablet Oral Lorazepam 2.500mg,15010401,,,,CPRD_AURUM
+1.02574E+15,Oxazepam 10mg tablets Tablet Oral Oxazepam 10.000mg,4010200,,,,CPRD_AURUM
+1.02584E+15,Oxazepam 15mg tablets Tablet Oral Oxazepam 15.000mg,4010200,,,,CPRD_AURUM
+3.10314E+15,Phenobarbital 15mg tablets Tablet Oral Phenobarbital 15.000mg,4080100,,,,CPRD_AURUM
+1.42584E+15,Tegretol 100mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Carbamazepine 100.000mg,4080100,,,,CPRD_AURUM
+1.72954E+15,Epimaz 100mg tablets (IVAX Pharmaceuticals UK Ltd) Tablet Oral Carbamazepine 100.000mg,4080100,,,,CPRD_AURUM
+2.12541E+14,Carbamazepine 100mg tablets Tablet Oral Carbamazepine 100.000mg,4080100,,,,CPRD_AURUM
+9.11984E+15,Carbagen 100mg tablets (Mylan) Tablet Oral Carbamazepine 100.000mg,,,,,CPRD_AURUM
+2.12641E+14,Carbamazepine 200mg tablets Tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+1.72964E+15,Epimaz 200mg tablets (Teva UK Ltd) Tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+1.42594E+15,Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+9.11994E+15,Carbagen 200mg tablets (Mylan) Tablet Oral Carbamazepine 200.000mg,,,,,CPRD_AURUM
+1.42604E+15,Tegretol 400mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+1.72974E+15,Epimaz 400mg tablets (Teva UK Ltd) Tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+2.12741E+14,Carbamazepine 400mg tablets Tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+9.12004E+15,Carbagen 400mg tablets (Mylan) Tablet Oral Carbamazepine 400.000mg,,,,,CPRD_AURUM
+2.07541E+14,Carbamazepine 125mg suppositories Suppository Rectal Carbamazepine 125.000mg,4080100,,,,CPRD_AURUM
+1.42394E+15,Tegretol 125mg suppositories (Essential Pharma Ltd) Suppository Rectal Carbamazepine 125.000mg,4080100,,,,CPRD_AURUM
+1.42404E+15,Tegretol 250mg suppositories (Essential Pharma Ltd) Suppository Rectal Carbamazepine 250.000mg,4080100,,,,CPRD_AURUM
+2.07641E+14,Carbamazepine 250mg suppositories Suppository Rectal Carbamazepine 250.000mg,4080100,,,,CPRD_AURUM
+1.78841E+14,Carbamazepine 200mg chewable tablets sugar free Chewable tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+1.41514E+15,Tegretol 200mg Chewtabs (Novartis Pharmaceuticals UK Ltd) Chewable tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+1.41504E+15,Tegretol 100mg Chewtabs (Novartis Pharmaceuticals UK Ltd) Chewable tablet Oral Carbamazepine 100.000mg,4080100,,,,CPRD_AURUM
+1.78741E+14,Carbamazepine 100mg chewable tablets sugar free Chewable tablet Oral Carbamazepine 100.000mg,4080100,,,,CPRD_AURUM
+1.98141E+14,Carbamazepine 100mg/5ml oral suspension sugar free Oral suspension Oral Carbamazepine 20.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.42424E+15,Tegretol 100mg/5ml liquid (Novartis Pharmaceuticals UK Ltd) Oral suspension Oral Carbamazepine 20.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.17724E+15,Rivotril 500microgram tablets (Roche Products Ltd) Tablet Oral Clonazepam 500.000microgram,,,,,CPRD_AURUM
+2.86741E+14,Clonazepam 500microgram tablets Tablet Oral Clonazepam 500.000microgram,4080100,,,,CPRD_AURUM
+2.86841E+14,Clonazepam 2mg tablets Tablet Oral Clonazepam 2.000mg,4080100,,,,CPRD_AURUM
+1.17734E+15,Rivotril 2mg tablets (Roche Products Ltd) Tablet Oral Clonazepam 2.000mg,,,,,CPRD_AURUM
+5.11341E+14,Emeside 250mg capsules (Chemidex Pharma Ltd) Capsule Oral Ethosuximide 250.000mg,,,,,CPRD_AURUM
+1.54824E+15,Zarontin 250mg capsules (Pfizer Ltd) Capsule Oral Ethosuximide 250.000mg,,,,,CPRD_AURUM
+5.47141E+14,Ethosuximide 250mg capsules Capsule Oral Ethosuximide 250.000mg,,,,,CPRD_AURUM
+5.49441E+14,Ethosuximide 250mg/5ml oral solution Oral solution Oral Ethosuximide 50.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.55004E+15,Zarontin 250mg/5ml syrup (Essential Pharma Ltd) Oral solution Oral Ethosuximide 50.000mg/1.000ml,4080100,,,,CPRD_AURUM
+5.13841E+14,Emeside 250mg/5ml syrup (Essential Pharma Ltd) Oral solution Oral Ethosuximide 50.000mg/1.000ml,4080100,,,,CPRD_AURUM
+3.10324E+15,Phenobarbital 30mg tablets Tablet Oral Phenobarbital 30.000mg,4080100,,,,CPRD_AURUM
+3.10334E+15,Phenobarbital 60mg tablets Tablet Oral Phenobarbital 60.000mg,4080100,,,,CPRD_AURUM
+3.10264E+15,Phenobarbital 15mg/5ml elixir Oral solution Oral Phenobarbital 3.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.07464E+15,Phenytoin 50mg chewable tablets Chewable tablet Oral Phenytoin 50.000mg,4080100,,,,CPRD_AURUM
+5.29441E+14,Epanutin Infatabs 50mg chewable tablets (Upjohn UK Ltd) Chewable tablet Oral Phenytoin 50.000mg,4080100,,,,CPRD_AURUM
+1.30914E+16,Dilantin Infatabs 50mg chewable tablets (Imported (Canada)) Chewable tablet  Phenytoin 50.000mg,,,,,CPRD_AURUM
+5.31941E+14,Epanutin 30mg/5ml oral suspension (Upjohn UK Ltd) Oral suspension Oral Phenytoin 6.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.87084E+15,Phenytoin 30mg/5ml oral suspension Oral suspension Oral Phenytoin 6.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.08254E+15,Phenytoin sodium 50mg tablets Tablet Oral Phenytoin sodium 50.000mg,4080100,,,,CPRD_AURUM
+1.08214E+15,Phenytoin sodium 100mg tablets Tablet Oral Phenytoin sodium 100.000mg,4080100,,,,CPRD_AURUM
+1.17178E+16,Phenytoin sodium 100mg tablets (Teva UK Ltd) Tablet Oral Phenytoin sodium 100.000mg,,,,,CPRD_AURUM
+5.25041E+14,Epanutin 300mg capsules (Pfizer Ltd) Capsule Oral Phenytoin sodium 300.000mg,,,,,CPRD_AURUM
+1.06864E+15,Phenytoin sodium 300mg capsules Capsule Oral Phenytoin sodium 300.000mg,4080100,,,,CPRD_AURUM
+8.12494E+15,Phenytoin sodium 300mg capsules (Flynn Pharma Ltd) Capsule Oral Phenytoin sodium 300.000mg,,,,,CPRD_AURUM
+8.12464E+15,Phenytoin sodium 25mg capsules (Flynn Pharma Ltd) Capsule Oral Phenytoin sodium 25.000mg,,,,,CPRD_AURUM
+1.06894E+15,Phenytoin sodium 25mg capsules Capsule Oral Phenytoin sodium 25.000mg,4080100,,,,CPRD_AURUM
+5.24841E+14,Epanutin 25mg capsules (Pfizer Ltd) Capsule Oral Phenytoin sodium 25.000mg,,,,,CPRD_AURUM
+5.24941E+14,Epanutin 50mg capsules (Pfizer Ltd) Capsule Oral Phenytoin sodium 50.000mg,,,,,CPRD_AURUM
+1.06904E+15,Phenytoin sodium 50mg capsules Capsule Oral Phenytoin sodium 50.000mg,4080100,,,,CPRD_AURUM
+8.12474E+15,Phenytoin sodium 50mg capsules (Flynn Pharma Ltd) Capsule Oral Phenytoin sodium 50.000mg,,,,,CPRD_AURUM
+8.12484E+15,Phenytoin sodium 100mg capsules (Flynn Pharma Ltd) Capsule Oral Phenytoin sodium 100.000mg,,,,,CPRD_AURUM
+1.06884E+15,Phenytoin sodium 100mg capsules Capsule Oral Phenytoin sodium 100.000mg,4080100,,,,CPRD_AURUM
+5.24741E+14,Epanutin 100mg capsules (Pfizer Ltd) Capsule Oral Phenytoin sodium 100.000mg,,,,,CPRD_AURUM
+1.0714E+16,Phenytoin sodium 100mg capsules (Actavis UK Ltd) Capsule Oral Phenytoin sodium 100.000mg,,,,,CPRD_AURUM
+9.48141E+14,Mysoline 250mg tablets (SERB) Tablet Oral Primidone 250.000mg,,,,,CPRD_AURUM
+1.13934E+15,Primidone 250mg tablets Tablet Oral Primidone 250.000mg,4090300,,,,CPRD_AURUM
+1.36504E+15,Sodium valproate 200mg gastro-resistant tablets Gastro-resistant tablet Oral Sodium valproate 200.000mg,4080100,,,,CPRD_AURUM
+1.74764E+15,Orlept 200mg gastro-resistant tablets (Wockhardt UK Ltd) Gastro-resistant tablet Oral Sodium valproate 200.000mg,4080100,,,,CPRD_AURUM
+5.32641E+14,Epilim 200 gastro-resistant tablets (Sanofi) Gastro-resistant tablet Oral Sodium valproate 200.000mg,4080100,,,,CPRD_AURUM
+5.32741E+14,Epilim 500 gastro-resistant tablets (Sanofi) Gastro-resistant tablet Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+1.74774E+15,Orlept 500mg gastro-resistant tablets (Wockhardt UK Ltd) Gastro-resistant tablet Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+1.36514E+15,Sodium valproate 500mg gastro-resistant tablets Gastro-resistant tablet Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+1.35934E+15,Sodium valproate 200mg modified-release tablets Modified-release tablet Oral Sodium valproate 200.000mg,4080100,,,,CPRD_AURUM
+5.29841E+14,Epilim Chrono 200 tablets (Sanofi) Modified-release tablet Oral Sodium valproate 200.000mg,4080100,,,,CPRD_AURUM
+5.29941E+14,Epilim Chrono 300 tablets (Sanofi) Modified-release tablet Oral Sodium valproate 300.000mg,4080100,,,,CPRD_AURUM
+2.79924E+15,Epival CR 300mg tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Sodium valproate 300.000mg,,,,,CPRD_AURUM
+1.35944E+15,Sodium valproate 300mg modified-release tablets Modified-release tablet Oral Sodium valproate 300.000mg,4080100,,,,CPRD_AURUM
+1.35954E+15,Sodium valproate 500mg modified-release tablets Modified-release tablet Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+2.79914E+15,Epival CR 500mg tablets (Healthcare Pharma Ltd) Modified-release tablet Oral Sodium valproate 500.000mg,,,,,CPRD_AURUM
+5.30041E+14,Epilim Chrono 500 tablets (Sanofi) Modified-release tablet Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+5.32541E+14,Epilim 100mg crushable tablets (Sanofi) Tablet Oral Sodium valproate 100.000mg,4080100,,,,CPRD_AURUM
+1.36494E+15,Sodium valproate 100mg tablets Tablet Oral Sodium valproate 100.000mg,4080100,,,,CPRD_AURUM
+1.52274E+15,Vigabatrin 500mg tablets Tablet Oral Vigabatrin 500.000mg,4080100,,,,CPRD_AURUM
+1.25884E+15,Sabril 500mg tablets (Sanofi) Tablet Oral Vigabatrin 500.000mg,4080100,,,,CPRD_AURUM
+1.25274E+15,Sabril 500mg oral powder sachets (Sanofi) Powder Oral Vigabatrin 500.000mg,4080100,,,,CPRD_AURUM
+1.52194E+15,Vigabatrin 500mg oral powder sachets sugar free Powder Oral Vigabatrin 500.000mg,4080100,,,,CPRD_AURUM
+8.17141E+14,Lamotrigine 50mg tablets Tablet Oral Lamotrigine 50.000mg,4080100,,,,CPRD_AURUM
+8.16941E+14,Lamictal 50mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Lamotrigine 50.000mg,4080100,,,,CPRD_AURUM
+8.16841E+14,Lamictal 100mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Lamotrigine 100.000mg,4080100,,,,CPRD_AURUM
+8.17041E+14,Lamotrigine 100mg tablets Tablet Oral Lamotrigine 100.000mg,4080100,,,,CPRD_AURUM
+8.17441E+14,Lamotrigine 25mg tablets Tablet Oral Lamotrigine 25.000mg,4080100,,,,CPRD_AURUM
+8.17341E+14,Lamictal 25mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Lamotrigine 25.000mg,4080100,,,,CPRD_AURUM
+8.09441E+14,Lamictal 25mg dispersible tablets (GlaxoSmithKline UK Ltd) Dispersible tablet Oral Lamotrigine 25.000mg,4080100,,,,CPRD_AURUM
+8.09741E+14,Lamotrigine 25mg dispersible tablets sugar free Dispersible tablet Oral Lamotrigine 25.000mg,4080100,,,,CPRD_AURUM
+8.09641E+14,Lamotrigine 100mg dispersible tablets sugar free Dispersible tablet Oral Lamotrigine 100.000mg,4080100,,,,CPRD_AURUM
+8.09341E+14,Lamictal 100mg dispersible tablets (GlaxoSmithKline UK Ltd) Dispersible tablet Oral Lamotrigine 100.000mg,4080100,,,,CPRD_AURUM
+8.17741E+14,Lamictal 200mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Lamotrigine 200.000mg,4080100,,,,CPRD_AURUM
+8.17841E+14,Lamotrigine 200mg tablets Tablet Oral Lamotrigine 200.000mg,4080100,,,,CPRD_AURUM
+1.09214E+15,Piracetam 800mg tablets Tablet Oral Piracetam 800.000mg,4090300,,,,CPRD_AURUM
+9.87941E+14,Nootropil 800mg tablets (UCB Pharma Ltd) Tablet Oral Piracetam 800.000mg,4090300,,,,CPRD_AURUM
+9.87841E+14,Nootropil 1200mg tablets (UCB Pharma Ltd) Tablet Oral Piracetam 1.200gram,4090300,,,,CPRD_AURUM
+1.09204E+15,Piracetam 1.2g tablets Tablet Oral Piracetam 1.200gram,4090300,,,,CPRD_AURUM
+1.08944E+15,Piracetam 333.3mg/ml oral solution sugar free Oral solution Oral Piracetam 333.300mg/1.000ml,4090300,,,,CPRD_AURUM
+9.84241E+14,Nootropil 33% oral solution (UCB Pharma Ltd) Oral solution Oral Piracetam 333.300mg/1.000ml,4090300,,,,CPRD_AURUM
+3.25841E+14,Convulex 150mg gastro-resistant capsules (Pfizer Ltd) Gastro-resistant capsule Oral Valproic acid 150.000mg,4080100,,,,CPRD_AURUM
+1.50004E+15,Valproic acid 150mg gastro-resistant capsules Gastro-resistant capsule Oral Valproic acid 150.000mg,4080100,,,,CPRD_AURUM
+1.50014E+15,Valproic acid 300mg gastro-resistant capsules Gastro-resistant capsule Oral Valproic acid 300.000mg,4080100,,,,CPRD_AURUM
+3.25941E+14,Convulex 300mg gastro-resistant capsules (Pfizer Ltd) Gastro-resistant capsule Oral Valproic acid 300.000mg,4080100,,,,CPRD_AURUM
+3.26041E+14,Convulex 500mg gastro-resistant capsules (Pfizer Ltd) Gastro-resistant capsule Oral Valproic acid 500.000mg,4080100,,,,CPRD_AURUM
+1.50024E+15,Valproic acid 500mg gastro-resistant capsules Gastro-resistant capsule Oral Valproic acid 500.000mg,4080100,,,,CPRD_AURUM
+6.20641E+14,Gabapentin 100mg capsules Capsule Oral Gabapentin 100.000mg,4080100,,,,CPRD_AURUM
+9.58041E+14,Neurontin 100mg capsules (Upjohn UK Ltd) Capsule Oral Gabapentin 100.000mg,4080100,,,,CPRD_AURUM
+9.58141E+14,Neurontin 300mg capsules (Upjohn UK Ltd) Capsule Oral Gabapentin 300.000mg,4080100,,,,CPRD_AURUM
+6.20741E+14,Gabapentin 300mg capsules Capsule Oral Gabapentin 300.000mg,4080100,,,,CPRD_AURUM
+6.20841E+14,Gabapentin 400mg capsules Capsule Oral Gabapentin 400.000mg,4080100,,,,CPRD_AURUM
+9.58241E+14,Neurontin 400mg capsules (Upjohn UK Ltd) Capsule Oral Gabapentin 400.000mg,4080100,,,,CPRD_AURUM
+2.14614E+15,Neurontin 600mg tablets (Upjohn UK Ltd) Tablet Oral Gabapentin 600.000mg,4080100,,,,CPRD_AURUM
+2.14594E+15,Gabapentin 600mg tablets Tablet Oral Gabapentin 600.000mg,4080100,,,,CPRD_AURUM
+2.14604E+15,Gabapentin 800mg tablets Tablet Oral Gabapentin 800.000mg,4080100,,,,CPRD_AURUM
+2.14624E+15,Neurontin 800mg tablets (Upjohn UK Ltd) Tablet Oral Gabapentin 800.000mg,4080100,,,,CPRD_AURUM
+1.45064E+15,Topamax 50mg tablets (Janssen-Cilag Ltd) Tablet Oral Topiramate 50.000mg,4080100,,,,CPRD_AURUM
+1.45184E+15,Topiramate 50mg tablets Tablet Oral Topiramate 50.000mg,4080100,,,,CPRD_AURUM
+1.45154E+15,Topiramate 100mg tablets Tablet Oral Topiramate 100.000mg,4080100,,,,CPRD_AURUM
+1.45044E+15,Topamax 100mg tablets (Janssen-Cilag Ltd) Tablet Oral Topiramate 100.000mg,4080100,,,,CPRD_AURUM
+1.45054E+15,Topamax 200mg tablets (Janssen-Cilag Ltd) Tablet Oral Topiramate 200.000mg,4080100,,,,CPRD_AURUM
+1.45164E+15,Topiramate 200mg tablets Tablet Oral Topiramate 200.000mg,4080100,,,,CPRD_AURUM
+1.45174E+15,Topiramate 25mg tablets Tablet Oral Topiramate 25.000mg,4080100,,,,CPRD_AURUM
+1.45144E+15,Topamax 25mg tablets (Janssen-Cilag Ltd) Tablet Oral Topiramate 25.000mg,4080100,,,,CPRD_AURUM
+1.61204E+15,Gabitril 5mg tablets (Teva UK Ltd) Tablet Oral Tiagabine hydrochloride monohydrate 5.000mg,4080100,,,,CPRD_AURUM
+1.70154E+15,Tiagabine 5mg tablets Tablet Oral Tiagabine hydrochloride monohydrate 5.000mg,4080100,,,,CPRD_AURUM
+1.70134E+15,Tiagabine 10mg tablets Tablet Oral Tiagabine hydrochloride monohydrate 10.000mg,4080100,,,,CPRD_AURUM
+1.61184E+15,Gabitril 10mg tablets (Teva UK Ltd) Tablet Oral Tiagabine hydrochloride monohydrate 10.000mg,4080100,,,,CPRD_AURUM
+1.61194E+15,Gabitril 15mg tablets (Teva UK Ltd) Tablet Oral Tiagabine hydrochloride monohydrate 15.000mg,4080100,,,,CPRD_AURUM
+1.70144E+15,Tiagabine 15mg tablets Tablet Oral Tiagabine hydrochloride monohydrate 15.000mg,4080100,,,,CPRD_AURUM
+2.03304E+15,Oxcarbazepine 150mg tablets Tablet Oral Oxcarbazepine 150.000mg,4080100,,,,CPRD_AURUM
+2.03334E+15,Trileptal 150mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Oxcarbazepine 150.000mg,4080100,,,,CPRD_AURUM
+2.03344E+15,Trileptal 300mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Oxcarbazepine 300.000mg,4080100,,,,CPRD_AURUM
+2.03314E+15,Oxcarbazepine 300mg tablets Tablet Oral Oxcarbazepine 300.000mg,4080100,,,,CPRD_AURUM
+2.03324E+15,Oxcarbazepine 600mg tablets Tablet Oral Oxcarbazepine 600.000mg,4080100,,,,CPRD_AURUM
+2.03354E+15,Trileptal 600mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Oxcarbazepine 600.000mg,4080100,,,,CPRD_AURUM
+2.21344E+15,Keppra 1g tablets (UCB Pharma Ltd) Tablet Oral Levetiracetam 1.000gram,4080100,,,,CPRD_AURUM
+2.21314E+15,Levetiracetam 1g tablets Tablet Oral Levetiracetam 1.000gram,4080100,,,,CPRD_AURUM
+6.51234E+15,Matever 1g tablets (Aspire Pharma Ltd) Tablet Oral Levetiracetam 1.000gram,,,,,CPRD_AURUM
+6.51254E+15,Matever 500mg tablets (Aspire Pharma Ltd) Tablet Oral Levetiracetam 500.000mg,,,,,CPRD_AURUM
+2.21304E+15,Levetiracetam 500mg tablets Tablet Oral Levetiracetam 500.000mg,4080100,,,,CPRD_AURUM
+2.21334E+15,Keppra 500mg tablets (UCB Pharma Ltd) Tablet Oral Levetiracetam 500.000mg,4080100,,,,CPRD_AURUM
+2.21324E+15,Keppra 250mg tablets (UCB Pharma Ltd) Tablet Oral Levetiracetam 250.000mg,4080100,,,,CPRD_AURUM
+2.21294E+15,Levetiracetam 250mg tablets Tablet Oral Levetiracetam 250.000mg,4080100,,,,CPRD_AURUM
+6.51264E+15,Matever 250mg tablets (Aspire Pharma Ltd) Tablet Oral Levetiracetam 250.000mg,,,,,CPRD_AURUM
+1.01734E+15,Orimeten 250mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Aminoglutethimide 250.000mg,,,,,CPRD_AURUM
+1.12924E+15,Primidone 250mg/5ml oral suspension Oral suspension Oral Primidone 50.000mg/1.000ml,,,,,CPRD_AURUM
+9.46441E+14,Mysoline 250mg/5ml oral suspension (Zeneca Pharma) Oral suspension Oral Primidone 50.000mg/1.000ml,,,,,CPRD_AURUM
+3.88984E+15,Felbamate 600mg tablets Tablet Oral Felbamate 600.000mg,,,,,CPRD_AURUM
+3.88994E+15,Felbatol 600mg tablets (Imported (United States)) Tablet  Felbamate 600.000mg,,,,,CPRD_AURUM
+6.06774E+15,Primidone 50mg tablets Tablet Oral Primidone 50.000mg,4080100,,,,CPRD_AURUM
+6.06784E+15,Mysoline 50mg tablets (SERB) Tablet Oral Primidone 50.000mg,,,,,CPRD_AURUM
+3.20094E+15,Levetiracetam 750mg tablets Tablet Oral Levetiracetam 750.000mg,4080100,,,,CPRD_AURUM
+3.20114E+15,Keppra 750mg tablets (UCB Pharma Ltd) Tablet Oral Levetiracetam 750.000mg,4080100,,,,CPRD_AURUM
+6.51244E+15,Matever 750mg tablets (Aspire Pharma Ltd) Tablet Oral Levetiracetam 750.000mg,,,,,CPRD_AURUM
+2.20241E+14,Celontin 300mg Kapseals (Warner-Pd) Capsule Oral Mesuximide 300.000mg,,,,,CPRD_AURUM
+1.30581E+16,Lorazepam 500microgram tablets Tablet Oral Lorazepam 500.000microgram,,,,,CPRD_AURUM
+5.74864E+15,Diazepam 2mg/5ml oral solution sugar free Oral solution Oral Diazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+2.83914E+15,Trileptal 60mg/ml oral suspension (Novartis Pharmaceuticals UK Ltd) Oral suspension Oral Oxcarbazepine 60.000mg/1.000ml,4080100,,,,CPRD_AURUM
+2.83904E+15,Oxcarbazepine 60mg/ml oral suspension sugar free Oral suspension Oral Oxcarbazepine 60.000mg/1.000ml,4080100,,,,CPRD_AURUM
+3.15344E+15,Pregabalin 50mg capsules Capsule Oral Pregabalin 50.000mg,4080100,,,,CPRD_AURUM
+2.79624E+15,Gabapentin 250mg/5ml oral solution Oral solution Oral Gabapentin 50.000mg/1.000ml,,,,,CPRD_AURUM
+2.79634E+15,Neurontin 250mg/5ml oral solution (Imported (United States)) Oral solution  Gabapentin 50.000mg/1.000ml,,,,,CPRD_AURUM
+3.29204E+15,Zonisamide 100mg capsules Capsule Oral Zonisamide 100.000mg,4080100,,,,CPRD_AURUM
+3.29234E+15,Zonegran 100mg capsules (Eisai Ltd) Capsule Oral Zonisamide 100.000mg,4080100,,,,CPRD_AURUM
+3.15414E+15,Lyrica 50mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 50.000mg,4080100,,,,CPRD_AURUM
+3.15364E+15,Pregabalin 100mg capsules Capsule Oral Pregabalin 100.000mg,4080100,,,,CPRD_AURUM
+3.15434E+15,Lyrica 100mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 100.000mg,4080100,,,,CPRD_AURUM
+1.02542E+16,Alzain 100mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 100.000mg,,,,,CPRD_AURUM
+1.02206E+16,Lecaent 100mg capsules (Accord Healthcare Ltd) Capsule Oral Pregabalin 100.000mg,,,,,CPRD_AURUM
+1.02061E+16,Rewisca 100mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 100.000mg,,,,,CPRD_AURUM
+1.1822E+16,Axalid 100mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 100.000mg,,,,,CPRD_AURUM
+3.15444E+15,Lyrica 150mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 150.000mg,4080100,,,,CPRD_AURUM
+3.15374E+15,Pregabalin 150mg capsules Capsule Oral Pregabalin 150.000mg,4080100,,,,CPRD_AURUM
+1.18221E+16,Axalid 150mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 150.000mg,,,,,CPRD_AURUM
+1.02062E+16,Rewisca 150mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 150.000mg,,,,,CPRD_AURUM
+1.02207E+16,Lecaent 150mg capsules (Accord Healthcare Ltd) Capsule Oral Pregabalin 150.000mg,,,,,CPRD_AURUM
+1.02543E+16,Alzain 150mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 150.000mg,,,,,CPRD_AURUM
+3.15384E+15,Pregabalin 200mg capsules Capsule Oral Pregabalin 200.000mg,4080100,,,,CPRD_AURUM
+3.15454E+15,Lyrica 200mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 200.000mg,4080100,,,,CPRD_AURUM
+1.02544E+16,Alzain 200mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 200.000mg,,,,,CPRD_AURUM
+1.02208E+16,Lecaent 200mg capsules (Accord Healthcare Ltd) Capsule Oral Pregabalin 200.000mg,,,,,CPRD_AURUM
+1.02063E+16,Rewisca 200mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 200.000mg,,,,,CPRD_AURUM
+1.18222E+16,Axalid 200mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 200.000mg,,,,,CPRD_AURUM
+3.15404E+15,Lyrica 25mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 25.000mg,4080100,,,,CPRD_AURUM
+3.15334E+15,Pregabalin 25mg capsules Capsule Oral Pregabalin 25.000mg,4080100,,,,CPRD_AURUM
+1.18217E+16,Axalid 25mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 25.000mg,,,,,CPRD_AURUM
+1.02058E+16,Rewisca 25mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 25.000mg,,,,,CPRD_AURUM
+1.02203E+16,Lecaent 25mg capsules (Accord Healthcare Ltd) Capsule Oral Pregabalin 25.000mg,,,,,CPRD_AURUM
+1.02539E+16,Alzain 25mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 25.000mg,,,,,CPRD_AURUM
+3.15394E+15,Pregabalin 300mg capsules Capsule Oral Pregabalin 300.000mg,4080100,,,,CPRD_AURUM
+3.15464E+15,Lyrica 300mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 300.000mg,4080100,,,,CPRD_AURUM
+1.02546E+16,Alzain 300mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 300.000mg,,,,,CPRD_AURUM
+1.0221E+16,Lecaent 300mg capsules (Actavis UK Ltd) Capsule Oral Pregabalin 300.000mg,,,,,CPRD_AURUM
+1.02065E+16,Rewisca 300mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 300.000mg,,,,,CPRD_AURUM
+1.18224E+16,Axalid 300mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 300.000mg,,,,,CPRD_AURUM
+1.18218E+16,Axalid 50mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 50.000mg,,,,,CPRD_AURUM
+1.02059E+16,Rewisca 50mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 50.000mg,,,,,CPRD_AURUM
+1.02204E+16,Lecaent 50mg capsules (Accord Healthcare Ltd) Capsule Oral Pregabalin 50.000mg,,,,,CPRD_AURUM
+1.0254E+16,Alzain 50mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 50.000mg,,,,,CPRD_AURUM
+3.15354E+15,Pregabalin 75mg capsules Capsule Oral Pregabalin 75.000mg,4080100,,,,CPRD_AURUM
+3.15424E+15,Lyrica 75mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 75.000mg,4080100,,,,CPRD_AURUM
+1.02541E+16,Alzain 75mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 75.000mg,,,,,CPRD_AURUM
+1.02205E+16,Lecaent 75mg capsules (Actavis UK Ltd) Capsule Oral Pregabalin 75.000mg,,,,,CPRD_AURUM
+1.0206E+16,Rewisca 75mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 75.000mg,,,,,CPRD_AURUM
+1.18219E+16,Axalid 75mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 75.000mg,,,,,CPRD_AURUM
+3.29214E+15,Zonegran 25mg capsules (Eisai Ltd) Capsule Oral Zonisamide 25.000mg,4080100,,,,CPRD_AURUM
+3.29184E+15,Zonisamide 25mg capsules Capsule Oral Zonisamide 25.000mg,4080100,,,,CPRD_AURUM
+3.29194E+15,Zonisamide 50mg capsules Capsule Oral Zonisamide 50.000mg,4080100,,,,CPRD_AURUM
+3.29224E+15,Zonegran 50mg capsules (Eisai Ltd) Capsule Oral Zonisamide 50.000mg,4080100,,,,CPRD_AURUM
+4.38764E+15,Pregabalin 225mg capsules Capsule Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+4.38774E+15,Lyrica 225mg capsules (Upjohn UK Ltd) Capsule Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+1.02064E+16,Rewisca 225mg capsules (Consilient Health Ltd) Capsule Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+1.02209E+16,Lecaent 225mg capsules (Accord Healthcare Ltd) Capsule Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+1.02545E+16,Alzain 225mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+1.18223E+16,Axalid 225mg capsules (Kent Pharmaceuticals Ltd) Capsule Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+3.97904E+15,Diazepam 25mg/5ml oral solution Oral solution Oral Diazepam 5.000mg/1.000ml,,,,,CPRD_AURUM
+4.60674E+15,Lacosamide 100mg tablets Tablet Oral Lacosamide 100.000mg,4080100,,,,CPRD_AURUM
+4.60734E+15,Vimpat 100mg tablets (UCB Pharma Ltd) Tablet Oral Lacosamide 100.000mg,4080100,,,,CPRD_AURUM
+4.26844E+15,Rufinamide 200mg tablets Tablet Oral Rufinamide 200.000mg,4080100,,,,CPRD_AURUM
+4.26874E+15,Inovelon 200mg tablets (Eisai Ltd) Tablet Oral Rufinamide 200.000mg,4080100,,,,CPRD_AURUM
+4.26884E+15,Inovelon 400mg tablets (Eisai Ltd) Tablet Oral Rufinamide 400.000mg,4080100,,,,CPRD_AURUM
+4.26854E+15,Rufinamide 400mg tablets Tablet Oral Rufinamide 400.000mg,4080100,,,,CPRD_AURUM
+4.60694E+15,Lacosamide 200mg tablets Tablet Oral Lacosamide 200.000mg,4080100,,,,CPRD_AURUM
+4.60754E+15,Vimpat 200mg tablets (UCB Pharma Ltd) Tablet Oral Lacosamide 200.000mg,4080100,,,,CPRD_AURUM
+4.60744E+15,Vimpat 150mg tablets (UCB Pharma Ltd) Tablet Oral Lacosamide 150.000mg,4080100,,,,CPRD_AURUM
+4.60684E+15,Lacosamide 150mg tablets Tablet Oral Lacosamide 150.000mg,4080100,,,,CPRD_AURUM
+4.60724E+15,Vimpat 50mg tablets (UCB Pharma Ltd) Tablet Oral Lacosamide 50.000mg,4080100,,,,CPRD_AURUM
+4.60664E+15,Lacosamide 50mg tablets Tablet Oral Lacosamide 50.000mg,4080100,,,,CPRD_AURUM
+8.11424E+15,Perampanel 2mg tablets Tablet Oral Perampanel 2.000mg,4080100,,,,CPRD_AURUM
+8.11484E+15,Fycompa 2mg tablets (Eisai Ltd) Tablet Oral Perampanel 2.000mg,4080100,,,,CPRD_AURUM
+8.11494E+15,Fycompa 4mg tablets (Eisai Ltd) Tablet Oral Perampanel 4.000mg,4080100,,,,CPRD_AURUM
+8.11434E+15,Perampanel 4mg tablets Tablet Oral Perampanel 4.000mg,4080100,,,,CPRD_AURUM
+8.11444E+15,Perampanel 6mg tablets Tablet Oral Perampanel 6.000mg,4080100,,,,CPRD_AURUM
+8.11504E+15,Fycompa 6mg tablets (Eisai Ltd) Tablet Oral Perampanel 6.000mg,4080100,,,,CPRD_AURUM
+8.11514E+15,Fycompa 8mg tablets (Eisai Ltd) Tablet Oral Perampanel 8.000mg,4080100,,,,CPRD_AURUM
+8.11454E+15,Perampanel 8mg tablets Tablet Oral Perampanel 8.000mg,4080100,,,,CPRD_AURUM
+8.11464E+15,Perampanel 10mg tablets Tablet Oral Perampanel 10.000mg,4080100,,,,CPRD_AURUM
+8.11524E+15,Fycompa 10mg tablets (Eisai Ltd) Tablet Oral Perampanel 10.000mg,4080100,,,,CPRD_AURUM
+8.11534E+15,Fycompa 12mg tablets (Eisai Ltd) Tablet Oral Perampanel 12.000mg,4080100,,,,CPRD_AURUM
+8.11474E+15,Perampanel 12mg tablets Tablet Oral Perampanel 12.000mg,4080100,,,,CPRD_AURUM
+6.16614E+15,Trobalt 50mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Retigabine 50.000mg,4080100,,,,CPRD_AURUM
+6.16624E+15,Trobalt 100mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Retigabine 100.000mg,4080100,,,,CPRD_AURUM
+6.16634E+15,Trobalt 200mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Retigabine 200.000mg,4080100,,,,CPRD_AURUM
+6.16644E+15,Trobalt 300mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Retigabine 300.000mg,4080100,,,,CPRD_AURUM
+6.16654E+15,Trobalt 400mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Retigabine 400.000mg,4080100,,,,CPRD_AURUM
+3.99774E+15,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 2ml ampoules Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,9050103,,,,CPRD_AURUM
+1.03494E+15,Paraldehyde 100% solution for injection 5ml ampoules Solution for injection Rectal/ Intramuscular Paraldehyde ,,,,,CPRD_AURUM
+1.16162E+16,Clonazepam 1mg/1ml solution for injection ampoules and diluent Solution for injection Intravenous Clonazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.16163E+16,Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)) Solution for injection  Clonazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
+3.99794E+15,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 10ml ampoules Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,9050103,,,,CPRD_AURUM
+3.99804E+15,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,9050103,,,,CPRD_AURUM
+2.05634E+15,Midazolam 50mg/50ml solution for infusion vials Solution for infusion Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml,15010401,,,,CPRD_AURUM
+3.99784E+15,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 10ml pre-filled syringes Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,9050103,,,,CPRD_AURUM
+3.99814E+15,Magnesium sulfate 10% (magnesium 0.4mmol/ml) solution for injection 10ml ampoules Solution for infusion Intravenous Magnesium sulfate heptahydrate 100.000mg/1.000ml,,,,,CPRD_AURUM
+2.60114E+15,Rivotril 2.5mg/1ml drops (Imported (Switzerland)) Oral drops  Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
+2.60104E+15,Clonazepam 2.5mg/ml drops sugar free Oral drops Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
+5.00874E+15,Sultiame 200mg tablets Tablet Oral Sultiame 200.000mg,,,,,CPRD_AURUM
+5.00944E+15,Sultiame 50mg tablets Tablet Oral Sultiame 50.000mg,,,,,CPRD_AURUM
+5.89954E+15,Clobazam 1mg/5ml oral solution Oral solution Oral Clobazam 200.000microgram/1.000ml,,,,,CPRD_AURUM
+3.92924E+15,Midazolam 100mg/50ml solution for infusion vials Solution for infusion Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml,15010401,,,,CPRD_AURUM
+5.82744E+15,Dronabinol 2.7mg/dose / Cannabidiol 2.5mg/dose oromucosal spray Spray Oromucosal Cannabidiol/ Dronabinol 2.500mg/1.000dose + 2.700mg/1.000dose,10020200,,,,CPRD_AURUM
+3.21794E+15,Sativex oromucosal spray (Bayer Plc) Spray Oromucosal Cannabidiol/ Dronabinol 2.500mg/1.000dose + 2.700mg/1.000dose,10020200,,,,CPRD_AURUM
+3.20104E+15,Levetiracetam 100mg/ml oral solution sugar free Oral solution Oral Levetiracetam 100.000mg/1.000ml,4080100,,,,CPRD_AURUM
+3.20124E+15,Keppra 100mg/ml oral solution (UCB Pharma Ltd) Oral solution Oral Levetiracetam 100.000mg/1.000ml,4080100,,,,CPRD_AURUM
+8.88534E+15,Desitrend 100mg/ml oral solution (Desitin Pharma Ltd) Oral solution Oral Levetiracetam 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.26039E+16,Genlev 100mg/ml oral solution (Genesis Pharmaceuticals Ltd) Oral solution Oral Levetiracetam 100.000mg/1.000ml,,,,,CPRD_AURUM
+3.97944E+15,Carbamazepine 500mg/5ml oral suspension Oral suspension Oral Carbamazepine 100.000mg/1.000ml,,,,,CPRD_AURUM
+4.43414E+15,Chlordiazepoxide 5mg/5ml oral suspension Oral suspension Oral Chlordiazepoxide hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+5.89224E+15,Clobazam 10mg/5ml oral solution Oral solution Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
+3.15754E+15,Clobazam 10mg/5ml oral suspension Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
+5.89964E+15,Clobazam 1mg/5ml oral suspension Oral suspension Oral Clobazam 200.000microgram/1.000ml,,,,,CPRD_AURUM
+5.89974E+15,Clobazam 2.5mg/5ml oral solution Oral solution Oral Clobazam 500.000microgram/1.000ml,,,,,CPRD_AURUM
+5.89984E+15,Clobazam 2.5mg/5ml oral suspension Oral suspension Oral Clobazam 500.000microgram/1.000ml,,,,,CPRD_AURUM
+5.89994E+15,Clobazam 25mg/5ml oral solution Oral solution Oral Clobazam 5.000mg/1.000ml,,,,,CPRD_AURUM
+5.90004E+15,Clobazam 25mg/5ml oral suspension Oral suspension Oral Clobazam 5.000mg/1.000ml,,,,,CPRD_AURUM
+6.36104E+15,Clobazam 2mg/5ml oral solution Oral solution Oral Clobazam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+6.36094E+15,Clobazam 2mg/5ml oral suspension Oral suspension Oral Clobazam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+2.71104E+15,Clobazam 5mg/5ml oral solution Oral solution Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
+5.89214E+15,Clobazam 5mg/5ml oral suspension Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
+5.90124E+15,Clonazepam 250micrograms/5ml oral solution Oral solution Oral Clonazepam 50.000microgram/1.000ml,,,,,CPRD_AURUM
+5.90134E+15,Clonazepam 250micrograms/5ml oral suspension Oral suspension Oral Clonazepam 50.000microgram/1.000ml,,,,,CPRD_AURUM
+2.75274E+15,Clonazepam 2mg/5ml oral solution Oral solution Oral Clonazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+5.99134E+15,Clonazepam 2mg/5ml oral suspension Oral suspension Oral Clonazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+2.71944E+15,Clonazepam 500micrograms/5ml oral solution Oral solution Oral Clonazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
+2.72234E+15,Clonazepam 500micrograms/5ml oral suspension Oral suspension Oral Clonazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
+3.13554E+15,Clonazepam 5mg/5ml oral suspension Oral suspension Oral Clonazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
+2.66794E+15,Clonazepam 625micrograms/5ml oral suspension Oral suspension Oral Clonazepam 125.000microgram/1.000ml,,,,,CPRD_AURUM
+5.96814E+15,Gabapentin 100mg/5ml oral solution Oral solution Oral Gabapentin 20.000mg/1.000ml,,,,,CPRD_AURUM
+5.96824E+15,Gabapentin 100mg/5ml oral suspension Oral suspension Oral Gabapentin 20.000mg/1.000ml,,,,,CPRD_AURUM
+5.89084E+15,Gabapentin 250mg/5ml oral suspension Oral suspension Oral Gabapentin 50.000mg/1.000ml,,,,,CPRD_AURUM
+5.96854E+15,Gabapentin 300mg/5ml oral solution Oral solution Oral Gabapentin 60.000mg/1.000ml,,,,,CPRD_AURUM
+5.96864E+15,Gabapentin 300mg/5ml oral suspension Oral suspension Oral Gabapentin 60.000mg/1.000ml,,,,,CPRD_AURUM
+8.53654E+15,Lamotrigine 50mg/5ml oral suspension Oral suspension Oral Lamotrigine 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.89244E+15,Lorazepam 1mg/5ml oral solution Oral solution Oral Lorazepam 200.000microgram/1.000ml,,,,,CPRD_AURUM
+3.92384E+15,Lorazepam 1mg/5ml oral suspension Oral suspension Oral Lorazepam 200.000microgram/1.000ml,,,,,CPRD_AURUM
+4.66334E+15,Lorazepam 250micrograms/5ml oral suspension Oral suspension Oral Lorazepam 50.000microgram/1.000ml,,,,,CPRD_AURUM
+5.89234E+15,Lorazepam 500micrograms/5ml oral solution Oral solution Oral Lorazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
+3.30804E+15,Lorazepam 500micrograms/5ml oral suspension Oral suspension Oral Lorazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
+3.07614E+15,Topiramate 50mg/5ml oral suspension Oral suspension Oral Topiramate 10.000mg/1.000ml,,,,,CPRD_AURUM
+2.97314E+15,Topiramate 25mg/5ml oral suspension Oral suspension Oral Topiramate 5.000mg/1.000ml,,,,,CPRD_AURUM
+5.99164E+15,Diazepam 10mg/5ml oral solution Oral solution Oral Diazepam 2.000mg/1.000ml,,,,,CPRD_AURUM
+5.99174E+15,Diazepam 2.5mg/5ml oral solution Oral solution Oral Diazepam 500.000microgram/1.000ml,,,,,CPRD_AURUM
+5.99774E+15,Phenobarbital 50mg/5ml oral suspension Oral suspension Oral Phenobarbital 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.99764E+15,Phenobarbital 50mg/5ml oral solution Oral solution Oral Phenobarbital 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.88744E+15,Phenytoin 90mg/5ml oral suspension Oral suspension Oral Phenytoin 18.000mg/1.000ml,,,,,CPRD_AURUM
+2.75864E+15,Primidone 50mg/5ml oral suspension Oral suspension Oral Primidone 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.45274E+15,Primidone 62.5mg/5ml oral suspension Oral suspension Oral Primidone 12.500mg/1.000ml,,,,,CPRD_AURUM
+3.15294E+15,Sodium valproate 300mg suppositories Suppository Rectal Sodium valproate 300.000mg,,,,,CPRD_AURUM
+3.85554E+15,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml Minijet pre-filled syringes (UCB Pharma Ltd) Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,,,,,CPRD_AURUM
+3.85564E+15,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml pre-filled syringes Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,,,,,CPRD_AURUM
+6.00164E+15,Midazolam 10mg/ml oral solution Oral solution Oral Midazolam maleate 10.000mg/1.000ml,,,,,CPRD_AURUM
+4.02124E+15,Sodium valproate 300mg/3ml solution for injection ampoules Solution for injection Intravenous Sodium valproate 100.000mg/1.000ml,4080100,,,,CPRD_AURUM
+4.02134E+15,Episenta 300mg/3ml solution for injection ampoules (Desitin Pharma Ltd) Solution for injection Intravenous Sodium valproate 100.000mg/1.000ml,4080100,,,,CPRD_AURUM
+4.15024E+15,Sodium valproate 150mg modified-release capsules Modified-release capsule Oral Sodium valproate 150.000mg,4080100,,,,CPRD_AURUM
+4.15044E+15,Episenta 150mg modified-release capsules (Desitin Pharma Ltd) Modified-release capsule Oral Sodium valproate 150.000mg,4080100,,,,CPRD_AURUM
+4.15064E+15,Episenta 300mg modified-release capsules (Desitin Pharma Ltd) Modified-release capsule Oral Sodium valproate 300.000mg,4080100,,,,CPRD_AURUM
+4.15034E+15,Sodium valproate 300mg modified-release capsules Modified-release capsule Oral Sodium valproate 300.000mg,4080100,,,,CPRD_AURUM
+4.15094E+15,Sodium valproate 500mg modified-release granules sachets sugar free Modified-release granules Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+4.15114E+15,Episenta 500mg modified-release granules sachets (Desitin Pharma Ltd) Modified-release granules Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+4.55054E+15,Epilim Chronosphere MR 500mg granules sachets (Sanofi) Modified-release granules Oral Sodium valproate 500.000mg,4080100,,,,CPRD_AURUM
+4.15124E+15,Episenta 1000mg modified-release granules sachets (Desitin Pharma Ltd) Modified-release granules Oral Sodium valproate 1.000gram,4080100,,,,CPRD_AURUM
+4.15104E+15,Sodium valproate 1g modified-release granules sachets sugar free Modified-release granules Oral Sodium valproate 1.000gram,4080100,,,,CPRD_AURUM
+5.05504E+15,Epilim Chronosphere MR 1000mg granules sachets (Sanofi) Modified-release granules Oral Sodium valproate 1.000gram,,,,,CPRD_AURUM
+5.90104E+15,Clonazepam 12.5mg/5ml oral solution Oral solution Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
+5.90114E+15,Clonazepam 12.5mg/5ml oral suspension Oral suspension Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
+2.64004E+15,Clonazepam 125micrograms/5ml oral suspension Oral suspension Oral Clonazepam 25.000microgram/1.000ml,,,,,CPRD_AURUM
+5.96844E+15,Gabapentin 200mg/5ml oral solution Oral solution Oral Gabapentin 40.000mg/1.000ml,,,,,CPRD_AURUM
+5.96834E+15,Gabapentin 200mg/5ml oral suspension Oral suspension Oral Gabapentin 40.000mg/1.000ml,,,,,CPRD_AURUM
+8.12534E+15,Gabapentin 500mg/5ml oral suspension Oral suspension Oral Gabapentin 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.12759E+16,Oxazepam 10mg/5ml oral suspension Oral suspension Oral Oxazepam 2.000mg/1.000ml,,,,,CPRD_AURUM
+5.97834E+15,Phenobarbital 10mg/5ml oral solution Oral solution Oral Phenobarbital 2.000mg/1.000ml,,,,,CPRD_AURUM
+5.97844E+15,Phenobarbital 10mg/5ml oral suspension Oral suspension Oral Phenobarbital 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.26026E+16,Phenobarbital 250mg/5ml oral suspension Oral suspension Oral Phenobarbital 50.000mg/1.000ml,,,,,CPRD_AURUM
+5.97404E+15,Phenobarbital 90mg/5ml oral solution Oral solution Oral Phenobarbital 18.000mg/1.000ml,,,,,CPRD_AURUM
+5.97414E+15,Phenobarbital 90mg/5ml oral suspension Oral suspension Oral Phenobarbital 18.000mg/1.000ml,,,,,CPRD_AURUM
+7.85954E+15,Phenobarbital 25mg/5ml oral suspension Oral suspension Oral Phenobarbital 5.000mg/1.000ml,,,,,CPRD_AURUM
+1.33526E+16,Phenobarbital 100mg tablets Tablet Oral Phenobarbital 100.000mg,,,,,CPRD_AURUM
+4.26864E+15,Inovelon 100mg tablets (Eisai Ltd) Tablet Oral Rufinamide 100.000mg,4080100,,,,CPRD_AURUM
+4.26834E+15,Rufinamide 100mg tablets Tablet Oral Rufinamide 100.000mg,4080100,,,,CPRD_AURUM
+5.97304E+15,Midazolam 10mg/5ml oral solution Oral solution Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
+5.97314E+15,Midazolam 10mg/5ml oral suspension Oral suspension Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
+5.97344E+15,Midazolam 5mg/5ml oral solution Oral solution Oral Midazolam maleate 1.000mg/1.000ml,,,,,CPRD_AURUM
+5.97354E+15,Midazolam 5mg/5ml oral suspension Oral suspension Oral Midazolam maleate 1.000mg/1.000ml,,,,,CPRD_AURUM
+4.43484E+15,Episenta 1g/10ml solution for injection ampoules (Beacon Pharmaceuticals Ltd) Solution for injection Intravenous Sodium valproate 100.000mg/1.000ml,,,,,CPRD_AURUM
+4.43474E+15,Sodium valproate 1g/10ml solution for injection ampoules Solution for injection Intravenous Sodium valproate 100.000mg/1.000ml,,,,,CPRD_AURUM
+5.37724E+15,Topiramate 100mg/5ml oral suspension Oral suspension Oral Topiramate 20.000mg/1.000ml,,,,,CPRD_AURUM
+9.77674E+15,Topiramate 100mg/5ml oral solution Oral solution Oral Topiramate 20.000mg/1.000ml,,,,,CPRD_AURUM
+4.45754E+15,Diacomit 250mg capsules (Alan Pharmaceuticals) Capsule Oral Stiripentol 250.000mg,4080100,,,,CPRD_AURUM
+4.45714E+15,Stiripentol 250mg capsules Capsule Oral Stiripentol 250.000mg,4080100,,,,CPRD_AURUM
+4.45734E+15,Stiripentol 250mg oral powder sachets Powder Oral Stiripentol 250.000mg,4080100,,,,CPRD_AURUM
+4.45774E+15,Diacomit 250mg oral powder sachets (Alan Pharmaceuticals) Powder Oral Stiripentol 250.000mg,4080100,,,,CPRD_AURUM
+4.45764E+15,Diacomit 500mg capsules (Alan Pharmaceuticals) Capsule Oral Stiripentol 500.000mg,4080100,,,,CPRD_AURUM
+4.45724E+15,Stiripentol 500mg capsules Capsule Oral Stiripentol 500.000mg,4080100,,,,CPRD_AURUM
+4.45744E+15,Stiripentol 500mg oral powder sachets Powder Oral Stiripentol 500.000mg,4080100,,,,CPRD_AURUM
+4.45784E+15,Diacomit 500mg oral powder sachets (Alan Pharmaceuticals) Powder Oral Stiripentol 500.000mg,4080100,,,,CPRD_AURUM
+4.55034E+15,Epilim Chronosphere MR 100mg granules sachets (Sanofi) Modified-release granules Oral Sodium valproate 100.000mg,4080100,,,,CPRD_AURUM
+4.54984E+15,Sodium valproate 100mg modified-release granules sachets sugar free Modified-release granules Oral Sodium valproate 100.000mg,4080100,,,,CPRD_AURUM
+4.54994E+15,Sodium valproate 250mg modified-release granules sachets sugar free Modified-release granules Oral Sodium valproate 250.000mg,4080100,,,,CPRD_AURUM
+4.55044E+15,Epilim Chronosphere MR 250mg granules sachets (Sanofi) Modified-release granules Oral Sodium valproate 250.000mg,4080100,,,,CPRD_AURUM
+4.55004E+15,Sodium valproate 50mg modified-release granules sachets sugar free Modified-release granules Oral Sodium valproate 50.000mg,4080100,,,,CPRD_AURUM
+4.55024E+15,Epilim Chronosphere MR 50mg granules sachets (Sanofi) Modified-release granules Oral Sodium valproate 50.000mg,4080100,,,,CPRD_AURUM
+4.55014E+15,Sodium valproate 750mg modified-release granules sachets sugar free Modified-release granules Oral Sodium valproate 750.000mg,4080100,,,,CPRD_AURUM
+4.55064E+15,Epilim Chronosphere MR 750mg granules sachets (Sanofi) Modified-release granules Oral Sodium valproate 750.000mg,4080100,,,,CPRD_AURUM
+2.76244E+15,Diazepam 10mg/5ml oral suspension Oral suspension Oral Diazepam 2.000mg/1.000ml,,,,,CPRD_AURUM
+3.34524E+15,Diazepam 2.5mg/5ml oral suspension Oral suspension Oral Diazepam 500.000microgram/1.000ml,,,,,CPRD_AURUM
+5.88734E+15,Phenytoin 90mg/5ml oral solution Oral solution Oral Phenytoin 18.000mg/1.000ml,,,,,CPRD_AURUM
+5.10034E+15,Gabapentin 400mg/5ml oral solution Oral solution Oral Gabapentin 80.000mg/1.000ml,,,,,CPRD_AURUM
+5.99344E+15,Gabapentin 400mg/5ml oral suspension Oral suspension Oral Gabapentin 80.000mg/1.000ml,,,,,CPRD_AURUM
+5.99794E+15,Pregabalin 75mg/5ml oral solution Oral solution Oral Pregabalin 15.000mg/1.000ml,,,,,CPRD_AURUM
+3.99354E+15,Pregabalin 75mg/5ml oral suspension Oral suspension Oral Pregabalin 15.000mg/1.000ml,,,,,CPRD_AURUM
+4.60714E+15,Lacosamide 200mg/20ml solution for infusion vials Solution for infusion Intravenous Lacosamide 10.000mg/1.000ml,4080100,,,,CPRD_AURUM
+4.60774E+15,Vimpat 200mg/20ml solution for infusion vials (UCB Pharma Ltd) Solution for infusion Intravenous Lacosamide 10.000mg/1.000ml,4080100,,,,CPRD_AURUM
+4.60764E+15,Vimpat 15mg/ml syrup (UCB Pharma Ltd) Oral solution Oral Lacosamide 15.000mg/1.000ml,4080100,,,,CPRD_AURUM
+4.60704E+15,Lacosamide 15mg/ml oral solution sugar free Oral solution Oral Lacosamide 15.000mg/1.000ml,4080100,,,,CPRD_AURUM
+4.95734E+15,Pregabalin 150mg/5ml oral suspension Oral suspension Oral Pregabalin 30.000mg/1.000ml,,,,,CPRD_AURUM
+5.05574E+15,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules Solution for injection Intravenous/ Intramuscular Magnesium sulfate heptahydrate 200.000mg/1.000ml,,,,,CPRD_AURUM
+6.01384E+15,Pregabalin 75mg oral powder sachets Powder Route of administration not applicable Pregabalin 75.000mg,,,,,CPRD_AURUM
+5.97324E+15,Midazolam 12.5mg/5ml oral solution Oral solution Oral Midazolam maleate 2.500mg/1.000ml,,,,,CPRD_AURUM
+5.97334E+15,Midazolam 12.5mg/5ml oral suspension Oral suspension Oral Midazolam maleate 2.500mg/1.000ml,,,,,CPRD_AURUM
+1.17248E+16,Valproic acid 500mg/5ml oral suspension Oral suspension Oral Valproate semisodium 100.000mg/1.000ml,,,,,CPRD_AURUM
+5.32394E+15,Eslicarbazepine 800mg tablets Tablet Oral Eslicarbazepine acetate 800.000mg,4080100,,,,CPRD_AURUM
+5.32384E+15,Zebinix 800mg tablets (Eisai Ltd) Tablet Oral Eslicarbazepine acetate 800.000mg,4080100,,,,CPRD_AURUM
+5.42664E+15,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42634E+15,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42644E+15,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42654E+15,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+3.24644E+15,Klonopin 0.5mg oral lyophilisates (Imported (United States)) Oral lyophilisate  Clonazepam 500.000microgram,,,,,CPRD_AURUM
+5.99864E+15,Zonisamide 50mg/5ml oral solution Oral solution Oral Zonisamide 10.000mg/1.000ml,,,,,CPRD_AURUM
+5.99844E+15,Zonisamide 50mg/5ml oral suspension Oral suspension Oral Zonisamide 10.000mg/1.000ml,,,,,CPRD_AURUM
+6.16664E+15,Trobalt tablets starter pack (GlaxoSmithKline UK Ltd) Not applicable   ,4080100,,,,CPRD_AURUM
+3.99364E+15,Diazepam 2mg/5ml oral suspension Oral suspension Oral Diazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+6.47544E+15,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam 10.000mg/1.000ml,,,,,CPRD_AURUM
+6.47524E+15,Lacosamide 10mg/ml oral solution sugar free Oral solution Oral Lacosamide 10.000mg/1.000ml,,,,,CPRD_AURUM
+6.47534E+15,Vimpat 10mg/ml syrup (UCB Pharma Ltd) Oral solution  Lacosamide 10.000mg/1.000ml,,,,,CPRD_AURUM
+3.15304E+15,Sodium valproate 100mg suppositories Suppository Rectal Sodium valproate 100.000mg,,,,,CPRD_AURUM
+3.92394E+15,Sodium valproate 500mg/5ml oral suspension Oral suspension Oral Sodium valproate 100.000mg/1.000ml,,,,,CPRD_AURUM
+6.52904E+15,Clonazepam 2mg/5ml oral solution sugar free Oral solution Oral Clonazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
+6.52974E+15,Clonazepam 500micrograms/5ml oral solution sugar free Oral solution Oral Clonazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
+7.68764E+15,Rufinamide 40mg/ml oral suspension sugar free Oral suspension Oral Rufinamide 40.000mg/1.000ml,,,,,CPRD_AURUM
+7.68774E+15,Inovelon 40mg/ml oral suspension (Eisai Ltd) Oral suspension Oral Rufinamide 40.000mg/1.000ml,,,,,CPRD_AURUM
+7.87154E+15,Pregabalin 20mg/ml oral solution sugar free Oral solution Oral Pregabalin 20.000mg/1.000ml,,,,,CPRD_AURUM
+7.87164E+15,Lyrica 20mg/ml oral solution (Upjohn UK Ltd) Oral solution Oral Pregabalin 20.000mg/1.000ml,,,,,CPRD_AURUM
+8.23704E+15,Gabapentin 50mg/ml oral solution sugar free Oral solution Oral Gabapentin 50.000mg/1.000ml,,,,,CPRD_AURUM
+8.24704E+15,Desitrend 1000mg granules sachets (Desitin Pharma Ltd) Granules Oral Levetiracetam 1.000gram,,,,,CPRD_AURUM
+8.24674E+15,Levetiracetam 1g granules sachets sugar free Granules Oral Levetiracetam 1.000gram,,,,,CPRD_AURUM
+8.24684E+15,Levetiracetam 250mg granules sachets sugar free Granules Oral Levetiracetam 250.000mg,,,,,CPRD_AURUM
+8.24714E+15,Desitrend 250mg granules sachets (Desitin Pharma Ltd) Granules Oral Levetiracetam 250.000mg,,,,,CPRD_AURUM
+8.24694E+15,Levetiracetam 500mg granules sachets sugar free Granules Oral Levetiracetam 500.000mg,,,,,CPRD_AURUM
+8.24724E+15,Desitrend 500mg granules sachets (Desitin Pharma Ltd) Granules Oral Levetiracetam 500.000mg,,,,,CPRD_AURUM
+8.26314E+15,Tapclob 10mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
+8.26294E+15,Clobazam 10mg/5ml oral suspension sugar free Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.22026E+16,Zacco 10mg/5ml oral suspension (Thame Laboratories Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.03881E+16,Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
+8.26284E+15,Clobazam 5mg/5ml oral suspension sugar free Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
+8.26304E+15,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.0388E+16,Perizam 1mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.22025E+16,Zacco 5mg/5ml oral suspension (Thame Laboratories Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
+8.53584E+15,Sodium valproate 400mg/4ml solution for injection ampoules Solution for injection Intravenous Sodium valproate 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.342E+16,Midazolam 50mg/50ml solution for infusion pre-filled syringes Solution for infusion Intravenous Midazolam hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+8.87074E+15,Clonazepam 2.5mg/ml drops Oral drops Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
+1.33449E+16,Pregabalin 200mg tablets Tablet Oral Pregabalin 200.000mg,,,,,CPRD_AURUM
+5.57564E+15,Zonisamide 25mg/5ml oral suspension Oral suspension Oral Zonisamide 5.000mg/1.000ml,,,,,CPRD_AURUM
+1.30006E+16,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for infusion 100ml vials Solution for infusion Intravenous/ Intramuscular Magnesium sulfate heptahydrate 500.000mg/1.000ml,,,,,CPRD_AURUM
+1.0229E+16,Levetiracetam 500mg/5ml solution for infusion ampoules Solution for infusion Intravenous Levetiracetam 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.02292E+16,Desitrend 500mg/5ml concentrate for solution for infusion ampoules (Desitin Pharma Ltd) Solution for infusion Intravenous Levetiracetam 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.3345E+16,Pregabalin 225mg tablets Tablet Oral Pregabalin 225.000mg,,,,,CPRD_AURUM
+1.33443E+16,Pregabalin 25mg tablets Tablet Oral Pregabalin 25.000mg,,,,,CPRD_AURUM
+1.07462E+16,Izinova concentrate for oral solution (Allergan Ltd) Oral solution Oral Magnesium sulfate heptahydrate/ Potassium sulfate/ Sodium sulfate anhydrous 18.614mg/1.000ml + 17.784mg/1.000ml + 99.489mg/1.000ml,,,,,CPRD_AURUM
+1.33451E+16,Pregabalin 300mg tablets Tablet Oral Pregabalin 300.000mg,,,,,CPRD_AURUM
+1.10282E+16,Brivaracetam 100mg tablets Tablet Oral Brivaracetam 100.000mg,4080100,,,,CPRD_AURUM
+1.10288E+16,Briviact 100mg tablets (UCB Pharma Ltd) Tablet Oral Brivaracetam 100.000mg,4080100,,,,CPRD_AURUM
+1.10289E+16,Briviact 10mg tablets (UCB Pharma Ltd) Tablet Oral Brivaracetam 10.000mg,4080100,,,,CPRD_AURUM
+1.10284E+16,Brivaracetam 10mg tablets Tablet Oral Brivaracetam 10.000mg,4080100,,,,CPRD_AURUM
+1.10285E+16,Brivaracetam 25mg tablets Tablet Oral Brivaracetam 25.000mg,4080100,,,,CPRD_AURUM
+1.1029E+16,Briviact 25mg tablets (UCB Pharma Ltd) Tablet Oral Brivaracetam 25.000mg,4080100,,,,CPRD_AURUM
+1.10291E+16,Briviact 50mg tablets (UCB Pharma Ltd) Tablet Oral Brivaracetam 50.000mg,4080100,,,,CPRD_AURUM
+1.10286E+16,Brivaracetam 50mg tablets Tablet Oral Brivaracetam 50.000mg,4080100,,,,CPRD_AURUM
+1.10268E+16,Brivaracetam 50mg/5ml oral solution sugar free Oral solution Oral Brivaracetam 10.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.10272E+16,Briviact 10mg/ml oral solution (UCB Pharma Ltd) Oral solution Oral Brivaracetam 10.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.10281E+16,Briviact 50mg/5ml solution for injection vials (UCB Pharma Ltd) Solution for injection Intravenous Brivaracetam 10.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.1028E+16,Brivaracetam 50mg/5ml solution for injection vials Solution for injection Intravenous Brivaracetam 10.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.10287E+16,Brivaracetam 75mg tablets Tablet Oral Brivaracetam 75.000mg,4080100,,,,CPRD_AURUM
+1.10292E+16,Briviact 75mg tablets (UCB Pharma Ltd) Tablet Oral Brivaracetam 75.000mg,4080100,,,,CPRD_AURUM
+1.33445E+16,Pregabalin 50mg tablets Tablet Oral Pregabalin 50.000mg,,,,,CPRD_AURUM
+1.15598E+16,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42704E+15,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42674E+15,Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+1.15599E+16,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+1.156E+16,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42684E+15,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+5.42694E+15,Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+1.15601E+16,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
+1.33446E+16,Pregabalin 75mg tablets Tablet Oral Pregabalin 75.000mg,,,,,CPRD_AURUM
+5.32141E+14,Epilim 200mg/5ml syrup (Sanofi) Oral solution Oral Sodium valproate 40.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.36124E+15,Sodium valproate 200mg/5ml oral solution Oral solution Oral Sodium valproate 40.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.74754E+15,Orlept SF 200mg/5ml liquid (Wockhardt UK Ltd) Oral solution Oral Sodium valproate 40.000mg/1.000ml,4080100,,,,CPRD_AURUM
+5.29641E+14,Epilim 200mg/5ml liquid (Sanofi) Oral solution Oral Sodium valproate 40.000mg/1.000ml,4080100,,,,CPRD_AURUM
+2.26604E+15,Carbamazepine 200mg modified-release tablets Modified-release tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+2.92944E+15,Carbagen SR 400mg tablets (Mylan) Modified-release tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+2.92874E+15,Epimaz Retard 400mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Carbamazepine 400.000mg,,,,,CPRD_AURUM
+2.73054E+15,Arbil MR 400mg tablets (Ranbaxy (UK) Ltd) Modified-release tablet Oral Carbamazepine 400.000mg,,,,,CPRD_AURUM
+2.66814E+15,Teril Retard 400mg tablets (Taro Pharmaceuticals (UK) Ltd) Modified-release tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+7.67854E+15,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Oromucosal solution Buccal Midazolam maleate 10.000mg/1.000ml,,,,,CPRD_AURUM
+1.23152E+16,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam maleate 10.000mg/1.000ml,,,,,CPRD_AURUM
+1.23411E+16,Eslicarbazepine 200mg tablets Tablet Oral Eslicarbazepine acetate 200.000mg,,,,,CPRD_AURUM
+1.23412E+16,Zebinix 200mg tablets (Eisai Ltd) Tablet Oral Eslicarbazepine acetate 200.000mg,,,,,CPRD_AURUM
+1.25033E+16,Lorazepam 1mg/ml oral solution sugar free Oral solution Oral Lorazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.25787E+16,Depakin 200mg/ml oral solution (Imported (Italy)) Oral solution  Sodium valproate 200.000mg/1.000ml,,,,,CPRD_AURUM
+1.84794E+15,Topamax 15mg sprinkle capsules (Janssen-Cilag Ltd) Capsule Oral Topiramate 15.000mg,4080100,,,,CPRD_AURUM
+3.18904E+15,Topiramate 15mg capsules Capsule Oral Topiramate 15.000mg,4080100,,,,CPRD_AURUM
+1.84804E+15,Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd) Capsule Oral Topiramate 25.000mg,4080100,,,,CPRD_AURUM
+3.18914E+15,Topiramate 25mg capsules Capsule Oral Topiramate 25.000mg,4080100,,,,CPRD_AURUM
+2.21764E+15,Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd) Capsule Oral Topiramate 50.000mg,4080100,,,,CPRD_AURUM
+3.18924E+15,Topiramate 50mg capsules Capsule Oral Topiramate 50.000mg,4080100,,,,CPRD_AURUM
+1.36364E+15,Sodium valproate 200mg/5ml oral solution sugar free Oral solution Oral Sodium valproate 40.000mg/1.000ml,4080100,,,,CPRD_AURUM
+5.29541E+14,Epilim Intravenous 400mg powder and solvent for solution for injection vials (Sanofi) Powder and solvent for solution for injection Intravenous Sodium valproate 400.000mg,4080100,,,,CPRD_AURUM
+1.35824E+15,Sodium valproate 400mg powder and solvent for solution for injection vials Powder and solvent for solution for injection Intravenous Sodium valproate 400.000mg,4080100,,,,CPRD_AURUM
+6.23641E+14,Gardenal Sodium 200mg/1ml solution for injection ampoules (Concord Pharmaceuticals Ltd) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Phenobarbital sodium 200.000mg/1.000ml,,,,,CPRD_AURUM
+3.10274E+15,Phenobarbital 200mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Phenobarbital sodium 200.000mg/1.000ml,4080100,,,,CPRD_AURUM
+1.0702E+16,Phenobarbital 30mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Phenobarbital sodium 30.000mg/1.000ml,,,,,CPRD_AURUM
+1.07021E+16,Phenobarbital 60mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Phenobarbital sodium 60.000mg/1.000ml,,,,,CPRD_AURUM
+5.26941E+14,Epanutin Ready-Mixed Parenteral 250mg/5ml solution for injection ampoules (Upjohn UK Ltd) Solution for injection Intravenous/ Intramuscular Phenytoin sodium 50.000mg/1.000ml,4080200,,,,CPRD_AURUM
+1.07444E+15,Phenytoin sodium 250mg/5ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Phenytoin sodium 50.000mg/1.000ml,4080200,,,,CPRD_AURUM
+2.58454E+15,Lamictal 2mg dispersible tablets (GlaxoSmithKline UK Ltd) Dispersible tablet Oral Lamotrigine 2.000mg,4080100,,,,CPRD_AURUM
+2.58444E+15,Lamotrigine 2mg dispersible tablets sugar free Dispersible tablet Oral Lamotrigine 2.000mg,4080100,,,,CPRD_AURUM
+3.92864E+15,Keppra 500mg/5ml concentrate for solution for infusion vials (UCB Pharma Ltd) Solution for infusion Intravenous Levetiracetam 100.000mg/1.000ml,4080100,,,,CPRD_AURUM
+6.51224E+15,Matever 500mg/5ml concentrate for solution for infusion vials (Aspire Pharma Ltd) Solution for infusion Intravenous Levetiracetam 100.000mg/1.000ml,,,,,CPRD_AURUM
+3.92854E+15,Levetiracetam 500mg/5ml solution for infusion vials Solution for infusion Intravenous Levetiracetam 100.000mg/1.000ml,4080100,,,,CPRD_AURUM
+8.8941E+13,Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd) Solution for injection Intravenous/ Intramuscular Lorazepam 4.000mg/1.000ml,4080200,15010401,,,CPRD_AURUM
+8.44141E+14,Lorazepam 4mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Lorazepam 4.000mg/1.000ml,15010401,,,,CPRD_AURUM
+1.76744E+15,Pro-Epanutin 750mg/10ml concentrate for solution for injection vials (Pfizer Ltd) Solution for injection Intravenous/ Intramuscular Fosphenytoin sodium 75.000mg/1.000ml,4080200,,,,CPRD_AURUM
+1.76734E+15,Fosphenytoin 750mg/10ml solution for injection vials Solution for injection Intravenous/ Intramuscular Fosphenytoin sodium 75.000mg/1.000ml,4080200,,,,CPRD_AURUM
+2.91404E+15,Neurontin titration pack (Pfizer Ltd) Not applicable   ,4080100,,,,CPRD_AURUM
+2.91364E+15,Gabapentin 600mg tablets and Gabapentin 300mg capsules Not applicable Route of administration not applicable  ,4080100,,,,CPRD_AURUM
+6.67841E+14,Heminevrin 250mg/5ml syrup (AstraZeneca UK Ltd) Oral solution Oral Clomethiazole edisilate 50.000mg/1.000ml,,,,,CPRD_AURUM
+3.08544E+15,Clomethiazole 157.5mg/5ml oral solution sugar free Oral solution Oral Clomethiazole edisilate 50.000mg/1.000ml,,,,,CPRD_AURUM
+4.46441E+14,Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd) Emulsion for injection Intravenous Diazepam 5.000mg/1.000ml,10020200,15010401,,,CPRD_AURUM
+3.03304E+15,Diazepam 10mg/2ml emulsion for injection ampoules Emulsion for injection Intravenous Diazepam 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
+3.03314E+15,Diazepam 10mg/2ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Diazepam 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
+1.26845E+16,Ethosuximide 250mg/5ml oral solution sugar free Oral solution Oral Ethosuximide 50.000mg/1.000ml,,,,,CPRD_AURUM
+7.37041E+14,Hypnovel 10mg/2ml solution for injection ampoules (Cheplapharm Arzneimittel GmbH) Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
+9.14841E+14,Midazolam 10mg/2ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
+7.36941E+14,Hypnovel 10mg/5ml solution for injection ampoules (Roche Products Ltd) Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml,15010401,,,,CPRD_AURUM
+9.14741E+14,Midazolam 10mg/5ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml,15010401,,,,CPRD_AURUM
+5.09054E+15,Midazolam 2mg/2ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+4.15134E+15,Midazolam 50mg/10ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
+3.95604E+15,Midazolam 5mg/5ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
+1.33527E+16,Cannabidiol 100mg/ml oral solution sugar free Oral solution Oral Cannabidiol 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.33529E+16,Epidyolex 100mg/ml oral solution (GW Pharma Ltd) Oral solution Oral Cannabidiol 100.000mg/1.000ml,,,,,CPRD_AURUM
+1.28816E+16,Zebinix 50mg/1ml oral suspension (Eisai Ltd) Oral suspension Oral Eslicarbazepine acetate 50.000mg/1.000ml,,,,,CPRD_AURUM
+1.28815E+16,Eslicarbazepine 50mg/1ml oral suspension sugar free Oral suspension Oral Eslicarbazepine acetate 50.000mg/1.000ml,,,,,CPRD_AURUM
+8.09541E+14,Lamictal 5mg dispersible tablets (GlaxoSmithKline UK Ltd) Dispersible tablet Oral Lamotrigine 5.000mg,4080100,,,,CPRD_AURUM
+8.09841E+14,Lamotrigine 5mg dispersible tablets sugar free Dispersible tablet Oral Lamotrigine 5.000mg,4080100,,,,CPRD_AURUM
+1.29107E+16,Topiramate 100mg/5ml oral suspension sugar free Oral suspension Oral Topiramate 20.000mg/1.000ml,,,,,CPRD_AURUM
+1.29106E+16,Topiramate 50mg/5ml oral suspension sugar free Oral suspension Oral Topiramate 10.000mg/1.000ml,,,,,CPRD_AURUM
+1.29994E+16,Perampanel 500micrograms/ml oral suspension sugar free Oral suspension Oral Perampanel 500.000microgram/1.000ml,,,,,CPRD_AURUM
+1.29995E+16,Fycompa 0.5mg/ml oral suspension (Eisai Ltd) Oral suspension Oral Perampanel 500.000microgram/1.000ml,,,,,CPRD_AURUM
+2.73044E+15,Arbil MR 200mg tablets (Ranbaxy (UK) Ltd) Modified-release tablet Oral Carbamazepine 200.000mg,,,,,CPRD_AURUM
+1.42884E+15,Tegretol Prolonged Release 200mg tablets (Novartis Pharmaceuticals UK Ltd) Modified-release tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+2.66804E+15,Teril Retard 200mg tablets (Taro Pharmaceuticals (UK) Ltd) Modified-release tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+2.92864E+15,Epimaz Retard 200mg tablets (IVAX Pharmaceuticals UK Ltd) Modified-release tablet Oral Carbamazepine 200.000mg,,,,,CPRD_AURUM
+2.92934E+15,Carbagen SR 200mg tablets (Mylan) Modified-release tablet Oral Carbamazepine 200.000mg,4080100,,,,CPRD_AURUM
+1.42894E+15,Tegretol Prolonged Release 400mg tablets (Novartis Pharmaceuticals UK Ltd) Modified-release tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+2.26614E+15,Carbamazepine 400mg modified-release tablets Modified-release tablet Oral Carbamazepine 400.000mg,4080100,,,,CPRD_AURUM
+1.31594E+16,Lorazepam 1mg orodispersible tablets Orodispersible tablet Oral Lorazepam 1.000mg,,,,,CPRD_AURUM
+1.31595E+16,Lorazepam 2.5mg orodispersible tablets Orodispersible tablet Oral Lorazepam 2.500mg,,,,,CPRD_AURUM
+1.31498E+16,Ozalin 2mg/ml oral solution 5ml unit dose ampoules (Sintetica Ltd) Oral solution Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.31497E+16,Midazolam 10mg/5ml oral solution unit dose ampoules sugar free Oral solution Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.31582E+16,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for infusion 10ml ampoules Solution for infusion Intravenous Magnesium sulfate heptahydrate 200.000mg/1.000ml,,,,,CPRD_AURUM
+1.33448E+16,Pregabalin 150mg tablets Tablet Oral Pregabalin 150.000mg,,,,,CPRD_AURUM
+1.33447E+16,Pregabalin 100mg tablets Tablet Oral Pregabalin 100.000mg,,,,,CPRD_AURUM
+1.34199E+16,Midazolam 100mg/50ml solution for infusion pre-filled syringes Solution for infusion Intravenous Midazolam hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
+1.37648E+16,Phenobarbital 30mg/5ml oral suspension Phenobarbital 30mg/5ml oral suspension Oral suspension Oral Phenobarbital 6.000mg/1.000ml,,,,,CPRD_AURUM
+1.3765E+16,Phenytoin sodium 100mg capsules (Accord Healthcare Ltd) Phenytoin sodium 100mg capsules Capsule Oral Phenytoin sodium 100.000mg,,,,,CPRD_AURUM
+1.37529E+16,Zonisamide 100mg/5ml oral suspension Zonisamide 100mg/5ml oral suspension Oral suspension Oral Zonisamide 20.000mg/1.000ml,,,,,CPRD_AURUM
+1.34469E+16,Kigabeq 100mg soluble tablets (Veriton Pharma Ltd) Kigabeq 100mg soluble tablets Soluble tablet Gastroenteral/ Oral Vigabatrin 100.000mg,,,,,CPRD_AURUM
+1.3447E+16,Kigabeq 500mg soluble tablets (Veriton Pharma Ltd) Kigabeq 500mg soluble tablets Soluble tablet Gastroenteral/ Oral Vigabatrin 500.000mg,,,,,CPRD_AURUM
+1.34467E+16,Vigabatrin 100mg soluble tablets sugar free Vigabatrin 100mg soluble tablets sugar free Soluble tablet Gastroenteral/ Oral Vigabatrin 100.000mg,,,,,CPRD_AURUM
+1.34468E+16,Vigabatrin 500mg soluble tablets sugar free Vigabatrin 500mg soluble tablets sugar free Soluble tablet Gastroenteral/ Oral Vigabatrin 500.000mg,,,,,CPRD_AURUM
+1.37221E+16,Dyzantil 200mg modified-release tablets (Aspire Pharma Ltd) Dyzantil 200mg modified-release tablets Modified-release tablet Oral Sodium valproate 200.000mg,,,,,CPRD_AURUM
+1.37222E+16,Dyzantil 300mg modified-release tablets (Aspire Pharma Ltd) Dyzantil 300mg modified-release tablets Modified-release tablet Oral Sodium valproate 300.000mg,,,,,CPRD_AURUM
+1.37223E+16,Dyzantil 500mg modified-release tablets (Aspire Pharma Ltd) Dyzantil 500mg modified-release tablets Modified-release tablet Oral Sodium valproate 500.000mg,,,,,CPRD_AURUM
+1.3753E+16,Desizon 20mg/ml oral suspension (Desitin Pharma Ltd) Desizon 20mg/ml oral suspension Oral suspension Oral Zonisamide 20.000mg/1.000ml,,,,,CPRD_AURUM
+1.383E+16,Midazolam 5mg/ml oral solution sugar free Midazolam 5mg/ml oral solution sugar free Oral solution Oral Midazolam 5.000mg/1.000ml,,,,,CPRD_AURUM
+1.39103E+16,Fenfluramine 2.2mg/ml oral solution sugar free Fenfluramine 2.2mg/ml oral solution sugar free Oral solution Oral Fenfluramine hydrochloride 2.200mg/1.000ml,,,,,CPRD_AURUM
+1.39145E+16,Epesri 250mg capsules (Strides Pharma UK Ltd) Epesri 250mg capsules Capsule Oral Ethosuximide 250.000mg,,,,,CPRD_AURUM
+1.39343E+16,Cenobamate 50mg tablets Cenobamate 50mg tablets Tablet Oral Cenobamate 50.000mg,,,,,CPRD_AURUM
+1.39344E+16,Cenobamate 100mg tablets Cenobamate 100mg tablets Tablet Oral Cenobamate 100.000mg,,,,,CPRD_AURUM
+1.39345E+16,Cenobamate 150mg tablets Cenobamate 150mg tablets Tablet Oral Cenobamate 150.000mg,,,,,CPRD_AURUM
+1.39346E+16,Cenobamate 200mg tablets Cenobamate 200mg tablets Tablet Oral Cenobamate 200.000mg,,,,,CPRD_AURUM
+1.39351E+16,Cenobamate 12.5mg tablets and Cenobamate 25mg tablets Cenobamate 12.5mg tablets and Cenobamate 25mg tablets Not applicable Route of administration not applicable  ,,,,,CPRD_AURUM

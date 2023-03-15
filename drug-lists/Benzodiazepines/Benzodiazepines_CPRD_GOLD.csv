@@ -1,0 +1,535 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+18125,Librium 5mg capsules (Mylan) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+5294,Chlordiazepoxide 10mg tablets Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
+74743,Lorazepam 2mg/1ml solution for injection ampoules Lorazepam 2mg/1ml Solution for injection Intramuscular/Intravenous,4010201,4080200,15010401,,CPRD_GOLD
+816,Clonazepam 1mg/1ml solution for injection ampoules and diluent Clonazepam 1mg/1ml Solution for injection Intravenous,4080200,,,,CPRD_GOLD
+46896,Lorazepam 500micrograms/5ml oral solution Lorazepam 100microgram/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
+23120,Temazepam gelthix 15mg Capsule (Pharmacia Ltd) Temazepam 15mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+3686,Nitrazepam 10mg Tablet Nitrazepam 10mg Tablet Oral,4010100,,,,CPRD_GOLD
+46826,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+75473,Diazepam 2.5mg/5ml oral suspension (Special Order) Diazepam 500microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+31633,Valclair 10mg suppositories (Durbin Plc) Diazepam 10mg Suppository Rectal,4010201,4080200,4080300,,CPRD_GOLD
+79478,Midazolam 50mg/10ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
+3870,Diazepam 2mg capsules Diazepam 2mg Capsules Oral,4010100,4010200,,,CPRD_GOLD
+20,Temazepam 10mg tablets Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+10581,Hypnovel 10mg/2ml solution for injection ampoules (Cheplapharm Arzneimittel GmbH) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+48010,Clobazam 25mg/5ml oral suspension Clobazam 5mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+48817,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+77021,Midazolam 6.25mg/5ml oral solution Midazolam maleate 1.25mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+3109,CLOBAZAM 5 MG TAB    ,0,,,,CPRD_GOLD
+41988,Chlordiazepoxide 10mg Tablet (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010200,,,,CPRD_GOLD
+79029,Diazepam 10mg Rectal tubes (Hillcross Pharmaceuticals Ltd) Diazepam 4mg/1ml Enema Rectal,4010200,4080200,,,CPRD_GOLD
+69211,Clonazepam 500microgram orodispersible tablets Clonazepam 500microgram Orodispersible tablet Oral,4080100,,,,CPRD_GOLD
+20692,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
+41553,Oxazepam 10mg tablets (Genus Pharmaceuticals Ltd) Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
+9045,Diazepam 1mg/5ml suspension Diazepam 1mg/5ml Suspension Oral,4010100,4010200,,,CPRD_GOLD
+780,Temazepam 10mg/5ml oral solution sugar free Temazepam 2mg/1ml Oral solution Oral,4010100,15010401,,,CPRD_GOLD
+56236,Diazepam 2mg tablets (Wockhardt UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+26835,MIDAZOLAM (2ML)    ,0,,,,CPRD_GOLD
+4543,Chlordiazepoxide 5mg tablets Chlordiazepoxide Hydrochloride 5mg Tablets Oral,4010200,,,,CPRD_GOLD
+77463,Rivotril 500microgram tablets (Waymade Healthcare Plc) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+14743,Clonazepam 500micrograms/5ml oral suspension Clonazepam 100microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+78312,Lorazepam 1mg orodispersible tablets Lorazepam 1mg Orodispersible tablet Oral,4010201,15010401,,,CPRD_GOLD
+53311,Clonazepam 500microgram tablets (Phoenix Healthcare Distribution Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+10650,Rivotril 500microgram tablets (Roche Products Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+5150,Loprazolam 1mg tablets Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+39284,Lorazepam 1mg tablets (Genus Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+58460,Clonazepam 312.5micrograms/5ml oral suspension Clonazepam 62.5microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+80742,Clonazepam 1mg/5ml oral suspension Clonazepam 200microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+14417,LORAZEPAM 1 MG SUS    ,0,,,,CPRD_GOLD
+73660,Nitrazepam 5mg tablets (Almus Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+3524,Mogadon 5mg Capsule (Roche Products Ltd) Nitrazepam 5mg Capsule Oral,4010100,,,,CPRD_GOLD
+33672,Diazepam 2mg tablets (A A H Pharmaceuticals Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+3111,Clobazam 10mg tablets Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
+6025,Chlordiazepoxide 5mg tablets Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
+41411,Oxazepam 15mg tablets (A A H Pharmaceuticals Ltd) Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
+18488,Diazepam 2.5mg RecTubes (Wockhardt UK Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+51925,Epistatus 7.5mg/0.75ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam 7.5mg Oromucosal Solution Route Of Administration Not Applicable,4080200,,,,CPRD_GOLD
+79687,Midazolam 10mg/5ml oral solution unit dose ampoules sugar free Midazolam maleate 2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+36611,Euhypnos 10mg/5ml Oral solution (Pharmacia Ltd) Temazepam 2mg/1ml Oral solution Oral,4010100,15010401,,,CPRD_GOLD
+34686,Nitrazepam 5mg tablets (Teva UK Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+27847,Surem 5mg Capsule (Galen Ltd) Nitrazepam 5mg Capsule Oral,4010100,,,,CPRD_GOLD
+15429,CLOBAZAM 5 MG CAP    ,0,,,,CPRD_GOLD
+20966,Clobazam 10mg/5ml oral suspension Clobazam 2mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+3447,DIAZEMULS 10 MG INJ    ,0,,,,CPRD_GOLD
+38410,Diazepam 5mg Rectal tubes (Hillcross Pharmaceuticals Ltd) Diazepam 2mg/1ml Enema Rectal,4010200,4080200,,,CPRD_GOLD
+35,Nitrazepam 5mg tablets Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+67785,Diazepam 5mg tablets (Wockhardt UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+73815,Diazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+41385,Nitrazepam 5mg tablets (Actavis UK Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+74867,Clonazepam 125micrograms/5ml oral solution Clonazepam 25microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+48517,Lormetazepam 1mg/5ml oral suspension Lormetazepam 200microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+28347,Diazepam 2mg Tablet (Crosspharma Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+33648,Temazepam 10mg Tablet (Wyeth Pharmaceuticals) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+64879,Clobazam 5mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+2122,Chlordiazepoxide 5mg capsules Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+66879,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+49534,Midazolam 5mg/0.5ml oromucosal solution pre-filled syringes Midazolam  Oromucosal Solution Oromucosal Buccal,4080200,,,,CPRD_GOLD
+75571,Clonazepam 500microgram tablets (Kent Pharmaceuticals Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+26837,XANAX    ,0,,,,CPRD_GOLD
+53461,Diazepam 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
+63985,Midazolam 5mg/5ml solution for injection pre-filled syringes Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
+18291,Noctamid 1mg Tablet (Schering Health Care Ltd) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+9814,Nitrazepam 5mg/5ml oral suspension Nitrazepam 1mg/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+23002,LORAZEPAM 5 MG TAB    ,0,,,,CPRD_GOLD
+37566,Lorazepam 1mg/5ml oral suspension Lorazepam 200microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
+34534,Lormetazepam 1mg Tablet (Wyeth Pharmaceuticals) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+66878,Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+37696,Clobazam 2.5mg capsules Clobazam 2.5mg Capsule Oral,4080100,,,,CPRD_GOLD
+53566,Diazepam 2.5mg/5ml oral solution Diazepam 500microgram/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
+77686,Temazepam 20mg Tablet (IVAX Pharmaceuticals UK Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+43438,Chlordiazepoxide 5mg tablets (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010201,10020200,,,CPRD_GOLD
+57664,Clonazepam 250micrograms/5ml oral suspension Clonazepam 50microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+46,Diazepam 2mg tablets Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+68414,Diazepam 2mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
+3357,Lormetazepam 1mg Capsule Lormetazepam 1mg Capsule Oral,4010100,,,,CPRD_GOLD
+34516,Lormetazepam 1mg tablets (Mylan) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+14480,Flunitrazepam 1mg tablets Flunitrazepam 1mg Tablet Oral,0,,,,CPRD_GOLD
+7301,Midazolam 10mg/ml buccal solution Midazolam Hydrochloride 10mg/ml Buccal Solution Oromucosal,4080200,15010401,,,CPRD_GOLD
+28698,Valium 5mg Suppository (Roche Products Ltd) Diazepam 5mg Suppository Rectal,4010200,4080200,,,CPRD_GOLD
+32847,Temazepam 10mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Temazepam 2mg/1ml Oral solution Oral,4010100,15010401,,,CPRD_GOLD
+11486,Alprazolam 500microgram tablets Alprazolam 500microgram Tablet Oral,4010201,,,,CPRD_GOLD
+55931,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Midazolam 10mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+8721,Oxazepam 30mg Tablet Oxazepam 30mg Tablet Oral,4010200,,,,CPRD_GOLD
+66340,Midazolam 1mg/ml Injection (Antigen Pharmaceuticals) Midazolam Hydrochloride 1mg/ml Injection ,15010401,,,,CPRD_GOLD
+20245,Temazepam 10mg gel-fill capsules Temazepam 10mg Gel-Filled Capsules Oral,4010100,15010401,,,CPRD_GOLD
+37745,Lorazepam 1mg/5ml oral solution Lorazepam 200microgram/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
+74065,Chlordiazepoxide 5mg/5ml oral suspension Chlordiazepoxide hydrochloride 1mg/1ml Oral suspension Oral,4010201,4105000,10020200,,CPRD_GOLD
+44302,Tropium 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,10020200,,,CPRD_GOLD
+64470,Chlordiazepoxide 10mg tablets (Phoenix Healthcare Distribution Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
+73751,Diazepam 5mg/5ml oral suspension Diazepam 1mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+74934,Midazolam buccal solution Midazolam Hydrochloride   ,4080200,15010401,,,CPRD_GOLD
+61015,Clonazepam 500microgram oral lyophilisates sugar free Clonazepam 500microgram Oral lyophilisate Oral,4080100,,,,CPRD_GOLD
+8344,Diazepam 5mg suppository Diazepam 5mg Suppository Rectal,4010200,4080200,,,CPRD_GOLD
+46757,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+4439,Libraxin Tablet (Roche Products Ltd) Chlordiazepoxide/Clidinium Bromide  Tablet Oral,1020100,4010200,,,CPRD_GOLD
+75415,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+63686,Midazolam 5mg/ml Injection (Phoenix Healthcare Distribution Ltd) Midazolam Hydrochloride 5mg/ml Injection ,15010401,,,,CPRD_GOLD
+6516,Chlordiazepoxide 25mg tablets Chlordiazepoxide Hydrochloride 25mg Tablets Oral,4010200,,,,CPRD_GOLD
+23612,STESOLID (2ML)    ,0,,,,CPRD_GOLD
+25273,Oxanid 10mg Tablet (M A Steinhard Ltd) Oxazepam 10mg Tablet Oral,4010200,,,,CPRD_GOLD
+26496,Rivotril 1mg/1ml concentrate for solution for injection ampoules (Roche Products Ltd) Clonazepam 1mg/1ml Solution for injection Intravenous,4080200,,,,CPRD_GOLD
+59396,Clonazepam 500microgram tablets (Almus Pharmaceuticals Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+31163,TEMAZEPAM S/F    ,0,,,,CPRD_GOLD
+79472,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Midazolam 10mg/1ml Oromucosal solution Buccal,0,,,,CPRD_GOLD
+44764,Midazolam maleate buccal solution Midazolam Maleate  Buccal Solution Oromucosal,4080200,15010401,,,CPRD_GOLD
+13305,Midazolam 2mg/2ml solution for injection ampoules Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,4010201,15010401,,,CPRD_GOLD
+9048,Librium 5mg Tablet (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010200,,,,CPRD_GOLD
+52052,Clobazam 4mg/5ml oral suspension Clobazam 800microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+46078,Temazepam 20mg tablets (Genus Pharmaceuticals Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+9696,Alprazolam 250microgram tablets Alprazolam 250microgram Tablet Oral,4010201,,,,CPRD_GOLD
+46667,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+2352,Diazepam 2mg/5ml oral solution Diazepam 400microgram/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
+17054,Clobazam 5mg/5ml oral suspension Clobazam 1mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+41303,Clobazam 25mg/5ml oral solution Clobazam 5mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+63662,Midazolam 5mg/ml Injection (Hameln Pharmaceuticals Ltd) Midazolam Hydrochloride 5mg/ml Injection ,15010401,,,,CPRD_GOLD
+12462,Temazepam gelthix 20mg Capsule (Pharmacia Ltd) Temazepam 20mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+62645,Temazepam 20mg Tablet (Lagap) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+45077,Clonazepam 500microgram/5ml Oral solution (Rosemont Pharmaceuticals Ltd) Clonazepam 500microgram/5ml Oral Solution Oral,4080100,,,,CPRD_GOLD
+4338,Valium 5mg Tablet (Roche Products Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+3205,Diazepam 5mg Diazepam 5mg Capsules Oral,4010100,4010200,,,CPRD_GOLD
+73423,Midazolam 2mg/2ml solution for injection pre-filled syringes Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+26961,Midazolam 50mg/10ml solution for injection ampoules Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
+52056,Clobazam 2.5mg/5ml oral suspension Clobazam 500microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+73526,Diazepam 2mg tablets (Crescent Pharma Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+74219,Clonazepam 500micrograms/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+34770,Nitrazepam 5mg Tablet (DDSA Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+30273,Tropium 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010201,10020200,,,CPRD_GOLD
+74755,Diazepam 10mg/5ml oral suspension (Special Order) Diazepam 2mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+51754,Diazepam 10mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
+48807,Midazolam 5mg/1ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+23874,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd) Nitrazepam 500microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+34361,Lormetazepam 500microgram tablets (Thornton & Ross Ltd) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
+4141,Oxazepam 15mg tablets Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
+8184,DIAZEPAM 10 MG INJ    ,0,,,,CPRD_GOLD
+30321,Valium 2mg/5ml Oral solution (Roche Products Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010100,4010200,,,CPRD_GOLD
+63694,Diazepam 2mg tablets (Phoenix Healthcare Distribution Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+67007,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+4395,Stesolid 5mg rectal tube (Accord Healthcare Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+41582,Chlordiazepoxide 5mg capsules (Actavis UK Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,10020200,,,CPRD_GOLD
+56927,Temazepam 10mg tablets (Ethigen Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+75201,Midazolam 5mg/5ml solution for injection ampoules (Advanz Pharma) Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
+69783,Diazepam 2mg/5ml oral suspension (A A H Pharmaceuticals Ltd) Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+34681,Diazepam 5mg Tablet (Crosspharma Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+2083,Diazepam 10mg RecTubes (Wockhardt UK Ltd) Diazepam 4mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+46953,Nitrazepam 5mg tablets (Ranbaxy (UK) Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+57749,Diazepam 5mg tablets (Waymade Healthcare Plc) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+34292,Lormetazepam 500microgram tablets (A A H Pharmaceuticals Ltd) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
+58685,Midazolam 10mg/5ml oral solution Midazolam maleate 2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+29806,CLOBAZAM 7.5 MG CAP    ,0,,,,CPRD_GOLD
+47066,Clonazepam 500micrograms/5ml oral solution Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+34892,Diazepam 5mg Tablet (Berk Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+73483,Temazepam 20mg Capsule (C P Pharmaceuticals Ltd) Temazepam 20mg Capsule ,4010100,15010401,,,CPRD_GOLD
+9111,Diazepam 10mg capsules Diazepam 10mg Capsules Oral,4010100,4010200,,,CPRD_GOLD
+67570,Midazolam 10mg/ml oromucosal solution (Special Order) Midazolam 10mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+69000,Midazolam 2mg/ml oral solution sugar free Midazolam hydrochloride 2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+34002,Temazepam 10mg tablets (IVAX Pharmaceuticals UK Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+28321,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
+50389,Clobazam 4mg/5ml oral solution Clobazam 800microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+20801,Temazepam gelthix 30mg Capsule (Pharmacia Ltd) Temazepam 30mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+35373,Midazolam 50mg/50ml solution for infusion vials Midazolam hydrochloride 1mg/1ml Solution for infusion Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+47045,Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+13756,Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd) Diazepam 5mg/1ml Emulsion for injection Intravenous,4010201,4080200,4080300,,CPRD_GOLD
+32296,Diazepam 5mg tablets (Actavis UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+41601,Oxazepam 15mg Tablet (IVAX Pharmaceuticals UK Ltd) Oxazepam 15mg Tablet Oral,4010200,,,,CPRD_GOLD
+2091,Lorazepam 2.5mg tablets Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+12477,Librium 5mg Capsule (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010200,,,,CPRD_GOLD
+62926,Clobazam 7.5mg/5ml oral suspension Clobazam 1.5mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+49589,Temazepam 10mg tablets (Sandoz Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+72730,Stesolid 5mg/ml Injection (Actavis UK Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010200,4080200,,,CPRD_GOLD
+52680,Clobazam 7.5mg/5ml oral solution Clobazam 1.5mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+3354,Lormetazepam 1mg tablets Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+61833,Midazolam 10mg/ml oral solution (Special Order) Midazolam maleate 10mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+61290,Midazolam 2.5mg/0.25ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+32500,Clonazepam 250micrograms/5ml oral solution Clonazepam 50microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+71813,Clobazam 20mg/5ml oral suspension Clobazam 4mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+59913,Midazolam 10mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+8798,Temazepam gelthix 10mg Capsule (Pharmacia Ltd) Temazepam 10mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+38424,Temazepam 20mg Capsule (Berk Pharmaceuticals Ltd) Temazepam 20mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+24739,TEMAZEPAM    ,0,,,,CPRD_GOLD
+67451,Diazepam 2mg tablets (Mawdsley-Brooks & Company Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+48715,Midazolam 10mg/2ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+34642,Lormetazepam 500microgram tablets (Mylan) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
+17637,Clonazepam 500micrograms/5ml solution sugar free Clonazepam 500micrograms/5ml Solution Sugar-Free Oral,4080100,,,,CPRD_GOLD
+67554,Lorazepam 1mg tablets (Almus Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+34508,Temazepam 10mg tablets (Mylan) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+18928,FLURAZEPAM 30 MG TAB    ,0,,,,CPRD_GOLD
+60320,Clobazam 5mg/5ml oral suspension (Special Order) Clobazam 1mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+71073,Nitrazepam 5mg tablets (Pharmvit Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+59122,Diazepam 5mg/5ml oral solution (AM Distributions (Yorkshire) Ltd) Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
+57268,Lorazepam 2.5mg tablets (Sandoz Ltd) Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+37124,Midazolam 90mg/18ml solution for injection ampoules Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,0,,,,CPRD_GOLD
+46946,Oxazepam 15mg tablets (Genus Pharmaceuticals Ltd) Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
+76218,Lorazepam 500micrograms/5ml oral suspension (Drug Tariff Special Order) Lorazepam 100microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
+10278,Epistatus 10mg/ml Oromucosal solution (Special Products Ltd) Midazolam Hydrochloride 10mg/ml Oromucosal Solution Oromucosal,4080200,15010401,,,CPRD_GOLD
+16734,Diazepam rectubes 20mg Rectal tubes (C P Pharmaceuticals Ltd) Diazepam 20mg Rectal Tubes Rectal,4010200,4080200,,,CPRD_GOLD
+25007,Chlordiazepozide 100mg injection Chlordiazepoxide Hydrochloride 100mg Injection ,4010200,,,,CPRD_GOLD
+34045,Diazepam 5mg/5ml oral solution (Sandoz Ltd) Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
+77999,Clobazam 5mg/5ml oral suspension sugar free (Thame Laboratories Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+38418,Temazepam 10mg Capsule (Berk Pharmaceuticals Ltd) Temazepam 10mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+13304,Midazolam 5mg/5ml solution for injection ampoules Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
+73746,Rivotril 500microgram tablets (DE Pharmaceuticals) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+24519,DIAZEPAM    ,0,,,,CPRD_GOLD
+3950,Flurazepam 15mg capsules Flurazepam hydrochloride 15mg Capsule Oral,4010201,,,,CPRD_GOLD
+21081,Amitriptyline 12.5mg / Chlordiazepoxide 5mg capsules Amitriptyline Hydrochloride/Chlordiazepoxide 12.5mg + 5mg Capsules Oral,4030100,,,,CPRD_GOLD
+54759,Clobazam 5mg/5ml oral suspension sugar free Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+41900,NITRAZEPAM    ,0,,,,CPRD_GOLD
+10802,Xanax 250microgram tablets (Upjohn UK Ltd) Alprazolam 250microgram Tablet Oral,4010201,,,,CPRD_GOLD
+77022,Midazolam 11mg/5ml oral solution Midazolam maleate 2.2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+4587,DIAZEPAM RECTAL 4 MG SOL    ,0,,,,CPRD_GOLD
+74865,Clonazepam 500micrograms/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+45254,Temazepam 10mg tablets (Actavis UK Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+45313,Diazepam 2mg tablets (Almus Pharmaceuticals Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+45615,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+11963,Limbitrol 10 Capsule (Roche Products Ltd) Amitriptyline Hydrochloride/Chlordiazepoxide  Capsule Oral,4030100,,,,CPRD_GOLD
+56811,Temazepam 10mg tablets (F.Maltby & Sons Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+3105,Dalmane 30mg capsules (Mylan) Flurazepam hydrochloride 30mg Capsule Oral,4010201,,,,CPRD_GOLD
+77653,Diazepam 5mg/2.5ml rectal solution tube (A A H Pharmaceuticals Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+70663,Midazolam 2mg/2ml solution for injection ampoules (J M McGill Ltd) Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,4010201,15010401,,,CPRD_GOLD
+20968,Diazepam 2mg/5ml oral solution sugar free (Actavis UK Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
+30779,Temazepam 20mg Tablet (Wyeth Pharmaceuticals) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+78738,Diazepam 5mg Tablet (M & A Pharmachem Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+24386,XANAX    ,0,,,,CPRD_GOLD
+37325,Remnos 10mg Tablet (DDSA Pharmaceuticals Ltd) Nitrazepam 10mg Tablet Oral,4010100,,,,CPRD_GOLD
+60825,Temazepam 20mg tablets (Sandoz Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+78243,Lorazepam 250micrograms/5ml oral solution Lorazepam 50microgram/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
+32417,Diazepam 10mg/2ml solution for injection ampoules (Wockhardt UK Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
+20164,Valium 2mg Capsule (Roche Products Ltd) Diazepam 2mg Capsule Oral,4010100,4010200,,,CPRD_GOLD
+63665,Noctamid 0.5mg Tablet (Schering Health Care Ltd) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
+19450,Mogadon 5mg tablets (Mylan) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+10694,CLOBAZAM 2.5 MG CAP    ,0,,,,CPRD_GOLD
+36604,Oxazepam 10mg tablets (A A H Pharmaceuticals Ltd) Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
+41632,Diazepam 10mg tablets (A A H Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+8842,DIAZEPAM RECTAL 2 MG/ML SOL    ,0,,,,CPRD_GOLD
+73661,Clobazam 10mg tablets (Teva UK Ltd) Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
+21437,Loramet 1mg Capsule (Wyeth Pharmaceuticals) Lormetazepam 1mg Capsule Oral,4010100,,,,CPRD_GOLD
+13279,Lorazepam 500micrograms/5ml oral suspension Lorazepam 100microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
+68691,Midazolam 10mg/10ml solution for injection pre-filled syringes Midazolam hydrochloride 1mg/1ml Solution for injection Intravenous/Intramuscular,4010201,15010401,,,CPRD_GOLD
+8550,Chlordiazepoxide 25mg tablets Chlordiazepoxide Hydrochloride 25mg Tablets Oral,4010200,,,,CPRD_GOLD
+34572,Temazepam 20mg tablets (Mylan) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+16610,Valium 5mg/ml Injection (Roche Products Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010200,4080200,,,CPRD_GOLD
+1400,Diazepam 10mg tablets Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+17830,Ativan 2.5mg Tablet (Wyeth Pharmaceuticals) Lorazepam 2.5mg Tablet Oral,4010200,15010401,,,CPRD_GOLD
+61072,Midazolam 5mg/5ml oral suspension Midazolam maleate 1mg/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
+32320,Temazepam 20mg gel-fill capsules Temazepam 20mg Gel-Filled Capsules Oral,4010100,15010401,,,CPRD_GOLD
+20701,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
+28058,TEMAZEPAM UD 5ML 10 MG/5ML ELI    ,0,,,,CPRD_GOLD
+79487,Temazepam 10mg Capsule (C P Pharmaceuticals Ltd) Temazepam 10mg Capsule ,4010100,15010401,,,CPRD_GOLD
+1088,Lorazepam 1mg tablets Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+4176,Diazepam 10mg/2.5ml rectal solution tube Diazepam 4mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+76758,Midazolam 50mg/10ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
+33776,Diazepam 10mg/2ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
+71336,Diazepam 2mg tablets (DE Pharmaceuticals) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+6020,Midazolam 1mg/ml Injection Midazolam Hydrochloride 1mg/ml Injection ,15010401,,,,CPRD_GOLD
+30985,Temazepam 20mg tablets (IVAX Pharmaceuticals UK Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+69810,Diazepam 5mg tablets (Crescent Pharma Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+67031,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+7391,Midazolam 10mg/2ml solution for injection ampoules Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+62216,Diazepam 10mg tablets (Almus Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+10430,Temazepam 30mg capsules Temazepam 30mg Capsules Oral,4010100,15010401,,,CPRD_GOLD
+75197,Nitrazepam Oral solution Nitrazepam  Oral Solution ,4010100,,,,CPRD_GOLD
+46797,Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+41516,Temazepam 10mg Tablet (IVAX Pharmaceuticals UK Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+10600,STESOLID (2ML) 5 MG/ML INJ    ,0,,,,CPRD_GOLD
+70561,Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)) Clonazepam 1mg/1ml Solution for injection Intravenous,4080200,,,,CPRD_GOLD
+2737,Rohypnol 1mg tablets (Roche Products Ltd) Flunitrazepam 1mg Tablet Oral,0,,,,CPRD_GOLD
+74866,Clonazepam 2mg/5ml oral suspension Clonazepam 400microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+18350,CLOBAZAM 1 MG SUS    ,0,,,,CPRD_GOLD
+41581,Chlordiazepoxide 10mg Capsule (IVAX Pharmaceuticals UK Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
+2407,Nitrazepam 5mg Capsule Nitrazepam 5mg Capsule Oral,4010100,,,,CPRD_GOLD
+66891,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+15110,Temazepam 10mg/5ml Oral solution (Generics (UK) Ltd) Temazepam 2mg/1ml Oral solution Oral,4010100,15010401,,,CPRD_GOLD
+48818,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Midazolam 10mg/1ml Oromucosal solution Buccal,0,,,,CPRD_GOLD
+34615,Diazepam 5mg tablets (Mylan) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+46796,Clobazam 10mg/5ml oral solution Clobazam 2mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+34561,Diazepam 2mg Tablet (Regent Laboratories Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+34614,Diazepam 10mg/2.5ml rectal solution tube (Sandoz Ltd) Diazepam 4mg/1ml Enema Rectal,4010201,4080200,10020200,,CPRD_GOLD
+41531,Oxazepam 10mg tablets (Actavis UK Ltd) Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
+64775,Nitrazepam 10mg/5ml oral suspension Nitrazepam 2mg/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+46850,Clobazam 5mg/5ml oral solution Clobazam 1mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+28879,Chlordiazepoxide 5mg Tablet (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010200,,,,CPRD_GOLD
+24422,FLURAZEPAM 10 MG TAB    ,0,,,,CPRD_GOLD
+14534,Limbitrol 5 Capsule (Roche Products Ltd) Amitriptyline Hydrochloride/Chlordiazepoxide  Capsule Oral,4030100,,,,CPRD_GOLD
+42814,Lorazepam 2.5mg tablets (Genus Pharmaceuticals Ltd) Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+34335,Diazepam 2mg tablets (Teva UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+52954,Midazolam 7.5mg tablets Midazolam maleate 7.5mg Tablet Oral,15010401,,,,CPRD_GOLD
+19299,Valium 5mg Capsule (Roche Products Ltd) Diazepam 5mg Capsule Oral,4010100,4010200,,,CPRD_GOLD
+59407,Diazepam 5mg tablets (DE Pharmaceuticals) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+6747,Diazepam 5mg/2.5ml rectal solution tube Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+34491,Clonazepam 2mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+23493,TEMAZEPAM PLANPAK    ,0,,,,CPRD_GOLD
+10909,DIAZEPAM S/R 10 MG CAP    ,0,,,,CPRD_GOLD
+34964,Nitrazepam 5mg Tablet (Berk Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+46883,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+2073,Clonazepam 2mg tablets Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
+77536,Atensine 5mg Tablet (Rorer Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+63674,Temazepam 30mg gel-fill capsules Temazepam   ,4010100,15010401,,,CPRD_GOLD
+3147,Chlordiazepoxide 10mg tablets Chlordiazepoxide Hydrochloride 10mg Tablets Oral,4010200,,,,CPRD_GOLD
+34928,Chlordiazepoxide 5mg Capsule (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010200,,,,CPRD_GOLD
+76490,Temazepam 15mg gel-fill capsules Temazepam   ,4010100,15010401,,,CPRD_GOLD
+41606,Chlordiazepoxide 5mg Capsule (Approved Prescription Services Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010200,,,,CPRD_GOLD
+34807,Diazepam 10mg tablets (Actavis UK Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+4483,Clonazepam 2.5mg/ml drops sugar free Clonazepam 2.5mg/1ml Oral drops Oral,4080100,,,,CPRD_GOLD
+27880,Tropium 5mg capsules (Dr Reddy's Laboratories (UK) Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,10020200,,,CPRD_GOLD
+41717,Temazepam 20mg tablets (A A H Pharmaceuticals Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+9065,Diazepam 5mg/5ml oral solution Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
+22189,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
+34524,Diazepam 2mg tablets (Actavis UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+34338,Diazepam 2mg tablets (Mylan) Diazepam 2mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+12293,Normison 10mg Capsule (Wyeth Pharmaceuticals) Temazepam 10mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+2401,Valium 2mg Tablet (Roche Products Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+34677,Diazepam 2mg tablets (IVAX Pharmaceuticals UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+55642,Epistatus 2.5mg/0.25ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam hydrochloride 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+52845,Midazolam 12.5mg/5ml oral suspension Midazolam maleate 2.5mg/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
+67957,Diazepam 5mg/5ml oral suspension (A A H Pharmaceuticals Ltd) Diazepam 1mg/1ml Oral suspension Oral,4010201,,,,CPRD_GOLD
+20514,Valium 10mg Suppository (Roche Products Ltd) Diazepam 10mg Suppository Rectal,4010200,4080200,,,CPRD_GOLD
+62270,Chlordiazepoxide 10mg tablets (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
+42503,Diazepam 5mg/5ml oral solution (A A H Pharmaceuticals Ltd) Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
+23205,Dormonoct 1mg Tablet (Hoechst Marion Roussel) Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+3234,Midazolam 5mg/ml Injection Midazolam Hydrochloride 5mg/ml Injection ,15010401,,,,CPRD_GOLD
+64876,Lorazepam 2mg/5ml oral suspension Lorazepam 400microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
+66745,Loprazolam 1mg tablets (Stephar (U.K.) Ltd) Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+34806,Nitrazepam 5mg tablets (Mylan) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+65135,Nitrazepam 2.5mg/5ml oral suspension sugar free Nitrazepam 500microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+61753,Midazolam 5mg/5ml oral solution Midazolam maleate 1mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+70071,Temazepam 10mg tablets (Alliance Healthcare (Distribution) Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+34340,Diazepam 10mg tablets (Ranbaxy (UK) Ltd) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+69437,Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Clobazam 2mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+41689,Diazepam 10mg Suppository (Sinclair IS Pharma Plc) Diazepam 10mg Suppository Rectal,4010200,4080200,,,CPRD_GOLD
+3110,Clobazam 10mg capsules Clobazam 10mg Capsules Oral,4010200,4080100,,,CPRD_GOLD
+4566,Oxazepam 10mg tablets Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
+41562,Temazepam 10mg Tablet (Pharmacia Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+34555,Nitrazepam 5mg tablets (Wockhardt UK Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+69976,Clobazam 1mg/5ml oral suspension Clobazam 200microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+10409,LORAZEPAM .5 MG TAB    ,0,,,,CPRD_GOLD
+7567,Temazepam planpak Capsule (Manufacturer unknown) Temazepam  Capsule Oral,4010100,15010401,,,CPRD_GOLD
+19315,DIAZEPAM 20 MG INJ    ,0,,,,CPRD_GOLD
+24599,Librium 10mg capsules (Mylan) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+57838,Diazepam 5mg tablets (Sovereign Medical Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+48544,Clonazepam 500micrograms/5ml oral solution sugar free Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+51985,Diazepam 2mg/5ml oral suspension Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+36602,Temazepam 20mg Tablet (Pharmacia Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+45241,Chlordiazepoxide 10mg capsules (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+75594,Temazepam 10mg Capsule (Wyeth Pharmaceuticals) Temazepam 10mg Capsule ,4010100,15010401,,,CPRD_GOLD
+36200,Lorazepam 1mg tablets (Mylan) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+3956,Dalmane 15mg capsules (Mylan) Flurazepam hydrochloride 15mg Capsule Oral,4010201,,,,CPRD_GOLD
+46966,Diazepam 5mg tablets (IVAX Pharmaceuticals UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+34033,Diazepam 5mg/2.5ml rectal solution tube (Sandoz Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,10020200,,CPRD_GOLD
+5856,Hypnovel 10mg/5ml solution for injection ampoules (Roche Products Ltd) Midazolam hydrochloride 2mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
+53748,Midazolam 7.5mg/0.75ml oromucosal solution pre-filled syringes Midazolam  Oromucosal Solution Oromucosal Buccal,4080200,,,,CPRD_GOLD
+70045,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free Midazolam maleate 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+32231,Librium 25mg Tablet (ICN Pharmaceuticals France S.A.) Chlordiazepoxide Hydrochloride 25mg Tablet Oral,4010200,,,,CPRD_GOLD
+10274,Diazepam 2mg/5ml oral solution sugar free Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
+34408,Nitrazepam 5mg tablets (A A H Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+57596,Midazolam 2mg/2ml solution for injection ampoules (Advanz Pharma) Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,4010201,15010401,,,CPRD_GOLD
+5842,Diazepam 2.5mg/1.25ml rectal solution tube Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+45829,Lorazepam 1mg tablets (Sandoz Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+54695,Diazepam 10mg Tablet (M & A Pharmachem Ltd) Diazepam 10mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+55481,Clobazam 10mg/5ml oral suspension sugar free Clobazam 2mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+921,Temazepam 10mg capsules Temazepam 10mg Capsules Oral,4010100,15010401,,,CPRD_GOLD
+33086,Lorazepam 1mg tablets (Teva UK Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+35936,Chlordiazepoxide 5mg capsules (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+64693,Clonazepam 2.5mg/ml drops Clonazepam 2.5mg/1ml Oral drops Oral,4080100,,,,CPRD_GOLD
+72550,Rivotril 2mg tablets (Sigma Pharmaceuticals Plc) Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
+41718,Temazepam 10mg Capsule (Hillcross Pharmaceuticals Ltd) Temazepam 10mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+70682,Lorazepam 1mg/ml oral solution sugar free Lorazepam 1mg/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
+34293,Diazepam 10mg tablets (Mylan) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+63238,Diazepam 2mg tablets (Waymade Healthcare Plc) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+54934,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+41607,Diazepam 10mg tablets (Teva UK Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+35932,Lorazepam 2.5mg tablets (Teva UK Ltd) Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+41391,Lorazepam 1mg tablets (Arrow Generics Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+12598,Xanax 500microgram tablets (Upjohn UK Ltd) Alprazolam 500microgram Tablet Oral,4010201,,,,CPRD_GOLD
+49595,Midazolam 10mg/ml oral solution Midazolam maleate 10mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+62541,Diazepam 2mg tablets (Sovereign Medical Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+76757,Clonazepam 25micrograms/5ml oral solution Clonazepam 5microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+76592,Clonazepam 50micrograms/5ml oral solution Clonazepam 10microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+8487,Frisium 10mg Capsule (Aventis Pharma) Clobazam 10mg Capsule Oral,4010200,4080100,,,CPRD_GOLD
+4140,Oxazepam 30mg Capsule Oxazepam 30mg Capsule Oral,4010200,,,,CPRD_GOLD
+77652,Chlordiazepoxide 5mg capsules (Ranbaxy (UK) Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+45244,Diazepam 5mg tablets (Sandoz Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+12237,Diazepam 10mg/2ml emulsion for injection ampoules Diazepam 5mg/1ml Emulsion for injection Intravenous,4010201,4080200,4080300,,CPRD_GOLD
+13612,TEMAZEPAM UD 10ML 10 MG/5ML ELI    ,0,,,,CPRD_GOLD
+7786,Mogadon 5mg Tablet (ICN Pharmaceuticals France S.A.) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+70536,Diazepam 1mg/5ml oral solution Diazepam 200microgram/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
+56988,Midazolam 5mg/2ml solution for injection ampoules Midazolam hydrochloride 2.5mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
+27367,Temazepam 10mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Temazepam 2mg/1ml Oral solution Oral,4010100,15010401,,,CPRD_GOLD
+34692,Lormetazepam 1mg tablets (Thornton & Ross Ltd) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+51425,Clobazam 2.5mg/5ml oral solution Clobazam 500microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+8742,Clidinium bromide with Chlordiazepoxide tablets Chlordiazepoxide/Clidinium Bromide  Tablets Oral,1020100,4010200,,,CPRD_GOLD
+8913,Librium 10mg Capsule (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
+62402,Midazolam 10mg/5ml oral suspension Midazolam maleate 2mg/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
+67032,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+21454,Normison 20mg Capsule (Wyeth Pharmaceuticals) Temazepam 20mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+9430,Diazepam 2.5mg/5ml oral suspension Diazepam 500microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+46964,Temazepam 20mg tablets (Actavis UK Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+78306,Diazepam 2mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd) Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+40386,Chlordiazepoxide 25mg Tablet (DDSA Pharmaceuticals Ltd) Chlordiazepoxide Hydrochloride 25mg Tablet Oral,4010200,,,,CPRD_GOLD
+41596,Loprazolam 1mg tablets (Zentiva) Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
+58482,Clonazepam 500microgram tablets (A A H Pharmaceuticals Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+18342,Amitriptyline 25mg / Chlordiazepoxide 10mg capsules Amitriptyline Hydrochloride/Chlordiazepoxide 25mg + 10mg Capsules Oral,4030100,,,,CPRD_GOLD
+5793,Stesolid 10mg Rectal tubes (Dumex Ltd) Diazepam 4mg/1ml Enema Rectal,4010200,4080200,,,CPRD_GOLD
+64200,Diazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+74422,Clonazepam 2mg/5ml oral solution Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+56781,Tapclob 10mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Clobazam 2mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+51335,Diazepam 10mg/5ml oral solution Diazepam 2mg/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
+46939,Temazepam 20mg tablets (Teva UK Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+78434,Lorazepam 1mg Tablet (C P Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010200,15010401,,,CPRD_GOLD
+8029,Rivotril 2mg tablets (Roche Products Ltd) Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
+28703,Evacalm 5mg Tablet (Unimed Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+15492,Nitrados 5mg Tablet (Rorer Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
+61886,Lorazepam 5mg/5ml oral suspension Lorazepam 1mg/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
+32911,Midazolam 10mg/2ml solution for injection ampoules (Advanz Pharma) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+3973,Tensium 10mg tablets (DDSA Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+13200,Clonazepam 2mg/5ml oral solution sugar free Clonazepam 2mg/5ml Oral Solution Sugar-Free Oral,4080100,,,,CPRD_GOLD
+51550,Epistatus 10mg/1ml oromucosal solution (Veriton Pharma Ltd) Midazolam 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+41629,Chlordiazepoxide 10mg Capsule (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
+46913,Diazepam 10mg tablets (IVAX Pharmaceuticals UK Ltd) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+2403,Temazepam 20mg capsules Temazepam 20mg Capsules Oral,4010100,15010401,,,CPRD_GOLD
+23820,Diazepam 20mg rectal tubes Diazepam 20mg Rectal Tubes Rectal,4010200,4080200,,,CPRD_GOLD
+45695,Midazolam 2.5mg/ml oral solution Midazolam maleate 2.5mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+61678,Nitrazepam 2mg/5ml oral suspension Nitrazepam 400microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+68423,Midazolam 10mg/2ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+34331,Temazepam 10mg tablets (A A H Pharmaceuticals Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+29945,Diazepam 2mg tablets (Ranbaxy (UK) Ltd) Diazepam 2mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+17294,Librium 10mg Tablet (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010200,,,,CPRD_GOLD
+14388,Frisium 10mg tablets (Sanofi) Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
+66889,Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+24321,Paxane 30mg Capsule (M A Steinhard Ltd) Flurazepam hydrochloride 30mg Capsule Oral,4010100,,,,CPRD_GOLD
+12278,FLURAZEPAM 15 MG TAB    ,0,,,,CPRD_GOLD
+34635,Diazepam 5mg tablets (A A H Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+79375,Nitrazepam 10mg Tablet (DDSA Pharmaceuticals Ltd) Nitrazepam 10mg Tablet ,4010100,,,,CPRD_GOLD
+17038,Rivotril 2.5mg/1ml drops (Imported (Switzerland)) Clonazepam 2.5mg/1ml Oral drops Oral,4080100,,,,CPRD_GOLD
+60936,Diazepam 5mg tablets (Arrow Generics Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+7569,Temazepam 15mg capsules Temazepam 15mg Capsules Oral,4010100,15010401,,,CPRD_GOLD
+5872,Midazolam 2mg/ml Injection Midazolam Hydrochloride 2mg/ml Injection ,15010401,,,,CPRD_GOLD
+64505,Clonazepam 5mg/5ml oral suspension Clonazepam 1mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+45283,Temazepam 10mg tablets (Genus Pharmaceuticals Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+43450,Midazolam Oral solution Midazolam  Oral Solution Oral,4080200,15010401,,,CPRD_GOLD
+19533,STESOLID RECTAL    ,0,,,,CPRD_GOLD
+10954,Ativan 1mg Tablet (Wyeth Pharmaceuticals) Lorazepam 1mg Tablet Oral,4010200,15010401,,,CPRD_GOLD
+7924,Nitrazepam 2.5mg/5ml oral suspension Nitrazepam 500microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+67192,Diazepam 5mg/5ml oral suspension (Sandoz Ltd) Diazepam 1mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+29441,Euhypnos forte 20mg Capsule (Pharmacia Ltd) Temazepam 20mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+55836,Temazepam 10mg/5ml oral solution sugar free (Advanz Pharma) Temazepam 2mg/1ml Oral solution Oral,4010100,15010401,,,CPRD_GOLD
+3687,Lormetazepam 500microgram tablets Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
+16169,Librium 100mg Injection (Roche Products Ltd) Chlordiazepoxide Hydrochloride 100mg Injection ,4010200,,,,CPRD_GOLD
+7652,OXAZEPAM 15 MG CAP    ,0,,,,CPRD_GOLD
+58959,Diazepam 10mg/5ml oral solution (AM Distributions (Yorkshire) Ltd) Diazepam 2mg/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
+50618,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+69764,Perizam 1mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+664,Lorazepam 4mg/1ml solution for injection ampoules Lorazepam 4mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,15010401,,CPRD_GOLD
+36581,Atensine 10mg Tablet (Rorer Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+12124,Diazepam 10mg/2ml solution for injection ampoules Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
+1463,Chlordiazepoxide 10mg capsules Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
+8334,Diazepam 10mg suppositories Diazepam 10mg Suppository Rectal,4010201,4080200,4080300,,CPRD_GOLD
+33070,Solis 5mg Capsule (Galen Ltd) Diazepam 5mg Capsule Oral,4010100,4010200,,,CPRD_GOLD
+50108,Clonazepam 2mg/5ml oral solution sugar free Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+64729,Lorazepam 1mg tablets (Genesis Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+45135,Diazepam 2mg Tablet (M & A Pharmachem Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+74584,Clonazepam 2mg/5ml oral solution sugar free (Waymade Healthcare Plc) Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+32853,Diazepam 2mg/5ml oral solution (Sandoz Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
+74433,Clonazepam 125micrograms/5ml oral suspension Clonazepam 25microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+41583,Chlordiazepoxide 10mg capsules (Actavis UK Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,10020200,,,CPRD_GOLD
+54919,Epistatus 5mg/0.5ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam 5mg Oromucosal Solution Route Of Administration Not Applicable,4080200,,,,CPRD_GOLD
+72552,Midazolam 2.5mg/5ml oral solution Midazolam maleate 500microgram/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
+67016,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+19528,STESOLID RECTAL    ,0,,,,CPRD_GOLD
+34735,Midazolam 10mg/2ml solution for injection ampoules (Wockhardt UK Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+77799,Zacco 5mg/5ml oral suspension (Thame Laboratories Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
+65238,Clonazepam 10mg/5ml oral solution Clonazepam 2mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+10402,Valium 10mg Tablet (Roche Products Ltd) Diazepam 10mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+78362,Chlordiazepoxide 10mg tablets (Waymade Healthcare Plc) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
+71245,Diazepam 5mg tablets (Relonchem Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+8345,Stesolid 10mg rectal tube (Accord Healthcare Ltd) Diazepam 4mg/1ml Enema Rectal,4010201,4080200,10020200,,CPRD_GOLD
+7444,Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd) Lorazepam 4mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,15010401,,CPRD_GOLD
+12849,Diazepam 10mg/5ml oral suspension Diazepam 2mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+77589,Nitrazepam 5mg/5ml Liquid (Rosemont Pharmaceuticals Ltd) Nitrazepam 1mg/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
+53306,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam maleate 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+52093,Clobazam 100mg/5ml oral suspension Clobazam 20mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+1729,Temazepam 20mg tablets Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+47,Diazepam 5mg tablets Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+45218,Diazepam 5mg tablets (Ranbaxy (UK) Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
+34406,Temazepam 10mg tablets (Teva UK Ltd) Temazepam 10mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+74342,Diazepam 5mg tablets (Almus Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+34482,Diazepam 5mg tablets (Teva UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+57510,Frisium 10mg tablets (Waymade Healthcare Plc) Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
+79861,Lorazepam 2.5mg orodispersible tablets Lorazepam 2.5mg Orodispersible tablet Oral,4010201,15010401,,,CPRD_GOLD
+41602,Oxazepam 15mg tablets (Actavis UK Ltd) Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
+78323,Lorazepam 500microgram tablets Lorazepam 500microgram Tablet Oral,4010201,15010401,,,CPRD_GOLD
+72832,Clobazam 1.5mg/5ml oral suspension Clobazam 300microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+74984,Diazepam 2mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
+67297,Diazepam 25mg/5ml oral solution Diazepam 5mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
+41542,Oxazepam 10mg Tablet (IVAX Pharmaceuticals UK Ltd) Oxazepam 10mg Tablet Oral,4010200,,,,CPRD_GOLD
+74783,Temazepam 20mg tablets (Ethigen Ltd) Temazepam 20mg Tablet Oral,4010100,15010401,,,CPRD_GOLD
+56551,Lorazepam 5mg/5ml oral solution Lorazepam 1mg/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
+70255,Clobazam 2mg/5ml oral suspension Clobazam 400microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+70981,Clobazam 3.5mg/5ml oral suspension Clobazam 700microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
+53739,Clonazepam 2mg tablets (Sigma Pharmaceuticals Plc) Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
+1559,Clonazepam 500microgram tablets Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+41653,Temazepam 20mg Capsule (Hillcross Pharmaceuticals Ltd) Temazepam 20mg Capsule Oral,4010100,15010401,,,CPRD_GOLD
+49095,Midazolam 10mg/ml oromucosal solution Midazolam 10mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
+7392,Midazolam 10mg/5ml solution for injection ampoules Midazolam hydrochloride 2mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
+2078,Diazepam 5mg RecTubes (Wockhardt UK Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
+34876,Diazepam 2mg Tablet (Berk Pharmaceuticals Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
+38193,Midazolam 100mg/50ml solution for infusion vials Midazolam hydrochloride 2mg/1ml Solution for infusion Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+79387,Chlordiazepoxide 10mg Tablet (IVAX Pharmaceuticals UK Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010200,,,,CPRD_GOLD
+71063,Midazolam 10mg/2ml solution for injection ampoules (Special Order) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
+76192,Diazepam 2.5mg/5ml Liquid (Rosemont Pharmaceuticals Ltd) Diazepam 500microgram/1ml Oral suspension Oral,4010100,4010200,,,CPRD_GOLD
+67193,Diazepam 2mg/5ml oral suspension (Sandoz Ltd) Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
+41574,Chlordiazepoxide 10mg Capsule (Approved Prescription Services Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
+72551,Midazolam 2.5mg/5ml oral suspension Midazolam maleate 500microgram/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
+7566,Flurazepam 30mg capsules Flurazepam hydrochloride 30mg Capsule Oral,4010201,,,,CPRD_GOLD
+45974,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
+61626,Clonazepam 500microgram tablets (Teva UK Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
+61450,Lorazepam 1mg tablets (A A H Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+81242,Midazolam 10mg/2ml solution for injection ampoules (Accord Healthcare Ltd) ,4010201,15010401,,,CPRD_GOLD
+81493,Lorazepam 500microgram tablets (Advanz Pharma) ,4010201,15010401,,,CPRD_GOLD
+81611,Temazepam 10mg/5ml Oral solution (Pharmacia Ltd)Temazepam2mg/1mlOral solutionOral ,4010100,15010401,,,CPRD_GOLD
+81622,Lorazepam 1mg tablets (Actavis UK Ltd)Lorazepam1mgTabletOral ,4010201,15010401,,,CPRD_GOLD
+81791,Midazolam 5mg/1ml solution for injection ampoulesMidazolam hydrochloride5mg/1mlSolution for injectionIntravenous ,15010401,,,,CPRD_GOLD
+82100,Midazolam 5mg/5ml solution for injection pre-filled syringes (Special Order)Midazolam hydrochloride1mg/1mlSolution for injectionIntramuscular/Intravenous ,15010401,,,,CPRD_GOLD
+82148,Midazolam 200mg/50ml solution for injection pre-filled syringesMidazolam hydrochloride4mg/1mlSolution for injectionIntravenous ,15010401,,,,CPRD_GOLD
+82339,Temazepam 10mg tablets (Cavendish Pharmaceuticals Ltd)Temazepam10mgTabletOral ,4010100,15010401,,,CPRD_GOLD
+82395,Chlordiazepoxide 10mg capsules (Ranbaxy (UK) Ltd)Chlordiazepoxide hydrochloride10mgCapsuleOral ,4010201,4105000,10020200,,CPRD_GOLD
+82398,Clonazepam 500microgram tablets (Almus Pharmaceuticals Ltd)Clonazepam500microgramTabletOral ,0,,,,CPRD_GOLD

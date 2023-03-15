@@ -1,0 +1,324 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+20230978,Trazodone 150mg tablets,4030100,0,0,,IMRD
+20315978,Trazodone 100mg/5ml oral solution sugar free,0,0,0,,IMRD
+24924978,Nortriptyline 50mg tablets,0,0,0,,IMRD
+26539978,Amitriptyline 25mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+45791978,Vortioxetine 5mg tablets,4030400,4030300,0,N06AX26,IMRD
+45792978,Vortioxetine 5mg tablets,4030400,4030300,0,N06AX26,IMRD
+45793978,Vortioxetine 20mg tablets,4030400,4030300,0,N06AX26,IMRD
+45794978,Vortioxetine 20mg tablets,4030400,4030300,0,N06AX26,IMRD
+45795978,Vortioxetine 10mg tablets,4030400,4030300,0,N06AX26,IMRD
+45796978,Vortioxetine 10mg tablets,4030400,4030300,0,N06AX26,IMRD
+47944978,Amitriptyline 10mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+62948979,Imipramine 25mg/5ml oral solution sugar free,4030100,0,0,N06AA02,IMRD
+64091979,Nortriptyline 10mg/5ml oral suspension,0,0,0,,IMRD
+64093979,Nortriptyline 10mg/5ml oral solution,4030100,0,0,N06AA10,IMRD
+65013979,Trimipramine 50mg/5ml oral solution,0,0,0,,IMRD
+65015979,Trimipramine 25mg/5ml oral suspension,0,0,0,,IMRD
+65249979,Trazodone 75mg/5ml oral solution,0,0,0,,IMRD
+65251979,Trazodone 50mg/5ml oral solution sugar free,4030100,0,0,N06AX05,IMRD
+65253979,Trazodone 50mg/5ml oral solution sugar free,4030100,0,0,N06AX05,IMRD
+65255979,Trazodone 25mg/5ml oral suspension,0,0,0,,IMRD
+65261979,Trazodone 250mg/5ml oral solution,0,0,0,,IMRD
+65263979,Trazodone 150mg/5ml oral suspension,0,0,0,,IMRD
+65265979,Trazodone 150mg/5ml oral solution,0,0,0,,IMRD
+65269979,Trazodone 10mg/5ml oral solution,0,0,0,,IMRD
+65273979,Trazodone 100mg/5ml oral solution,0,0,0,,IMRD
+67063979,Lofepramine 70mg/5ml oral solution,0,0,0,,IMRD
+69285979,Dosulepin 10mg/5ml oral solution,0,0,0,,IMRD
+70288979,Amitriptyline 75mg/5ml oral solution,4030100,0,0,,IMRD
+70290979,Amitriptyline 2.5mg/5ml oral solution,0,0,0,,IMRD
+70292979,Amitriptyline 15mg/5ml oral solution,0,0,0,,IMRD
+80210979,Doxepin 50mg/5ml oral solution,0,0,0,,IMRD
+80274979,Dosulepin 25mg/5ml oral solution,4030100,0,0,N06AA16,IMRD
+80276979,Dosulepin 25mg/5ml oral suspension,0,0,0,,IMRD
+80278979,Dosulepin 75mg/5ml oral solution,4030100,0,0,N06AA16,IMRD
+80548979,Clomipramine 50mg/5ml oral solution,0,0,0,,IMRD
+80550979,Clomipramine 25mg/5ml oral suspension,4030100,0,0,N06AA04,IMRD
+81024979,Amitriptyline 5mg/5ml oral suspension,0,0,0,,IMRD
+81084998,Amitriptyline 10mg/5ml oral suspension,4030100,0,0,N06AA09,IMRD
+81085998,Amitriptyline 10mg/5ml oral solution,4030100,0,0,N06AA09,IMRD
+82432998,Imipramine 25mg/5ml oral solution sugar free,4030100,0,0,N06AA02,IMRD
+82640998,Dosulepin 100mg/5ml oral solution,0,0,0,,IMRD
+83206998,Doxepin 25mg/5ml oral suspension,23000000,0,0,,IMRD
+83620998,Amitriptyline hydrochloride & perphenazine 10mg+2mg tablets,4030100,4030100,4020100,N06CA01,IMRD
+83781998,Trazodone 50mg/5ml oral solution sugar free,4030100,0,0,N06AX05,IMRD
+83878998,Clomipramine 50mg/5ml oral suspension,4030100,0,0,,IMRD
+85171998,Doxepin 50mg capsules,4030100,0,0,N06AA12,IMRD
+85172998,Doxepin 25mg capsules,4030100,0,0,N06AA12,IMRD
+85437998,Imipramine oral solution,23000000,0,0,,IMRD
+85613998,Flupentixol 20mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+85614998,Flupentixol 20mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86420998,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86421998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86422998,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86423998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86536998,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86537998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86539998,Flupentixol 20mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+88747998,Doxepin 5% cream,13030000,0,0,D04AX01,IMRD
+88906997,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+88906998,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+89205998,Lofepramine 70mg/5ml oral suspension sugar free,4030100,0,0,N06AA07,IMRD
+89407998,Doxepin 5% cream,13030000,0,0,D04AX01,IMRD
+91934990,Trazodone 50mg/5ml oral solution sugar free,4030100,0,0,N06AX05,IMRD
+92014990,Nortriptyline 25mg tablets,4030100,0,0,N06AA10,IMRD
+92015990,Nortriptyline 10mg tablets,4030100,0,0,N06AA10,IMRD
+92808996,Amitriptyline 10mg/5ml sugar free oral solution,4030100,0,0,N06AA09,IMRD
+92808997,Amitriptyline 25mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+92808998,Amitriptyline 50mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+93358992,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+93360992,Clomipramine hydrochloride 10mg capsules,4030100,0,0,N06AA04,IMRD
+93839990,Trimipramine 50mg capsules,4030100,0,0,N06AA06,IMRD
+93840990,Trimipramine 25mg tablets,4030100,0,0,N06AA06,IMRD
+93841990,Trimipramine 10mg tablets,4030100,0,0,N06AA06,IMRD
+94067992,Amitriptyline 75 mg tab,4030100,0,0,N06AA09,IMRD
+94075990,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+94076990,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+94077990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+94249992,Nortriptyline 10mg/5ml oral solution,4030100,0,0,N06AA10,IMRD
+94374990,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+94630997,Nortriptyline 30mg / fluphenazine 1.5mg tablets,4030100,4030100,4020100,N06C,IMRD
+94630998,Nortriptyline 10mg / fluphenazine 500microgram tablets,4030100,4020100,4030100,N06C,IMRD
+94703997,Amitriptyline 25mg / perphenazine 2mg tablets,4030100,4030100,4020100,N06CA01,IMRD
+94703998,Amitriptyline 10mg / perphenazine 2mg tablets,4030100,4020100,4030100,N06CA01,IMRD
+94704997,Amitriptyline 25mg / chlordiazepoxide 10mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+94704998,Amitriptyline 12.5mg / chlordiazepoxide 5mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+94771990,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+94795998,Doxepin 5% cream,13030000,0,0,D04AX01,IMRD
+94800990,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+94801990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+94879998,Flupentixol 40mg/2ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+95107996,Trimipramine 50mg capsules,4030100,0,0,N06AA06,IMRD
+95107997,Trimipramine 25mg tablets,4030100,0,0,N06AA06,IMRD
+95107998,Trimipramine 10mg tablets,4030100,0,0,N06AA06,IMRD
+95141997,Trazodone 150mg modified-release tablets,4030100,0,0,N06AX05,IMRD
+95141998,Trazodone 50mg/5ml oral solution sugar free,4030100,0,0,N06AX05,IMRD
+95142996,Trazodone 150mg tablets,4030100,0,0,N06AX05,IMRD
+95142997,Trazodone 100mg capsules,4030100,0,0,N06AX05,IMRD
+95142998,Trazodone 50mg capsules,4030100,0,0,N06AX05,IMRD
+95154992,Imipramine 75 mg tab,4030100,0,0,,IMRD
+95155992,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+95156992,Imipramine 50 mg tab,4030100,0,0,,IMRD
+95247990,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+95248990,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+95527990,Trazodone 150mg tablets,4030100,0,0,N06AX05,IMRD
+95574997,Perphenazine 2mg with amitriptyline 25mg tablet,4030100,4030100,4020100,N06CA01,IMRD
+95574998,Perphenazine 2mg with amitriptyline 10mg tablet,4030100,4020100,4030100,N06CA01,IMRD
+95695996,Nortriptyline 10mg/5ml oral solution,4030100,0,0,N06AA10,IMRD
+95695997,Nortriptyline 25mg capsule,4030100,0,0,N06AA10,IMRD
+95695998,Nortriptyline 10mg capsule,4030100,0,0,N06AA10,IMRD
+95696997,Nortriptyline 25mg tablets,4030100,0,0,N06AA10,IMRD
+95696998,Nortriptyline 10mg tablets,4030100,0,0,N06AA10,IMRD
+95809996,Mianserin 30mg tablets,4030100,0,0,N06AX03,IMRD
+95809997,Mianserin 20mg tablets,4030100,0,0,N06AX03,IMRD
+95809998,Mianserin 10mg tablets,4030100,0,0,N06AX03,IMRD
+95999997,Lofepramine 70mg/5ml oral suspension sugar free,4030100,0,0,N06AA07,IMRD
+95999998,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+96130998,Imipramine 25mg/5ml oral solution,4030100,0,0,N06AA02,IMRD
+96158990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+96244979,Nortriptyline 25mg tablets,4030100,0,0,N06AA10,IMRD
+96248979,Nortriptyline 10mg tablets,4030100,0,0,N06AA10,IMRD
+96265979,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+96282979,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+96295988,Trazodone 150mg tablets,4030100,0,0,N06AX05,IMRD
+96295989,Trazodone 100mg capsules,4030100,0,0,N06AX05,IMRD
+96295990,Trazodone 50mg capsules,4030100,0,0,N06AX05,IMRD
+96307998,Doxepin 75mg capsules,4030100,0,0,N06AA12,IMRD
+96308996,Doxepin 50mg capsules,4030100,0,0,N06AA12,IMRD
+96308997,Doxepin 25mg capsules,4030100,0,0,N06AA12,IMRD
+96308998,Doxepin 10mg capsules,4030100,0,0,N06AA12,IMRD
+96311996,Dosulepin 25mg/5ml oral solution sugar free,4030100,0,0,N06AA16,IMRD
+96311997,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+96311998,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+96323979,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+96326979,Amitriptyline 10mg tablets,4030100,0,0,,IMRD
+96328979,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+96422988,Trazodone 150mg tablets,4030100,0,0,N06AX05,IMRD
+96422989,Trazodone 100mg capsules,4030100,0,0,N06AX05,IMRD
+96422990,Trazodone 50mg capsules,4030100,0,0,N06AX05,IMRD
+96443988,Trazodone 150mg tablets,4030100,0,0,N06AX05,IMRD
+96443989,Trazodone 100mg capsules,4030100,0,0,N06AX05,IMRD
+96443990,Trazodone 50mg capsules,4030100,0,0,N06AX05,IMRD
+96467990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+96499998,Fluphenazine hydrochloride & nortriptyline 500mcg+10mg tablets,4030100,4020100,4030100,N06C,IMRD
+96502996,Flupentixol 200mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+96502997,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+96502998,Flupentixol decanoate 20mg/ml injection,4020200,0,0,N05AF01,IMRD
+96503998,Flupentixol 3mg tablets,4020100,0,0,N05AF01,IMRD
+96504997,Flupentixol 1mg tablets,4030400,4020100,0,N05AF01,IMRD
+96504998,Flupentixol 500microgram tablets,4030400,4020100,0,N05AF01,IMRD
+96637998,Clomipramine hydrochloride 25mg/2ml injection,4030100,0,0,N06AA04,IMRD
+96638998,Clomipramine 75mg modified-release tablets,4030100,0,0,N06AA04,IMRD
+96639998,Clomipramine 25mg/5ml oral solution,4030100,0,0,N06AA04,IMRD
+96640996,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+96640997,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+96640998,Clomipramine 10mg capsules,4030100,0,0,N06AA04,IMRD
+96687992,Imipramine 100 mg tab,4030100,0,0,,IMRD
+96726989,Trazodone 100mg capsules,4030100,0,0,N06AX05,IMRD
+96726990,Trazodone 50mg capsules,4030100,0,0,N06AX05,IMRD
+96793990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+96855990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+96868989,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+96868990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+96891992,Amitriptyline 25mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+96901988,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+96901989,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+96924998,Amitriptyline 10mg/ml injection,4030100,0,0,N06AA09,IMRD
+96925996,Amitriptyline 75mg modified-release capsules,4030100,0,0,N06AA09,IMRD
+96925997,Amitriptyline 50mg modified-release capsules,4030100,0,0,N06AA09,IMRD
+96925998,Amitriptyline 25mg modified-release capsules,4030100,0,0,N06AA09,IMRD
+96963990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+96964990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+97091998,Imipramine hydrochloride 10mg tablets,4030100,0,0,N06AA02,IMRD
+97112997,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+97112998,Imipramine 10mg tablets,4030100,0,0,N06AA02,IMRD
+97142990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+97167992,Clomipramine 25 mg tab,4030100,0,0,N06AA04,IMRD
+97192990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+97223996,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+97223997,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+97223998,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+97516998,Flupentixol 200mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+97548988,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+97548989,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+97548990,Clomipramine 10mg capsules,4030100,0,0,N06AA04,IMRD
+97593992,Imipramine hcl 12.5 mg inj,4030100,0,0,,IMRD
+97632998,Fluphenazine hydrochloride & nortriptyline 1.5mg+30mg tablets,4030100,4020100,4030100,N06C,IMRD
+97634998,Fluphenazine hydrochloride & nortriptyline 500mcg+10mg tablets,4030100,4020100,4030100,N06C,IMRD
+97722997,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+97722998,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+97743990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+97762989,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+97762990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+97773989,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+97818997,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+97818998,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+97861990,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+98027992,Sinequan 15 mg tab,4030100,0,0,,IMRD
+98067988,Amitriptyline 10mg/5ml sugar free oral solution,4030100,0,0,N06AA09,IMRD
+98067989,Amitriptyline 50mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+98067990,Amitriptyline 25mg/5ml oral solution sugar free,4030100,0,0,N06AA09,IMRD
+98077990,Lofepramine 70mg/5ml oral suspension sugar free,4030100,0,0,N06AA07,IMRD
+98078989,Dosulepin 75mg/5ml oral solution sugar free,4030100,0,0,N06AA16,IMRD
+98078990,Dosulepin 25mg/5ml oral solution sugar free,4030100,0,0,N06AA16,IMRD
+98123998,Doxepin 75mg capsules,4030100,0,0,N06AA12,IMRD
+98124996,Doxepin 50mg capsules,4030100,0,0,N06AA12,IMRD
+98124997,Doxepin 25mg capsules,4030100,0,0,N06AA12,IMRD
+98124998,Doxepin 10mg capsules,4030100,0,0,N06AA12,IMRD
+98126997,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+98126998,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+98128998,Amitriptyline 10mg/5ml sugar free oral solution,4030100,0,0,N06AA09,IMRD
+98129997,Amitriptyline hydrochloride 75mg modified release capsules,4030100,0,0,N06AA09,IMRD
+98129998,Amitriptyline hydrochloride 100mg/10ml injection,4030100,0,0,N06AA09,IMRD
+98130996,Amitriptyline hydrochloride 50mg tablets,4030100,0,0,N06AA09,IMRD
+98130997,Amitriptyline hydrochloride 25mg tablets,4030100,0,0,N06AA09,IMRD
+98130998,Amitriptyline hydrochloride 10mg tablets,4030100,0,0,N06AA09,IMRD
+98132998,Lofepramine 70mg tablets,4030100,0,0,N06AA07,IMRD
+98136996,Trimipramine 50mg capsules,4030100,0,0,N06AA06,IMRD
+98136997,Trimipramine 25mg tablets,4030100,0,0,N06AA06,IMRD
+98136998,Trimipramine 10mg tablets,4030100,0,0,N06AA06,IMRD
+98138997,Amitriptyline hydrochloride 50mg modified release capsules,4030100,0,0,N06AA09,IMRD
+98138998,Amitriptyline hydrochloride 25mg modified release capsules,4030100,0,0,N06AA09,IMRD
+98140996,Imipramine hydrochloride 25mg/5ml syrup,4030100,0,0,N06AA02,IMRD
+98140997,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+98140998,Imipramine hydrochloride 10mg tablets,4030100,0,0,N06AA02,IMRD
+98142998,Clomipramine 75mg modified-release tablets,4030100,0,0,N06AA04,IMRD
+98143998,Clomipramine 25mg/5ml oral solution,4030100,0,0,N06AA04,IMRD
+98144996,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+98144997,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+98144998,Clomipramine 10mg capsules,4030100,0,0,N06AA04,IMRD
+98149990,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+98150996,Amitriptyline hydrochloride 50mg tablets,4030100,0,0,N06AA09,IMRD
+98150997,Amitriptyline hydrochloride 25mg tablets,4030100,0,0,N06AA09,IMRD
+98150998,Amitriptyline hydrochloride 10mg tablets,4030100,0,0,N06AA09,IMRD
+98152997,Nortriptyline 25mg tablets,4030100,0,0,N06AA10,IMRD
+98152998,Nortriptyline 10mg tablets,4030100,0,0,N06AA10,IMRD
+98154996,Nortriptyline hydrochloride 10mg/5ml liquid,4030100,0,0,N06AA10,IMRD
+98154997,Nortriptyline hydrochloride 25mg capsules,4030100,0,0,N06AA10,IMRD
+98154998,Nortriptyline hydrochloride 10mg capsules,4030100,0,0,N06AA10,IMRD
+98183992,Tofranil 50 mg tab,4030100,0,0,,IMRD
+98212992,Trimipramine 50mg capsules,4030100,0,0,N06AA06,IMRD
+98312997,Trazodone hydrochloride 150mg modified release tablets,4030100,0,0,N06AX05,IMRD
+98312998,Trazodone 50mg/5ml oral solution sugar free,4030100,0,0,N06AX05,IMRD
+98327997,Dosulepin 25mg/5ml mixture,4030100,0,0,N06AA16,IMRD
+98327998,Dosulepin 75mg/5ml oral solution sugar free,4030100,0,0,N06AA16,IMRD
+98340988,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+98340989,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+98340990,Clomipramine 10mg capsules,4030100,0,0,N06AA04,IMRD
+98343998,Amitriptyline 25mg / chlordiazepoxide 10mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+98351989,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+98351990,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+98486996,Trazodone 150mg tablets,4030100,0,0,N06AX05,IMRD
+98486997,Trazodone 100mg capsules,4030100,0,0,N06AX05,IMRD
+98486998,Trazodone 50mg capsules,4030100,0,0,N06AX05,IMRD
+98563989,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+98563990,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+98766997,Flupentixol 40mg/2ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+98766998,Flupentixol decanoate 200mg/10ml oily injection,4020200,0,0,N05AF01,IMRD
+98783990,Dosulepin 25mg Capsule,4030100,0,0,N06AA16,IMRD
+99017997,Amitriptyline hydrochloride & perphenazine 10mg+2mg tablets,4030100,4030100,4020100,N06CA01,IMRD
+99017998,Amitriptyline hydrochloride & perphenazine 25mg+2mg tablets,4030100,4030100,4020100,N06CA01,IMRD
+99297988,Clomipramine 50mg capsules,4030100,0,0,N06AA04,IMRD
+99297989,Clomipramine 25mg capsules,4030100,0,0,N06AA04,IMRD
+99297990,Clomipramine 10mg capsules,4030100,0,0,N06AA04,IMRD
+99338996,Mianserin hydrochloride 30mg tablets,4030100,0,0,N06AX03,IMRD
+99338997,Mianserin hydrochloride 20mg tablets,4030100,0,0,N06AX03,IMRD
+99338998,Mianserin hydrochloride 10mg tablets,4030100,0,0,N06AX03,IMRD
+99472998,Amitriptyline & chlordiazepoxide 12.5mg+5mg capsules,4030100,4030100,4010200,N06CA01,IMRD
+99494989,Mianserin 20mg tablets,4030100,0,0,N06AX03,IMRD
+99554989,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+99554990,Imipramine 10mg tablets,4030100,0,0,N06AA02,IMRD
+99555989,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+99555990,Imipramine 10mg tablets,4030100,0,0,N06AA02,IMRD
+99556989,Imipramine 25mg tablets,4030100,0,0,N06AA02,IMRD
+99614989,Dosulepin 75mg tablets,4030100,0,0,N06AA16,IMRD
+99614990,Dosulepin 25mg capsules,4030100,0,0,N06AA16,IMRD
+99634997,Flupentixol 1mg tablets,4030400,4020100,0,N05AF01,IMRD
+99634998,Flupentixol 500microgram tablets,4030400,4020100,0,N05AF01,IMRD
+99775998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+99776998,Flupentixol 3mg tablets,4020100,0,0,N05AF01,IMRD
+99794992,Clomipramine hydrochloride 25mg/2ml injection,4030100,0,0,N06AA04,IMRD
+99824992,Amitriptyline 100 mg tab,4030100,0,0,,IMRD
+99825992,Amitriptyline 300 mg tab,4030100,0,0,,IMRD
+99826992,Amitriptyline 200 mg tab,4030100,0,0,,IMRD
+99861989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99861990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99862990,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99863988,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99863989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99863990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99864988,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99864989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99864990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99865990,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99866988,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99866989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99866990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99867989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99868988,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99868989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99868990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99869988,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99869989,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99869990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99870988,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99870989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99870990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99871988,Amitriptyline 50mg tablets,4030100,0,0,N06AA09,IMRD
+99871989,Amitriptyline 25mg tablets,4030100,0,0,N06AA09,IMRD
+99871990,Amitriptyline 10mg tablets,4030100,0,0,N06AA09,IMRD
+99882996,Mianserin hydrochloride 30mg tablets,4030100,0,0,N06AX03,IMRD
+99882997,Mianserin hydrochloride 20mg tablets,4030100,0,0,N06AX03,IMRD
+99882998,Mianserin hydrochloride 10mg tablets,4030100,0,0,N06AX03,IMRD
+7883978,Nortriptyline 25mg capsules   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+7885978,Nortriptyline 10mg capsules   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8012978,Trazodone 50mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8026978,Trazodone 100mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+9411978,Nortriptyline 10mg/5ml oral solution sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+80208979,Doxepin 50mg/5ml oral suspension suspension 10 ,04.03.01.00,00.00.00.00,00.00.00.00,,IMRD
+81026979,Amitriptyline 5mg/5ml oral solution solution 1 ,04.03.01.00,00.00.00.00,00.00.00.00,,IMRD
+85332978,Imipramine 25mg/5ml oral solution sugar free solution 5 ,04.03.01.00,00.00.00.00,00.00.00.00,,IMRD
+96252979,Mianserin 30mg tablets tablets 30 ,04.03.01.00,00.00.00.00,00.00.00.00,,IMRD
+96319979,Amitriptyline 50mg tablets tablets 50 ,04.03.01.00,00.00.00.00,00.00.00.00,,IMRD
+98527990,Imipramine 25mg Tablet tablets 25 ,04.03.01.00,00.00.00.00,00.00.00.00,,IMRD

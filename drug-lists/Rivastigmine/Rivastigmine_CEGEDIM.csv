@@ -1,0 +1,364 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+22842,Rivastigmine 1.5mg capsules,,,,N06DA03,CEGEDIM
+22843,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+22844,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+22845,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+22846,Rivastigmine 3mg capsules,,,,N06DA03,CEGEDIM
+22847,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+22848,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+22852,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+23960,Rivastigmine 4.5mg capsules,,,,N06DA03,CEGEDIM
+23961,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+23962,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+23963,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+23967,Rivastigmine 6mg capsules,,,,N06DA03,CEGEDIM
+23968,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+23969,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+23970,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+27232,Rivastigmine 2mg/ml oral solution sugar free,,,,N06DA03,CEGEDIM
+27233,Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+27234,Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd) 120 ml,,,,N06DA03,CEGEDIM
+34064,Exelon 2mg/ml oral solution (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34065,Exelon 2mg/ml oral solution (Waymade Healthcare Plc) 120 ml,,,,N06DA03,CEGEDIM
+34845,Exelon 1.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34846,Exelon 1.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+34849,Exelon 3mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34850,Exelon 3mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+34855,Exelon 4.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34856,Exelon 4.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+34857,Exelon 6mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34858,Exelon 6mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+77685,Exelon 1.5mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77686,Exelon 1.5mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77689,Exelon 3mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77690,Exelon 3mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77693,Exelon 4.5mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77694,Exelon 4.5mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77697,Exelon 6mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77698,Exelon 6mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+80330,Rivastigmine 6mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80331,Rivastigmine 6mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+80334,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80335,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+80336,Rivastigmine 3mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80337,Rivastigmine 3mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+80338,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80339,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+91645,Rivastigmine 4.6mg/24hours transdermal patches,,,,N06DA03,CEGEDIM
+91646,Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+91647,Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+91648,Rivastigmine 9.5mg/24hours transdermal patches,,,,N06DA03,CEGEDIM
+91649,Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+91650,Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+105003,Exelon 2mg/ml oral solution (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105004,Exelon 2mg/ml oral solution (DE Pharmaceuticals) 120 ml,,,,N06DA03,CEGEDIM
+105005,Exelon 1.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105006,Exelon 1.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105007,Exelon 3mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105008,Exelon 3mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105009,Exelon 4.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105010,Exelon 4.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105011,Exelon 6mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105012,Exelon 6mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+108200,Exelon 1.5mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108201,Exelon 1.5mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+108202,Exelon 3mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108203,Exelon 3mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+108204,Exelon 4.5mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108205,Exelon 4.5mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+108206,Exelon 6mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108207,Exelon 6mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+125279,Exelon 2mg/ml oral solution (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+125280,Exelon 2mg/ml oral solution (Lexon (UK) Ltd) 120 ml,,,,N06DA03,CEGEDIM
+128987,Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128988,Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+128989,Exelon 3mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128990,Exelon 3mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+128991,Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128992,Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+128993,Exelon 2mg/ml oral solution (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128994,Exelon 2mg/ml oral solution (Mawdsley-Brooks & Company Ltd) 120 ml,,,,N06DA03,CEGEDIM
+137150,Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+137151,Exelon 4.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+137152,Exelon 4.5mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+137153,Exelon 4.6mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+137154,Exelon 4.6mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd) 30 patch,,,,N06DA03,CEGEDIM
+137155,Exelon 9.5mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+137156,Exelon 9.5mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd) 30 patch,,,,N06DA03,CEGEDIM
+138306,Exelon 4.6mg/24hours transdermal patches (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+138307,Exelon 4.6mg/24hours transdermal patches (Waymade Healthcare Plc) 30 patch,,,,N06DA03,CEGEDIM
+138308,Exelon 9.5mg/24hours transdermal patches (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+138309,Exelon 9.5mg/24hours transdermal patches (Waymade Healthcare Plc) 30 patch,,,,N06DA03,CEGEDIM
+140692,Exelon 2mg/ml oral solution (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+140693,Exelon 2mg/ml oral solution (Sigma Pharmaceuticals Plc) 120 ml,,,,N06DA03,CEGEDIM
+142019,Exelon 1.5mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142020,Exelon 1.5mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142021,Exelon 3mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142022,Exelon 3mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142023,Exelon 4.5mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142024,Exelon 4.5mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142025,Exelon 6mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142026,Exelon 6mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142027,Exelon 9.5mg/24hours transdermal patches (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142028,Exelon 9.5mg/24hours transdermal patches (Lexon (UK) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+142852,Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143772,Exelon 1.5mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143773,Exelon 1.5mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143774,Exelon 4.5mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143775,Exelon 4.5mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143776,Exelon 3mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143777,Exelon 3mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143778,Exelon 6mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143779,Exelon 6mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143780,Exelon 4.6mg/24hours transdermal patches (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143781,Exelon 4.6mg/24hours transdermal patches (Necessity Supplies Ltd) 30 patch,,,,N06DA03,CEGEDIM
+143782,Exelon 9.5mg/24hours transdermal patches (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143783,Exelon 9.5mg/24hours transdermal patches (Necessity Supplies Ltd) 30 patch,,,,N06DA03,CEGEDIM
+144066,Exelon 1.5mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144067,Exelon 1.5mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+144068,Exelon 3mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144069,Exelon 3mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+144072,Exelon 4.5mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144073,Exelon 4.5mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+144074,Exelon 6mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144075,Exelon 6mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+146526,Exelon 4.6mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+146527,Exelon 4.6mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+146528,Exelon 9.5mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+146529,Exelon 9.5mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+156036,Rivastigmine 1.5mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156037,Rivastigmine 1.5mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156038,Rivastigmine 1.5mg capsules (A A H Pharmaceuticals Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+156039,Rivastigmine 3mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156040,Rivastigmine 3mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156041,Rivastigmine 3mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+156042,Rivastigmine 4.5mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156043,Rivastigmine 4.5mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156044,Rivastigmine 4.5mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+156045,Rivastigmine 6mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156046,Rivastigmine 6mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156047,Rivastigmine 6mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+156405,Nimvastid 1.5mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156406,Nimvastid 1.5mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156407,Nimvastid 4.5mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156408,Nimvastid 4.5mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156409,Nimvastid 3mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156410,Nimvastid 3mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156411,Nimvastid 6mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156412,Nimvastid 6mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157034,Rivastigmine 1.5mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157035,Rivastigmine 1.5mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157036,Rivastigmine 1.5mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+157037,Rivastigmine 3mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157038,Rivastigmine 3mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157039,Rivastigmine 3mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+157040,Rivastigmine 4.5mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157041,Rivastigmine 4.5mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157042,Rivastigmine 4.5mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+157043,Rivastigmine 6mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157044,Rivastigmine 6mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157289,Rivastigmine 6mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157290,Rivastigmine 6mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157291,Rivastigmine 6mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157292,Rivastigmine 4.5mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157293,Rivastigmine 4.5mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157294,Rivastigmine 4.5mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157295,Rivastigmine 3mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157296,Rivastigmine 3mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157297,Rivastigmine 3mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157298,Rivastigmine 1.5mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157299,Rivastigmine 1.5mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157300,Rivastigmine 1.5mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157323,Exelon 1.5mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+157324,Exelon 3mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+157696,Rivastigmine 6mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+159841,Rivastigmine 1.5mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159842,Rivastigmine 1.5mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159843,Rivastigmine 1.5mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159844,Rivastigmine 3mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159845,Rivastigmine 3mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159846,Rivastigmine 3mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159847,Rivastigmine 4.5mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159848,Rivastigmine 4.5mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159849,Rivastigmine 4.5mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159907,Rivastigmine 6mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159908,Rivastigmine 6mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159909,Rivastigmine 6mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161955,Rivastigmine 1.5mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161956,Rivastigmine 1.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161957,Rivastigmine 1.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161958,Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161959,Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161960,Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161961,Rivastigmine 4.5mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161962,Rivastigmine 4.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161963,Rivastigmine 4.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161964,Rivastigmine 6mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161965,Rivastigmine 6mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161966,Rivastigmine 6mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166189,Rivastigmine 1.5mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166190,Rivastigmine 1.5mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166193,Rivastigmine 1.5mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166198,Rivastigmine 3mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166199,Rivastigmine 3mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166202,Rivastigmine 3mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166203,Rivastigmine 4.5mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166204,Rivastigmine 4.5mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166207,Rivastigmine 4.5mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166212,Rivastigmine 6mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166213,Rivastigmine 6mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166216,Rivastigmine 6mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166547,Rivastigmine 1.5mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166548,Rivastigmine 1.5mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166549,Rivastigmine 1.5mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166550,Rivastigmine 3mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166551,Rivastigmine 3mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166552,Rivastigmine 3mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166553,Rivastigmine 4.5mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166554,Rivastigmine 4.5mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166555,Rivastigmine 4.5mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166556,Rivastigmine 6mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166557,Rivastigmine 6mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166558,Rivastigmine 6mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+167847,Rivastigmine 2mg/ml oral solution,,,,N06DA03,CEGEDIM
+167848,Rivastigmine 2mg/ml oral solution (Teva UK Ltd),,,,N06DA03,CEGEDIM
+167849,Rivastigmine 2mg/ml oral solution (Teva UK Ltd) 120 ml,,,,N06DA03,CEGEDIM
+171444,Rivastigmine 2mg/ml oral solution (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+171445,Rivastigmine 2mg/ml oral solution (A A H Pharmaceuticals Ltd) 120 ml,,,,N06DA03,CEGEDIM
+174228,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174229,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174230,Rivastigmine 3mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174231,Rivastigmine 3mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174232,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174233,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174234,Rivastigmine 6mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174235,Rivastigmine 6mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174236,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+174237,Rivastigmine 3mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+174238,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+174239,Rivastigmine 6mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+175705,Kerstipon 1.5mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175706,Kerstipon 1.5mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+175707,Kerstipon 3mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175708,Kerstipon 3mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+175709,Kerstipon 4.5mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175710,Kerstipon 4.5mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+175711,Kerstipon 6mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175712,Kerstipon 6mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+178159,Voleze 4.6mg/24hours transdermal patches (Advanz Pharma),,,,N06DA03,CEGEDIM
+178160,Voleze 4.6mg/24hours transdermal patches (Advanz Pharma) 30 patch,,,,N06DA03,CEGEDIM
+178161,Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+178162,Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+178390,Rivastigmine 13.3mg/24hours transdermal patches,,,,N06DA03,CEGEDIM
+178391,Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+178392,Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179019,Rivastigmine 2mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+179020,Rivastigmine 2mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 120 ml,,,,N06DA03,CEGEDIM
+179261,Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd),,,,N06DA03,CEGEDIM
+179262,Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179275,Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd),,,,N06DA03,CEGEDIM
+179276,Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179698,Rivastigmine 4.6mg/24hours transdermal patches (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+179699,Rivastigmine 4.6mg/24hours transdermal patches (A A H Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179700,Rivastigmine 9.5mg/24hours transdermal patches (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+179701,Rivastigmine 9.5mg/24hours transdermal patches (A A H Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+180570,Rivastigmine 2mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+180571,Rivastigmine 2mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 120 ml,,,,N06DA03,CEGEDIM
+189073,Rivastigmine 4.6mg/24hours transdermal patches (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+189074,Rivastigmine 4.6mg/24hours transdermal patches (Actavis UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+189075,Rivastigmine 9.5mg/24hours transdermal patches (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+189076,Rivastigmine 9.5mg/24hours transdermal patches (Actavis UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+196342,Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+196343,Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+196344,Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+196345,Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+205551,Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+205552,Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+205561,Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+205562,Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+206339,Somniton 4.6mg/24hours transdermal patches (Zentiva),,,,N06DA03,CEGEDIM
+206340,Somniton 4.6mg/24hours transdermal patches (Zentiva) 30 patch,,,,N06DA03,CEGEDIM
+206341,Somniton 9.5mg/24hours transdermal patches (Zentiva),,,,N06DA03,CEGEDIM
+206342,Somniton 9.5mg/24hours transdermal patches (Zentiva) 30 patch,,,,N06DA03,CEGEDIM
+223887,Eluden 4.6mg/24hours transdermal patches (Mylan),,,,N06DA03,CEGEDIM
+223888,Eluden 4.6mg/24hours transdermal patches (Mylan) 30 patch5 x 6 patches,,,,N06DA03,CEGEDIM
+223889,Eluden 9.5mg/24hours transdermal patches (Mylan),,,,N06DA03,CEGEDIM
+223890,Eluden 9.5mg/24hours transdermal patches (Mylan) 30 patch5 x 6 patches,,,,N06DA03,CEGEDIM
+238621,Rivastigmine 1.5mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238622,Rivastigmine 1.5mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+238625,Rivastigmine 3mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238626,Rivastigmine 3mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+238627,Rivastigmine 4.5mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238628,Rivastigmine 4.5mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+238629,Rivastigmine 6mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238630,Rivastigmine 6mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+248288,Rivastigmine 1.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248289,Rivastigmine 1.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248290,Rivastigmine 1.5mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248291,Rivastigmine 3mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248292,Rivastigmine 3mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248293,Rivastigmine 3mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248294,Rivastigmine 4.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248295,Rivastigmine 4.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248296,Rivastigmine 4.5mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248297,Rivastigmine 6mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248298,Rivastigmine 6mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248299,Rivastigmine 6mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248300,Rivastigmine 4.6mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248301,Rivastigmine 4.6mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+248302,Rivastigmine 9.5mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248303,Rivastigmine 9.5mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+254633,Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd),,,,N06DA03,CEGEDIM
+254634,Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+254943,Rivastigmine 13.3mg/24hours transdermal patches (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+254944,Rivastigmine 13.3mg/24hours transdermal patches (A A H Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+255137,Rivastigmine 2mg/ml oral solution sugar free (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+255138,Rivastigmine 2mg/ml oral solution sugar free (DE Pharmaceuticals) 120 ml,,,,N06DA03,CEGEDIM
+255589,Rivastigmine 1.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255590,Rivastigmine 1.5mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255591,Rivastigmine 3mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255592,Rivastigmine 3mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255605,Rivastigmine 4.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255606,Rivastigmine 4.5mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255609,Rivastigmine 4.5mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+255614,Rivastigmine 6mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255615,Rivastigmine 6mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255616,Rivastigmine 6mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+256424,Rivastigmine 2mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+256425,Rivastigmine 2mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 120 ml,,,,N06DA03,CEGEDIM
+269883,Rivastigmine 9.5mg/24hours transdermal patches (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+269884,Rivastigmine 9.5mg/24hours transdermal patches (Alliance Healthcare (Distribution) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+269910,Voleze 13.3mg/24hours transdermal patches (Advanz Pharma),,,,N06DA03,CEGEDIM
+269911,Voleze 13.3mg/24hours transdermal patches (Advanz Pharma) 30 patch,,,,N06DA03,CEGEDIM
+285108,Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd),,,,N06DA03,CEGEDIM
+285109,Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd) 30 patch,,,,N06DA03,CEGEDIM
+285110,Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd),,,,N06DA03,CEGEDIM
+285111,Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd) 30 patch,,,,N06DA03,CEGEDIM
+337149,Rivastigmine 2mg/ml oral solution sugar free (Sandoz Ltd),,,,N06DA03,CEGEDIM
+337150,Rivastigmine 2mg/ml oral solution sugar free (Sandoz Ltd) 120 ml,,,,N06DA03,CEGEDIM
+337161,Exelon 9.5mg/24hours transdermal patches (Originalis B.V.),,,,N06DA03,CEGEDIM
+337162,Exelon 9.5mg/24hours transdermal patches (Originalis B.V.) 30 patch,,,,N06DA03,CEGEDIM
+337163,Exelon 4.6mg/24hours transdermal patches (Originalis B.V.),,,,N06DA03,CEGEDIM
+337164,Exelon 4.6mg/24hours transdermal patches (Originalis B.V.) 30 patch,,,,N06DA03,CEGEDIM
+337927,Rivastigmine 1.5mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337928,Rivastigmine 1.5mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337929,Rivastigmine 3mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337930,Rivastigmine 3mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337931,Rivastigmine 4.5mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337932,Rivastigmine 4.5mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337933,Rivastigmine 6mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337934,Rivastigmine 6mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+342189,Exelon 4.6mg/24hours transdermal patches (CST Pharma Ltd),,,,N06DA03,CEGEDIM
+342190,Exelon 9.5mg/24hours transdermal patches (CST Pharma Ltd),,,,N06DA03,CEGEDIM
+344289,Exelon 4.6mg/24hours transdermal patches (CST Pharma Ltd) 30 patch,,,,N06DA03,CEGEDIM
+344290,Exelon 9.5mg/24hours transdermal patches (CST Pharma Ltd) 30 patch,,,,N06DA03,CEGEDIM
+355911,Exelon 13.3mg/24hours transdermal patches (CST Pharma Ltd),,,,N06DA03,CEGEDIM
+355912,Exelon 13.3mg/24hours transdermal patches (CST Pharma Ltd) 30 patch,,,,N06DA03,CEGEDIM
+357908,Rivastigmine 1.5mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357909,Rivastigmine 1.5mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+357910,Rivastigmine 3mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357911,Rivastigmine 3mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+357912,Rivastigmine 4.5mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357913,Rivastigmine 4.5mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+357917,Rivastigmine 6mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357918,Rivastigmine 6mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM

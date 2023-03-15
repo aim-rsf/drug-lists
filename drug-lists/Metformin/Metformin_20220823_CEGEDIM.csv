@@ -1,0 +1,523 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+2102,Metformin 500mg tablets,,,,A10BA02,CEGEDIM
+2103,Metformin 500mg tablets (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+2104,Metformin 500mg tablets (A A H Pharmaceuticals Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+2105,Metformin 500mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+2106,Metformin 500mg tablets (A A H Pharmaceuticals Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+2112,Metformin 500mg tablets (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+2113,Metformin 500mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+2118,Metformin 500mg tablets (Actavis UK Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+2121,Metformin 500mg tablets (Teva UK Ltd),,,,A10BA02,CEGEDIM
+2122,Metformin 500mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+2129,Metformin 500mg tablets (Mylan),,,,A10BA02,CEGEDIM
+2130,Metformin 500mg tablets (Mylan) 500 tablet,,,,A10BA02,CEGEDIM
+2131,Metformin 500mg tablets (Mylan) 84 tablet4 x 21 tablets,,,,A10BA02,CEGEDIM
+2136,Metformin 500mg tablets (Kent Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+2137,Metformin 500mg tablets (Kent Pharmaceuticals Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+2138,Metformin 500mg tablets (Kent Pharmaceuticals Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+2139,Metformin 500mg tablets (Sandoz Ltd),,,,A10BA02,CEGEDIM
+2140,Metformin 500mg tablets (Sandoz Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+2141,Glucophage 500mg tablets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+2142,Glucophage 500mg tablets (Merck Serono Ltd) 84 tablet4 x 21 tablets,,,,A10BA02,CEGEDIM
+2146,Metformin 500mg tablets (Zentiva),,,,A10BA02,CEGEDIM
+2147,Metformin 500mg tablets (Zentiva) 84 tablet4 x 21 tablets,,,,A10BA02,CEGEDIM
+2153,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd),,,,A10BA02,CEGEDIM
+2154,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+2155,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+2162,Metformin 850mg tablets,,,,A10BA02,CEGEDIM
+2163,Metformin 850mg tablets (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+2164,Metformin 850mg tablets (A A H Pharmaceuticals Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+2165,Metformin 850mg tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+2170,Metformin 850mg tablets (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+2171,Metformin 850mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+2173,Metformin 850mg tablets (Teva UK Ltd),,,,A10BA02,CEGEDIM
+2174,Metformin 850mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+2175,Metformin 850mg tablets (Mylan),,,,A10BA02,CEGEDIM
+2176,Metformin 850mg tablets (Mylan) 300 tablet,,,,A10BA02,CEGEDIM
+2177,Metformin 850mg tablets (Mylan) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+2178,Metformin 850mg tablets (Kent Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+2179,Metformin 850mg tablets (Kent Pharmaceuticals Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+2182,Metformin 850mg tablets (Kent Pharmaceuticals Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+2183,Metformin 850mg tablets (Sandoz Ltd),,,,A10BA02,CEGEDIM
+2184,Metformin 850mg tablets (Sandoz Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+2185,Glucophage 850mg tablets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+2186,Glucophage 850mg tablets (Merck Serono Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+2233,Metformin 850mg tablets (Zentiva),,,,A10BA02,CEGEDIM
+2234,Metformin 850mg tablets (Zentiva) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+2235,Metformin 850mg tablets (Alliance Healthcare (Distribution) Ltd),,,,A10BA02,CEGEDIM
+2236,Metformin 850mg tablets (Alliance Healthcare (Distribution) Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+2237,Metformin 850mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+5499,Glyformin 500mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,A10BA02,CEGEDIM
+5500,Glyformin 500mg tablets (Dr Reddy's Laboratories (UK) Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+5817,Metformin 500mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+26641,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+34391,Rosiglitazone 1mg / Metformin 500mg tablets,,,,A10BD03,CEGEDIM
+34397,Rosiglitazone 2mg / Metformin 500mg tablets,,,,A10BD03,CEGEDIM
+50451,Metformin 500mg tablets (IVAX Pharmaceuticals UK Ltd),,,,A10BA02,CEGEDIM
+50452,Metformin 500mg tablets (IVAX Pharmaceuticals UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+50516,Metformin 500mg tablets (IVAX Pharmaceuticals UK Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+50570,Metformin 850mg tablets (IVAX Pharmaceuticals UK Ltd),,,,A10BA02,CEGEDIM
+50571,Metformin 850mg tablets (IVAX Pharmaceuticals UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+54101,Metformin 500mg tablets (Ranbaxy (UK) Ltd),,,,A10BA02,CEGEDIM
+54102,Metformin 500mg tablets (Ranbaxy (UK) Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+54107,Metformin 500mg tablets (Ranbaxy (UK) Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+54114,Metformin 850mg tablets (Ranbaxy (UK) Ltd),,,,A10BA02,CEGEDIM
+54115,Metformin 850mg tablets (Ranbaxy (UK) Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+59206,Rosiglitazone 4mg / Metformin 1g tablets,,,,A10BD03,CEGEDIM
+59209,Rosiglitazone 2mg / Metformin 1g tablets,,,,A10BD03,CEGEDIM
+62608,Metformin 425mg/5ml oral solution,,,,A10BA02,CEGEDIM
+62609,Metformin 425mg/5ml oral solution (Special Order),,,,A10BA02,CEGEDIM
+62610,Metformin 425mg/5ml oral solution (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62611,Metformin 250mg/5ml oral solution,,,,A10BA02,CEGEDIM
+62612,Metformin 250mg/5ml oral solution (Special Order),,,,A10BA02,CEGEDIM
+62613,Metformin 250mg/5ml oral solution (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62614,Metformin 425mg/5ml oral suspension,,,,A10BA02,CEGEDIM
+62615,Metformin 425mg/5ml oral suspension (Special Order),,,,A10BA02,CEGEDIM
+62616,Metformin 425mg/5ml oral suspension (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62625,Metformin 250mg/5ml oral suspension,,,,A10BA02,CEGEDIM
+62626,Metformin 250mg/5ml oral suspension (Special Order),,,,A10BA02,CEGEDIM
+62627,Metformin 250mg/5ml oral suspension (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62628,Metformin 500mg/5ml oral solution,,,,A10BA02,CEGEDIM
+62629,Metformin 500mg/5ml oral solution (Special Order),,,,A10BA02,CEGEDIM
+62630,Metformin 500mg/5ml oral solution (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62635,Metformin 500mg/5ml oral suspension,,,,A10BA02,CEGEDIM
+62636,Metformin 500mg/5ml oral suspension (Special Order),,,,A10BA02,CEGEDIM
+62637,Metformin 500mg/5ml oral suspension (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62644,Metformin 850mg/5ml oral solution,,,,A10BA02,CEGEDIM
+62645,Metformin 850mg/5ml oral solution (Special Order),,,,A10BA02,CEGEDIM
+62646,Metformin 850mg/5ml oral solution (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+62655,Metformin 850mg/5ml oral suspension,,,,A10BA02,CEGEDIM
+62656,Metformin 850mg/5ml oral suspension (Special Order),,,,A10BA02,CEGEDIM
+62657,Metformin 850mg/5ml oral suspension (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+63773,Metformin 850mg capsules,,,,A10BA02,CEGEDIM
+63774,Metformin 850mg capsules (Special Order),,,,A10BA02,CEGEDIM
+63775,Metformin 850mg capsules (Special Order) 1 capsule,,,,A10BA02,CEGEDIM
+65688,Metformin 500mg modified-release tablets,,,,A10BA02,CEGEDIM
+65689,Glucophage SR 500mg tablets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+65690,Glucophage SR 500mg tablets (Merck Serono Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+65691,Glucophage SR 500mg tablets (Merck Serono Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+70105,Metformin 500mg tablets (Wockhardt UK Ltd),,,,A10BA02,CEGEDIM
+70106,Metformin 500mg tablets (Wockhardt UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+70107,Metformin 850mg tablets (Wockhardt UK Ltd),,,,A10BA02,CEGEDIM
+70108,Metformin 850mg tablets (Wockhardt UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+71822,Metformin 850mg tablets (The Boots Company Plc),,,,A10BA02,CEGEDIM
+71823,Metformin 850mg tablets (The Boots Company Plc) 56 tablet2 x 28 tablets,,,,A10BA02,CEGEDIM
+72155,Metformin 500mg tablets (Almus Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+72156,Metformin 500mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+72159,Metformin 500mg tablets (Almus Pharmaceuticals Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+72168,Metformin 850mg tablets (Almus Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+72169,Metformin 850mg tablets (Almus Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+72764,Metformin 500mg tablets (Wockhardt UK Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+74853,Metformin 500mg tablets (Mylan) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+75824,Metformin 500mg tablets (Relonchem Ltd),,,,A10BA02,CEGEDIM
+75825,Metformin 500mg tablets (Relonchem Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+75826,Metformin 500mg tablets (Relonchem Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+75831,Metformin 850mg tablets (Relonchem Ltd),,,,A10BA02,CEGEDIM
+75832,Metformin 850mg tablets (Relonchem Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+75834,Metformin 850mg tablets (Relonchem Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+76594,Metformin 500mg tablets (Arrow Generics Ltd),,,,A10BA02,CEGEDIM
+76595,Metformin 500mg tablets (Arrow Generics Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+76598,Metformin 500mg tablets (Arrow Generics Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+76599,Metformin 500mg tablets (Arrow Generics Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+76602,Metformin 850mg tablets (Arrow Generics Ltd),,,,A10BA02,CEGEDIM
+76603,Metformin 850mg tablets (Arrow Generics Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+76604,Metformin 850mg tablets (Arrow Generics Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+78731,Metformin 500mg tablets (Teva UK Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+79448,Metformin 500mg/5ml oral solution sugar free,,,,A10BA02,CEGEDIM
+79449,Metsol 500mg/5ml oral solution (Kappin Ltd),,,,A10BA02,CEGEDIM
+79450,Metsol 500mg/5ml oral solution (Kappin Ltd) 100 ml,,,,A10BA02,CEGEDIM
+80183,Metformin 500mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,A10BA02,CEGEDIM
+80184,Metformin 500mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 100 ml,,,,A10BA02,CEGEDIM
+80426,Metformin 500mg tablets (Zentiva) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+80891,Pioglitazone 15mg / Metformin 850mg tablets,,,,A10BD05,CEGEDIM
+81257,Metformin 500mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+81258,Metformin 500mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) 100 ml,,,,A10BA02,CEGEDIM
+86746,Metformin 500mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+86747,Metformin 500mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 150 ml,,,,A10BA02,CEGEDIM
+95986,Metformin 500mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,A10BA02,CEGEDIM
+96092,Metformin 1g/5ml oral solution,,,,A10BA02,CEGEDIM
+96093,Metformin 1g/5ml oral solution (Special Order),,,,A10BA02,CEGEDIM
+96094,Metformin 1g/5ml oral solution (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+96095,Metformin 5mg/5ml oral solution,,,,A10BA02,CEGEDIM
+96096,Metformin 5mg/5ml oral solution (Special Order),,,,A10BA02,CEGEDIM
+96097,Metformin 5mg/5ml oral solution (Special Order) 1 ml,,,,A10BA02,CEGEDIM
+98395,Metsol 500mg/5ml oral solution (Kappin Ltd) 150 ml,,,,A10BA02,CEGEDIM
+100993,Vildagliptin 50mg / Metformin 1g tablets,,,,A10BD08,CEGEDIM
+100996,Vildagliptin 50mg / Metformin 850mg tablets,,,,A10BD08,CEGEDIM
+103034,Metformin 500mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 150 ml,,,,A10BA02,CEGEDIM
+103903,Metformin 750mg modified-release tablets,,,,A10BA02,CEGEDIM
+103904,Glucophage SR 750mg tablets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+103905,Glucophage SR 750mg tablets (Merck Serono Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+103906,Glucophage SR 750mg tablets (Merck Serono Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+103972,Metformin 500mg tablets (Tillomed Laboratories Ltd),,,,A10BA02,CEGEDIM
+103973,Metformin 500mg tablets (Tillomed Laboratories Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+103974,Metformin 500mg tablets (Tillomed Laboratories Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+103975,Metformin 850mg tablets (Tillomed Laboratories Ltd),,,,A10BA02,CEGEDIM
+103976,Metformin 850mg tablets (Tillomed Laboratories Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+103977,Metformin 850mg tablets (Tillomed Laboratories Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+104120,Glucophage SR 500mg tablets (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+104121,Glucophage SR 500mg tablets (Waymade Healthcare Plc) 30 tablet,,,,A10BA02,CEGEDIM
+105094,Glucophage 500mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+105095,Glucophage 500mg tablets (DE Pharmaceuticals) 84 tablet,,,,A10BA02,CEGEDIM
+105099,Glucophage 850mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+105100,Glucophage 850mg tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+107803,Bolamyn SR 500mg tablets (Teva UK Ltd),,,,A10BA02,CEGEDIM
+107804,Bolamyn SR 500mg tablets (Teva UK Ltd) 28 tablet4 x 7 tablets,,,,A10BA02,CEGEDIM
+107807,Bolamyn SR 500mg tablets (Teva UK Ltd) 56 tablet8 x 7 tablets,,,,A10BA02,CEGEDIM
+111631,Metformin 500mg modified-release tablets (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+111632,Metformin 500mg modified-release tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+111633,Metformin 500mg modified-release tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+113162,Metformin 500mg tablets (Boston Healthcare Ltd),,,,A10BA02,CEGEDIM
+113163,Metformin 500mg tablets (Boston Healthcare Ltd) 28 tablet4 x 7 tablets,,,,A10BA02,CEGEDIM
+113167,Metformin 850mg tablets (Boston Healthcare Ltd),,,,A10BA02,CEGEDIM
+113168,Metformin 850mg tablets (Boston Healthcare Ltd) 56 tablet8 x 7 tablets,,,,A10BA02,CEGEDIM
+115339,Metformin 500mg modified-release tablets (Kent Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+115340,Metformin 500mg modified-release tablets (Kent Pharmaceuticals Ltd) 28 tablet4 x 7 tablets,,,,A10BA02,CEGEDIM
+116458,Metformin 500mg modified-release tablets (Kent Pharmaceuticals Ltd) 56 tablet8 x 7 tablets,,,,A10BA02,CEGEDIM
+118447,Metformin 1g modified-release tablets,,,,A10BA02,CEGEDIM
+118448,Glucophage SR 1000mg tablets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+118449,Glucophage SR 1000mg tablets (Merck Serono Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+118450,Glucophage SR 1000mg tablets (Merck Serono Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+118503,Metformin 500mg oral powder sachets sugar free,,,,A10BA02,CEGEDIM
+118504,Glucophage 500mg oral powder sachets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+118505,Glucophage 500mg oral powder sachets (Merck Serono Ltd) 30 sachet,,,,A10BA02,CEGEDIM
+118506,Glucophage 500mg oral powder sachets (Merck Serono Ltd) 60 sachet,,,,A10BA02,CEGEDIM
+118507,Metformin 1g oral powder sachets sugar free,,,,A10BA02,CEGEDIM
+118508,Glucophage 1000mg oral powder sachets (Merck Serono Ltd),,,,A10BA02,CEGEDIM
+118509,Glucophage 1000mg oral powder sachets (Merck Serono Ltd) 30 sachet,,,,A10BA02,CEGEDIM
+118510,Glucophage 1000mg oral powder sachets (Merck Serono Ltd) 60 sachet,,,,A10BA02,CEGEDIM
+123550,Metformin 500mg tablets (Zanza Specials International Ltd),,,,A10BA02,CEGEDIM
+123551,Metformin 500mg tablets (Zanza Specials International Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+123552,Metformin 500mg tablets (Zanza Specials International Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+123553,Metformin 500mg tablets (Zanza Specials International Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+123554,Metformin 850mg tablets (Zanza Specials International Ltd),,,,A10BA02,CEGEDIM
+123555,Metformin 850mg tablets (Zanza Specials International Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+123556,Metformin 850mg tablets (Zanza Specials International Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+123645,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+123646,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd) 150 ml,,,,A10BA02,CEGEDIM
+124369,Metformin 500mg tablets (Bristol Laboratories Ltd),,,,A10BA02,CEGEDIM
+124370,Metformin 500mg tablets (Bristol Laboratories Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+124371,Metformin 500mg tablets (Bristol Laboratories Ltd) 84 tablet7 x 12 tablets,,,,A10BA02,CEGEDIM
+124372,Metformin 850mg tablets (Bristol Laboratories Ltd),,,,A10BA02,CEGEDIM
+124373,Metformin 850mg tablets (Bristol Laboratories Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+124486,Glucophage SR 500mg tablets (Waymade Healthcare Plc) 60 tablet,,,,A10BA02,CEGEDIM
+125406,Glucophage SR 500mg tablets (Lexon (UK) Ltd),,,,A10BA02,CEGEDIM
+125407,Glucophage SR 500mg tablets (Lexon (UK) Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+125408,Glucophage 850mg tablets (Lexon (UK) Ltd),,,,A10BA02,CEGEDIM
+125409,Glucophage 850mg tablets (Lexon (UK) Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+128350,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+128351,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd) 60 tablet,,,,A10BA02,CEGEDIM
+129968,Metformin 500mg tablets (Pfizer Ltd),,,,A10BA02,CEGEDIM
+129969,Metformin 500mg tablets (Pfizer Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+129970,Metformin 500mg tablets (Pfizer Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+129971,Metformin 850mg tablets (Pfizer Ltd),,,,A10BA02,CEGEDIM
+129972,Metformin 850mg tablets (Pfizer Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+133287,Metformin 1g / Sitagliptin 50mg tablets,,,,A10BD07,CEGEDIM
+135403,Metformin 500mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 100 ml,,,,A10BA02,CEGEDIM
+141088,Metformin 500mg tablets (Phoenix Healthcare Distribution Ltd),,,,A10BA02,CEGEDIM
+141089,Metformin 500mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+141090,Metformin 500mg tablets (Phoenix Healthcare Distribution Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+141091,Metformin 500mg tablets (Phoenix Healthcare Distribution Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+141092,Metformin 850mg tablets (Phoenix Healthcare Distribution Ltd),,,,A10BA02,CEGEDIM
+141093,Metformin 850mg tablets (Phoenix Healthcare Distribution Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+141094,Metformin 850mg tablets (Phoenix Healthcare Distribution Ltd) 60 tablet,,,,A10BA02,CEGEDIM
+141095,Metformin 850mg tablets (Phoenix Healthcare Distribution Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+141368,Metformin 500mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+141369,Metformin 500mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd) 150 ml,,,,A10BA02,CEGEDIM
+141370,Metformin 500mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd) 100 ml,,,,A10BA02,CEGEDIM
+142763,Metabet SR 500mg tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+142764,Metabet SR 500mg tablets (Morningside Healthcare Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+142765,Metabet SR 500mg tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+143070,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+143231,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd) 30 tablet,,,,A10BA02,CEGEDIM
+144638,Metformin 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+144639,Metformin 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+146542,Glucophage SR 500mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+146543,Glucophage SR 500mg tablets (DE Pharmaceuticals) 30 tablet,,,,A10BA02,CEGEDIM
+146544,Glucophage SR 500mg tablets (DE Pharmaceuticals) 60 tablet,,,,A10BA02,CEGEDIM
+146987,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+149264,Metabet SR 1000mg tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+149265,Metabet SR 1000mg tablets (Morningside Healthcare Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+149266,Metabet SR 1000mg tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+153148,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd) 100 ml,,,,A10BA02,CEGEDIM
+153149,Metabet SR 1000mg tablets (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+153150,Metabet SR 1000mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+153204,Glucient SR 500mg tablets (Consilient Health Ltd),,,,A10BA02,CEGEDIM
+153205,Glucient SR 500mg tablets (Consilient Health Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+153206,Glucient SR 500mg tablets (Consilient Health Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+155183,Metformin 1g modified-release tablets (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+155184,Metformin 1g modified-release tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+162938,Diagemet XL 500mg tablets (Genus Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+162939,Diagemet XL 500mg tablets (Genus Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+162940,Diagemet XL 500mg tablets (Genus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+163648,Metformin 1g modified-release tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+166546,Metabet SR 1000mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+168692,Linagliptin 2.5mg / Metformin 850mg tablets,,,,A10BD11,CEGEDIM
+168695,Linagliptin 2.5mg / Metformin 1g tablets,,,,A10BD11,CEGEDIM
+169112,Metformin 250mg/5ml oral suspension (Special Order) 150 ml,,,,A10BA02,CEGEDIM
+169384,Metformin 500mg/5ml oral suspension (Special Order) 150 ml,,,,A10BA02,CEGEDIM
+169385,Metformin 850mg/5ml oral suspension (Special Order) 150 ml,,,,A10BA02,CEGEDIM
+170246,Metabet SR 500mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+170242,Metabet SR 500mg tablets (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+170243,Metabet SR 500mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+171075,Glucophage SR 1000mg tablets (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+171076,Glucophage SR 1000mg tablets (Waymade Healthcare Plc) 28 tablet,,,,A10BA02,CEGEDIM
+172656,Saxagliptin 2.5mg / Metformin 850mg tablets,,,,A10BD10,CEGEDIM
+172659,Saxagliptin 2.5mg / Metformin 1g tablets,,,,A10BD10,CEGEDIM
+173384,Metformin 500mg modified-release tablets (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+173385,Metformin 500mg modified-release tablets (Waymade Healthcare Plc) 28 tablet,,,,A10BA02,CEGEDIM
+173389,Metformin 500mg modified-release tablets (Waymade Healthcare Plc) 56 tablet,,,,A10BA02,CEGEDIM
+173390,Metformin 1g modified-release tablets (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+173391,Metformin 1g modified-release tablets (Waymade Healthcare Plc) 28 tablet,,,,A10BA02,CEGEDIM
+173394,Metformin 500mg tablets (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+173395,Metformin 500mg tablets (Waymade Healthcare Plc) 28 tablet,,,,A10BA02,CEGEDIM
+173397,Metformin 500mg tablets (Waymade Healthcare Plc) 84 tablet,,,,A10BA02,CEGEDIM
+173398,Metformin 500mg tablets (Waymade Healthcare Plc) 500 tablet,,,,A10BA02,CEGEDIM
+173399,Metformin 850mg tablets (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+173400,Metformin 850mg tablets (Waymade Healthcare Plc) 56 tablet,,,,A10BA02,CEGEDIM
+173401,Metformin 850mg tablets (Waymade Healthcare Plc) 300 tablet,,,,A10BA02,CEGEDIM
+176133,Metformin 500mg/5ml oral solution sugar free (Zentiva),,,,A10BA02,CEGEDIM
+176134,Metformin 500mg/5ml oral solution sugar free (Zentiva) 100 ml,,,,A10BA02,CEGEDIM
+176135,Metformin 500mg/5ml oral solution sugar free (Zentiva) 150 ml,,,,A10BA02,CEGEDIM
+177842,Bolamyn SR 1000mg tablets (Teva UK Ltd),,,,A10BA02,CEGEDIM
+177843,Bolamyn SR 1000mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+177844,Bolamyn SR 1000mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+178147,Metformin 500mg tablets (Milpharm Ltd),,,,A10BA02,CEGEDIM
+178148,Metformin 500mg tablets (Milpharm Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+178149,Metformin 850mg tablets (Milpharm Ltd),,,,A10BA02,CEGEDIM
+178150,Metformin 850mg tablets (Milpharm Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+178451,Metformin 500mg/5ml oral solution sugar free (Waymade Healthcare Plc),,,,A10BA02,CEGEDIM
+178452,Metformin 500mg/5ml oral solution sugar free (Waymade Healthcare Plc) 100 ml,,,,A10BA02,CEGEDIM
+178453,Metformin 500mg/5ml oral solution sugar free (Waymade Healthcare Plc) 150 ml,,,,A10BA02,CEGEDIM
+178524,Metformin 425mg/5ml oral suspension (Special Order) 150 ml,,,,A10BA02,CEGEDIM
+189024,Alogliptin 12.5mg / Metformin 1g tablets,,,,A10BD13,CEGEDIM
+192532,Dapagliflozin 5mg / Metformin 850mg tablets,,,,A10BD15,CEGEDIM
+192535,Dapagliflozin 5mg / Metformin 1g tablets,,,,A10BD15,CEGEDIM
+195905,Metformin 500mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+195906,Metformin 500mg tablets (DE Pharmaceuticals) 28 tablet,,,,A10BA02,CEGEDIM
+195908,Metformin 500mg tablets (DE Pharmaceuticals) 84 tablet,,,,A10BA02,CEGEDIM
+195909,Metformin 500mg tablets (DE Pharmaceuticals) 500 tablet,,,,A10BA02,CEGEDIM
+195910,Metformin 850mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+195911,Metformin 850mg tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+195912,Metformin 850mg tablets (DE Pharmaceuticals) 300 tablet,,,,A10BA02,CEGEDIM
+195913,Metformin 1g modified-release tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+195914,Metformin 1g modified-release tablets (DE Pharmaceuticals) 28 tablet,,,,A10BA02,CEGEDIM
+195915,Metformin 1g modified-release tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+195916,Metformin 500mg modified-release tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+195917,Metformin 500mg modified-release tablets (DE Pharmaceuticals) 28 tablet,,,,A10BA02,CEGEDIM
+195918,Metformin 500mg modified-release tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+197247,Metformin 500mg modified-release tablets (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+197248,Metformin 500mg modified-release tablets (Actavis UK Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+197249,Metformin 1g modified-release tablets (Actavis UK Ltd),,,,A10BA02,CEGEDIM
+197250,Metformin 1g modified-release tablets (Actavis UK Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+197251,Metformin 500mg modified-release tablets (Actavis UK Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+197252,Metformin 1g modified-release tablets (Actavis UK Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+197356,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+197357,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+197358,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+197359,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+228600,Metformin 500mg/5ml oral solution sugar free (Pinewood Healthcare),,,,A10BA02,CEGEDIM
+228601,Metformin 500mg/5ml oral solution sugar free (Pinewood Healthcare) 100 ml,,,,A10BA02,CEGEDIM
+228602,Metformin 500mg/5ml oral solution sugar free (Pinewood Healthcare) 150 ml,,,,A10BA02,CEGEDIM
+229807,Canagliflozin 50mg / Metformin 850mg tablets,,,,A10BD16,CEGEDIM
+229823,Canagliflozin 50mg / Metformin 1g tablets,,,,A10BD16,CEGEDIM
+233448,Metformin 500mg/5ml oral solution sugar free (Advanz Pharma),,,,A10BA02,CEGEDIM
+233449,Metformin 500mg/5ml oral solution sugar free (Advanz Pharma) 150 ml,,,,A10BA02,CEGEDIM
+236902,Metformin 1g oral powder sachets sugar free (J M McGill Ltd),,,,A10BA02,CEGEDIM
+236903,Metformin 1g oral powder sachets sugar free (J M McGill Ltd) 30 sachet,,,,A10BA02,CEGEDIM
+246328,Metformin 1g oral powder sachets sugar free (Niche Pharma Ltd),,,,A10BA02,CEGEDIM
+246329,Metformin 1g oral powder sachets sugar free (Niche Pharma Ltd) 30 sachet,,,,A10BA02,CEGEDIM
+246732,Metformin 500mg tablets (Sigma Pharmaceuticals Plc),,,,A10BA02,CEGEDIM
+246733,Metformin 500mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,A10BA02,CEGEDIM
+246734,Metformin 500mg tablets (Sigma Pharmaceuticals Plc) 84 tablet,,,,A10BA02,CEGEDIM
+246735,Metformin 500mg tablets (Sigma Pharmaceuticals Plc) 500 tablet,,,,A10BA02,CEGEDIM
+246736,Metformin 850mg tablets (Sigma Pharmaceuticals Plc),,,,A10BA02,CEGEDIM
+246737,Metformin 850mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,A10BA02,CEGEDIM
+246738,Metformin 850mg tablets (Sigma Pharmaceuticals Plc) 300 tablet,,,,A10BA02,CEGEDIM
+246829,Metformin 500mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),,,,A10BA02,CEGEDIM
+246830,Metformin 500mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc) 100 ml,,,,A10BA02,CEGEDIM
+246831,Metformin 500mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc) 150 ml,,,,A10BA02,CEGEDIM
+247622,Glucient SR 750mg tablets (Consilient Health Ltd),,,,A10BA02,CEGEDIM
+247623,Glucient SR 750mg tablets (Consilient Health Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+247624,Glucient SR 1000mg tablets (Consilient Health Ltd),,,,A10BA02,CEGEDIM
+247625,Glucient SR 1000mg tablets (Consilient Health Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+247626,Glucient SR 1000mg tablets (Consilient Health Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+249347,Glucophage SR 1000mg tablets (Waymade Healthcare Plc) 56 tablet,,,,A10BA02,CEGEDIM
+249029,Empagliflozin 5mg / Metformin 850mg tablets,,,,A10BD20,CEGEDIM
+249036,Empagliflozin 5mg / Metformin 1g tablets,,,,A10BD20,CEGEDIM
+249045,Empagliflozin 12.5mg / Metformin 850mg tablets,,,,A10BD20,CEGEDIM
+249052,Empagliflozin 12.5mg / Metformin 1g tablets,,,,A10BD20,CEGEDIM
+254609,Metformin 500mg modified-release tablets (Almus Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+254610,Metformin 500mg modified-release tablets (Almus Pharmaceuticals Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+254611,Metformin 500mg modified-release tablets (Almus Pharmaceuticals Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+255118,Metformin 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+255121,Metformin 1g modified-release tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+255122,Metformin 1g modified-release tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+255123,Metformin 1g modified-release tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+256025,Alogliptin 12.5mg / Metformin 1g tablets (Ennogen Healthcare Ltd),,,,A10BD13,CEGEDIM
+256026,Alogliptin 12.5mg / Metformin 1g tablets (Ennogen Healthcare Ltd) 56 tablet,,,,A10BD13,CEGEDIM
+256498,Metformin 500mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),,,,A10BA02,CEGEDIM
+256499,Metformin 500mg modified-release tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+256500,Metformin 500mg modified-release tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+259618,Alogliptin 12.5mg / Metformin 1g tablets (J M McGill Ltd),,,,A10BD13,CEGEDIM
+259619,Alogliptin 12.5mg / Metformin 1g tablets (J M McGill Ltd) 56 tablet,,,,A10BD13,CEGEDIM
+267542,Alogliptin 12.5mg / Metformin 1g tablets (Niche Pharma Ltd),,,,A10BD13,CEGEDIM
+267543,Alogliptin 12.5mg / Metformin 1g tablets (Niche Pharma Ltd) 56 tablet,,,,A10BD13,CEGEDIM
+269845,Metformin 1g modified-release tablets (Kent Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+269846,Metformin 1g modified-release tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+269847,Metformin 1g modified-release tablets (Kent Pharmaceuticals Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+269927,Alogliptin 12.5mg / Metformin 1g tablets (Colorama Pharmaceuticals Ltd),,,,A10BD13,CEGEDIM
+269928,Alogliptin 12.5mg / Metformin 1g tablets (Colorama Pharmaceuticals Ltd) 56 tablet,,,,A10BD13,CEGEDIM
+278426,Metformin 750mg modified-release tablets (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+278427,Metformin 750mg modified-release tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+279352,Metformin 850mg/5ml oral solution sugar free,,,,A10BA02,CEGEDIM
+279353,Metformin 850mg/5ml oral solution sugar free (Colonis Pharma Ltd),,,,A10BA02,CEGEDIM
+279354,Metformin 850mg/5ml oral solution sugar free (Colonis Pharma Ltd) 150 ml,,,,A10BA02,CEGEDIM
+279355,Metformin 1g/5ml oral solution sugar free,,,,A10BA02,CEGEDIM
+279356,Metformin 1g/5ml oral solution sugar free (Colonis Pharma Ltd),,,,A10BA02,CEGEDIM
+279357,Metformin 1g/5ml oral solution sugar free (Colonis Pharma Ltd) 150 ml,,,,A10BA02,CEGEDIM
+279367,Metformin 500mg/5ml oral solution sugar free (Colonis Pharma Ltd),,,,A10BA02,CEGEDIM
+279368,Metformin 500mg/5ml oral solution sugar free (Colonis Pharma Ltd) 150 ml,,,,A10BA02,CEGEDIM
+303702,GLYFORMIN 500 MG TAB,,,,,CEGEDIM
+281011,Metformin 850mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,A10BA02,CEGEDIM
+281012,Metformin 850mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 150 ml,,,,A10BA02,CEGEDIM
+281013,Metformin 1g/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,A10BA02,CEGEDIM
+281014,Metformin 1g/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 150 ml,,,,A10BA02,CEGEDIM
+284785,Metformin 850mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+284786,Metformin 850mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,A10BA02,CEGEDIM
+284787,Metformin 1g/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,A10BA02,CEGEDIM
+284788,Metformin 1g/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,A10BA02,CEGEDIM
+286152,Metformin 500mg tablets (Crescent Pharma Ltd),,,,A10BA02,CEGEDIM
+286147,Metformin 850mg tablets (Crescent Pharma Ltd),,,,A10BA02,CEGEDIM
+286148,Metformin 850mg tablets (Crescent Pharma Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+286153,Metformin 500mg tablets (Crescent Pharma Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+287013,Metformin 500mg tablets (Crescent Pharma Ltd) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+287898,Meijumet 500mg modified-release tablets (Medreich Plc),,,,A10BA02,CEGEDIM
+287899,Meijumet 500mg modified-release tablets (Medreich Plc) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+287900,Meijumet 500mg modified-release tablets (Medreich Plc) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+287901,Meijumet 750mg modified-release tablets (Medreich Plc),,,,A10BA02,CEGEDIM
+287902,Meijumet 750mg modified-release tablets (Medreich Plc) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+287906,Meijumet 750mg modified-release tablets (Medreich Plc) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+287907,Meijumet 1000mg modified-release tablets (Medreich Plc),,,,A10BA02,CEGEDIM
+287908,Meijumet 1000mg modified-release tablets (Medreich Plc) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+287909,Meijumet 1000mg modified-release tablets (Medreich Plc) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+295540,Yaltormin SR 500mg tablets (Wockhardt UK Ltd),,,,A10BA02,CEGEDIM
+295541,Yaltormin SR 500mg tablets (Wockhardt UK Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+295545,Yaltormin SR 500mg tablets (Wockhardt UK Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+295546,Yaltormin SR 750mg tablets (Wockhardt UK Ltd),,,,A10BA02,CEGEDIM
+295547,Yaltormin SR 750mg tablets (Wockhardt UK Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+295548,Yaltormin SR 750mg tablets (Wockhardt UK Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+295560,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd),,,,A10BA02,CEGEDIM
+295561,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+295562,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+295906,Metformin 500mg tablets (RX Farma),,,,A10BA02,CEGEDIM
+295907,Metformin 500mg tablets (RX Farma) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+295908,Metformin 500mg tablets (RX Farma) 84 tablet6 x 14 tablets,,,,A10BA02,CEGEDIM
+295909,Metformin 850mg tablets (RX Farma),,,,A10BA02,CEGEDIM
+295910,Metformin 850mg tablets (RX Farma) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+296337,Pioglitazone 15mg / Metformin 850mg tablets (Teva UK Ltd),,,,A10BD05,CEGEDIM
+296338,Pioglitazone 15mg / Metformin 850mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,A10BD05,CEGEDIM
+296379,Pioglitazone 15mg / Metformin 850mg tablets (A A H Pharmaceuticals Ltd),,,,A10BD05,CEGEDIM
+296380,Pioglitazone 15mg / Metformin 850mg tablets (A A H Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,A10BD05,CEGEDIM
+303387,METFORMIN 250 MG TAB,,,,,CEGEDIM
+303388,METFORMIN HCl 850 MG TAB,,,,,CEGEDIM
+303389,METFORMIN 800 MG TAB,,,,,CEGEDIM
+304907,METFORMIN HCl 500 MG TAB,,,,,CEGEDIM
+309493,Metformin 500mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
+309494,Metformin 850mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
+310863,Metformin 500mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
+313694,Metformin 500mg Tablet (Lagap),,,,,CEGEDIM
+313695,Metformin 850mg Tablet (Lagap),,,,,CEGEDIM
+315282,Metformin 500mg Tablet (Neo Laboratories Ltd),,,,,CEGEDIM
+315283,Metformin 850mg Tablet (Neo Laboratories Ltd),,,,,CEGEDIM
+315586,Metformin 500mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
+315589,Metformin 850mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
+316983,Metformin 500mg Tablet (Sovereign Medical Ltd),,,,,CEGEDIM
+316984,Metformin 850mg Tablet (Sovereign Medical Ltd),,,,,CEGEDIM
+317603,Metformin 100mg/ml Oral suspension (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
+318583,Metformin 500mg Tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
+318586,Metformin 850mg Tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
+319913,Metformin 500mg/5ml Oral solution (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
+324390,Metformin with rosiglitazone 500mg + 1mg Tablet,,,,,CEGEDIM
+324391,Metformin with rosiglitazone 500mg + 2mg Tablet,,,,,CEGEDIM
+324489,Metformin 100mg/ml Oral solution,,,,,CEGEDIM
+324643,Metformin with rosiglitazone 1000mg + 2mg Tablet,,,,,CEGEDIM
+324644,Metformin with rosiglitazone 1000mg + 4mg Tablet,,,,,CEGEDIM
+325075,Metformin with pioglitazone 850mg + 15mg Tablet,,,,,CEGEDIM
+325085,Metformin Oral solution,,,,,CEGEDIM
+325167,Metformin (roi) 1000mg Tablet,,,,,CEGEDIM
+326220,Sitagliptin 50mg with metformin 850mg tablet,,,,,CEGEDIM
+327871,Metuxtan SR 500mg tablets (Accord Healthcare Ltd),,,,A10BA02,CEGEDIM
+329147,Metuxtan SR 500mg tablets (Accord Healthcare Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+329148,Metuxtan SR 500mg tablets (Accord Healthcare Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+331292,Pioglitazone 15mg / Metformin 850mg tablets (Alliance Healthcare (Distribution) Ltd),,,,A10BD05,CEGEDIM
+331293,Pioglitazone 15mg / Metformin 850mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet,,,,A10BD05,CEGEDIM
+337454,Pioglitazone 15mg / Metformin 850mg tablets (Torrent Pharma (UK) Ltd),,,,A10BD05,CEGEDIM
+337455,Pioglitazone 15mg / Metformin 850mg tablets (Torrent Pharma (UK) Ltd) 56 tablet,,,,A10BD05,CEGEDIM
+339842,Metformin 500mg tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+339843,Metformin 500mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+339844,Metformin 850mg tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+339845,Metformin 850mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+341020,Metformin 500mg tablets (Relonchem Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+342191,Metformin 500mg/5ml oral solution sugar free (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+342466,Glucophage 500mg tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+342467,Glucophage 850mg tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+342555,Glucophage SR 750mg tablets (Mawdsley-Brooks & Company Ltd),,,,A10BA02,CEGEDIM
+343516,Pioglitazone 15mg / Metformin 850mg tablets (DE Pharmaceuticals),,,,A10BD05,CEGEDIM
+344355,Metformin 500mg/5ml oral solution sugar free (DE Pharmaceuticals) 100 ml,,,,A10BA02,CEGEDIM
+344356,Metformin 500mg/5ml oral solution sugar free (DE Pharmaceuticals) 150 ml,,,,A10BA02,CEGEDIM
+344587,Glucophage SR 750mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+344588,Glucophage SR 750mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+344589,Glucophage 500mg tablets (Mawdsley-Brooks & Company Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+344590,Glucophage 850mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+345007,Metformin 500mg tablets (DE Pharmaceuticals) 1000 tablet,,,,A10BA02,CEGEDIM
+345700,Pioglitazone 15mg / Metformin 850mg tablets (DE Pharmaceuticals) 56 tablet,,,,A10BD05,CEGEDIM
+348357,Glucophage SR 500mg tablets (DE Pharmaceuticals) 28 tablet,,,,A10BA02,CEGEDIM
+348358,Glucophage SR 500mg tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+348359,Glucophage SR 750mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+348360,Glucophage SR 750mg tablets (DE Pharmaceuticals) 28 tablet,,,,A10BA02,CEGEDIM
+348361,Glucophage SR 750mg tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+348362,Glucophage SR 1000mg tablets (DE Pharmaceuticals),,,,A10BA02,CEGEDIM
+348363,Glucophage SR 1000mg tablets (DE Pharmaceuticals) 28 tablet,,,,A10BA02,CEGEDIM
+348364,Glucophage SR 1000mg tablets (DE Pharmaceuticals) 56 tablet,,,,A10BA02,CEGEDIM
+348953,Sukkarto SR 750mg tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+348954,Sukkarto SR 750mg tablets (Morningside Healthcare Ltd) 56 tablet2 x 28 tablets,,,,A10BA02,CEGEDIM
+350799,Metformin 500mg modified-release tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+350800,Metformin 500mg modified-release tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+350825,Metformin 750mg modified-release tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+350826,Metformin 750mg modified-release tablets (Morningside Healthcare Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+350830,Metformin 750mg modified-release tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+350863,Metformin 500mg modified-release tablets (Morningside Healthcare Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+350884,Metformin 1g modified-release tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+350885,Metformin 1g modified-release tablets (Morningside Healthcare Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+350886,Metformin 1g modified-release tablets (Morningside Healthcare Ltd) 56 tablet4 x 14 tablets,,,,A10BA02,CEGEDIM
+353496,Glucorex SR 500mg tablets (GlucoRx Ltd),,,,A10BA02,CEGEDIM
+353497,Glucorex SR 500mg tablets (GlucoRx Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM
+353620,Glucophage SR 1000mg tablets (Pilsco Ltd),,,,A10BA02,CEGEDIM
+353621,Glucophage SR 1000mg tablets (Pilsco Ltd) 60 tablet,,,,A10BA02,CEGEDIM
+354316,Metformin 750mg modified-release tablets,,,,A10BA02,CEGEDIM
+354317,Metformin 1g modified-release tablets,,,,A10BA02,CEGEDIM
+356002,Metformin 500mg tablets (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356003,Metformin 500mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+356004,Metformin 500mg tablets (Medihealth (Northern) Ltd) 500 tablet,,,,A10BA02,CEGEDIM
+356005,Metformin 500mg tablets (Medihealth (Northern) Ltd) 84 tablet,,,,A10BA02,CEGEDIM
+356006,Metformin 850mg tablets (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356007,Metformin 850mg tablets (Medihealth (Northern) Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+356008,Metformin 850mg/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356009,Metformin 850mg/5ml oral solution sugar free (Medihealth (Northern) Ltd) 150 ml,,,,A10BA02,CEGEDIM
+356010,Metformin 1g modified-release tablets (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356011,Metformin 1g modified-release tablets (Medihealth (Northern) Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+356012,Metformin 500mg modified-release tablets (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356013,Metformin 500mg modified-release tablets (Medihealth (Northern) Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+356014,Metformin 750mg modified-release tablets (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356015,Metformin 750mg modified-release tablets (Medihealth (Northern) Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+356024,Metformin 500mg/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,A10BA02,CEGEDIM
+356025,Metformin 500mg/5ml oral solution sugar free (Medihealth (Northern) Ltd) 150 ml,,,,A10BA02,CEGEDIM
+356026,Metformin 500mg modified-release tablets (Medihealth (Northern) Ltd) 56 tablet,,,,A10BA02,CEGEDIM
+356027,Metformin 1g modified-release tablets (Medihealth (Northern) Ltd) 28 tablet,,,,A10BA02,CEGEDIM
+356028,Metformin 850mg tablets (Medihealth (Northern) Ltd) 300 tablet,,,,A10BA02,CEGEDIM
+356226,Metformin 500mg modified-release tablets,,,,A10BA02,CEGEDIM
+356646,Metformin 850mg tablets (Morningside Healthcare Ltd),,,,A10BA02,CEGEDIM
+356647,Metformin 850mg tablets (Morningside Healthcare Ltd) 56 tablet2 x 28 tablets,,,,A10BA02,CEGEDIM
+357219,Metformin 500mg modified-release tablets (Consilient Health Ltd),,,,A10BA02,CEGEDIM
+357220,Metformin 500mg modified-release tablets (Consilient Health Ltd) 28 tablet2 x 14 tablets,,,,A10BA02,CEGEDIM

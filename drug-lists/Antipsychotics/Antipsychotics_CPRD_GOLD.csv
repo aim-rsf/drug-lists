@@ -1,0 +1,801 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+71481,Aripiprazole 10mg tablets (Alliance Healthcare (Distribution) Ltd) Aripiprazole 10mg Tablet Oral,4020102,,,,CPRD_GOLD
+29972,PERICYAZINE    ,0,,,,CPRD_GOLD
+16434,Risperidone 25mg powder and solvent for suspension for injection vials Risperidone 25mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+21709,Seroquel 300mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 300mg Tablet Oral,4020102,,,,CPRD_GOLD
+15814,Haloperidol decanoate 100mg/1ml solution for injection ampoules Haloperidol decanoate 100mg/1ml Solution for injection Intramuscular,4020101,4020200,,,CPRD_GOLD
+8136,HALOPERIDOL 5 MG LIQ    ,0,,,,CPRD_GOLD
+55871,Haloperidol 2mg/ml Liquid (Hillcross Pharmaceuticals Ltd) Haloperidol 2mg/ml Liquid ,4020100,40120000,,,CPRD_GOLD
+23340,MODECATE CONC    ,0,,,,CPRD_GOLD
+67820,Chlorpromazine 100mg/5ml oral suspension Chlorpromazine hydrochloride 20mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+19033,CHLORPROMAZINE HCl 50 MG INJ    ,0,,,,CPRD_GOLD
+65321,Risperidone 500microgram tablets (Teva UK Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+56072,Olanzapine 20mg orodispersible tablets Olanzapine 20mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+23161,Tranquilyn 5mg tablets (Genesis Pharmaceuticals Ltd) Methylphenidate hydrochloride 5mg Tablet Oral,4040000,,,,CPRD_GOLD
+30346,CHLORPROMAZINE HCl 100 MG TAB    ,0,,,,CPRD_GOLD
+4820,Risperdal 1mg tablets (Janssen-Cilag Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+54429,Stemetil 5mg tablets (Waymade Healthcare Plc) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+29838,STELAZINE CONCENTRATE 10mg/ml    ,0,,,,CPRD_GOLD
+27582,STELAZINE    ,0,,,,CPRD_GOLD
+34668,Chlorpromazine 25mg tablets (Teva UK Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+41663,Trifluoperazine 5mg tablets (A A H Pharmaceuticals Ltd) Trifluoperazine hydrochloride 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+9975,Haloperidol 1mg/ml sugar free Oral solution Haloperidol 1mg/ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+28679,Dozic 2mg/ml Oral solution (Rosemont Pharmaceuticals Ltd) Haloperidol 2mg/ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+71201,Levomepromazine 62.5mg/5ml oral suspension Levomepromazine maleate 12.5mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+2714,Trifluoperazine 10mg modified-release capsules Trifluoperazine hydrochloride 10mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+6443,Promazine 25mg/5ml oral solution Promazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+74088,Chlorpromazine 25mg suppositories Chlorpromazine hydrochloride 25mg Suppository Rectal,4020101,,,,CPRD_GOLD
+24494,Haldol 10mg/ml Liquid (Janssen-Cilag Ltd) Haloperidol 10mg/ml Liquid Oral,4020100,40120000,,,CPRD_GOLD
+19752,DEPIXOL (10ML VIAL)    ,0,,,,CPRD_GOLD
+33493,Sparine 100mg Tablet (Wyeth Pharmaceuticals) Promazine Hydrochloride 100mg Tablet Oral,4020100,,,,CPRD_GOLD
+73980,Abilify 5mg tablets (Lexon (UK) Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+29948,Stelazine Forte 1mg/ml oral solution (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 1mg/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+19002,Largactil 100mg Suppository (Rhone-Poulenc Rorer Ltd) Chlorpromazine Hydrochloride 100mg Suppository Rectal,4020100,40120000,,,CPRD_GOLD
+35391,Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules Fluphenazine decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+9340,Risperdal 3mg tablets (Janssen-Cilag Ltd) Risperidone 3mg Tablet Oral,4020102,,,,CPRD_GOLD
+40001,Stemetil 5mg/5ml syrup (Sanofi) Prochlorperazine mesilate 1mg/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+12128,Modecate concentrate 100mg/ml Injection (Sanofi-Synthelabo Ltd) Fluphenazine Decanoate 100mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+667,Risperidone 500microgram tablets Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+7985,STEMETIL 2.5 MG SUP    ,0,,,,CPRD_GOLD
+77890,Droperidol 2.5mg/1ml solution for injection ampoules (Panpharma UK Ltd) Droperidol 2.5mg/1ml Solution for injection Intravenous,4065400,,,,CPRD_GOLD
+46447,Paliperidone 100mg/1ml suspension for injection pre-filled syringes Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+22049,Clopixol 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Zuclopenthixol decanoate 200mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+3775,Zuclopenthixol decanoate 200mg/ml oily injection Zuclopenthixol Decanoate 200mg/ml Oily Injection ,4020100,4020200,,,CPRD_GOLD
+52076,Amisulpride 12.5mg/5ml oral solution Amisulpride 2.5mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+65773,Aripiprazole 30mg tablets (Zentiva) Aripiprazole 30mg Tablet Oral,4020102,,,,CPRD_GOLD
+34630,Chlorpromazine 50mg tablets (Thornton & Ross Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+47149,Haloperidol 1mg/5ml oral solution Haloperidol 200microgram/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+17227,Chloractil 25mg Tablet (DDSA Pharmaceuticals Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+13145,Trifluoperazine 1mg/5ml oral solution sugar free Trifluoperazine hydrochloride 200microgram/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+53649,Haloperidol 2mg/5ml oral suspension Haloperidol 400microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+4992,Solian 200 tablets (Sanofi) Amisulpride 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+47013,Haloperidol 1mg/5ml oral suspension Haloperidol 200microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+55625,Amisulpride 50mg/5ml oral suspension Amisulpride 10mg/1ml Oral suspension Oral,4020102,,,,CPRD_GOLD
+37705,Chlorpromazine 100mg/5ml suspension Chlorpromazine Hydrochloride 100mg/5ml Suspension Oral,4020100,40120000,,,CPRD_GOLD
+40928,Droperidol 2.5mg/1ml solution for injection ampoules Droperidol 2.5mg/1ml Solution for injection Intravenous,4065400,,,,CPRD_GOLD
+70867,Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+5653,Olanzapine 7.5mg tablets Olanzapine 7.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+3937,Trifluoperazine 15mg modified-release capsules Trifluoperazine hydrochloride 15mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+12630,Loxapine 50mg capsules Loxapine succinate 50mg Capsule Oral,0,,,,CPRD_GOLD
+46960,Chlorpromazine 100mg tablets (IVAX Pharmaceuticals UK Ltd) Chlorpromazine hydrochloride 100mg Tablet Oral,4020101,,,,CPRD_GOLD
+16407,Zyprexa 15mg Velotabs (Eli Lilly and Company Ltd) Olanzapine 15mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+37501,Paliperidone 9mg modified-release tablets Paliperidone 9mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+28231,Levinan 6mg Tablet (Link Pharmaceuticals Ltd) Levomepromazine maleate 6mg Tablet Oral,4020100,,,,CPRD_GOLD
+65472,Risperidone 3mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd) Risperidone 3mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+38262,Haloperidol 5mg/1ml solution for injection ampoules Haloperidol 5mg/1ml Solution for injection Intravenous/Intramuscular,4020101,,,,CPRD_GOLD
+3926,Modecate 25mg/ml Injection (Sanofi-Synthelabo Ltd) Fluphenazine Decanoate 25mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+34339,Haloperidol 1.5mg tablets (A A H Pharmaceuticals Ltd) Haloperidol 1.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+11799,Risperdal 6mg tablets (Janssen-Cilag Ltd) Risperidone 6mg Tablet Oral,4020102,,,,CPRD_GOLD
+45810,Haloperidol 10mg/5ml oral solution sugar free Haloperidol 2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+36163,Zyprexa 20mg tablets (Eli Lilly and Company Ltd) Olanzapine 20mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+43020,Haloperidol Oral solution Haloperidol  Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+28862,Chloractil 100mg Tablet (DDSA Pharmaceuticals Ltd) Chlorpromazine hydrochloride 100mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+31171,Chlorpromazine 50mg tablets (A A H Pharmaceuticals Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+21064,Neulactil 25mg Tablet (JHC Healthcare Ltd) Pericyazine 25mg Tablet Oral,4020100,,,,CPRD_GOLD
+72822,Abilify 5mg tablets (Waymade Healthcare Plc) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+3955,Tranylcypromine with trifluoperazine Tablet Trifluoperazine Hydrochloride/Tranylcypromine Sulphate  Tablet Oral,4020100,4030200,,,CPRD_GOLD
+12616,Loxapine 10mg capsules Loxapine succinate 10mg Capsule Oral,0,,,,CPRD_GOLD
+72543,Risperidone 2mg tablets (Accord Healthcare Ltd) Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+35176,Fluphenazine decanoate 100mg/1ml solution for injection ampoules Fluphenazine decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+76428,Risperidone 1mg tablets (Almus Pharmaceuticals Ltd) Risperidone 1mg Tablet Oral,0,,,,CPRD_GOLD
+46945,Promazine 25mg Tablet (Biorex Laboratories Ltd) Promazine hydrochloride 25mg Tablet Oral,4020100,,,,CPRD_GOLD
+31747,CHLORPROMAZINE HYDROCHLORIDE    ,0,,,,CPRD_GOLD
+18453,Zyprexa 2.5mg tablets (Eli Lilly and Company Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+60908,Chlorpromazine 10mg capsules Chlorpromazine hydrochloride 10mg Capsule Oral,4020101,4065400,,,CPRD_GOLD
+71594,Aripiprazole 7.5mg/ml oral solution Aripiprazole 7.5mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+73148,Prochlorperazine 5mg tablets (Bristol Laboratories Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+13820,Zyprexa 10mg tablets (Eli Lilly and Company Ltd) Olanzapine 10mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+1318,Stelazine 1mg tablets (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 1mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+1319,Clopixol 10mg tablets (Lundbeck Ltd) Zuclopenthixol dihydrochloride 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+54458,Prochlorperazine 5mg Tablet (Teva UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+63833,Olanzapine 2.5mg tablets (Zentiva) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+69121,Olanzapine embonate 405mg powder and solvent for suspension for injection vials Olanzapine embonate monohydrate 405mg Powder and solvent for suspension for injection Intramuscular,4020102,4020200,,,CPRD_GOLD
+2094,Haldol Decanoate 50mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Haloperidol decanoate 50mg/1ml Solution for injection Intramuscular,4020101,4020200,,,CPRD_GOLD
+79430,Risperidone 500microgram orodispersible tablets sugar free (Consilient Health Ltd) Risperidone 500microgram Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+79527,Promazine 25mg/5ml oral solution (Waymade Healthcare Plc) Promazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+15128,Droperidol 1mg/ml liquid Droperidol 1mg/ml Liquid Oral,4020100,15010401,,,CPRD_GOLD
+63087,Biquelle XL 300mg tablets (Aspire Pharma Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+61748,Ebesque XL 200mg tablets (Ethypharm UK Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+77606,Invega 3mg modified-release tablets (Janssen-Cilag Ltd) Paliperidone 3mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+2154,Chlorpromazine 100mg tablets Chlorpromazine hydrochloride 100mg Tablet Oral,4020101,,,,CPRD_GOLD
+17221,CHLORPROMAZINE HCl 10 MG INJ    ,0,,,,CPRD_GOLD
+26660,PROMAZINE HYDROCHLORIDE    ,0,,,,CPRD_GOLD
+13338,Serenace 5mg tablets (Teva UK Ltd) Haloperidol 5mg Tablet Oral,4020101,,,,CPRD_GOLD
+85,Prochlorperazine 5mg tablets Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+39887,Stemetil 5mg tablets (Sanofi) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+56143,Olanzapine 15mg orodispersible tablets Olanzapine 15mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+64493,Risperidone 1mg tablets (A A H Pharmaceuticals Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+25835,Moditen enanthate 25mg/ml Injection (Sanofi-Synthelabo Ltd) Fluphenazine Enantate 25mg/ml Injection ,4020200,,,,CPRD_GOLD
+35141,Risperidone 3mg orodispersible tablets sugar free Risperidone 3mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+76560,Risperdal 2mg tablets (Lexon (UK) Ltd) Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+65246,Chlorpromazine 10mg/5ml oral suspension Chlorpromazine hydrochloride 2mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+6524,Amisulpride 100mg tablets Amisulpride 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+46351,Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+17849,Vertigon spansule 15 15mg Spansule (GlaxoSmithKline Consumer Healthcare) Prochlorperazine Maleate 15mg Spansule Oral,4020100,40120000,,,CPRD_GOLD
+77489,Promazine 50mg/5ml Liquid (Genus Pharmaceuticals Ltd) Promazine Hydrochloride 50mg/5ml Liquid ,4020100,,,,CPRD_GOLD
+5597,Moditen 1mg tablets (Sanofi) Fluphenazine hydrochloride 1mg Tablet Oral,4020100,,,,CPRD_GOLD
+76438,Sulpiride 400mg tablets (Medreich Plc) Sulpiride 400mg Tablet Oral,4020101,,,,CPRD_GOLD
+57412,Sondate XL 400mg tablets (Teva UK Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+19824,STEMETIL (1ML)    ,0,,,,CPRD_GOLD
+24243,STEMETIL    ,0,,,,CPRD_GOLD
+2621,Haloperidol 5mg tablets Haloperidol 5mg Tablet Oral,4020101,,,,CPRD_GOLD
+79024,Promazine 50mg Tablet (Teva UK Ltd) Promazine hydrochloride 50mg Tablet Oral,4020100,,,,CPRD_GOLD
+46422,Olanzapine embonate 300mg powder and solvent for suspension for injection vials Olanzapine embonate monohydrate 300mg Powder and solvent for suspension for injection Intramuscular,4020102,4020200,,,CPRD_GOLD
+30351,HALDOL 1.5 MG TAB    ,0,,,,CPRD_GOLD
+16229,FLUPHENAZINE DECANOATE 12.5 MG INJ    ,0,,,,CPRD_GOLD
+18289,Stelazine 10mg/ml Concentrate (Goldshield Pharmaceuticals Ltd) Trifluoperazine Hydrochloride 10mg/ml Concentrate Oral,4020100,40120000,,,CPRD_GOLD
+39237,Seroquel XL 400mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+20571,Fluphenazine with nortriptyline 500microgramswith10mg Tablet Fluphenazine Hydrochloride/Nortriptyline Hydrochloride 500mcg + 10mg Tablet Oral,4030100,,,,CPRD_GOLD
+31098,Aripiprazole 15mg orodispersible tablets sugar free Aripiprazole 15mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+32076,Aripiprazole 10mg orodispersible tablets sugar free Aripiprazole 10mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+2276,Flupentixol 40mg/2ml solution for injection ampoules Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+13311,Sparine 50mg/ml Injection (Wyeth Pharmaceuticals) Promazine Hydrochloride 50mg/ml Injection ,4020100,,,,CPRD_GOLD
+57114,Abilify 5mg tablets (Mawdsley-Brooks & Company Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+63511,Risperidone 1mg tablets (Actavis UK Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+15047,Orap 4mg tablets (Eumedica Pharmaceuticals) Pimozide 4mg Tablet Oral,4020101,,,,CPRD_GOLD
+25015,DEPIXOL-CONC (1ML AMP)    ,0,,,,CPRD_GOLD
+45281,Chlorpromazine 100mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Chlorpromazine hydrochloride 20mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+72898,Trifluoperazine 1mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Trifluoperazine hydrochloride 200microgram/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+80350,Cariprazine 3mg capsules Cariprazine hydrochloride 3mg Capsule Oral,4020100,,,,CPRD_GOLD
+9475,Risperdal 4mg tablets (Janssen-Cilag Ltd) Risperidone 4mg Tablet Oral,4020102,,,,CPRD_GOLD
+43654,Promazine 50mg/ml injection Promazine Hydrochloride 50mg/ml Injection ,4020100,,,,CPRD_GOLD
+71367,Olanzapine 5mg orodispersible tablets sugar free (Actavis UK Ltd) Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+1434,Prochlorperazine 5mg suppositories Prochlorperazine maleate 5mg Suppository Rectal,4020101,4065400,,,CPRD_GOLD
+10356,TRIFLUOPERAZINE TAB    ,0,,,,CPRD_GOLD
+51551,Stemetil 5mg tablets (Mawdsley-Brooks & Company Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+24069,Dolmatil 400mg tablets (Sanofi) Sulpiride 400mg Tablet Oral,4020101,,,,CPRD_GOLD
+3951,Fluanxol 1mg tablets (Lundbeck Ltd) Flupentixol dihydrochloride 1mg Tablet Oral,4030400,,,,CPRD_GOLD
+63598,Amisulpride 400mg tablets (Zentiva) Amisulpride 400mg Tablet Oral,4020102,,,,CPRD_GOLD
+17958,Clozaril 25mg tablets (Mylan) Clozapine 25mg Tablet Oral,4020102,,,,CPRD_GOLD
+5192,Haloperidol 1mg/5ml sugar free Oral solution Haloperidol 1mg/5ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+2814,Largactil 25mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+25063,HALOPERIDOL 100mg/ml    ,0,,,,CPRD_GOLD
+21199,Denzapine 100mg tablets (Britannia Pharmaceuticals Ltd) Clozapine 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+32051,Haloperidol 5mg Tablet (Generics (UK) Ltd) Haloperidol 5mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+5712,Depixol 3mg tablets (Lundbeck Ltd) Flupentixol dihydrochloride 3mg Tablet Oral,4020101,,,,CPRD_GOLD
+69637,Mintreleq XL 200mg tablets (Aristo Pharma Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+72577,Olanzapine 7.5mg tablets (Alliance Healthcare (Distribution) Ltd) Olanzapine 7.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+66990,Prochlorperazine 3mg buccal tablets (Alliance Healthcare (Distribution) Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+32772,Prochlorperazine 5mg tablets (Mylan) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+1320,Risperidone 1mg tablets Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+31537,Zuclopenthixol acetate 100mg/2ml solution for injection ampoules Zuclopenthixol acetate 50mg/1ml Solution for injection Intramuscular,0,,,,CPRD_GOLD
+74591,Atrolak XL 300mg tablets (Accord Healthcare Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+10780,Promazine 50mg/5ml oral solution Promazine Hydrochloride 50mg/5ml Suspension Oral,4020100,,,,CPRD_GOLD
+14717,Zyprexa 5mg Velotabs (Eli Lilly and Company Ltd) Olanzapine 5mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+11531,Trifluoperazine 5mg/5ml oral solution sugar free Trifluoperazine hydrochloride 1mg/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+72003,Levomepromazine 5mg/5ml oral suspension Levomepromazine maleate 1mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+14767,Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Risperidone 50mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+512,Stemetil 5mg Tablet (Castlemead Healthcare Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+19283,Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+14356,Stemetil 12.5mg/1ml solution for injection ampoules (Sanofi) Prochlorperazine mesilate 12.5mg/1ml Solution for injection Intramuscular,4020101,4065400,,,CPRD_GOLD
+55848,Haloperidol 5mg/1ml solution for injection ampoules (Advanz Pharma) Haloperidol 5mg/1ml Solution for injection Intravenous/Intramuscular,4020101,,,,CPRD_GOLD
+46435,Xeplion 150mg/1.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+52050,Haloperidol 1.5mg/5ml oral suspension Haloperidol 300microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+46224,Paliperidone 50mg/0.5ml suspension for injection pre-filled syringes Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+40586,Clozapine 50mg tablets Clozapine 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+69511,Olanzapine 10mg tablets (Teva UK Ltd) Olanzapine 10mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+63255,Risperidone 1mg tablets (Accord Healthcare Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+4434,Chlorpromazine 50mg/5ml oral solution Chlorpromazine hydrochloride 10mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+35548,Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd) Risperidone 3mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+70515,Levomepromazine 6mg/5ml oral solution Levomepromazine maleate 1.2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+7479,Stelazine 1mg/ml Injection (Goldshield Pharmaceuticals Ltd) Trifluoperazine Hydrochloride 1mg/ml Injection ,4020100,40120000,,,CPRD_GOLD
+44186,Chlorpromazine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+35723,Fluphenazine decanoate 50mg/2ml solution for injection ampoules Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+24107,FLUPHENAZINE HCl ELI    ,0,,,,CPRD_GOLD
+46705,Abilify 9.75mg/1.3ml solution for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 7.5mg/1ml Solution for injection Intramuscular,4020102,,,,CPRD_GOLD
+47365,Anquil 250microgram tablets (Kyowa Kirin Ltd) Benperidol 250microgram Tablet Oral,4020101,,,,CPRD_GOLD
+13902,Neulactil Forte syrup (Sanofi) Pericyazine 2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+61083,Levomepromazine 25mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Levomepromazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,4020101,,,,CPRD_GOLD
+55622,Olanzapine 10mg orodispersible tablets Olanzapine 10mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+12619,Loxapac 25mg capsules (Wyeth Pharmaceuticals) Loxapine succinate 25mg Capsule Oral,0,,,,CPRD_GOLD
+41732,Promazine 50mg tablets (Teva UK Ltd) Promazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+42000,Haloperidol 2mg/ml Liquid (Rosemont Pharmaceuticals Ltd) Haloperidol 2mg/ml Liquid Oral,4020100,40120000,,,CPRD_GOLD
+7918,Moditen 2.5mg tablets (Sanofi) Fluphenazine hydrochloride 2.5mg Tablet Oral,0,,,,CPRD_GOLD
+72037,Levomepromazine 100mg tablets Levomepromazine maleate 100mg Tablet Oral,4020101,,,,CPRD_GOLD
+12356,LARGACTIL 50 MG INJ    ,0,,,,CPRD_GOLD
+32064,Prochlorperazine 5mg tablets (Actavis UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+15171,Droleptan 10mg Tablet (Janssen-Cilag Ltd) Droperidol 10mg Tablet Oral,4020100,15010401,,,CPRD_GOLD
+18024,Zyprexa 5mg tablets (Eli Lilly and Company Ltd) Olanzapine 5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+76775,Olanzapine 2.5mg orodispersible tablets sugar free Olanzapine 2.5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+77098,Risperidone 2mg tablets (Dexcel-Pharma Ltd) Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+62943,Biquelle XL 400mg tablets (Aspire Pharma Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+15418,Largactil forte 100mg/5ml Oral suspension (Hawgreen Ltd) Chlorpromazine embonate 20mg/1ml Oral suspension Oral,4020100,40120000,,,CPRD_GOLD
+57170,Psytixol 100mg/1ml solution for injection ampoules (Mylan) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+74797,Buccastem 3mg tablets (DE Pharmaceuticals) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+9347,Clopixol 25mg tablets (Lundbeck Ltd) Zuclopenthixol dihydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+5212,Fluphenazine 1mg tablets Fluphenazine hydrochloride 1mg Tablet Oral,4020100,,,,CPRD_GOLD
+55012,Largactil 10mg tablets (Sanofi) Chlorpromazine hydrochloride 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+18352,Sulpitil 200mg tablets (Pfizer Ltd) Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+41995,Promazine 50mg/ml Injection (Genus Pharmaceuticals Ltd) Promazine Hydrochloride 50mg/ml Injection ,4020100,,,,CPRD_GOLD
+12387,Haloperidol 20mg tablets Haloperidol 20mg Tablet Oral,4020101,,,,CPRD_GOLD
+16575,Aripiprazole 1mg/ml oral solution Aripiprazole 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+74864,Olanzapine 15mg orodispersible tablets (Teva UK Ltd) Olanzapine 15mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+1857,Trifluoperazine 1mg tablets Trifluoperazine hydrochloride 1mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+1159,Trifluoperazine 2mg modified-release capsules Trifluoperazine hydrochloride 2mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+66479,Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes Aripiprazole 400mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+55620,Flupentixol Liquid Flupentixol Dihydrochloride  Liquid ,4020100,4030400,,,CPRD_GOLD
+35455,Modecate Concentrate 100mg/1ml solution for injection ampoules (Sanofi) Fluphenazine decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+67247,Largactil 50mg tablets (Waymade Healthcare Plc) Chlorpromazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+74855,Olanzapine 20mg orodispersible tablets (Teva UK Ltd) Olanzapine 20mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+2136,Depixol 20mg/ml Injection (Lundbeck Ltd) Flupentixol Decanoate 20mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+31538,Clopixol Acuphase 100mg/2ml solution for injection ampoules (Lundbeck Ltd) Zuclopenthixol acetate 50mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+17190,Fluphenazine enanthate 25mg/ml Injection Fluphenazine Enantate 25mg/ml Injection ,4020200,,,,CPRD_GOLD
+57270,Olanzapine 2.5mg/5ml oral suspension Olanzapine 500microgram/1ml Oral suspension Oral,4020102,4020300,,,CPRD_GOLD
+77988,Haloperidol 1.5mg tablets (Crescent Pharma Ltd) Haloperidol 1.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+14112,Clozaril 100mg tablets (Mylan) Clozapine 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+14859,Seroquel 25mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 25mg Tablet Oral,4020102,,,,CPRD_GOLD
+500,Buccastem 3mg Tablet (Reckitt Benckiser Healthcare (UK) Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,4020100,40120000,,,CPRD_GOLD
+13105,Haloperidol 2mg/ml Oral solution Haloperidol 2mg/ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+43431,Haloperidol 500microgram tablets (A A H Pharmaceuticals Ltd) Haloperidol 500microgram Tablet Oral,4020101,,,,CPRD_GOLD
+13607,Proziere 5mg tablets (Ashbourne Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+6838,Olanzapine 15mg Orodispersible tablet Olanzapine 15mg Orodispersible Tablet Oral,4020100,,,,CPRD_GOLD
+79911,Zalasta 2.5mg tablets (Consilient Health Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+8311,Chlorpromazine 25mg/ml injection Chlorpromazine Hydrochloride 25mg/ml Injection ,4020100,40120000,,,CPRD_GOLD
+12579,RISPERDAL(3 MG) 3 MG TAB    ,0,,,,CPRD_GOLD
+12137,CHLORPROMAZINE HCl 25 MG TAB    ,0,,,,CPRD_GOLD
+12921,Haldol 2mg/ml oral solution (Janssen-Cilag Ltd) Haloperidol 2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+53951,Levomepromazine 6.25mg/5ml oral solution Levomepromazine maleate 1.25mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+32122,Prochlorperazine 12.5mg/1ml solution for injection ampoules (Advanz Pharma) Prochlorperazine mesilate 12.5mg/1ml Solution for injection Intramuscular,4020101,4065400,,,CPRD_GOLD
+61575,Ebesque XL 50mg tablets (Ethypharm UK Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+10434,Largactil 25mg/5ml Oral solution (Hawgreen Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020100,40120000,,,CPRD_GOLD
+35065,Fluphenazine decanoate 25mg/1ml solution for injection ampoules Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+6023,Olanzapine 10mg Orodispersible tablet Olanzapine 10mg Orodispersible Tablet Oral,4020100,,,,CPRD_GOLD
+41428,Denzapine 200mg tablets (Britannia Pharmaceuticals Ltd) Clozapine 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+4232,Nozinan 25mg tablets (Sanofi) Levomepromazine maleate 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+21744,Anquil 250microgram Tablet (Concord Pharmaceuticals Ltd) Benperidol 250microgram Tablet Oral,4020100,,,,CPRD_GOLD
+302,Risperidone 1mg/ml oral solution sugar free Risperidone 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+67799,Promazine 50mg/5ml oral suspension Promazine hydrochloride 10mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+5707,Flupentixol 3mg tablets Flupentixol dihydrochloride 3mg Tablet Oral,4020101,,,,CPRD_GOLD
+30487,Denzapine 25mg tablets (Britannia Pharmaceuticals Ltd) Clozapine 25mg Tablet Oral,4020102,,,,CPRD_GOLD
+77076,Abilify 5mg tablets (Dowelhurst Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+6412,Olanzapine 5mg Orodispersible tablet Olanzapine 5mg Orodispersible Tablet Oral,4020100,,,,CPRD_GOLD
+1321,Risperidone 2mg tablets Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+51579,Stemetil 5mg tablets (Sigma Pharmaceuticals Plc) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+74834,Olanzapine 10mg orodispersible tablets sugar free (Actavis UK Ltd) Olanzapine 10mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+22609,Droperidol 5mg/ml injection Droperidol 5mg/ml Injection ,4020100,15010401,,,CPRD_GOLD
+7834,Pericyazine 2.5mg tablets Pericyazine 2.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+47103,Olanzapine 15mg orodispersible tablets sugar free Olanzapine 15mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+17379,Haloperidol 1.5mg/5ml sugar free Oral solution Haloperidol 1.5mg/5ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+59816,Psytixol 50mg/0.5ml solution for injection ampoules (Mylan) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+65707,Olanzapine 20mg orodispersible tablets sugar free (Actavis UK Ltd) Olanzapine 20mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+18155,Flupentixol 50mg/0.5ml solution for injection ampoules Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+31175,Chlorpromazine 25mg tablets (A A H Pharmaceuticals Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+13368,Clopixol 2mg tablets (Lundbeck Ltd) Zuclopenthixol dihydrochloride 2mg Tablet Oral,4020101,,,,CPRD_GOLD
+62517,Lurasidone 74mg tablets Lurasidone hydrochloride 74mg Tablet Oral,4020102,,,,CPRD_GOLD
+6036,Prochlorperazine 5mg/5ml oral solution Prochlorperazine mesilate 1mg/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+34736,Chlorpromazine 100mg tablets (Teva UK Ltd) Chlorpromazine hydrochloride 100mg Tablet Oral,4020101,,,,CPRD_GOLD
+68660,Loxapine 9.1mg/dose inhalation powder Loxapine 9.1mg Inhalation powder Inhalation,4020100,,,,CPRD_GOLD
+44326,Seroquel XL 150mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 150mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+75919,Promazine 12.5mg/5ml oral solution Promazine hydrochloride 2.5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+51444,Risperdal Consta 50mg powder and solvent for suspension for injection vials (Waymade Healthcare Plc) Risperidone 50mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+10514,Fluphenazine decanoate 100mg/ml Injection Fluphenazine Decanoate 100mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+80112,Cariprazine 1.5mg capsules Cariprazine hydrochloride 1.5mg Capsule Oral,4020100,,,,CPRD_GOLD
+33780,Modecate 25mg/1ml solution for injection ampoules (Sanofi) Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+55268,Zypadhera 300mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Olanzapine embonate monohydrate 300mg Powder and solvent for suspension for injection Intramuscular,4020102,4020200,,,CPRD_GOLD
+57034,Sondate XL 200mg tablets (Teva UK Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+73833,Haloperidol 500micrograms/5ml oral suspension Haloperidol 100microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+34272,Haloperidol 5mg/ml Injection (Antigen Pharmaceuticals) Haloperidol 5mg/ml Injection Subcutaneous Infusion,4020100,40120000,,,CPRD_GOLD
+53848,Zalasta 5mg orodispersible tablets (Consilient Health Ltd) Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+47167,Asenapine 10mg sublingual tablets sugar free Asenapine maleate 10mg Sublingual tablet Sublingual,4020300,,,,CPRD_GOLD
+71478,Olanzapine 2.5mg tablets (Alliance Healthcare (Distribution) Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+34927,Amisulpride 200mg tablets (Zentiva) Amisulpride 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+64210,Latuda 74mg tablets (Sunovion Pharmaceuticals Europe Ltd) Lurasidone hydrochloride 74mg Tablet Oral,4020102,,,,CPRD_GOLD
+15395,Promazine 12.5mg/5ml oral solution Promazine Hydrochloride 12.5mg/5ml Syrup Oral,4020100,,,,CPRD_GOLD
+57571,Droperidol 5mg/5ml oral solution Droperidol 1mg/1ml Oral solution Oral,4065400,,,,CPRD_GOLD
+49606,Levinan 6mg tablets (Kyowa Kirin Ltd) Levomepromazine maleate 6mg Tablet Oral,4020101,,,,CPRD_GOLD
+47808,Haloperidol 10mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Haloperidol 2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+58822,Risperidone 4mg tablets (Almus Pharmaceuticals Ltd) Risperidone 4mg Tablet Oral,4020102,,,,CPRD_GOLD
+55890,Promazine 50mg/5ml Liquid (Rosemont Pharmaceuticals Ltd) Promazine Hydrochloride 50mg/5ml Liquid ,4020100,,,,CPRD_GOLD
+63615,Olanzapine 2.5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+75650,Brancico XL 200mg tablets (Zentiva) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+8712,Flupentixol decanoate 100mg/ml Injection Flupentixol Decanoate 100mg/ml Injection ,4020200,,,,CPRD_GOLD
+10446,CHLORPROMAZINE HCl 50 MG TAB    ,0,,,,CPRD_GOLD
+58703,Largactil 50mg tablets (Sanofi) Chlorpromazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+32551,Prochlorperazine 5mg tablets (IVAX Pharmaceuticals UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+7436,Serenace 5mg/1ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd) Haloperidol 5mg/1ml Solution for injection Intravenous/Intramuscular,4020101,,,,CPRD_GOLD
+12544,CHLORPROMAZINE HCl 100 MG MIX    ,0,,,,CPRD_GOLD
+26800,Loxapac 50mg capsules (Wyeth Pharmaceuticals) Loxapine succinate 50mg Capsule Oral,0,,,,CPRD_GOLD
+5821,Pimozide 4mg tablets Pimozide 4mg Tablet Oral,4020101,,,,CPRD_GOLD
+28355,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules Zuclopenthixol decanoate 200mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+63364,Zaluron XL 200mg tablets (Fontus Health Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+66255,Atrolak XL 200mg tablets (Accord Healthcare Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+6064,Levomepromazine 25mg/1ml solution for injection ampoules Levomepromazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,4020101,,,,CPRD_GOLD
+28965,TRIFLUOPERAZINE HCL/ISOPROP.IODIDE FORTE TAB    ,0,,,,CPRD_GOLD
+80551,Prochlorperazine 5mg tablets (Medreich Plc) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+51558,Amisulpride 12.5mg/5ml oral suspension Amisulpride 2.5mg/1ml Oral suspension Oral,4020102,,,,CPRD_GOLD
+8537,Trifluoperazine 1mg/ml Injection Trifluoperazine Hydrochloride 1mg/ml Injection ,4020100,40120000,,,CPRD_GOLD
+8032,Pericyazine 10mg tablets Pericyazine 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+55382,Trifluoperazine 1mg/5ml oral solution sugar free (Advanz Pharma) Trifluoperazine hydrochloride 200microgram/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+7780,Nortriptyline 10mg / Fluphenazine 500microgram tablets Fluphenazine hydrochloride/Nortriptyline hydrochloride 500microgram + 10mg Tablet Oral,0,,,,CPRD_GOLD
+47256,Olanzapine 5mg oral lyophilisates sugar free Olanzapine 5mg Oral lyophilisate Oral,0,,,,CPRD_GOLD
+61103,Olanzapine 15mg oral lyophilisates sugar free Olanzapine 15mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+53556,Olanzapine 10mg oral lyophilisates sugar free Olanzapine 10mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+77571,Prochlorperazine 5mg tablets (Waymade Healthcare Plc) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+75605,Amisulpride 200mg tablets (Teva UK Ltd) Amisulpride 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+8903,Sulpiride 200mg/5ml oral solution sugar free Sulpiride 40mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+64216,Stelazine 5mg tablets (Imported (South Africa)) Trifluoperazine hydrochloride 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+78449,Risperidone 1mg/ml oral solution sugar free (Sandoz Ltd) Risperidone 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+22606,Chlorpromazine 25mg/1ml solution for injection ampoules Chlorpromazine hydrochloride 25mg/1ml Solution for injection Intravenous/Intramuscular,0,,,,CPRD_GOLD
+9965,Chlorpromazine 100mg/5ml oral suspension sugar free Chlorpromazine embonate 20mg/1ml Oral suspension Oral,0,,,,CPRD_GOLD
+13888,Zyprexa 10mg Velotabs (Eli Lilly and Company Ltd) Olanzapine 10mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+61153,Chlorpromazine 25mg tablets (Phoenix Healthcare Distribution Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+16908,Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Risperidone 25mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+1249,Olanzapine 10mg tablets Olanzapine 10mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+5497,Stemetil 25mg tablets (Sanofi) Prochlorperazine maleate 25mg Tablet Oral,0,,,,CPRD_GOLD
+329,Haloperidol 1.5mg tablets Haloperidol 1.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+60782,Psytixol 20mg/1ml solution for injection ampoules (Mylan) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+24270,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules Zuclopenthixol acetate 50mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+14789,Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Risperidone 37.5mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+78807,Olanzapine 5mg orodispersible tablets (A A H Pharmaceuticals Ltd) Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+47063,Olanzapine 10mg orodispersible tablets sugar free Olanzapine 10mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+12707,Zuclopenthixol 2mg tablets Zuclopenthixol dihydrochloride 2mg Tablet Oral,4020101,,,,CPRD_GOLD
+50592,Fluanxol 1mg tablets (Sigma Pharmaceuticals Plc) Flupentixol dihydrochloride 1mg Tablet Oral,4030400,,,,CPRD_GOLD
+22174,MODECATE    ,0,,,,CPRD_GOLD
+26684,MODECATE DISPOSABLE SYRINGE    ,0,,,,CPRD_GOLD
+26692,MODECATE DISPOSABLE SYRINGE    ,0,,,,CPRD_GOLD
+64778,Sondate XL 150mg tablets (Teva UK Ltd) Quetiapine fumarate 150mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+70833,Sulpiride 400mg tablets (Wockhardt UK Ltd) Sulpiride 400mg Tablet Oral,4020101,,,,CPRD_GOLD
+8042,Stelazine 15mg Spansules (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 15mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+79313,Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+78227,Aripiprazole 5mg tablets (A A H Pharmaceuticals Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+13484,Serenace 10mg tablets (Teva UK Ltd) Haloperidol 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+68152,Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 400mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+60719,Levomepromazine 5mg/5ml oral solution Levomepromazine maleate 1mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+14858,Abilify 15mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 15mg Tablet Oral,4020102,,,,CPRD_GOLD
+51240,Risperidone 125micrograms/5ml oral solution Risperidone 25microgram/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+47233,Zaponex 25mg tablets (Leyden Delta B.V.) Clozapine 25mg Tablet Oral,4020102,,,,CPRD_GOLD
+20703,Moditen 5mg tablets (Sanofi-Synthelabo Ltd) Fluphenazine hydrochloride 5mg Tablet Oral,0,,,,CPRD_GOLD
+13369,Droleptan 1mg/ml Oral solution (Janssen-Cilag Ltd) Droperidol 1mg/ml Oral Solution Oral,4020100,15010401,,,CPRD_GOLD
+40587,Clozapine 200mg tablets Clozapine 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+14966,Flupentixol 20mg/1ml solution for injection ampoules Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+227,Stemetil 5mg suppositories (Sanofi) Prochlorperazine maleate 5mg Suppository Rectal,4020101,4065400,,,CPRD_GOLD
+67717,Latuda 18.5mg tablets (Sunovion Pharmaceuticals Europe Ltd) Lurasidone hydrochloride 18.5mg Tablet Oral,4020102,,,,CPRD_GOLD
+74688,Fluanxol 500microgram tablets (Necessity Supplies Ltd) Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+49207,Haloperidol 2mg/5ml oral solution Haloperidol 400microgram/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+9247,Sulpiride 400mg tablets Sulpiride 400mg Tablet Oral,4020101,,,,CPRD_GOLD
+43914,Olanzapine embonate 210mg powder and solvent for suspension for injection vials Olanzapine embonate monohydrate 210mg Powder and solvent for suspension for injection Intramuscular,4020102,4020200,,,CPRD_GOLD
+4442,Nozinan 25mg/1ml solution for injection ampoules (Sanofi) Levomepromazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,4020101,,,,CPRD_GOLD
+43522,Sulpiride 200mg tablets (Teva UK Ltd) Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+79488,Risperidone 500microgram tablets (Almus Pharmaceuticals Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+41645,Chlorpromazine 25mg/ml Injection (Antigen Pharmaceuticals) Chlorpromazine Hydrochloride 25mg/ml Injection Intramuscular Deep Injection,4020100,40120000,,,CPRD_GOLD
+67747,Chlorpromazine 25mg tablets (Almus Pharmaceuticals Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+5014,Levomepromazine 25mg tablets Levomepromazine maleate 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+6482,Amisulpride 100mg/ml oral solution sugar free Amisulpride 100mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+45444,Denzapine 50mg/ml oral suspension (Britannia Pharmaceuticals Ltd) Clozapine 50mg/1ml Oral suspension Oral,4020102,,,,CPRD_GOLD
+5071,Amisulpride 200mg tablets Amisulpride 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+78283,Olanzapine 15mg orodispersible tablets sugar free (Actavis UK Ltd) Olanzapine 15mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+41546,Haloperidol 1mg/ml Liquid (Hillcross Pharmaceuticals Ltd) Haloperidol 1mg/ml Liquid Oral,4020100,40120000,,,CPRD_GOLD
+77605,Invega 9mg modified-release tablets (Janssen-Cilag Ltd) Paliperidone 9mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+7593,Stemetil 5mg/5ml Oral solution (Castlemead Healthcare Ltd) Prochlorperazine mesilate 1mg/1ml Oral solution Oral,4020100,40120000,,,CPRD_GOLD
+79560,Cariprazine 4.5mg capsules Cariprazine hydrochloride 4.5mg Capsule Oral,4020100,,,,CPRD_GOLD
+70640,Olanzapine 12.5mg/5ml oral suspension Olanzapine 2.5mg/1ml Oral suspension Oral,4020102,4020300,,,CPRD_GOLD
+8129,Haloperidol 20mg/2ml solution for injection ampoules Haloperidol 10mg/1ml Solution for injection Intramuscular/Intravenous,0,,,,CPRD_GOLD
+47832,Risperidone 500microgram tablets (A A H Pharmaceuticals Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+42807,Haloperidol 500microgram Tablet (Lagap) Haloperidol 500microgram Tablet Oral,4020100,40120000,,,CPRD_GOLD
+6373,Risperidone 1mg orodispersible tablets sugar free Risperidone 1mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+34039,Haloperidol 1mg/ml Liquid (Rosemont Pharmaceuticals Ltd) Haloperidol 1mg/ml Liquid Oral,4020100,40120000,,,CPRD_GOLD
+39830,Neulactil 2.5mg tablets (Sanofi) Pericyazine 2.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+71382,Promazine 50mg/5ml oral solution (A A H Pharmaceuticals Ltd) Promazine hydrochloride 10mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+46556,Paliperidone 75mg/0.75ml suspension for injection pre-filled syringes Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+34903,Haloperidol 5mg tablets (IVAX Pharmaceuticals UK Ltd) Haloperidol 5mg Tablet Oral,4020101,,,,CPRD_GOLD
+76933,Risperdal Consta 25mg powder and solvent for suspension for injection vials (Waymade Healthcare Plc) Risperidone 25mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+8045,CHLORPROMAZINE 200 MG TAB    ,0,,,,CPRD_GOLD
+63359,Zaluron XL 300mg tablets (Fontus Health Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+18197,Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+47093,Olanzapine 20mg orodispersible tablets sugar free Olanzapine 20mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+2786,Risperidone 6mg tablets Risperidone 6mg Tablet Oral,4020102,,,,CPRD_GOLD
+600,Flupentixol 1mg tablets Flupentixol dihydrochloride 1mg Tablet Oral,4030400,,,,CPRD_GOLD
+15161,Promazine 50mg/ml injection Promazine Hydrochloride 50mg/ml Injection ,4020100,,,,CPRD_GOLD
+8985,Stelazine 1mg/5ml syrup (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 200microgram/1ml Oral solution Oral,4020101,4065400,,,CPRD_GOLD
+62387,Lurasidone 37mg tablets Lurasidone hydrochloride 37mg Tablet Oral,4020102,,,,CPRD_GOLD
+47055,Olanzapine 5mg orodispersible tablets Olanzapine 5mg Orodispersible tablet Oral,0,,,,CPRD_GOLD
+1990,Prochlorperazine 25mg suppositories Prochlorperazine maleate 25mg Suppository Rectal,4020101,4065400,,,CPRD_GOLD
+2972,Promazine 25mg tablets Promazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+18181,Sulpor 200mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Sulpiride 40mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+42895,Haloperidol 5mg tablets (Teva UK Ltd) Haloperidol 5mg Tablet Oral,4020101,,,,CPRD_GOLD
+1316,Stelazine 5mg tablets (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+31796,Benquil 250microgram tablets (Concord Pharmaceuticals Ltd) Benperidol 250microgram Tablet Oral,4020101,,,,CPRD_GOLD
+23431,Olanzapine 10mg powder for solution for injection vials Olanzapine 10mg Powder for solution for injection Intramuscular,4020102,4020300,,,CPRD_GOLD
+76664,Promazine 25mg/5ml oral suspension Promazine hydrochloride 5mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+3773,Droperidol 10mg tablets Droperidol 10mg Tablets Oral,4020100,15010401,,,CPRD_GOLD
+14364,Prochlorperazine 12.5mg/1ml solution for injection ampoules Prochlorperazine mesilate 12.5mg/1ml Solution for injection Intramuscular,4020101,4065400,,,CPRD_GOLD
+2419,Haloperidol 500microgram capsules Haloperidol 500microgram Capsule Oral,4020101,,,,CPRD_GOLD
+63797,Zaluron XL 150mg tablets (Fontus Health Ltd) Quetiapine fumarate 150mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+71415,Haloperidol 5mg/5ml oral suspension Haloperidol 1mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+2155,Depixol -conc 100mg/ml Injection (Lundbeck Ltd) Flupentixol Decanoate 100mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+12193,Sparine 25mg Tablet (Wyeth Pharmaceuticals) Promazine hydrochloride 25mg Tablet Oral,4020100,,,,CPRD_GOLD
+46677,Risperidone 500microgram tablets (Actavis UK Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+41971,Fluphenazine decanoate 25mg/ml Injection (Antigen Pharmaceuticals) Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+16986,Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd) Risperidone 1mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+70433,Trevicta 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+18668,Trifluoperazine 10mg/ml concentrate Trifluoperazine Hydrochloride 10mg/ml Concentrate Oral,4020100,40120000,,,CPRD_GOLD
+60971,Prochlorperazine 3mg buccal tablets (A A H Pharmaceuticals Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+2656,Olanzapine 2.5mg tablets Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+27565,FLUANXOL    ,0,,,,CPRD_GOLD
+45953,Zyprexa 10mg powder for solution for injection vials (Eli Lilly and Company Ltd) Olanzapine 10mg Powder for solution for injection Intramuscular,4020102,4020300,,,CPRD_GOLD
+10535,TRIFLUOPERAZINE 5.00MG/ML 5 MG SYR    ,0,,,,CPRD_GOLD
+6523,Haldol 5mg/ml Injection (Janssen-Cilag Ltd) Haloperidol 5mg/ml Injection Subcutaneous Infusion,4020100,40120000,,,CPRD_GOLD
+57616,Olanzapine 20mg tablets (Teva UK Ltd) Olanzapine 20mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+19738,"MORPHINE,COCAINE & CHLORPROMAZINE MIX    ",0,,,,CPRD_GOLD
+73742,Tenprolide XL 200mg tablets (Actavis UK Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+24053,Sulparex 200mg Tablet (E R Squibb and Sons Ltd) Sulpiride 200mg Tablet Oral,4020100,4090300,,,CPRD_GOLD
+8445,Stelabid Tablet (GlaxoSmithKline Consumer Healthcare) Isopropamide Iodide/Trifluoperazine Hydrochloride  Tablet Oral,1020100,4020100,,,CPRD_GOLD
+35122,Modecate 12.5mg/0.5ml solution for injection ampoules (Sanofi) Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+31576,Solian 100mg/ml oral solution (Sanofi) Amisulpride 100mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+65944,Olanzapine 2.5mg tablets (Mylan) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+4524,Orap 2mg tablets (Janssen-Cilag Ltd) Pimozide 2mg Tablet Oral,0,,,,CPRD_GOLD
+15438,Prochlorperazine maleate 15mg modified release capsul Prochlorperazine Maleate 15mg Modified Release Capsules Oral,4020100,40120000,,,CPRD_GOLD
+8153,Serenace 2mg/ml liquid (Teva UK Ltd) Haloperidol 2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+63818,Mintreleq XL 150mg tablets (Aristo Pharma Ltd) Quetiapine fumarate 150mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+9022,Fluphenazine decanoate 25mg/ml Injection Fluphenazine Decanoate 25mg/ml Injection Intramuscular Deep Injection Gluteal Muscle,4020200,,,,CPRD_GOLD
+24457,Fentanyl with droperidol 500microgramwith2.5mg/ml Injection Droperidol/Fentanyl Citrate 500microgram+2.5mg/2.5ml Injection ,15010401,,,,CPRD_GOLD
+47162,Xeplion 50mg/0.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+72753,Risperdal 1mg/ml oral solution (Lexon (UK) Ltd) Risperidone 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+59143,Olanzapine 2.5mg tablets (Teva UK Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+47498,Olanzapine 20mg oral lyophilisates sugar free Olanzapine 20mg Oral lyophilisate Oral,0,,,,CPRD_GOLD
+63389,Zaluron XL 50mg tablets (Fontus Health Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+64673,Levomepromazine 10mg/5ml oral suspension Levomepromazine maleate 2mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+40881,Neulactil 10mg tablets (Sanofi) Pericyazine 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+11938,Amisulpride 25mg/5ml oral suspension Amisulpride 5mg/1ml Oral suspension Oral,4020102,,,,CPRD_GOLD
+5545,Serenace 500microgram capsules (Teva UK Ltd) Haloperidol 500microgram Capsule Oral,4020101,,,,CPRD_GOLD
+41420,Haloperidol 500microgram tablets (Sandoz Ltd) Haloperidol 500microgram Tablet Oral,4020101,,,,CPRD_GOLD
+80182,Olanzapine 2.5mg tablets (A A H Pharmaceuticals Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+47049,Olanzapine 10mg orodispersible tablets Olanzapine 10mg Orodispersible tablet Oral,0,,,,CPRD_GOLD
+38540,Haldol 5mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Haloperidol 5mg/1ml Solution for injection Intravenous/Intramuscular,4020101,,,,CPRD_GOLD
+43423,Sulpiride 200mg tablets (A A H Pharmaceuticals Ltd) Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+8047,Clozapine 100mg tablets Clozapine 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+74620,Haloperidol 1mg/5ml sugar free Oral solution (Rosemont Pharmaceuticals Ltd) Haloperidol 1mg/5ml Oral Solution ,4020100,40120000,,,CPRD_GOLD
+79336,Amisulpride 50mg tablets (Kent Pharmaceuticals Ltd) Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+6134,Dozic 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Haloperidol 1mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+15472,Pericyazine 25mg tablet Pericyazine 25mg Tablets Oral,4020100,,,,CPRD_GOLD
+78616,Trevicta 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+29879,Abilify 30mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 30mg Tablet Oral,4020102,,,,CPRD_GOLD
+7390,Levomepromazine 6mg tablets Levomepromazine maleate 6mg Tablet Oral,4020101,,,,CPRD_GOLD
+57612,Seroquel XL 400mg tablets (Lexon (UK) Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+8637,Pimozide 10mg tablet Pimozide 10mg Tablets Oral,4020100,,,,CPRD_GOLD
+12615,Loxapine 25mg capsules Loxapine succinate 25mg Capsule Oral,0,,,,CPRD_GOLD
+13479,CHLORPROMAZINE 25 MG SUP    ,0,,,,CPRD_GOLD
+41714,Amisulpride 50mg tablets (Zentiva) Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+63363,Zaluron XL 400mg tablets (Fontus Health Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+2275,Flupentixol 500microgram tablets Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+3671,Haloperidol 500microgram tablets Haloperidol 500microgram Tablet Oral,4020101,,,,CPRD_GOLD
+8377,Fluphenazine 2.5mg tablets Fluphenazine hydrochloride 2.5mg Tablet Oral,0,,,,CPRD_GOLD
+58854,Olanzapine 10mg tablets (Actavis UK Ltd) Olanzapine 10mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+78578,Aripiprazole 15mg tablets (A A H Pharmaceuticals Ltd) Aripiprazole 15mg Tablet Oral,4020102,,,,CPRD_GOLD
+13341,DROPERIDOL 5 MG/5ML ELI    ,0,,,,CPRD_GOLD
+55038,Prochlorperazine 5mg tablets (Sigma Pharmaceuticals Plc) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+58147,Olanzapine 10mg tablets (Zentiva) Olanzapine 10mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+77027,Risperidone 2mg tablets (Waymade Healthcare Plc) Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+62202,Amisulpride 50mg tablets (A A H Pharmaceuticals Ltd) Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+74298,Xeplion 150mg/1.5ml and 100mg/1ml suspension for injection treatment initiation pack (Janssen-Cilag Ltd)   Not applicable Route of administration not applicable,4020200,,,,CPRD_GOLD
+18023,Seroquel tablets starter pack (AstraZeneca UK Ltd)   Not applicable Route of administration not applicable,0,,,,CPRD_GOLD
+12386,Haldol Decanoate 100mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Haloperidol decanoate 100mg/1ml Solution for injection Intramuscular,4020101,4020200,,,CPRD_GOLD
+65137,Risperidone 500microgram tablets (Dexcel-Pharma Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+40390,Promazine 25mg/5ml syrup (Rosemont Pharmaceuticals Ltd) Promazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+62115,Prochlorperazine 5mg tablets (Genesis Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+60942,Haloperidol 5mg/5ml oral solution Haloperidol 1mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+2936,Motival 10mg/500microgram tablets (Sanofi) Fluphenazine hydrochloride/Nortriptyline hydrochloride 500microgram + 10mg Tablet Oral,0,,,,CPRD_GOLD
+6573,Aripiprazole 15mg tablets Aripiprazole 15mg Tablet Oral,4020102,,,,CPRD_GOLD
+55667,Olanzapine 15mg tablets (Actavis UK Ltd) Olanzapine 15mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+17634,Promazine 50mg/5ml oral solution Promazine hydrochloride 10mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+2156,Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+36116,Paliperidone 6mg modified-release tablets Paliperidone 6mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+70415,Olanzapine 15mg tablets (Teva UK Ltd) Olanzapine 15mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+14576,Zuclopenthixol acetate 50mg/ml oily injection Zuclopenthixol Acetate 50mg/ml Oily Injection ,4020100,,,,CPRD_GOLD
+475,Haloperidol 10mg tablets Haloperidol 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+56265,Olanzapine 20mg oral lyophilisates sugar free Olanzapine 20mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+41702,Amisulpride 100mg tablets (Zentiva) Amisulpride 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+62531,Atrolak XL 400mg tablets (Accord Healthcare Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+47280,Asenapine 5mg sublingual tablets sugar free Asenapine maleate 5mg Sublingual tablet Sublingual,4020300,,,,CPRD_GOLD
+57605,Stelazine 1mg tablets (Lexon (UK) Ltd) Trifluoperazine hydrochloride 1mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+34344,Prochlorperazine 5mg tablets (A A H Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+77733,Brancico XL 50mg tablets (Zentiva) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+70219,Olanzapine 5mg orodispersible tablets (Teva UK Ltd) Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+12195,Pericyazine 10mg/5ml oral solution Pericyazine 2mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+71387,Stelazine 5mg tablets (Lexon (UK) Ltd) Trifluoperazine hydrochloride 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+21125,Droleptan 5mg/ml Injection (Janssen-Cilag Ltd) Droperidol 5mg/ml Injection Intravenous Injection,4020100,15010401,,,CPRD_GOLD
+9190,Chlorpromazine 25mg/5ml oral solution sugar free Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+57160,Olanzapine 5mg oral lyophilisates sugar free Olanzapine 5mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+3228,Promazine 50mg tablets Promazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+5262,Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd) Risperidone 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+63494,Risperidone 500microgram orodispersible tablets sugar free (A A H Pharmaceuticals Ltd) Risperidone 500microgram Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+35589,Risperidone 4mg orodispersible tablets sugar free Risperidone 4mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+38080,Abilify 1mg/ml oral solution (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+5219,Risperidone 3mg tablets Risperidone 3mg Tablet Oral,4020102,,,,CPRD_GOLD
+59829,Risperidone 3mg tablets (A A H Pharmaceuticals Ltd) Risperidone 3mg Tablet Oral,4020102,,,,CPRD_GOLD
+47394,Olanzapine 15mg oral lyophilisates sugar free Olanzapine 15mg Oral lyophilisate Oral,0,,,,CPRD_GOLD
+62916,Risperidone 500microgram orodispersible tablets sugar free (Teva UK Ltd) Risperidone 500microgram Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+13620,SULPIRIDE 500 MG TAB    ,0,,,,CPRD_GOLD
+72326,Risperidone 500microgram tablets (Accord Healthcare Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+67364,Haloperidol 5mg tablets (Crescent Pharma Ltd) Haloperidol 5mg Tablet Oral,4020101,,,,CPRD_GOLD
+58935,Tenprolide XL 400mg tablets (Actavis UK Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+13391,SERENACE 20 MG INJ    ,0,,,,CPRD_GOLD
+74856,Seroquel 200mg tablets (Waymade Healthcare Plc) Quetiapine fumarate 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+7493,Largactil 100mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 100mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+31172,Chlorpromazine 50mg tablets (Teva UK Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+1234,Stemetil 25mg suppositories (Sanofi) Prochlorperazine maleate 25mg Suppository Rectal,4020101,4065400,,,CPRD_GOLD
+65449,Promazine 25mg tablets (Teva UK Ltd) Promazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+56862,Chlorpromazine 25mg/5ml syrup (Rosemont Pharmaceuticals Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+8046,Clozapine 25mg tablets Clozapine 25mg Tablet Oral,4020102,,,,CPRD_GOLD
+36954,Invega 6mg modified-release tablets (Janssen-Cilag Ltd) Paliperidone 6mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+40162,Trifluoperazine 1mg tablets (A A H Pharmaceuticals Ltd) Trifluoperazine hydrochloride 1mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+27148,Orap 10mg Tablet (Janssen-Cilag Ltd) Pimozide 10mg Tablet Oral,4020100,,,,CPRD_GOLD
+2540,Benperidol 250microgram tablets Benperidol 250microgram Tablet Oral,4020101,,,,CPRD_GOLD
+3233,Haloperidol 2mg/ml sugar free Liquid Haloperidol 2mg/ml Liquid Oral,4020100,40120000,,,CPRD_GOLD
+62463,Latuda 37mg tablets (Sunovion Pharmaceuticals Europe Ltd) Lurasidone hydrochloride 37mg Tablet Oral,4020102,,,,CPRD_GOLD
+52001,Olanzapine 2.5mg tablets (Aspire Pharma Ltd) Olanzapine 2.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+588,Chlorpromazine 25mg tablets Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+80449,Amisulpride 50mg tablets (Milpharm Ltd) Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+5971,Buccastem M 3mg tablets (Alliance Pharmaceuticals Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+59548,Risperidone 2mg tablets (Alliance Healthcare (Distribution) Ltd) Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+3348,Chlorpromazine 50mg tablets Chlorpromazine hydrochloride 50mg Tablet Oral,4020101,,,,CPRD_GOLD
+68346,Zalasta 20mg tablets (Consilient Health Ltd) Olanzapine 20mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+3197,Promazine 100mg tablet Promazine Hydrochloride 100mg Tablets Oral,4020100,,,,CPRD_GOLD
+2713,Stelazine 2mg Spansules (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 2mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+64639,Mintreleq XL 300mg tablets (Aristo Pharma Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+56577,Olanzapine 15mg oral lyophilisates sugar free Olanzapine 15mg Oral lyophilisate Oral,0,,,,CPRD_GOLD
+63351,Biquelle XL 200mg tablets (Aspire Pharma Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+57550,Largactil 25mg/5ml syrup (Sanofi) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+32876,Prochlorperazine 5mg tablets (Teva UK Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+46434,Xeplion 100mg/1ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+1245,Trifluoperazine 5mg tablets Trifluoperazine hydrochloride 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+70542,Olanzapine 5mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd) Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+42229,Droperidol oral liquid Droperidol  Oral Liquid Oral,4020100,15010401,,,CPRD_GOLD
+11213,Haloperidol 2mg/5ml sugar free Oral solution Haloperidol 2mg/5ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+8979,Serenace 1.5mg tablets (Teva UK Ltd) Haloperidol 1.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+68347,Zalasta 5mg tablets (Consilient Health Ltd) Olanzapine 5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+3246,Stemetil 12.5mg/ml Injection (Castlemead Healthcare Ltd) Prochlorperazine Mesilate 12.5mg/ml Injection Intramuscular Deep Injection,4020100,40120000,,,CPRD_GOLD
+6561,Aripiprazole 10mg tablets Aripiprazole 10mg Tablet Oral,4020102,,,,CPRD_GOLD
+60450,Promazine 25mg tablets (A A H Pharmaceuticals Ltd) Promazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+38913,Seroquel XL 50mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+36101,Clopixol Acuphase 50mg/1ml solution for injection ampoules (Lundbeck Ltd) Zuclopenthixol acetate 50mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+7833,Neulactil 2.5mg Tablet (JHC Healthcare Ltd) Pericyazine 2.5mg Tablet Oral,4020100,,,,CPRD_GOLD
+73829,Sulpiride 200mg/5ml oral solution Sulpiride 40mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+2489,Pimozide 2mg tablets Pimozide 2mg Tablet Oral,0,,,,CPRD_GOLD
+70112,Haloperidol 200micrograms/ml oral solution sugar free Haloperidol 200microgram/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+25635,ZUCLOPENTHIXOL DIHYDROCHLORIDE    ,0,,,,CPRD_GOLD
+79436,Olanzapine 20mg tablets (Actavis UK Ltd) Olanzapine 20mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+70907,Seroquel 25mg tablets (Mawdsley-Brooks & Company Ltd) Quetiapine fumarate 25mg Tablet Oral,4020102,,,,CPRD_GOLD
+35487,Modecate Concentrate 50mg/0.5ml solution for injection ampoules (Sanofi) Fluphenazine decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+47304,Olanzapine 10mg oral lyophilisates sugar free Olanzapine 10mg Oral lyophilisate Oral,0,,,,CPRD_GOLD
+69544,Atrolak XL 50mg tablets (Accord Healthcare Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+8519,Chlorpromazine 100mg/5ml oral solution Chlorpromazine hydrochloride 20mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+76199,Amisulpride 50mg tablets (Mylan) Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+6850,Olanzapine 15mg tablets Olanzapine 15mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+67805,Stelazine 1mg tablets (Imported (South Africa)) Trifluoperazine hydrochloride 1mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+74902,Zalasta 20mg orodispersible tablets (Consilient Health Ltd) Olanzapine 20mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+73535,Haloperidol 2.5mg/5ml oral suspension Haloperidol 500microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+28968,Serenace 20mg/2ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd) Haloperidol 10mg/1ml Solution for injection Intramuscular/Intravenous,0,,,,CPRD_GOLD
+47083,Olanzapine 20mg orodispersible tablets Olanzapine 20mg Orodispersible tablet Oral,0,,,,CPRD_GOLD
+72716,Chlorpromazine oral liquid Chlorpromazine Hydrochloride   ,4020100,40120000,,,CPRD_GOLD
+2620,Haloperidol 1mg/ml Oral solution Haloperidol 1mg/ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+54346,Risperidone 1mg tablets (Teva UK Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+50462,Stemetil 5mg tablets (DE Pharmaceuticals) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+38375,Aripiprazole 9.75mg/1.3ml solution for injection vials Aripiprazole 7.5mg/1ml Solution for injection Intramuscular,4020102,,,,CPRD_GOLD
+42882,Buccastem 3mg tablets (Alliance Pharmaceuticals Ltd) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+64567,Pimozide 1mg tablets Pimozide 1mg Tablet Oral,4020101,,,,CPRD_GOLD
+52940,Sondate XL 50mg tablets (Teva UK Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+57613,Seroquel XL 50mg tablets (Sigma Pharmaceuticals Plc) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+14344,Aripiprazole 5mg tablets Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+16489,Risperidone 50mg powder and solvent for suspension for injection vials Risperidone 50mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+29540,Olanzapine 20mg tablets Olanzapine 20mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+63133,Biquelle XL 150mg tablets (Aspire Pharma Ltd) Quetiapine fumarate 150mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+71401,Droperidol 1mg capsules Droperidol 1mg Capsule Oral,4065400,,,,CPRD_GOLD
+53634,Droperidol capsules Droperidol   ,4020100,15010401,,,CPRD_GOLD
+13483,Serenace 20mg tablets (Teva UK Ltd) Haloperidol 20mg Tablet Oral,4020101,,,,CPRD_GOLD
+58936,Tenprolide XL 50mg tablets (Actavis UK Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+38937,Seroquel XL 300mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+58425,Seroquel XL 50mg tablets (DE Pharmaceuticals) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+4401,Prochlorperazine maleate 10mg modified release capsule Prochlorperazine Maleate 10mg Modified Release Capsules Oral,4020100,40120000,,,CPRD_GOLD
+35953,Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd) Risperidone 4mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+47152,Olanzapine 15mg orodispersible tablets Olanzapine 15mg Orodispersible tablet Oral,0,,,,CPRD_GOLD
+10565,Haloperidol decanoate 50mg/1ml solution for injection ampoules Haloperidol decanoate 50mg/1ml Solution for injection Intramuscular,4020101,4020200,,,CPRD_GOLD
+77644,Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+54483,Sondate XL 300mg tablets (Teva UK Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+3738,Stemetil Eff 5mg sachets (Sanofi) Prochlorperazine mesilate 5mg Effervescent granules Oral,0,,,,CPRD_GOLD
+9590,Prochlorperazine 5mg effervescent granules sachets sugar free Prochlorperazine mesilate 5mg Effervescent granules Oral,0,,,,CPRD_GOLD
+41070,Denzapine 50mg tablets (Britannia Pharmaceuticals Ltd) Clozapine 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+59593,Fluanxol 500microgram tablets (Lexon (UK) Ltd) Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+8771,Largactil 10mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 10mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+9659,Risperdal 2mg tablets (Janssen-Cilag Ltd) Risperidone 2mg Tablet Oral,4020102,,,,CPRD_GOLD
+33883,Zyprexa 20mg Velotabs (Eli Lilly and Company Ltd) Olanzapine 20mg Oral lyophilisate Oral,4020102,4020300,,,CPRD_GOLD
+14889,Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+25759,DROPERIDOL    ,0,,,,CPRD_GOLD
+70122,Trevicta 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+76534,Prochlorperazine 3mg buccal tablets (Medreich Plc) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+79762,Levomepromazine 2.5mg/5ml oral suspension Levomepromazine maleate 500microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+63925,Mintreleq XL 50mg tablets (Aristo Pharma Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+16103,Olanzapine 20mg Orodispersible tablet Olanzapine 20mg Orodispersible Tablet Oral,4020100,,,,CPRD_GOLD
+65493,Risperidone 1mg tablets (Wockhardt UK Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+11828,Risperidone 2mg orodispersible tablets sugar free Risperidone 2mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+74782,Risperdal 1mg tablets (Lexon (UK) Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+35929,Chlorpromazine 50mg/2ml solution for injection ampoules Chlorpromazine hydrochloride 25mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+70584,Haloperidol 500micrograms/5ml oral solution Haloperidol 100microgram/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+1733,Flupentixol decanoate 20mg/ml Injection Flupentixol Decanoate 20mg/ml Injection ,4020200,,,,CPRD_GOLD
+57762,Psytixol 40mg/2ml solution for injection ampoules (Mylan) Flupentixol decanoate 20mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+77072,Risperidone 1mg tablets (Almus Pharmaceuticals Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+69365,Haloperidol 1mg/ml sugar free Oral solution (Pinewood Healthcare) Haloperidol 1mg/ml Oral Solution ,4020100,40120000,,,CPRD_GOLD
+43520,Haloperidol 1.5mg tablets (Teva UK Ltd) Haloperidol 1.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+29967,NEULACTIL FORTE    ,0,,,,CPRD_GOLD
+4769,Prochlorperazine 3mg buccal tablets Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+69328,Risperidone 500microgram tablets (Wockhardt UK Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+12224,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules Zuclopenthixol decanoate 500mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+38914,Seroquel XL 200mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 200mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+62584,Tranquilyn 20mg tablets (Genesis Pharmaceuticals Ltd) Methylphenidate hydrochloride 20mg Tablet Oral,4040000,,,,CPRD_GOLD
+60250,Levomepromazine 3mg/5ml oral solution Levomepromazine maleate 600microgram/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+67777,Pericyazine 2.5mg tablets (Zentiva) Pericyazine 2.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+69787,Tenprolide XL 300mg tablets (Actavis UK Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+80487,Aripiprazole 5mg tablets (Sandoz Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+22660,Haldol 5mg tablets (Janssen-Cilag Ltd) Haloperidol 5mg Tablet Oral,4020101,,,,CPRD_GOLD
+52846,Nozinan 25mg/1ml solution for injection ampoules (Lexon (UK) Ltd) Levomepromazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,4020101,,,,CPRD_GOLD
+4234,Haloperidol 5mg/ml Injection Haloperidol 5mg/ml Injection Subcutaneous Infusion,4020100,40120000,,,CPRD_GOLD
+14839,Flupentixol 200mg/1ml solution for injection ampoules Flupentixol decanoate 200mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+55011,Largactil 25mg tablets (Sanofi) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+14813,Seroquel 150mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 150mg Tablet Oral,4020102,,,,CPRD_GOLD
+73828,Sulpiride 150mg/5ml oral solution Sulpiride 30mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+49699,Abilify 5mg tablets (Sigma Pharmaceuticals Plc) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+56387,Risperidone 1mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Risperidone 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+46436,Xeplion 75mg/0.75ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 100mg/1ml Suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+63601,Promazine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd) Promazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+5298,Fluphenazine 5mg tablets Fluphenazine hydrochloride 5mg Tablet Oral,0,,,,CPRD_GOLD
+35530,Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,0,,,,CPRD_GOLD
+42242,Clozapine 50mg/ml oral suspension sugar free Clozapine 50mg/1ml Oral suspension Oral,4020102,,,,CPRD_GOLD
+37871,Chlorpromazine 25mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd) Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020100,40120000,,,CPRD_GOLD
+22245,TRIFLUOPERAZINE 10mg/ml    ,0,,,,CPRD_GOLD
+34693,Chlorpromazine 25mg tablets (Thornton & Ross Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+26544,Solian 100 tablets (Sanofi) Amisulpride 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+71734,Zypadhera 405mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Olanzapine embonate monohydrate 405mg Powder and solvent for suspension for injection Intramuscular,4020102,4020200,,,CPRD_GOLD
+16561,Aripiprazole 30mg tablets Aripiprazole 30mg Tablet Oral,4020102,,,,CPRD_GOLD
+3226,Sparine 50mg Tablet (Wyeth Pharmaceuticals) Promazine hydrochloride 50mg Tablet Oral,4020100,,,,CPRD_GOLD
+56193,Olanzapine 5mg oral lyophilisates sugar free Olanzapine 5mg Oral lyophilisate Oral,0,,,,CPRD_GOLD
+3356,Parstelin Tablet (GlaxoSmithKline Consumer Healthcare) Trifluoperazine Hydrochloride/Tranylcypromine Sulphate  Tablet Oral,4020100,4030200,,,CPRD_GOLD
+11821,Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd) Risperidone 500microgram Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+61747,Ebesque XL 300mg tablets (Ethypharm UK Ltd) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+7382,Risperidone 500microgram orodispersible tablets sugar free Risperidone 500microgram Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+16425,Risperidone 37.5mg powder and solvent for suspension for injection vials Risperidone 37.5mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+9686,Zuclopenthixol 10mg tablets Zuclopenthixol dihydrochloride 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+41970,Fluphenazine decanoate 25mg/1ml solution for injection ampoules (Hospira UK Ltd) Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+59008,Prochlorperazine 3mg buccal tablets (Advanz Pharma) Prochlorperazine maleate 3mg Buccal tablet Buccal,4065400,,,,CPRD_GOLD
+68297,Trevicta 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+61650,Aripiprazole 400mg powder and solvent for suspension for injection vials Aripiprazole 400mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+1735,Stelazine 10mg Spansules (Mercury Pharma Group Ltd) Trifluoperazine hydrochloride 10mg Modified-release capsule Oral,0,,,,CPRD_GOLD
+14610,Promazine 50mg/5ml oral solution sugar free Promazine Hydrochloride 50mg/5ml Syrup Sugar-Free Oral,4020100,,,,CPRD_GOLD
+65843,Levomepromazine 6mg/5ml oral suspension Levomepromazine maleate 1.2mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+59345,Sycrest 5mg sublingual tablets (Lundbeck Ltd) Asenapine maleate 5mg Sublingual tablet Sublingual,4020300,,,,CPRD_GOLD
+75649,Brancico XL 300mg tablets (Zentiva) Quetiapine fumarate 300mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+5927,Amisulpride 400mg tablets Amisulpride 400mg Tablet Oral,4020102,,,,CPRD_GOLD
+76959,Promazine 6.25mg/5ml oral suspension Promazine hydrochloride 1.25mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+50214,Olanzapine 5mg orodispersible tablets Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+23678,Haldol 10mg tablets (Janssen-Cilag Ltd) Haloperidol 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+58702,Largactil 100mg tablets (Sanofi) Chlorpromazine hydrochloride 100mg Tablet Oral,4020101,,,,CPRD_GOLD
+12050,HALOPERIDOL 100MG/ML 100 MG INJ    ,0,,,,CPRD_GOLD
+65865,Levomepromazine 6.25mg/5ml oral suspension Levomepromazine maleate 1.25mg/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+6109,Solian 400 tablets (Sanofi) Amisulpride 400mg Tablet Oral,4020102,,,,CPRD_GOLD
+8506,Chlorpromazine 100mg suppository Chlorpromazine Hydrochloride 100mg Suppository Rectal,4020100,40120000,,,CPRD_GOLD
+77885,Olanzapine 7.5mg orodispersible tablets sugar free Olanzapine 7.5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+21964,Zyprexa 7.5mg tablets (Eli Lilly and Company Ltd) Olanzapine 7.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+6864,Seroquel 200mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+78913,Aripiprazole 1mg/ml oral solution sugar free Aripiprazole 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+47098,Olanzapine 5mg orodispersible tablets sugar free Olanzapine 5mg Orodispersible tablet Oral,4020102,4020300,,,CPRD_GOLD
+63155,Olanzapine 7.5mg tablets (Actavis UK Ltd) Olanzapine 7.5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+5762,Clopixol acuphase 50mg/ml Oily injection (Lundbeck Ltd) Zuclopenthixol Acetate 50mg/ml Oily Injection Intramuscular Deep Injection Gluteal Muscle,4020100,,,,CPRD_GOLD
+8775,STELAZINE TAB    ,0,,,,CPRD_GOLD
+2474,Chlorpromazine 10mg tablets Chlorpromazine hydrochloride 10mg Tablet Oral,4020101,,,,CPRD_GOLD
+23173,Tranquilyn 10mg tablets (Genesis Pharmaceuticals Ltd) Methylphenidate hydrochloride 10mg Tablet Oral,4040000,,,,CPRD_GOLD
+70367,Olanzapine 10mg tablets (Alliance Healthcare (Distribution) Ltd) Olanzapine 10mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+68942,Prochlorperazine 5mg tablets (DE Pharmaceuticals) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+25653,Chloractil 50mg Tablet (DDSA Pharmaceuticals Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+3227,Sparine 50mg/5ml Liquid (Wyeth Pharmaceuticals) Promazine Hydrochloride 50mg/5ml Liquid Oral,4020100,,,,CPRD_GOLD
+58492,Chlorpromazine 100mg tablets (Waymade Healthcare Plc) Chlorpromazine hydrochloride 100mg Tablet Oral,4020101,,,,CPRD_GOLD
+14578,Nortriptyline 30mg / Fluphenazine 1.5mg tablets Nortriptyline hydrochloride/Fluphenazine hydrochloride 30mg + 1.5mg Tablet Oral,0,,,,CPRD_GOLD
+49170,Stemetil 5mg tablets (Lexon (UK) Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+12073,Clopixol Conc 500mg/1ml solution for injection ampoules (Lundbeck Ltd) Zuclopenthixol decanoate 500mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+237,PROCHLORPERAZINE 5 MG ELI    ,0,,,,CPRD_GOLD
+19645,TRIFLUOPERAZINE 5.00mg/ml    ,0,,,,CPRD_GOLD
+73656,Risperidone 2mg tablets (Almus Pharmaceuticals Ltd) Risperidone 2mg Tablet Oral,0,,,,CPRD_GOLD
+61746,Ebesque XL 400mg tablets (Ethypharm UK Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+69674,Olanzapine 2.5mg/5ml oral solution Olanzapine 500microgram/1ml Oral solution Oral,4020102,4020300,,,CPRD_GOLD
+32838,Haloperidol 1.5mg tablets (IVAX Pharmaceuticals UK Ltd) Haloperidol 1.5mg Tablet Oral,4020101,,,,CPRD_GOLD
+21339,Veractil 25mg Tablet (Rhone-Poulenc Rorer Ltd) Levomepromazine maleate 25mg Tablet Oral,4020100,,,,CPRD_GOLD
+22655,PERICYAZINE 2.5 MG ELI    ,0,,,,CPRD_GOLD
+67334,Seroquel XL 50mg tablets (Waymade Healthcare Plc) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+24890,Trifluoperazine with tranylcypromine 1mg + 10mg Tablet Trifluoperazine Hydrochloride/Tranylcypromine Sulphate 1mg + 10mg Tablet Oral,4020100,4030200,,,CPRD_GOLD
+34810,Sulpiride 200mg tablets (Wockhardt UK Ltd) Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+19976,Zyprexa 15mg tablets (Eli Lilly and Company Ltd) Olanzapine 15mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+3932,Prochlorperazine 25mg tablets Prochlorperazine maleate 25mg Tablet Oral,0,,,,CPRD_GOLD
+38010,Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 15mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+18658,OLANZAPINE    ,0,,,,CPRD_GOLD
+40782,Levomepromazine 6mg Tablet Levomepromazine Maleate 6mg Tablet Oral,4020100,,,,CPRD_GOLD
+73185,Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes Paliperidone palmitate 200mg/1ml Prolonged-release suspension for injection Intramuscular,4020200,,,,CPRD_GOLD
+18132,Abilify 5mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+66652,Decazate 25mg/ml Injection (Berk Pharmaceuticals Ltd) Fluphenazine Decanoate 25mg/ml Injection ,4020200,,,,CPRD_GOLD
+35445,Modecate 50mg/2ml solution for injection ampoules (Sanofi) Fluphenazine decanoate 25mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+247,CHLORPROMAZINE 50 MG INJ    ,0,,,,CPRD_GOLD
+65671,Aripiprazole 5mg tablets (Zentiva) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+72596,Aripiprazole 5mg tablets (Creo Pharma Ltd) Aripiprazole 5mg Tablet Oral,4020102,,,,CPRD_GOLD
+8493,Motipress tablets (Sanofi-Synthelabo Ltd) Nortriptyline hydrochloride/Fluphenazine hydrochloride 30mg + 1.5mg Tablet Oral,0,,,,CPRD_GOLD
+43420,Prochlorperazine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+45880,Haloperidol 5mg/5ml oral solution sugar free Haloperidol 1mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+46969,Amisulpride 200mg tablets (A A H Pharmaceuticals Ltd) Amisulpride 200mg Tablet Oral,4020102,,,,CPRD_GOLD
+13600,Zuclopenthixol 25mg tablets Zuclopenthixol dihydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+61592,Prochlorperazine 5mg tablets (Almus Pharmaceuticals Ltd) Prochlorperazine maleate 5mg Tablet Oral,4020101,4065400,,,CPRD_GOLD
+64957,Risperidone 1mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Risperidone 1mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+46889,Amisulpride 25mg/5ml oral solution Amisulpride 5mg/1ml Oral solution Oral,4020102,,,,CPRD_GOLD
+3024,PROCHLORPERAZINE MALEATE 3 MG TAB    ,0,,,,CPRD_GOLD
+10666,Dolmatil 200mg tablets (Sanofi) Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+18013,Seroquel 100mg tablets (AstraZeneca UK Ltd) Quetiapine fumarate 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+8988,PROMAZINE HCl 25 MG TAB    ,0,,,,CPRD_GOLD
+55661,Risperidone 1mg tablets (Kent Pharmaceuticals Ltd) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+2135,Sulpiride 200mg tablets Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+76439,Haloperidol 20mg tablets (Sandoz Ltd) Haloperidol 20mg Tablet Oral,4020101,,,,CPRD_GOLD
+59938,Levomepromazine 25mg/1ml solution for injection ampoules (Wockhardt UK Ltd) Levomepromazine hydrochloride 25mg/1ml Solution for injection Intramuscular/Intravenous/Subcutaneous,4020101,,,,CPRD_GOLD
+2787,Risperidone 4mg tablets Risperidone 4mg Tablet Oral,4020102,,,,CPRD_GOLD
+15645,HALDOL 20 MG TAB    ,0,,,,CPRD_GOLD
+10689,LARGACTIL FORTE SYR    ,0,,,,CPRD_GOLD
+3772,Largactil 50mg Tablet (Hawgreen Ltd) Chlorpromazine hydrochloride 50mg Tablet Oral,4020100,40120000,,,CPRD_GOLD
+47302,Zaponex 100mg tablets (Leyden Delta B.V.) Clozapine 100mg Tablet Oral,4020102,,,,CPRD_GOLD
+62924,Lurasidone 18.5mg tablets Lurasidone hydrochloride 18.5mg Tablet Oral,4020102,,,,CPRD_GOLD
+3952,Chlorpromazine 25mg/5ml oral solution Chlorpromazine hydrochloride 5mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+57217,Risperidone 1mg tablets (Mylan) Risperidone 1mg Tablet Oral,4020102,,,,CPRD_GOLD
+69635,Mintreleq XL 400mg tablets (Aristo Pharma Ltd) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+80669,Brancico XL 400mg tablets (Zentiva) Quetiapine fumarate 400mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+16006,Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd) Risperidone 2mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+14130,Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Flupentixol decanoate 200mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+36771,Haloperidol 250micrograms/5ml oral suspension Haloperidol 50microgram/1ml Oral suspension Oral,4020101,,,,CPRD_GOLD
+8031,Neulactil 10mg Tablet (JHC Healthcare Ltd) Pericyazine 10mg Tablet Oral,4020100,,,,CPRD_GOLD
+24358,Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 10mg Tablet Oral,4020102,,,,CPRD_GOLD
+631,Risperdal 500microgram tablets (Janssen-Cilag Ltd) Risperidone 500microgram Tablet Oral,4020102,,,,CPRD_GOLD
+63049,Biquelle XL 50mg tablets (Aspire Pharma Ltd) Quetiapine fumarate 50mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+3774,Clopixol 200mg/ml Oily injection (Lundbeck Ltd) Zuclopenthixol Decanoate 200mg/ml Oily Injection Intramuscular Deep Injection Gluteal Muscle,4020100,4020200,,,CPRD_GOLD
+8043,MODECATE 12.5 MG INJ    ,0,,,,CPRD_GOLD
+4876,Amisulpride 50mg tablets Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+37606,Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 10mg Orodispersible tablet Oral,4020102,,,,CPRD_GOLD
+5510,Prochlorperazine mesilate 12.5mg/ml injection Prochlorperazine Mesilate 12.5mg/ml Injection ,4020100,40120000,,,CPRD_GOLD
+8689,Vertigon spansule 10 10mg Spansule (GlaxoSmithKline Consumer Healthcare) Prochlorperazine Maleate 10mg Spansule Oral,4020100,40120000,,,CPRD_GOLD
+41675,Sulpiride 200mg tablets (IVAX Pharmaceuticals UK Ltd) Sulpiride 200mg Tablet Oral,4020101,,,,CPRD_GOLD
+20174,Loxapac 10mg capsules (Wyeth Pharmaceuticals) Loxapine succinate 10mg Capsule Oral,0,,,,CPRD_GOLD
+76308,Olanzapine 15mg/5ml oral solution Olanzapine 3mg/1ml Oral solution Oral,4020102,4020300,,,CPRD_GOLD
+18175,Flupentixol 100mg/1ml solution for injection ampoules Flupentixol decanoate 100mg/1ml Solution for injection Intramuscular,4020200,,,,CPRD_GOLD
+31184,Chlorpromazine 25mg tablets (IVAX Pharmaceuticals UK Ltd) Chlorpromazine hydrochloride 25mg Tablet Oral,4020101,,,,CPRD_GOLD
+3281,Olanzapine 5mg tablets Olanzapine 5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+7514,Largactil 50mg/2ml solution for injection ampoules (Sanofi) Chlorpromazine hydrochloride 25mg/1ml Solution for injection Intramuscular,4020101,,,,CPRD_GOLD
+37717,Paliperidone 3mg modified-release tablets Paliperidone 3mg Modified-release tablet Oral,4020102,,,,CPRD_GOLD
+10435,Haloperidol 10mg/ml Oral solution Haloperidol 10mg/ml Oral Solution Oral,4020100,40120000,,,CPRD_GOLD
+61075,Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd) Aripiprazole 400mg Powder and solvent for suspension for injection Intramuscular,4020102,,,,CPRD_GOLD
+16768,Solian 50 tablets (Sanofi) Amisulpride 50mg Tablet Oral,4020102,,,,CPRD_GOLD
+71670,Olanzapine 5mg tablets (Alliance Healthcare (Distribution) Ltd) Olanzapine 5mg Tablet Oral,4020102,4020300,,,CPRD_GOLD
+3953,Fluanxol 500microgram tablets (Lundbeck Ltd) Flupentixol dihydrochloride 500microgram Tablet Oral,4030400,,,,CPRD_GOLD
+38089,Promazine 50mg/5ml syrup (Rosemont Pharmaceuticals Ltd) Promazine hydrochloride 10mg/1ml Oral solution Oral,4020101,,,,CPRD_GOLD
+80892,Aripiprazole 10mg tablets (A A H Pharmaceuticals Ltd)Aripiprazole10mgTabletOral ,4020102,,,,CPRD_GOLD
+80963,Risperidone 1mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd)Risperidone1mgOrodispersible tabletOral ,4020102,,,,CPRD_GOLD
+80978,Aripiprazole 10mg tablets (HBS Healthcare Ltd)Aripiprazole10mgTabletOral ,4020102,,,,CPRD_GOLD
+81144,Risperidone 2mg tablets (A A H Pharmaceuticals Ltd)Risperidone2mgTabletOral ,4020102,,,,CPRD_GOLD
+81209,Risperidone 500microgram tablets (Aurobindo Pharma Ltd)Risperidone500microgramTabletOral ,4020102,,,,CPRD_GOLD
+81221,Cariprazine 6mg capsules ,4020100,,,,CPRD_GOLD
+81233,Clozapine 12.5mg orodispersible tablets sugar free ,4020102,,,,CPRD_GOLD
+81316,Prochlorperazine 5mg tablets (Phoenix Healthcare Distribution Ltd)Prochlorperazine maleate5mgTabletOral ,4020101,4065400,,,CPRD_GOLD
+81345,Olanzapine 5mg tablets (Generics (UK) Ltd)Olanzapine5mgTabletOral ,4020102,4020300,,,CPRD_GOLD
+81625,Haloperidol 10mg tablets (IVAX Pharmaceuticals UK Ltd)Haloperidol10mgTabletOral ,4020101,,,,CPRD_GOLD
+81626,Haloperidol 10mg tablets (Teva UK Ltd)Haloperidol10mgTabletOral ,4020101,,,,CPRD_GOLD
+81634,Haloperidol 5mg tablets (A A H Pharmaceuticals Ltd)Haloperidol5mgTabletOral ,4020101,,,,CPRD_GOLD
+81649,Risperidone 250microgram tabletsRisperidone250microgramTabletOral ,4020102,,,,CPRD_GOLD
+81762,Chlorpromazine 12.5mg/5ml oral suspensionChlorpromazine hydrochloride2.5mg/1mlOral suspensionOral ,4020101,,,,CPRD_GOLD
+81784,Haloperidol 500microgram tablets (Crescent Pharma Ltd)Haloperidol500microgramTabletOral ,4020101,,,,CPRD_GOLD
+81870,Clozapine 100mg orodispersible tablets sugar freeClozapine100mgOrodispersible tabletOral ,4020102,,,,CPRD_GOLD
+81871,Clozapine 25mg orodispersible tablets sugar freeClozapine25mgOrodispersible tabletOral ,4020102,,,,CPRD_GOLD
+81975,Risperidone 500microgram tablets (Relonchem Ltd)Risperidone500microgramTabletOral ,4020102,,,,CPRD_GOLD
+82074,Brancico XL 150mg tablets (Zentiva)Quetiapine fumarate150mgModified-release tabletOral ,4020102,,,,CPRD_GOLD
+82311,Risperidone 500microgram orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd)Risperidone500microgramOrodispersible tabletOral ,4020102,,,,CPRD_GOLD
+82409,Risperidone 2mg tablets (Sandoz Ltd)Risperidone2mgTabletOral ,4020102,,,,CPRD_GOLD
+82412,Olanzapine 5mg tablets (Sandoz Ltd)Olanzapine5mgTabletOral ,4020102,4020300,,,CPRD_GOLD
+82417,Olanzapine 2.5mg tablets (Sandoz Ltd)Olanzapine2.5mgTabletOral ,4020102,4020300,,,CPRD_GOLD
+82421,Amisulpride 50mg tablets (Sandoz Ltd)Amisulpride50mgTabletOral ,4020102,,,,CPRD_GOLD
+82434,Risperidone 3mg tablets (Sandoz Ltd)Risperidone3mgTabletOral ,4020102,,,,CPRD_GOLD
+82435,Sulpiride 200mg tablets (Medreich Plc)Sulpiride200mgTabletOral ,4020101,,,,CPRD_GOLD
+82436,Olanzapine 5mg orodispersible tablets sugar free (Ranbaxy (UK) Ltd)Olanzapine5mgOrodispersible tabletOral ,4020102,4020300,,,CPRD_GOLD
+82439,Chlorpromazine 25mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)Chlorpromazine hydrochloride5mg/1mlOral solutionOral ,4020101,,,,CPRD_GOLD
+82446,Amisulpride 100mg tablets (Sandoz Ltd)Amisulpride100mgTabletOral ,4020102,,,,CPRD_GOLD
+82566,Seroquel 25mg tablets (Waymade Healthcare Plc)Quetiapine fumarate25mgTabletOral ,4020102,,,,CPRD_GOLD
+82582,Seroquel 100mg tablets (Waymade Healthcare Plc)Quetiapine fumarate100mgTabletOral ,4020102,,,,CPRD_GOLD
+82640,Reagila 3mg capsules (Recordati Pharmaceuticals Ltd)Cariprazine hydrochloride3mgCapsuleOral ,4020100,,,,CPRD_GOLD
+82922,Risperidone 1mg tablets (Phoenix Healthcare Distribution Ltd)Risperidone1mgTabletOral ,4020102,,,,CPRD_GOLD

@@ -1,0 +1,1345 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+13186978,Perampanel 500micrograms/ml oral suspension sugar free,0,0,0,,IMRD
+14214978,Levetiracetam 500mg/5ml concentrate for solution for infusion vials,0,0,0,,IMRD
+14565978,Topiramate 50mg/5ml oral suspension sugar free,0,0,0,,IMRD
+14929978,Zebinix 50mg/1ml oral suspension,0,0,0,,IMRD
+14930978,Eslicarbazepine 50mg/1ml oral suspension sugar free,0,0,0,,IMRD
+16716978,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+17068978,Ethosuximide 250mg/5ml oral solution sugar free,4080100,0,0,N03AD01,IMRD
+21723978,Levetiracetam 500mg/5ml solution for infusion vials,4080100,0,0,N03AX14,IMRD
+21822978,Lorazepam 1mg/ml oral solution sugar free,0,0,0,,IMRD
+21844978,Pregabalin 300mg/5ml oral suspension,0,0,0,,IMRD
+22642978,Eslicarbazepine 200mg tablets,0,0,0,,IMRD
+22643978,Eslicarbazepine 200mg tablets,0,0,0,,IMRD
+23096978,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free,0,0,0,,IMRD
+24015978,Perampanel 4mg/5ml oral suspension,0,0,0,,IMRD
+24099978,Zacco 5mg/5ml oral suspension,4010201,0,0,,IMRD
+24181978,Ethosuximide 250mg/5ml oral solution sugar free,4080100,0,0,N03AD01,IMRD
+24872978,Ethosuximide 250mg/5ml oral solution sugar free,4080100,0,0,N03AD01,IMRD
+28537978,Pregabalin 225mg capsules,4080100,0,0,N03AX16,IMRD
+28538978,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+28539978,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+28540978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+28541978,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+28542978,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+28543978,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+28544978,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+29629978,Ethosuximide 250mg/5ml oral solution sugar free,4080100,0,0,N03AD01,IMRD
+29672978,Sultiame 100mg tablets,0,0,0,,IMRD
+30121978,Topiramate 25mg/5ml oral solution,0,0,0,,IMRD
+30141978,Pregabalin 50mg/5ml oral suspension,0,0,0,,IMRD
+30258978,Diazepam 5mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+30273978,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+30644978,Diazepam 2mg/5ml oral suspension,4010201,0,0,,IMRD
+30917978,Levetiracetam 500mg/5ml concentrate for solution for infusion vials,4080100,0,0,,IMRD
+31071978,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31072978,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31073978,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31074978,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31075978,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31076978,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31077978,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31078978,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+31085978,Diazepam 5mg/5ml oral suspension,0,0,0,,IMRD
+31208978,Diazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+31582978,Clonazepam 1mg/1ml solution for injection ampoules and diluent,4080200,4080100,0,N03AE01,IMRD
+33975978,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+33976978,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+33977978,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+37594978,Levetiracetam 500mg/5ml solution for infusion vials,4080100,0,0,N03AX14,IMRD
+37873978,Brivaracetam 75mg tablets,4080100,0,0,N03AX23,IMRD
+37874978,Brivaracetam 75mg tablets,4080100,0,0,N03AX23,IMRD
+37877978,Brivaracetam 50mg/5ml oral solution sugar free,4080100,0,0,N03AX23,IMRD
+37878978,Brivaracetam 50mg/5ml solution for injection vials,4080100,0,0,N03AX23,IMRD
+37879978,Brivaracetam 50mg tablets,4080100,0,0,N03AX23,IMRD
+37880978,Brivaracetam 50mg tablets,4080100,0,0,N03AX23,IMRD
+37881978,Brivaracetam 25mg tablets,4080100,0,0,N03AX23,IMRD
+37882978,Brivaracetam 25mg tablets,4080100,0,0,N03AX23,IMRD
+37884978,Brivaracetam 10mg tablets,4080100,0,0,N03AX23,IMRD
+37885978,Brivaracetam 100mg tablets,4080100,0,0,N03AX23,IMRD
+37886978,Brivaracetam 100mg tablets,4080100,0,0,N03AX23,IMRD
+42522978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+42566978,Primidone 50mg tablets,4080100,0,0,N03AA03,IMRD
+42674978,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+42677978,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+46532978,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+46537978,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+46538978,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+46957978,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+47120978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+47123978,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+47245978,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+47250978,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+47253978,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+47289978,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+47483978,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+47484978,Clobazam 10mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+51402978,Levetiracetam 500mg/5ml solution for infusion vials,4080100,0,0,N03AX14,IMRD
+51891978,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+51877978,Pregabalin 225mg capsules,4080100,0,0,N03AX16,IMRD
+51880978,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+51882978,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+51883978,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+51885978,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+51886978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+51887978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+51888978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+51889978,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+51892978,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+51894978,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+51895978,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+51897978,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+51898978,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+51899978,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+51907978,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+52634979,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+52635979,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+52640979,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+52641979,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+52978979,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52979979,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52980979,Clobazam 10mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52981979,Clobazam 10mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+52988979,Levetiracetam 500mg granules sachets sugar free,4080100,0,0,N03AX14,IMRD
+52989979,Levetiracetam 500mg granules sachets sugar free,4080100,0,0,N03AX14,IMRD
+52990979,Levetiracetam 250mg granules sachets sugar free,4080100,0,0,N03AX14,IMRD
+52991979,Levetiracetam 250mg granules sachets sugar free,4080100,0,0,N03AX14,IMRD
+52992979,Levetiracetam 1g granules sachets sugar free,4080100,0,0,N03AX14,IMRD
+52993979,Levetiracetam 1g granules sachets sugar free,4080100,0,0,N03AX14,IMRD
+53063979,Gabapentin 250mg/5ml oral solution,4080100,0,0,N03AX12,IMRD
+53266979,Gabapentin 250mg/5ml oral solution,4080100,0,0,N03AX12,IMRD
+53267979,Gabapentin 250mg/5ml oral solution,4080100,0,0,N03AX12,IMRD
+54822979,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+54823979,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+54824979,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+54825979,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+54826979,Phenytoin sodium 25mg capsules,4080100,0,0,N03AB02,IMRD
+54827979,Phenytoin sodium 25mg capsules,4080100,0,0,N03AB02,IMRD
+54828979,Phenytoin sodium 300mg capsules,4080100,0,0,N03AB02,IMRD
+54829979,Phenytoin sodium 300mg capsules,4080100,0,0,N03AB02,IMRD
+54922979,Perampanel 8mg tablets,4080100,0,0,N03AX22,IMRD
+54923979,Perampanel 8mg tablets,4080100,0,0,N03AX22,IMRD
+54924979,Perampanel 6mg tablets,4080100,0,0,N03AX22,IMRD
+54925979,Perampanel 6mg tablets,4080100,0,0,N03AX22,IMRD
+54926979,Perampanel 4mg tablets,4080100,0,0,N03AX22,IMRD
+54927979,Perampanel 4mg tablets,4080100,0,0,N03AX22,IMRD
+54928979,Perampanel 2mg tablets,4080100,0,0,N03AX22,IMRD
+54929979,Perampanel 2mg tablets,4080100,0,0,N03AX22,IMRD
+54930979,Perampanel 2mg tablets,4080100,0,0,N03AX22,IMRD
+54931979,Perampanel 12mg tablets,4080100,0,0,N03AX22,IMRD
+54932979,Perampanel 10mg tablets,4080100,0,0,N03AX22,IMRD
+54933979,Perampanel 10mg tablets,4080100,0,0,N03AX22,IMRD
+55127978,Nitrazepam 2.5mg/5ml oral suspension sugar free,4010100,0,0,N05CD02,IMRD
+55600979,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+55601979,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+55602979,Phenytoin sodium 25mg capsules,4080100,0,0,N03AB02,IMRD
+55603979,Phenytoin sodium 300mg capsules,4080100,0,0,N03AB02,IMRD
+55639979,Midazolam 7.5mg/0.75ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55640979,Midazolam 7.5mg/0.75ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55641979,Midazolam 5mg/0.5ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55642979,Midazolam 5mg/0.5ml oromucosal solution pre-filled syringes,0,0,0,,IMRD
+55643979,Midazolam 2.5mg/0.25ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+55644979,Midazolam 2.5mg/0.25ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+55708978,Pregabalin 225mg capsules,4080100,0,0,N03AX16,IMRD
+55709978,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+55710978,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+55711978,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+55712978,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+55713978,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+55714978,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+55715978,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+55743978,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+55885979,Midazolam 10mg/ml oromucosal solution,0,0,0,,IMRD
+55886979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free,0,0,0,,IMRD
+56154979,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+56155979,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+56156979,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+56157979,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+57760979,Levetiracetam 750mg tablets,4080100,0,0,N03AX14,IMRD
+57800979,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+57801979,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+57803979,Topiramate 25mg capsules,4080100,0,0,N03AX11,IMRD
+57805979,Topiramate 25mg tablets,4080100,0,0,N03AX11,IMRD
+58118979,Pregabalin 20mg/ml oral solution sugar free,4080100,0,0,N03AX16,IMRD
+58119979,Pregabalin 20mg/ml oral solution sugar free,4080100,0,0,N03AX16,IMRD
+58281979,Clomethiazole 250mg/5ml oral solution,4010100,0,0,N05CM02,IMRD
+58718979,Rufinamide 40mg/ml oral suspension sugar free,4080100,0,0,N03AF03,IMRD
+58719979,Rufinamide 40mg/ml oral suspension sugar free,4080100,0,0,N03AF03,IMRD
+58780979,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+58783979,Lacosamide 10mg/ml oral solution sugar free,4080100,0,0,N03AX18,IMRD
+59477979,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+59576979,Clonazepam 500micrograms/5ml oral solution sugar free,0,0,0,,IMRD
+59577979,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+59819979,Clonazepam 2mg/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+60091979,Levetiracetam 750mg tablets,4080100,0,0,N03AX14,IMRD
+60174979,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+60175979,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+60176979,Levetiracetam 1g tablets,4080100,0,0,N03AX14,IMRD
+60178979,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+60179979,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+60180979,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+60218979,Topiramate 50mg capsules,4080100,0,0,N03AX11,IMRD
+60278979,Sodium valproate 500mg/5ml oral suspension,0,0,0,,IMRD
+60513979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+60617979,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+60728979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes,0,0,0,,IMRD
+60938979,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+61056979,Lacosamide 10mg/ml oral solution sugar free,4080100,0,0,N03AX18,IMRD
+61090979,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+61091979,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+61092979,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+61178979,Midazolam 10mg/ml oromucosal solution,0,0,0,,IMRD
+61179979,Midazolam 10mg/ml oromucosal solution,0,0,0,,IMRD
+61408979,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+61561979,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+62063979,Midazolam 7.5mg tablets,0,0,0,,IMRD
+62294979,Zonisamide 50mg/5ml oral suspension,0,0,0,,IMRD
+62296979,Zonisamide 50mg/5ml oral solution,0,0,0,,IMRD
+62337979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+62393979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+62800979,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+62803979,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+62804979,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+62805979,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+63012979,Chlordiazepoxide 2.5mg/5ml oral suspension,0,0,0,,IMRD
+63014979,Chlordiazepoxide 2.5mg/5ml oral solution,0,0,0,,IMRD
+63090979,Valproic acid 500mg/5ml oral suspension,0,0,0,,IMRD
+63092979,Valproic acid 500mg/5ml oral solution,0,0,0,,IMRD
+63098979,Midazolam 12.5mg/5ml oral suspension,0,0,0,,IMRD
+63113979,Topiramate 15mg/5ml oral suspension,0,0,0,,IMRD
+63115979,Topiramate 15mg/5ml oral solution,0,0,0,,IMRD
+63275979,Pregabalin 25mg/5ml oral suspension,0,0,0,,IMRD
+63277979,Pregabalin 25mg/5ml oral solution,0,0,0,,IMRD
+63498979,Phenytoin 300mg/5ml oral suspension,0,0,0,,IMRD
+63499979,Phenytoin 300mg/5ml oral suspension,0,0,0,,IMRD
+63500979,Phenytoin 300mg/5ml oral solution,0,0,0,,IMRD
+63501979,Phenytoin 300mg/5ml oral solution,0,0,0,,IMRD
+63569979,Valproic acid 250mg/5ml oral suspension,0,0,0,,IMRD
+63575979,Valproic acid 250mg/5ml oral solution,0,0,0,,IMRD
+63675979,Primidone 100mg/5ml oral suspension,0,0,0,,IMRD
+63818979,Pregabalin 200mg/5ml oral solution,0,0,0,,IMRD
+64017979,Pregabalin 150mg/5ml oral suspension,0,0,0,,IMRD
+64019979,Pregabalin 150mg/5ml oral solution,0,0,0,,IMRD
+64663979,Pregabalin 75mg/5ml oral suspension,0,0,0,,IMRD
+64665979,Pregabalin 75mg/5ml oral solution,0,0,0,,IMRD
+64705979,Gabapentin 400mg/5ml oral solution,0,0,0,,IMRD
+64759979,Phenytoin 90mg/5ml oral solution,0,0,0,,IMRD
+64770979,Diazepam 10mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+64949979,Gabapentin 600mg/5ml oral suspension,0,0,0,,IMRD
+64951979,Gabapentin 600mg/5ml oral solution,0,0,0,,IMRD
+65295979,Topiramate 75mg/5ml oral solution,0,0,0,,IMRD
+65303979,Topiramate 5mg/5ml oral solution,0,0,0,,IMRD
+65305979,Topiramate 30mg/5ml oral suspension,0,0,0,,IMRD
+65307979,Topiramate 30mg/5ml oral solution,0,0,0,,IMRD
+65309979,Topiramate 20mg/5ml oral suspension,0,0,0,,IMRD
+65311979,Topiramate 20mg/5ml oral solution,0,0,0,,IMRD
+65325979,Topiramate 10mg/5ml oral solution,0,0,0,,IMRD
+65327979,Topiramate 100mg/5ml oral solution,0,0,0,,IMRD
+65408979,Topiramate 125mg/5ml oral suspension,0,0,0,,IMRD
+65410979,Topiramate 12.5mg/5ml oral suspension,0,0,0,,IMRD
+65412979,Topiramate 10mg/5ml oral suspension,0,0,0,,IMRD
+65414979,Topiramate 100mg/5ml oral suspension,0,0,0,,IMRD
+65487979,Sodium valproate 60mg/5ml oral solution,0,0,0,,IMRD
+65489979,Sodium valproate 600mg/5ml oral solution,0,0,0,,IMRD
+65497979,Sodium valproate 10mg/5ml oral solution,0,0,0,,IMRD
+66253979,Phenytoin sodium 84mg/5ml oral solution,0,0,0,,IMRD
+66255979,Phenytoin sodium 50mg/5ml oral suspension,0,0,0,,IMRD
+66257979,Phenytoin sodium 50mg/5ml oral solution,0,0,0,,IMRD
+66304979,Vigabatrin 700mg/5ml oral solution,0,0,0,,IMRD
+66306979,Vigabatrin 500mg/5ml oral solution,0,0,0,,IMRD
+66312979,Vigabatrin 100mg/5ml oral solution,0,0,0,,IMRD
+66421979,Midazolam 6.25mg/5ml oral solution,0,0,0,,IMRD
+66423979,Midazolam 5mg/5ml oral suspension,0,0,0,,IMRD
+66425979,Midazolam 5mg/5ml oral solution,0,0,0,,IMRD
+66439979,Midazolam 2.5mg/5ml oral suspension,0,0,0,,IMRD
+66441979,Midazolam 2.5mg/5ml oral solution,0,0,0,,IMRD
+66445979,Midazolam 11mg/5ml oral solution,0,0,0,,IMRD
+66449979,Midazolam 10mg/5ml oral solution,0,0,0,,IMRD
+67404979,Levetiracetam 400mg/5ml oral solution,0,0,0,,IMRD
+67406979,Levetiracetam 250mg/5ml oral suspension,0,0,0,,IMRD
+67408979,Levetiracetam 250mg/5ml oral solution,0,0,0,,IMRD
+67412979,Lamotrigine 5mg/5ml oral solution,0,0,0,,IMRD
+67426979,Lamotrigine 15mg/5ml oral suspension,0,0,0,,IMRD
+68026979,Phenobarbital 60mg capsules,0,0,0,,IMRD
+68034979,Phenobarbital 10mg capsules,0,0,0,,IMRD
+68165979,Carbamazepine 10mg/5ml oral suspension,0,0,0,,IMRD
+68168979,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+68169979,Carbamazepine 100mg/5ml oral suspension,0,0,0,,IMRD
+68311979,Phenobarbital 100mg/5ml oral suspension,0,0,0,,IMRD
+68316979,Phenobarbital 100mg capsules,0,0,0,,IMRD
+68665979,Phenobarbital 5mg/5ml oral solution,0,0,0,,IMRD
+68671979,Phenobarbital 25mg/5ml oral suspension,0,0,0,,IMRD
+68673979,Phenobarbital 25mg/5ml oral solution,0,0,0,,IMRD
+68675979,Phenobarbital 15mg/5ml oral suspension,0,0,0,,IMRD
+68676979,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+68677979,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+68712979,Phenobarbital sodium 50mg/5ml oral suspension,0,0,0,,IMRD
+68713979,Phenobarbital sodium 50mg/5ml oral solution,0,0,0,,IMRD
+68714979,Phenobarbital sodium 50mg/5ml oral solution,0,0,0,,IMRD
+68744979,Phenobarbital sodium 15mg/5ml oral suspension,0,0,0,,IMRD
+68745979,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+68746979,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+68810979,Phenobarbital 60mg/5ml oral solution,0,0,0,,IMRD
+68829979,Phenobarbital 45mg/5ml oral solution,0,0,0,,IMRD
+68850979,Phenobarbital 34mg/5ml oral suspension,0,0,0,,IMRD
+68866979,Phenobarbital 250mg/5ml oral suspension,0,0,0,,IMRD
+68882979,Phenobarbital 20mg/5ml oral suspension,0,0,0,,IMRD
+68894979,Phenobarbital 18mg/5ml oral solution,0,0,0,,IMRD
+68895979,Phenobarbital 18mg/5ml oral solution,4080102,0,0,,IMRD
+68899979,Phenobarbital 150mg/5ml oral solution,0,0,0,,IMRD
+68909979,Phenobarbital 10mg/5ml oral suspension,0,0,0,,IMRD
+68911979,Phenobarbital 10mg/5ml oral solution,4080102,0,0,,IMRD
+68938979,Nitrazepam 10mg/5ml oral suspension,0,0,0,,IMRD
+68963979,Nitrazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+69143979,Gabapentin 500mg/5ml oral suspension,0,0,0,,IMRD
+69145979,Gabapentin 500mg/5ml oral solution,0,0,0,,IMRD
+69149979,Gabapentin 200mg/5ml oral solution,0,0,0,,IMRD
+69153979,Gabapentin 150mg/5ml oral solution,0,0,0,,IMRD
+69558979,Clobazam 7.5mg/5ml oral suspension,0,0,0,,IMRD
+69574979,Clobazam 3.75mg/5ml oral suspension,0,0,0,,IMRD
+69586979,Clobazam 100mg/5ml oral suspension,0,0,0,,IMRD
+69590979,Clobazam 1.5mg/5ml oral suspension,0,0,0,,IMRD
+69758979,Clonazepam 50micrograms/5ml oral solution,0,0,0,,IMRD
+69776979,Clonazepam 312.5micrograms/5ml oral suspension,0,0,0,,IMRD
+69817979,Clonazepam 125micrograms/5ml oral suspension,0,0,0,,IMRD
+69819979,Clonazepam 125micrograms/5ml oral solution,0,0,0,,IMRD
+70909979,Valproic acid 150mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+71620979,Midazolam 10mg/ml oral solution,0,0,0,,IMRD
+71621979,Midazolam 10mg/ml oral solution,0,0,0,,IMRD
+72641978,Levetiracetam 500mg/5ml solution for infusion vials,4080100,0,0,N03AX14,IMRD
+73062978,Zonisamide 100mg/5ml oral suspension,0,0,0,,IMRD
+76916978,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+76917978,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+76918978,Carbamazepine 100mg tablets,0,0,0,,IMRD
+78221979,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml pre-filled syringes,9050103,0,0,B05XA05,IMRD
+78370978,Lorazepam 2mg/1ml solution for injection ampoules,0,0,0,,IMRD
+78555978,Primidone 50mg tablets,4080100,0,0,N03AA03,IMRD
+78962979,Primidone 62.5mg/5ml oral suspension,0,0,0,,IMRD
+78963979,Primidone 50mg/5ml oral suspension,0,0,0,,IMRD
+78964979,Primidone 25mg/5ml oral suspension,0,0,0,,IMRD
+78967979,Phenytoin 90mg/5ml oral suspension,4080100,0,0,N03AB02,IMRD
+79019979,Phenobarbital 50mg/5ml oral solution,0,0,0,,IMRD
+79020979,Phenobarbital 50mg/5ml oral solution,0,0,0,,IMRD
+79021979,Phenobarbital 50mg/5ml oral suspension,0,0,0,,IMRD
+79028979,Primidone 50mg capsules,0,0,0,,IMRD
+79128979,Diazepam 2.5mg/5ml oral solution,0,0,0,,IMRD
+79130979,Diazepam 1mg/5ml oral solution,0,0,0,,IMRD
+79132979,Diazepam 10mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+79261978,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+79344978,Clonazepam 2.5mg/ml drops,0,0,0,,IMRD
+79563979,Lormetazepam 1mg/5ml oral suspension,0,0,0,,IMRD
+79565979,Lorazepam 5mg/5ml oral suspension,0,0,0,,IMRD
+79567979,Lorazepam 5mg/5ml oral solution,0,0,0,,IMRD
+79568979,Lorazepam 500micrograms/5ml oral suspension,4010201,0,0,,IMRD
+79571979,Lorazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+79658978,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+79714978,Midazolam 5mg/5ml solution for injection ampoules,0,0,0,,IMRD
+79716979,Levetiracetam 300mg/5ml oral suspension,0,0,0,,IMRD
+79740979,Lamotrigine 50mg/5ml oral suspension,0,0,0,,IMRD
+79789978,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+79790978,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+80015979,Gabapentin 50mg/5ml oral suspension,0,0,0,,IMRD
+80017979,Gabapentin 50mg/5ml oral solution,0,0,0,,IMRD
+80021979,Gabapentin 450mg/5ml oral solution,0,0,0,,IMRD
+80023979,Gabapentin 300mg/5ml oral suspension,0,0,0,,IMRD
+80027979,Gabapentin 300mg/5ml oral solution,0,0,0,,IMRD
+80032979,Gabapentin 100mg/5ml oral solution,0,0,0,,IMRD
+80513979,Clonazepam 2mg/5ml oral suspension,0,0,0,,IMRD
+80516979,Clonazepam 250micrograms/5ml oral suspension,0,0,0,,IMRD
+80557979,Clobazam 5mg/5ml oral suspension sugar free,4080100,4010200,0,N05BA09,IMRD
+80572979,Clobazam 4mg/5ml oral suspension,0,0,0,,IMRD
+80574979,Clobazam 4mg/5ml oral solution,0,0,0,,IMRD
+80580979,Clobazam 2mg/5ml oral suspension,0,0,0,,IMRD
+80586979,Clobazam 20mg/5ml oral suspension,0,0,0,,IMRD
+80590979,Clobazam 2.5mg/5ml oral suspension,0,0,0,,IMRD
+80592979,Clobazam 2.5mg/5ml oral solution,0,0,0,,IMRD
+80594979,Clobazam 1mg/5ml oral suspension,0,0,0,,IMRD
+80914979,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+80919979,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+80920979,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+80962998,Levetiracetam 750mg tablets,4080100,0,0,N03AX14,IMRD
+80963998,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+80964998,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+81059998,Zonisamide 50mg/5ml oral suspension,0,0,0,,IMRD
+81079998,Phenytoin 90mg/5ml oral suspension,4080100,0,0,N03AB02,IMRD
+81083998,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+81114998,Lorazepam 500micrograms/5ml oral solution,0,0,0,,IMRD
+81126998,Clobazam 5mg/5ml oral solution,0,0,0,,IMRD
+81127998,Clobazam 10mg/5ml oral solution,0,0,0,,IMRD
+81185998,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81186998,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81187998,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81188998,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81189998,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81190998,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81237998,Topiramate 50mg/5ml oral suspension,0,0,0,,IMRD
+81479998,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+81480998,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+81560998,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81561998,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free,4080200,15010401,0,N05CD08,IMRD
+81630998,Midazolam 2.5mg/ml oral solution,0,0,0,,IMRD
+81677998,Lamotrigine 50mg suppository,0,0,0,,IMRD
+81770998,Topiramate 25mg/5ml oral suspension,0,0,0,,IMRD
+81830998,Primidone 50mg tablets,4080100,0,0,N03AA03,IMRD
+81842998,Primidone 50mg tablets,4080100,0,0,N03AA03,IMRD
+81892998,Midazolam maleate buccal solution,0,0,0,,IMRD
+81908998,Midazolam buccal solution,0,0,0,,IMRD
+81954998,Sodium valproate 750mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+81955998,Sodium valproate 250mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+81956998,Sodium valproate 100mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+81957998,Sodium valproate 50mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+81991998,Gabapentin 250mg/5ml oral suspension,0,0,0,,IMRD
+82051998,Phenobarbital 75mg/5ml oral suspension,0,0,0,,IMRD
+82052998,Phenobarbital 75mg/5ml oral solution,0,0,0,,IMRD
+82181978,Primidone 50mg tablets,4080100,0,0,N03AA03,IMRD
+82205978,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+82534978,Primidone 50mg tablets,4080100,0,0,N03AA03,IMRD
+82566978,Sodium valproate 500mg modified-release tablets,4080100,0,0,,IMRD
+82569978,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+82574998,Eslicarbazepine 800mg tablets,4080100,0,0,N03AF04,IMRD
+82576998,Eslicarbazepine 800mg tablets,4080100,0,0,N03AF04,IMRD
+82668978,Midazolam 5mg/5ml solution for injection pre-filled syringes,0,0,0,,IMRD
+82670978,Midazolam 2mg/2ml solution for injection pre-filled syringes,0,0,0,,IMRD
+82672978,Midazolam 10mg/10ml solution for injection pre-filled syringes,0,0,0,,IMRD
+82713998,Clobazam 25mg/5ml oral solution,0,0,0,,IMRD
+82714998,Clobazam 25mg/5ml oral suspension,0,0,0,,IMRD
+82850978,Sodium valproate 400mg powder and solvent for solution for injection vials,4080100,0,0,N03AG01,IMRD
+82857998,Sodium valproate 1g modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83073998,Phenobarbital 20mg/5ml oral solution,23000000,0,0,,IMRD
+83279978,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,,IMRD
+83281978,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+83282978,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+83321998,Sodium valproate 200mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+83479998,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+83480998,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+83507998,Lacosamide 50mg tablets,4080100,0,0,N03AX18,IMRD
+83508998,Lacosamide 50mg tablets,4080100,0,0,N03AX18,IMRD
+83509998,Lacosamide 200mg tablets,4080100,0,0,N03AX18,IMRD
+83510998,Lacosamide 200mg tablets,4080100,0,0,N03AX18,IMRD
+83511998,Lacosamide 150mg tablets,4080100,0,0,N03AX18,IMRD
+83512998,Lacosamide 150mg tablets,4080100,0,0,N03AX18,IMRD
+83513998,Lacosamide 100mg tablets,4080100,0,0,N03AX18,IMRD
+83514998,Lacosamide 100mg tablets,4080100,0,0,N03AX18,IMRD
+83515998,Lacosamide 15mg/ml sugar free oral solution,4080100,0,0,N03AX18,IMRD
+83516998,Lacosamide 15mg/ml oral solution sugar free,4080100,0,0,N03AX18,IMRD
+83517998,Lacosamide 200mg/20ml solution for infusion vials,4080100,0,0,N03AX18,IMRD
+83518998,Lacosamide 200mg/20ml solution for infusion vials,4080100,0,0,N03AX18,IMRD
+83577978,Clomethiazole 157.5mg/5ml oral solution sugar free,0,0,0,,IMRD
+83578978,Clomethiazole 31.5mg/ml oral solution sugar free,4010100,0,0,,IMRD
+83704998,Sodium valproate 750mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83705998,Sodium valproate 500mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83706998,Sodium valproate 250mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83707998,Sodium valproate 100mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83708998,Sodium valproate 50mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83709998,Sodium valproate 50mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83766998,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+83790998,Sodium valproate 1g modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83791998,Sodium valproate 750mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83792998,Sodium valproate with valproic acid 500mg modified release granules,4080100,0,0,,IMRD
+83793998,Sodium valproate 250mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+83794998,Sodium valproate 100mg modified-release granules sachets sugar free,4080100,4080100,0,N03AG01,IMRD
+84089998,Sodium valproate 1g/10ml solution for injection ampoules,4080100,0,0,N03AG01,IMRD
+84095998,Stiripentol 500mg oral powder sachets,4080100,0,0,N03AX17,IMRD
+84096998,Stiripentol 250mg oral powder sachets,4080100,0,0,N03AX17,IMRD
+84097998,Stiripentol 500mg capsules,4080100,0,0,N03AX17,IMRD
+84098998,Stiripentol 250mg capsules,4080100,0,0,N03AX17,IMRD
+84127998,Primidone 100mg/5ml oral solution,4080100,0,0,,IMRD
+84132998,Lorazepam 1mg/5ml oral solution,4010200,0,0,,IMRD
+84134998,Lorazepam 1mg/5ml oral suspension,4010200,0,0,,IMRD
+84193998,Phenobarbital 100mg tablets,4080100,0,0,N03AA02,IMRD
+84233998,Pregabalin 225mg capsules,4080100,0,0,N03AX16,IMRD
+84234998,Pregabalin 225mg capsules,4080100,0,0,N03AX16,IMRD
+84311998,Carbamazepine 500mg/5ml oral suspension,4070300,0,0,,IMRD
+84360978,Clomethiazole 157.5mg/5ml oral solution sugar free,0,0,0,,IMRD
+84415998,Rufinamide 400mg tablets,4080100,0,0,N03AF03,IMRD
+84416998,Rufinamide 200mg tablets,4080100,0,0,N03AF03,IMRD
+84417998,Rufinamide 100mg tablets,4080100,0,0,N03AF03,IMRD
+84418998,Rufinamide 400mg tablets,4080100,0,0,N03AF03,IMRD
+84419998,Rufinamide 200mg tablets,4080100,0,0,N03AF03,IMRD
+84420998,Rufinamide 100mg tablets,4080100,0,0,N03AF03,IMRD
+84633998,Midazolam oral solution,15010401,0,0,,IMRD
+84664998,Sodium valproate 1g modified-release granules sachets sugar free,4080100,0,0,N03AG01,IMRD
+84665998,Sodium valproate 500mg modified-release granules sachets sugar free,4080100,0,0,N03AG01,IMRD
+84666998,Sodium valproate 300mg modified-release capsules,4080100,0,0,N03AG01,IMRD
+84667998,Sodium valproate 150mg modified-release capsules,4080100,0,0,N03AG01,IMRD
+84668998,Sodium valproate 1g modified-release granules sachets sugar free,4080100,0,0,N03AG01,IMRD
+84669998,Sodium valproate 500mg modified-release granules sachets sugar free,4080100,0,0,N03AG01,IMRD
+84670998,Sodium valproate 300mg modified-release capsules,4080100,0,0,N03AG01,IMRD
+84671998,Sodium valproate 150mg modified-release capsules,4080100,0,0,N03AG01,IMRD
+84720998,Sodium valproate 300mg suppositories,23000000,0,0,,IMRD
+85019978,Diazepam 10mg/5ml oral solution,0,0,0,,IMRD
+85030998,Sodium valproate 400mg/4ml solution for injection ampoules,4080100,0,0,N03AG01,IMRD
+85180998,Primidone 50mg/5ml oral suspension,4080100,0,0,,IMRD
+85206978,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+85258978,Midazolam 5mg/2ml solution for injection ampoules,0,0,0,,IMRD
+85423998,Clobazam 2.5mg capsules,4080100,4010200,0,N05BA09,IMRD
+85438998,Lorazepam oral solution,23000000,0,0,,IMRD
+85466998,Primidone 62.5mg/5ml oral suspension,4080100,0,0,,IMRD
+85534998,Primidone 50mg capsules,23000000,0,0,,IMRD
+85559998,Clonazepam 250micrograms/5ml oral solution,23010000,0,0,,IMRD
+85709998,Midazolam 90mg/18ml solution for injection ampoules,15010401,0,0,,IMRD
+85710998,Midazolam 50mg/10ml solution for injection ampoules,15010401,0,0,,IMRD
+85711998,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+85713998,Midazolam 5mg/5ml solution for injection ampoules,15010401,0,0,,IMRD
+85714998,Midazolam 2mg/2ml solution for injection ampoules,15010401,0,0,,IMRD
+85715998,Midazolam 50mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+85716998,Midazolam 100mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+85717998,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+85753998,Gabapentin oral solution,23000000,0,0,,IMRD
+85923979,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules,9050103,0,0,B05XA05,IMRD
+85927979,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules,9050103,0,0,B05XA05,IMRD
+85928979,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules,9050103,0,0,B05XA05,IMRD
+85954998,Ethosuximide 250mg/5ml oral solution,4080100,0,0,N03AD01,IMRD
+85968998,Levetiracetam 500mg/5ml solution for infusion vials,4080100,0,0,N03AX14,IMRD
+85969998,Levetiracetam 500mg/5ml solution for infusion vials,4080100,0,0,N03AX14,IMRD
+86019998,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+86049998,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+86109998,Ethosuximide 250mg capsules,4080100,0,0,N03AD01,IMRD
+86161998,Clobazam 5mg/5ml oral suspension,4010200,0,0,,IMRD
+86330998,Dronabinol 2.7mg/dose / Cannabidiol 2.5mg/dose oromucosal spray,10020200,8020400,4060000,N03AX24,IMRD
+86331998,Dronabinol 2.7mg/dose / Cannabidiol 2.5mg/dose oromucosal spray,10020200,4060000,8020400,N03AX24,IMRD
+86349998,Primidone 25mg/5ml oral suspension,4080100,0,0,,IMRD
+86362998,Gabapentin 400mg/5ml oral suspension,4080100,0,0,,IMRD
+86430998,Lorazepam 500micrograms/5ml oral suspension,4010200,0,0,,IMRD
+86448998,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules,9050103,0,0,B05XA05,IMRD
+86457998,Clobazam 10mg/5ml oral suspension,4010200,0,0,,IMRD
+86475979,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 2ml ampoules,9050103,0,0,B05XA05,IMRD
+86485998,Gabapentin 250mg/5ml oral solution,4080100,0,0,N03AX12,IMRD
+86604998,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+86669998,Sultiame 50mg tablets,4080100,0,0,,IMRD
+86670998,Sultiame 200mg tablets,4080100,0,0,,IMRD
+86671998,Sultiame 50mg tablets,4080100,0,0,,IMRD
+86841998,Zonisamide 100mg capsules,4080100,0,0,N03AX15,IMRD
+86842998,Zonisamide 50mg capsules,4080100,0,0,N03AX15,IMRD
+86843998,Zonisamide 25mg capsules,4080100,0,0,N03AX15,IMRD
+86844998,Zonisamide 100mg capsules,4080100,0,0,N03AX15,IMRD
+86845998,Zonisamide 50mg capsules,4080100,0,0,N03AX15,IMRD
+86846998,Zonisamide 25mg capsules,4080100,0,0,N03AX15,IMRD
+87030998,Phenobarbital 50mg/5ml oral suspension,4080100,0,0,,IMRD
+87106998,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+87193998,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+87194998,Levetiracetam 750mg tablets,4080100,0,0,N03AX14,IMRD
+87195998,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+87196998,Levetiracetam 750mg tablets,4080100,0,0,N03AX14,IMRD
+87395998,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+87286998,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+87287998,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+87289998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+87396998,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+87397998,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+87398998,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+87399998,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+87400998,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+87401998,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+87402998,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+87403998,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+87404998,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+87405998,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+87406998,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+87407998,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+87408998,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+87522998,Phenobarbital sodium powder,99000000,0,0,,IMRD
+87797998,Midazolam 10mg/ml buccal solution,4080200,0,0,,IMRD
+87798998,Midazolam 10mg/ml buccal solution,4080200,0,0,,IMRD
+88177998,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+88178998,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+88217997,Carbamazepine 400mg modified release tablets,4080100,0,0,N03AF01,IMRD
+88396998,Topiramate 50mg capsules,4080100,0,0,N03AX11,IMRD
+88422998,Clonazepam 2.5mg/ml drops sugar free,23010000,0,0,,IMRD
+88423996,Clonazepam 2mg/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+88423997,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+88423998,Clonazepam 2.5mg/ml drops sugar free,4080100,0,0,,IMRD
+88868996,Topiramate 50mg capsules,4080100,0,0,N03AX11,IMRD
+88868997,Topiramate 25mg capsules,4080100,0,0,N03AX11,IMRD
+88868998,Topiramate 15mg capsules,4080100,0,0,N03AX11,IMRD
+88944979,Diazepam 25mg/5ml oral solution,0,0,0,,IMRD
+89079979,Pregabalin 200mg capsules,4080100,0,0,N03AX16,IMRD
+89056979,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+89058979,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+89060979,Pregabalin 75mg capsules,4080100,0,0,N03AX16,IMRD
+89063979,Pregabalin 50mg capsules,4080100,0,0,N03AX16,IMRD
+89070979,Pregabalin 300mg capsules,4080100,0,0,N03AX16,IMRD
+89078979,Pregabalin 25mg capsules,4080100,0,0,N03AX16,IMRD
+89087979,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+89089979,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+89091979,Pregabalin 150mg capsules,4080100,0,0,N03AX16,IMRD
+89097979,Pregabalin 100mg capsules,4080100,0,0,N03AX16,IMRD
+89210996,Levetiracetam 1g tablets,4080100,0,0,N03AX14,IMRD
+89210997,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+89210998,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+89231998,Oxcarbazepine 600mg tablets,4080100,0,0,N03AF02,IMRD
+89384997,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+89384998,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+89408996,Tiagabine 15mg tablets,4080100,0,0,N03AG06,IMRD
+89408997,Tiagabine 10mg tablets,4080100,0,0,N03AG06,IMRD
+89408998,Tiagabine 5mg tablets,4080100,0,0,N03AG06,IMRD
+89409996,Tiagabine 15mg tablets,4080100,0,0,N03AG06,IMRD
+89409997,Tiagabine 10mg tablets,4080100,0,0,N03AG06,IMRD
+89409998,Tiagabine 5mg tablets,4080100,0,0,N03AG06,IMRD
+89501998,Diazepam 10mg/2.5ml rectal solution tube,4010200,0,0,N05BA01,IMRD
+89770979,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+89991998,Fosphenytoin 750mg/10ml solution for injection vials,4080100,0,0,N03AB05,IMRD
+90044979,Levetiracetam 750mg tablets,4080100,0,0,N03AX14,IMRD
+90139979,Felbamate 600mg tablets,0,0,0,,IMRD
+90211979,Primidone 250mg/5ml oral suspension,4080100,0,0,N03AA03,IMRD
+90212979,Primidone 250mg/5ml oral suspension,4080100,0,0,N03AA03,IMRD
+90224979,Midazolam 2mg/ml oral solution sugar free,0,0,0,,IMRD
+90375979,Phenobarbital 60mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+90377979,Phenobarbital 30mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+90424998,Gabapentin 300mg+600mg pack,4080100,0,0,N03AX12,IMRD
+90425998,Gabapentin 600mg tablets and gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+90426997,Gabapentin 800mg tablets,4080100,0,0,N03AX12,IMRD
+90426998,Gabapentin 600mg tablets,4080100,0,0,N03AX12,IMRD
+90505998,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+90617979,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+90618979,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+90776998,Phenytoin sodium 300mg capsules,4080100,0,0,N03AB02,IMRD
+90780996,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+90780997,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+90780998,Phenytoin sodium 25mg capsules,4080100,0,0,N03AB02,IMRD
+90858998,Tiagabine 15mg tablets,4080100,0,0,N03AG06,IMRD
+91044996,Topiramate 25mg capsules,4080100,0,0,N03AX11,IMRD
+91044997,Topiramate 15mg capsules,4080100,0,0,N03AX11,IMRD
+91044998,Topiramate 25mg tablets,4080100,0,0,N03AX11,IMRD
+91045998,Topiramate 25mg tablets,4080100,0,0,N03AX11,IMRD
+91050996,Topiramate 200mg tablets,4080100,0,0,N03AX11,IMRD
+91050997,Topiramate 100mg tablets,4080100,0,0,N03AX11,IMRD
+91050998,Topiramate 50mg tablets,4080100,0,0,N03AX11,IMRD
+91051996,Topiramate 200mg tablets,4080100,0,0,N03AX11,IMRD
+91051997,Topiramate 100mg tablets,4080100,0,0,N03AX11,IMRD
+91051998,Topiramate 50mg tablets,4080100,0,0,N03AX11,IMRD
+91218998,Oxcarbazepine 60mg/ml oral suspension sugar free,4080100,0,0,N03AF02,IMRD
+91282998,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+91354998,Diazepam 20mg rectal tubes,4080200,4010200,0,N03AE,IMRD
+91465997,Lamotrigine 2mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+91465998,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+91596997,Lamotrigine 2mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+91596998,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+91625996,Oxcarbazepine 600mg tablets,4080100,0,0,N03AF02,IMRD
+91625997,Oxcarbazepine 300mg tablets,4080100,0,0,N03AF02,IMRD
+91625998,Oxcarbazepine 150mg tablets,4080100,0,0,N03AF02,IMRD
+91626998,Oxcarbazepine 300mg tablets,4080100,0,0,N03AF02,IMRD
+91690990,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+91839998,Oxcarbazepine 60mg/ml oral suspension sugar free,4080100,0,0,N03AF02,IMRD
+91850990,Levetiracetam 1g tablets,4080100,0,0,N03AX14,IMRD
+91852990,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+91853990,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+91860990,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+91881990,Levetiracetam 100mg/ml oral solution sugar free,4080100,0,0,N03AX14,IMRD
+91883990,Levetiracetam 750mg tablets,4080100,0,0,,IMRD
+91884990,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+91885990,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+92064998,Fosphenytoin 750mg/10ml solution for injection vials,4080100,0,0,N03AB05,IMRD
+92131997,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+92131998,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+92281990,Topiramate 50mg tablets,4070402,0,0,,IMRD
+92282990,Topiramate 25mg tablets,4070402,0,0,,IMRD
+92282998,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+92297990,Topiramate 50mg tablets,4080100,0,0,N03AX11,IMRD
+92298990,Topiramate 25mg tablets,4080100,0,0,N03AX11,IMRD
+92331990,Topiramate 100mg tablets,4080100,0,0,N03AX11,IMRD
+92332990,Topiramate 50mg tablets,4080100,0,0,N03AX11,IMRD
+92333990,Topiramate 25mg tablets,4080100,0,0,N03AX11,IMRD
+92345998,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92357990,Clonazepam 500microgram tablets,4080100,0,0,,IMRD
+92375996,Levetiracetam 1g tablets,4080100,0,0,N03AX14,IMRD
+92375997,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+92375998,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+92389990,Oxcarbazepine 150mg tablets,4080100,0,0,N03AF02,IMRD
+92463990,Gabapentin 600mg tablets,4080100,0,0,N03AX12,IMRD
+92573998,Diazepam 20mg rectal tubes,4080200,4010200,0,N03AE,IMRD
+92614990,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+92690990,Diazepam 10mg tablets,4010201,0,0,,IMRD
+92700996,Lamotrigine 100mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+92700997,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+92700998,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+92709996,Lamotrigine 100mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+92709997,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+92709998,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+92734997,Carbamazepine 250mg suppositories,4080100,0,0,N03AF01,IMRD
+92734998,Carbamazepine 125mg suppositories,4080100,0,0,N03AF01,IMRD
+92735997,Carbamazepine 250mg suppositories,4080100,0,0,N03AF01,IMRD
+92735998,Carbamazepine 125mg suppositories,4080100,0,0,N03AF01,IMRD
+92796990,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+92802996,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+92802997,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+92802998,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+92803990,Oxcarbazepine 600mg tablets,4080100,0,0,N03AF02,IMRD
+92807990,Lamotrigine 100mg dispersible tablets sugar free,4020000,0,0,,IMRD
+92812998,Phenytoin 90mg/5ml oral suspension,4080100,0,0,N03AB02,IMRD
+92814996,Diazepam 10mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+92814997,Diazepam 2.5mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+92814998,Diazepam 1mg/5ml suspension,4010200,0,0,N05BA01,IMRD
+92837996,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+92837997,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+92837998,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+92858997,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+92858998,Diazepam 10mg/2ml emulsion for injection ampoules,4010200,15010401,0,N03AE,IMRD
+92871990,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+92872990,Gabapentin 100mg capsules,4070300,0,0,,IMRD
+92901998,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+92917996,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92917997,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92917998,Sodium valproate 200mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92918996,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92918997,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92918998,Sodium valproate 200mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+92951990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+93015996,Valproic acid 500mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+93015997,Valproic acid 300mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+93015998,Valproic acid 150mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+93016996,Valproic acid 500mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+93016997,Valproic acid 300mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+93016998,Valproic acid 150mg gastro-resistant capsules,4080100,0,0,N03AG01,IMRD
+93051990,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+93058996,Piracetam 333.3mg/ml oral solution sugar free,4090300,0,0,N06BX03,IMRD
+93058997,Piracetam 1.2g tablets,4090300,0,0,N06BX03,IMRD
+93058998,Piracetam 800mg tablets,4090300,0,0,N06BX03,IMRD
+93059996,Piracetam 333.3mg/ml oral solution sugar free,4090300,0,0,N06BX03,IMRD
+93059997,Piracetam 1.2g tablets,4090300,0,0,N06BX03,IMRD
+93059998,Piracetam 800mg tablets,4090300,0,0,N06BX03,IMRD
+93062990,Lamotrigine 100mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+93064990,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+93148998,Sodium valproate 400mg powder and solvent for solution for injection vials,4080100,0,0,N03AG01,IMRD
+93294990,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+93296990,Midazolam 2mg/2ml solution for injection ampoules,15010401,0,0,,IMRD
+93392998,Dexfenfluramine 15mg capsules,4050200,0,0,A08AA04,IMRD
+93393998,Dexfenfluramine hydrochloride 15mg capsules,4050200,0,0,A08AA04,IMRD
+93443990,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+93444990,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+93454996,Phenobarbital 60mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+93454997,Phenobarbital 30mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+93454998,Phenobarbital 15mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+93460992,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+93527990,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+93530997,Carbamazepine 200mg chewable tablets sugar free,4080100,0,0,N03AF01,IMRD
+93530998,Carbamazepine 100mg chewable tablets sugar free,4080100,0,0,N03AF01,IMRD
+93531997,Carbamazepine 200mg chewable tablets,4080100,0,0,N03AF01,IMRD
+93531998,Carbamazepine 100mg chewable tablets,4080100,0,0,N03AF01,IMRD
+93532997,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+93532998,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+93579997,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+93579998,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+93595990,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+93743990,Gabapentin 250mg/5ml oral solution,4080100,0,0,,IMRD
+93769997,Vigabatrin 500mg oral powder sachets sugar free,4080100,0,0,N03AG04,IMRD
+93769998,Vigabatrin 500mg tablets,4080100,0,0,N03AG04,IMRD
+93770996,Vigabatrin 125mg capsules,4080100,0,0,,IMRD
+93770997,Vigabatrin 500mg oral powder sachets sugar free,4080100,0,0,N03AG04,IMRD
+93770998,Vigabatrin 500mg tablets,4080100,0,0,N03AG04,IMRD
+93774996,Chlordiazepoxide 25mg tablets,4010200,0,0,N05BA02,IMRD
+93774997,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+93774998,Chlordiazepoxide 5mg tablets,4010200,0,0,N05BA02,IMRD
+93795990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+93811990,Gabapentin 300mg capsules,4070300,0,0,,IMRD
+93812990,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+93826990,Diazepam 5mg tablets,4010201,0,0,,IMRD
+93848990,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+93849990,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+93913990,Clonazepam 500micrograms/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+93934990,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94008990,Lamotrigine 100mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94009990,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94010990,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+94011990,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+94012990,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+94013990,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+94043990,Lamotrigine 100mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94044990,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94045990,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94046990,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+94048990,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+94049990,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+94068997,Valproic acid 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+94068998,Valproic acid 250mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+94086990,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+94088990,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+94117990,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+94118990,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+94119990,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+94120990,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+94123990,Gabapentin 100mg capsules,4070300,0,0,,IMRD
+94167990,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+94222992,Lorazepam 5 mg tab,4010200,0,0,,IMRD
+94223992,Lorazepam .5 mg tab,4010200,0,0,,IMRD
+94256992,Ospolot 200 mg tab,4080100,0,0,,IMRD
+94288992,Phenytoin 150 mg sus,4080100,0,0,,IMRD
+94282992,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+94335992,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+94354992,Diazepam 5mg/ml rectal solution tube,4010200,0,0,N05BA01,IMRD
+94382990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+94408996,Sodium valproate 400mg powder and solvent for solution for injection vials,4080100,0,0,N03AG01,IMRD
+94408997,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+94408998,Sodium valproate 200mg/5ml oral solution,4080100,0,0,N03AG01,IMRD
+94409996,Sodium valproate 100mg tablets,4080100,0,0,N03AG01,IMRD
+94409997,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+94409998,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+94455992,Epanutin + phenobarb cap,4080100,0,0,,IMRD
+94499990,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+94521992,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+94525992,Phenytoin 25 mg syr,4080100,0,0,,IMRD
+94568996,Sodium valproate 200mg/5ml oral solution,4080100,0,0,N03AG01,IMRD
+94568997,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+94568998,Sodium valproate 100mg tablets,4080100,0,0,N03AG01,IMRD
+94606997,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+94606998,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+94664990,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+94666990,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+94704997,Amitriptyline 25mg / chlordiazepoxide 10mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+94704998,Amitriptyline 12.5mg / chlordiazepoxide 5mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+94736990,Diazepam 5mg tablets,4010201,0,0,,IMRD
+94737990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+94834996,Gabapentin 400mg capsules,4080100,0,0,N03AX12,IMRD
+94834997,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+94834998,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+94835996,Gabapentin 400mg capsules,4080100,0,0,N03AX12,IMRD
+94835997,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+94835998,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+94837979,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+94842979,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+94848979,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+94849979,Keppra 250mg tablets,4080100,0,0,,IMRD
+94851979,Levetiracetam 250mg tablets,4080100,0,0,N03AX14,IMRD
+94854979,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+94858979,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+94861979,Levetiracetam 500mg tablets,4080100,0,0,N03AX14,IMRD
+94867979,Levetiracetam 1g tablets,4080100,0,0,N03AX14,IMRD
+94914979,Topiramate 25mg capsules,4080100,0,0,N03AX11,IMRD
+94921979,Topiramate 15mg capsules,4080100,0,0,N03AX11,IMRD
+94931979,Topiramate 25mg tablets,4080100,0,0,N03AX11,IMRD
+94964979,Topiramate 100mg tablets,4080100,0,0,N03AX11,IMRD
+94971979,Topiramate 100mg tablets,4080100,0,0,N03AX11,IMRD
+94972979,Topiramate 50mg tablets,4080100,0,0,N03AX11,IMRD
+95032979,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+95045979,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+95049979,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+95056979,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+95067979,Lamotrigine 200mg tablets,4080100,0,0,N03AX09,IMRD
+95081979,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+95091979,Lamotrigine 25mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+95097979,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+95100979,Lamotrigine 5mg dispersible tablets sugar free,4080100,0,0,N03AX09,IMRD
+95109979,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+95112979,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+95117979,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+95126979,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+95133979,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+95143979,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+95150979,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+95152990,Midazolam 1mg/ml injection,15010401,0,0,,IMRD
+95157990,Gabapentin 600mg tablets,4080100,0,0,N03AX12,IMRD
+95158990,Gabapentin 400mg capsules,4080100,0,0,N03AX12,IMRD
+95159990,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+95160979,Sodium valproate 200mg/5ml oral solution,4080100,0,0,N03AG01,IMRD
+95161990,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+95163979,Sodium valproate 200mg/5ml oral solution,4080100,0,0,N03AG01,IMRD
+95164979,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+95165979,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+95170979,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95172979,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95175979,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95176979,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95177979,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95179979,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95180979,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95182979,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95184979,Sodium valproate 200mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95186979,Sodium valproate 200mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95186990,Gabapentin 800mg tablets,4080100,0,0,N03AX12,IMRD
+95187990,Gabapentin 600mg tablets,4080100,0,0,N03AX12,IMRD
+95188979,Sodium valproate 200mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95188990,Gabapentin 400mg capsules,4080100,0,0,N03AX12,IMRD
+95189979,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+95189990,Gabapentin 300mg capsules,4080100,0,0,N03AX12,IMRD
+95190979,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+95190990,Gabapentin 100mg capsules,4080100,0,0,N03AX12,IMRD
+95193990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+95196979,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+95202979,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+95203979,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+95213979,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+95215979,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+95216990,Sodium valproate 500mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95217990,Sodium valproate 300mg modified-release tablets,4080100,0,0,N03AG01,IMRD
+95220979,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+95221979,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+95223979,Phenobarbital 200mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+95226979,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+95227979,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+95228979,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+95231979,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+95232979,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+95234979,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+95236979,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+95244979,Clonazepam 2mg tablets,4080100,0,0,N03AE01,IMRD
+95246979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+95247979,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+95258979,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+95265979,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+95266979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95267979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95269979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95270979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95273979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95275979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95276979,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95279979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95280979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95282979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95283979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95284979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95285979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95288979,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+95297979,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+95298979,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+95301979,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+95303979,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+95305979,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+95307979,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+95331992,Lormetazepam 500mcg tablets,4010100,0,0,N05CD06,IMRD
+95361992,Ospolot 50 mg tab,4080100,0,0,,IMRD
+95403997,Primidone 250mg/5ml oral suspension,4080100,0,0,N03AA03,IMRD
+95403998,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+95404996,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+95404997,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+95404998,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+95415992,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+95444996,Lamotrigine 25mg tablets,4080100,0,0,N03AX09,IMRD
+95444997,Lamotrigine 100mg tablets,4080100,0,0,N03AX09,IMRD
+95444998,Lamotrigine 50mg tablets,4080100,0,0,N03AX09,IMRD
+95469990,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+95520990,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+95531998,Phenytoin sodium 250mg/5ml solution for injection ampoules,2030200,4080200,0,N03AB02,IMRD
+95532996,Phenytoin sodium 300mg capsules,4080100,0,0,N03AB02,IMRD
+95532997,Phenytoin 30mg/5ml oral suspension,4080100,0,0,N03AB02,IMRD
+95532998,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+95533996,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+95533997,Phenytoin sodium 25mg capsules,4080100,0,0,N03AB02,IMRD
+95533998,Phenytoin 50mg chewable tablets,4080100,0,0,N03AB02,IMRD
+95553998,Phenobarbital 200mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+95554998,Phenobarbital 200mg/1ml solution for injection ampoules,4080100,0,0,N03AA02,IMRD
+95578992,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+95666996,Oxazepam 30mg tablets,4010200,0,0,N05BA04,IMRD
+95666998,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+95667998,Oxazepam 30mg capsule,4010200,0,0,N05BA04,IMRD
+95720996,Nitrazepam 5mg/5ml oral suspension,4010100,0,0,N05CD02,IMRD
+95720997,Nitrazepam 2.5mg/5ml oral suspension sugar free,4010100,0,0,N05CD02,IMRD
+95720998,Nitrazepam 10mg tablet,4010100,0,0,N05CD02,IMRD
+95721998,Nitrazepam 5mg capsule,4010100,0,0,N05CD02,IMRD
+95750992,Zarontin 300 mg cap,4080100,0,0,,IMRD
+95802996,Midazolam 50mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+95802997,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+95802998,Midazolam 100mg/50ml solution for infusion vials,15010401,0,0,N05CD08,IMRD
+95810990,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+95838992,Phenytoin sodium/ phenobarbitone sodium tab,4080100,0,0,,IMRD
+95852996,Methylphenobarbital 200mg tablet,4080100,0,0,N03AA01,IMRD
+95852997,Methylphenobarbital 60mg tablet,4080100,0,0,N03AA01,IMRD
+95852998,Methylphenobarbital 30mg tablet,4080100,0,0,N03AA01,IMRD
+95945997,Bromazepam 3mg tablets,4010200,0,0,N05BA08,IMRD
+95945998,Bromazepam 1.5mg tablets,4010200,0,0,N05BA08,IMRD
+95992996,Lormetazepam 1mg Capsule,4010100,0,0,N05CD06,IMRD
+95992997,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+95992998,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+95993998,Lorazepam 4mg/1ml solution for injection ampoules,15010401,4010200,0,N05BA06,IMRD
+95994998,Loprazolam 1mg tablets,4010100,0,0,N05CD11,IMRD
+95995990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+95996990,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+95997990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96096992,Piracetam 400 mg cap,4090300,0,0,,IMRD
+96119990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96124990,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96127990,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+96128990,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+96159990,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+96160992,Clobazam 5 mg tab,4080100,0,0,,IMRD
+96195992,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+96233992,Fenfluramine hcl 20 mg tab,4050200,0,0,,IMRD
+96242988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+96242989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96242990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96268989,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96268990,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96284989,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96284990,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+96311988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+96311989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96311990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96374992,OXAZEPAM 15 MG CAP,4010200,0,0,N05BA04,IMRD
+96386992,Phenobarbitone 60mg & phenytoin 100mg mg tab,4080100,0,0,,IMRD
+96407996,Diazepam 2.5mg/1.25ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+96407997,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+96407998,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+96408997,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+96408998,Diazepam 5mg suppository,4010200,0,0,N05BA01,IMRD
+96409996,Diazepam 5mg,4010200,0,0,N05BA01,IMRD
+96409997,Diazepam 2mg capsules,4010200,0,0,N05BA01,IMRD
+96409998,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+96446989,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+96446990,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+96479992,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+96504992,Diazepam 20mg/4ml injection,4010200,0,0,N05BA01,IMRD
+96520998,Flunitrazepam 1mg tablets,4010100,0,0,N05CD03,IMRD
+96536989,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+96536990,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+96546992,Diazepam 10mg/2ml injection,4010200,0,0,N05BA01,IMRD
+96556998,Fenfluramine 60mg capsule,4050200,0,0,A08AA02,IMRD
+96560988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+96560989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96560990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+96571990,Clonazepam 2mg/5ml oral solution sugar free,4080100,0,0,N03AE01,IMRD
+96603989,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+96603990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+96634996,Clonazepam 1mg/1ml solution for injection ampoules and diluent,4080200,4080100,0,N03AE01,IMRD
+96634997,Clonazepam 2mg tablets,4080100,0,0,N03AE01,IMRD
+96634998,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+96648997,Clobazam 10mg tablets,4080100,4010200,0,N05BA09,IMRD
+96648998,Clobazam 10mg capsules,4080100,4010200,0,N05BA09,IMRD
+96653990,Loprazolam 1mg tablets,4010100,0,0,N05CD11,IMRD
+96655992,Fenfluramine hcl 40 mg tab,4050200,0,0,,IMRD
+96656998,Clidinium bromide with chlordiazepoxide tablets,1020100,0,0,A03CA02,IMRD
+96697988,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+96697989,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+96705998,Clomethiazole 157.5mg/5ml oral solution sugar free,4010100,0,0,N05CM02,IMRD
+96706998,Clomethiazole 192mg capsules,4010100,0,0,N05CM02,IMRD
+96733992,PARALDEHYDE 10 ML INJ,4080200,0,0,N05CC05,IMRD
+96753979,Clobazam 10mg tablets,4080100,4010200,0,N05BA09,IMRD
+96767997,Ethosuximide 250mg/5ml oral solution sugar free,4080100,0,0,N03AD01,IMRD
+96767998,Ethosuximide 250mg capsules,4080100,0,0,N03AD01,IMRD
+96773979,Bromazepam 3mg tablets,4010200,0,0,N05BA08,IMRD
+96787979,Diazepam 5mg tablets,4010201,0,0,,IMRD
+96790979,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96791979,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+96793979,Diazepam 5mg tablets,4010201,0,0,,IMRD
+96805998,Chlordiazepoxide hydrochloride 10mg tablets,4010200,0,0,N05BA02,IMRD
+96806996,Chlordiazepoxide hydrochloride 5mg tablets,4010200,0,0,N05BA02,IMRD
+96806997,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+96808997,Chlordiazepoxide 25mg tablets,4010200,0,0,N05BA02,IMRD
+96808998,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+96809996,Chlordiazepoxide 5mg tablets,4010200,0,0,N05BA02,IMRD
+96809997,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+96809998,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+96821989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+96821990,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+96853989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+96853990,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+96873979,Clomethiazole 192mg capsules,4010100,0,0,N05CM02,IMRD
+96885998,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+96916988,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+96916989,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+96916990,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+96932990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+96977989,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+96977990,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+96978990,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+96986988,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+96986990,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+97013996,Oxazepam 30mg tablet,4010200,0,0,N05BA04,IMRD
+97013997,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+97013998,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+97031998,Gentian alkaline and phenobarbital mixture,9070000,0,0,,IMRD
+97033996,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+97033997,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+97033998,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+97077996,Magnesium sulfate 10% (magnesium 0.4mmol/ml) solution for injection 10ml ampoules,9050103,0,0,B05XA05,IMRD
+97077997,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules,9050103,0,0,B05XA05,IMRD
+97077998,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules,9050103,0,0,B05XA05,IMRD
+97080997,Phenobarbital sodium 60mg tablet,4080100,0,0,N03AA02,IMRD
+97080998,Phenobarbital sodium 30mg tablet,4080100,0,0,N03AA02,IMRD
+97081997,Paraldehyde 5g/5ml solution for injection vials,4080200,0,0,N05CC05,IMRD
+97081998,Paraldehyde intramuscular injection,4080200,0,0,N05CC05,IMRD
+97086998,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+97128989,Carbamazepine 400mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+97128990,Carbamazepine 200mg modified-release tablets,4080100,0,0,N03AF01,IMRD
+97140989,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+97158992,Clobazam 1 mg sus,4080100,0,0,,IMRD
+97159992,Clobazam 2.5 mg cap,4080100,0,0,,IMRD
+97160992,Clobazam 7.5 mg cap,4080100,0,0,,IMRD
+97161992,Clobazam 5 mg cap,4080100,0,0,,IMRD
+97192997,Diazepam 5mg capsules,4010200,0,0,N05BA01,IMRD
+97193996,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+97202998,Phenobarbital 100mg tablet,4080100,0,0,N03AA02,IMRD
+97203996,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+97203997,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+97203998,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+97205998,Nitrazepam 5mg capsules,4010100,0,0,N05CD02,IMRD
+97213997,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+97213998,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+97215998,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+97216996,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+97216997,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+97216998,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+97227998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+97259990,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+97268998,Nitrazepam 5mg capsules,4010100,0,0,N05CD02,IMRD
+97282992,Diazepam 10mg/2ml emulsion for injection ampoules,4010200,15010401,0,N05BA01,IMRD
+97289998,Fenfluramine hydrochloride 60mg modified release capsules,4050200,0,0,A08AA02,IMRD
+97290992,Diazepam 20 mg inj,4010200,0,0,N05BA01,IMRD
+97291992,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+97292992,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+97293992,Diazepam s/r 10 mg cap,4010200,0,0,,IMRD
+97402992,Ethosuximide pow,4080100,0,0,,IMRD
+97514997,Phenytoin 50mg chewable tablets,4080100,0,0,N03AB02,IMRD
+97514998,Phenytoin sodium 300mg capsules,4080100,0,0,N03AB02,IMRD
+97532998,Diazepam 10mg/2ml injection,4010200,0,0,N03AE,IMRD
+97533997,Diazepam 10mg/2.5ml rectal solution tube,4010200,4080200,0,N05BA01,IMRD
+97533998,Diazepam 5mg/2.5ml rectal solution tube,4010200,4080200,0,N05BA01,IMRD
+97549989,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+97549990,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+97628997,Valproic acid 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+97628998,Valproic acid 250mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+97638998,Loprazolam 1mg tablets,4010100,0,0,N05CD11,IMRD
+97679992,Lorazepam 1 mg sus,4010200,0,0,,IMRD
+97721990,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+97736997,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+97736998,Phenytoin sodium 50mg tablets,4080100,0,0,N03AB02,IMRD
+97742989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+97766990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+97777989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+97777990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+97779988,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+97779989,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+97779990,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+97883992,Phenobarbitone 50mg & phenytoin 100mg mg cap,4080100,0,0,,IMRD
+97884992,Phenobarbitone & phenytoin 60 mg cap,4080100,0,0,,IMRD
+97896992,Phenytoin sodium/ phenobarbitone cap,4080100,0,0,,IMRD
+97897992,Phenytoin 30 mg tab,4080100,0,0,,IMRD
+97910989,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+97910990,Sodium valproate 100mg tablets,4080100,0,0,N03AG01,IMRD
+97911989,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+97911990,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+97949992,Primidone 200 mg tab,4080100,0,0,,IMRD
+98049988,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+98049989,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+98049990,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+98075990,Phenytoin 90mg/5ml oral suspension,4080100,0,0,N03AB02,IMRD
+98079989,Diazepam 2.5mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+98084990,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+98087997,Phenobarbital 50mg/5ml oral solution,4080100,0,0,,IMRD
+98087998,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+98088990,Nitrazepam 5mg/5ml oral suspension,4010100,0,0,N05CD02,IMRD
+98090997,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+98090998,Phenytoin sodium 50mg tablets,4080100,0,0,N03AB02,IMRD
+98091997,Paraldehyde rectal solution,4080200,0,0,N05CC05,IMRD
+98091998,Paraldehyde 5g/5ml solution for injection vials,4080200,0,0,N05CC05,IMRD
+98112988,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+98112989,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+98112990,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+98135990,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+98190989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98190990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+98200998,Tiagabine 5mg tablets,4080100,0,0,N03AG06,IMRD
+98239988,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98239989,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+98241989,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+98241990,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+98248990,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98315996,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+98315997,Phenytoin sodium 50mg capsules,4080100,0,0,N03AB02,IMRD
+98315998,Phenytoin sodium 25mg capsules,4080100,0,0,N03AB02,IMRD
+98338988,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+98338989,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+98338990,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+98343998,Amitriptyline 25mg / chlordiazepoxide 10mg capsules,4030100,4010200,4030100,N06CA01,IMRD
+98360998,Carbamazepine 100mg/5ml oral suspension sugar free,4080100,0,0,N03AF01,IMRD
+98361996,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+98361997,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+98361998,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+98385989,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+98385990,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+98430990,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+98454998,Reserpine with phenobarbital & theobromine tablet,2050200,0,0,R03DA07,IMRD
+98461996,Methylphenobarbital 200mg tablets,4080100,0,0,N03AA01,IMRD
+98461997,Methylphenobarbital 60mg tablets,4080100,0,0,N03AA01,IMRD
+98461998,Methylphenobarbital 30mg tablets,4080100,0,0,N03AA01,IMRD
+98470990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+98476997,Phenobarbital sodium 60mg tablets,4080100,0,0,N03AA02,IMRD
+98476998,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+98501990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+98517998,Clonazepam 1mg/1ml solution for injection ampoules and diluent,4080200,4080100,0,N03AE01,IMRD
+98550997,Midazolam 10mg/5ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+98550998,Midazolam 10mg/2ml solution for injection ampoules,15010401,0,0,N05CD08,IMRD
+98570989,Diazepam 10mg/2ml solution for injection ampoules,4080200,4010200,0,N03AE,IMRD
+98580989,Chlordiazepoxide 5mg tablets,4010200,0,0,N05BA02,IMRD
+98580990,Chlordiazepoxide 25mg tablets,4010200,0,0,N05BA02,IMRD
+98647988,Chlordiazepoxide 10mg tablets,4010200,0,0,N05BA02,IMRD
+98647989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+98647990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+98648990,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+98649988,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+98649989,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+98649990,Diazepam 5mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+98658998,Phenytoin 30mg/5ml oral suspension,4080100,0,0,N03AB02,IMRD
+98675990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+98680988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+98680989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+98680990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+98688990,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+98719998,Clomethiazole 8mg/ml iv infusion,4010100,0,0,N05CM02,IMRD
+98730998,Oxcarbazepine 150mg tablets,4080100,0,0,N03AF02,IMRD
+98739990,Phenobarbital sodium powder,99000000,0,0,,IMRD
+98764990,Phenobarbital sodium powder,99000000,0,0,,IMRD
+98790998,Lormetazepam 1mg capsule,4010100,0,0,,IMRD
+98929988,Sodium valproate 200mg/5ml oral solution sugar free,4080100,0,0,N03AG01,IMRD
+98929989,Sodium valproate 500mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+98929990,Sodium valproate 200mg gastro-resistant tablets,4080100,0,0,N03AG01,IMRD
+98949997,Ethosuximide 250mg/5ml oral solution,4080100,0,0,N03AD01,IMRD
+98949998,Ethosuximide 250mg capsules,4080100,0,0,N03AD01,IMRD
+98989997,Gabapentin 800mg tablets,4080100,0,0,N03AX12,IMRD
+98989998,Gabapentin 600mg tablets,4080100,0,0,N03AX12,IMRD
+98995997,Diazepam 10mg suppositories,4010200,0,0,N05BA01,IMRD
+98995998,Diazepam 5mg suppository,4010200,0,0,N05BA01,IMRD
+98996996,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+98996997,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+98996998,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+98997998,Diazepam 2mg/5ml oral solution,4010200,0,0,N05BA01,IMRD
+98998997,Diazepam 5mg capsules,4010200,0,0,N05BA01,IMRD
+98998998,Diazepam 2mg capsules,4010200,0,0,N05BA01,IMRD
+98999998,Diazepam 10mg/2ml injection,4010200,0,0,N05BA01,IMRD
+99121989,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+99121990,Phenytoin sodium 50mg tablets,4080100,0,0,N03AB02,IMRD
+99122990,Phenytoin sodium 50mg tablets,4080100,0,0,N03AB02,IMRD
+99125998,Nitrazepam 2.5mg/5ml oral suspension,4010100,0,0,N05CD02,IMRD
+99142990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99167989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99167990,Lormetazepam 500microgram tablets,4010100,0,0,N05CD06,IMRD
+99168989,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+99168990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+99170998,Flunitrazepam 1mg tablets,4010100,0,0,N05CD03,IMRD
+99176997,Clonazepam 2mg tablets,4080100,0,0,N03AE01,IMRD
+99176998,Clonazepam 500microgram tablets,4080100,0,0,N03AE01,IMRD
+99235989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99300989,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+99300990,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+99348997,Lormetazepam 500mcg tablets,4010100,0,0,N05CD06,IMRD
+99348998,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99354998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99370989,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+99370990,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+99383997,Primidone 250mg/5ml oral suspension,4080100,0,0,N03AA03,IMRD
+99383998,Primidone 250mg tablets,4080100,0,0,N03AA03,IMRD
+99404998,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99453990,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+99454989,Phenytoin sodium 100mg capsules,4080100,0,0,N03AB02,IMRD
+99455989,Phenytoin sodium 100mg tablets,4080100,0,0,N03AB02,IMRD
+99455990,Phenytoin sodium 50mg tablets,4080100,0,0,N03AB02,IMRD
+99457990,Phenobarbital 15mg/5ml elixir,4080100,0,0,N03AA02,IMRD
+99458989,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+99458990,Phenobarbital 15mg tablets,4080100,0,0,N03AA02,IMRD
+99459989,Phenobarbital 30mg tablets,4080100,0,0,N03AA02,IMRD
+99459990,Phenobarbital 60mg tablets,4080100,0,0,N03AA02,IMRD
+99472998,Amitriptyline & chlordiazepoxide 12.5mg+5mg capsules,4030100,4030100,4010200,N06CA01,IMRD
+99473997,Chlordiazepoxide hydrochloride 25mg tablets,4010200,0,0,N05BA02,IMRD
+99473998,Chlordiazepoxide hydrochloride 10mg tablets,4010200,0,0,N05BA02,IMRD
+99474996,Chlordiazepoxide hydrochloride 5mg tablets,4010200,0,0,N05BA02,IMRD
+99474997,Chlordiazepoxide 10mg capsules,4010200,0,0,N05BA02,IMRD
+99474998,Chlordiazepoxide 5mg capsules,4010200,0,0,N05BA02,IMRD
+99475998,Clidinium bromide with chlordiazepoxide tablets,1020100,0,0,A03CA02,IMRD
+99476997,Bromazepam 3mg tablets,4010200,0,0,N05BA08,IMRD
+99476998,Bromazepam 1.5mg tablets,4010200,0,0,N05BA08,IMRD
+99530989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99531989,Lormetazepam 1mg tablets,4010100,0,0,N05CD06,IMRD
+99567998,Clomethiazole 157.5mg/5ml oral solution sugar free,4010100,0,0,N05CM02,IMRD
+99568998,Clomethiazole 192mg capsules,4010100,0,0,N05CM02,IMRD
+99622997,Clobazam 10mg tablets,4080100,4010200,0,N05BA09,IMRD
+99622998,Clobazam 10mg capsules,4080100,4010200,0,N05BA09,IMRD
+99631988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99631989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99631990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+99632988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99632989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99632990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+99633988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99633989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99634988,Diazepam 2mg/5ml oral suspension,4010200,0,0,N05BA01,IMRD
+99634989,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99634990,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99645988,Diazepam 10mg tablets,4010200,0,0,N05BA01,IMRD
+99645989,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+99645990,Diazepam 2mg tablets,4010200,0,0,N05BA01,IMRD
+99692998,Phenytoin sodium 250mg/5ml solution for injection ampoules,2030200,4080200,0,N03AB02,IMRD
+99697997,Ethosuximide 250mg/5ml oral solution,4080100,0,0,N03AD01,IMRD
+99697998,Ethosuximide 250mg capsules,4080100,0,0,N03AD01,IMRD
+99705996,Diazepam 2.5mg/1.25ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+99705997,Diazepam 10mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+99705998,Diazepam 5mg/2.5ml rectal solution tube,4080200,4010200,0,N03AE,IMRD
+99713989,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+99713990,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+99716989,Oxazepam 15mg tablets,4010200,0,0,N05BA04,IMRD
+99716990,Oxazepam 10mg tablets,4010200,0,0,N05BA04,IMRD
+99717990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99718990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99719990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99720990,Nitrazepam 5mg tablets,4010100,0,0,N05CD02,IMRD
+99751988,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+99751989,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+99751990,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+99752988,Carbamazepine 400mg tablets,4080100,0,0,N03AF01,IMRD
+99752989,Carbamazepine 200mg tablets,4080100,0,0,N03AF01,IMRD
+99752990,Carbamazepine 100mg tablets,4080100,0,0,N03AF01,IMRD
+99761998,Diazepam 10mg/2ml emulsion for injection ampoules,4010200,4080200,0,N05BA01,IMRD
+99880998,Tiagabine 10mg tablets,4080100,0,0,N03AG06,IMRD
+99932997,Lorazepam 2.5mg tablets,4010200,15010401,0,N05BA06,IMRD
+99932998,Lorazepam 1mg tablets,4010200,15010401,0,N05BA06,IMRD
+99933998,Lorazepam 4mg/1ml solution for injection ampoules,15010401,4010200,0,N05BA06,IMRD
+99934997,Diazepam 5mg tablets,4010200,0,0,N05BA01,IMRD
+7652978,Midazolam 5mg/1ml solution for injection ampoules   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+7901978,Vigabatrin 100mg soluble tablets sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8338978,Carbamazepine 100mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8644978,Syonell 500mg gastro-resistant tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8683978,Pregabalin 100mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8687978,Pregabalin 300mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8691978,Pregabalin 25mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8762978,Syonell 250mg gastro-resistant tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8801978,Epidyolex 100mg/ml oral solution   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8933978,Pregabalin 225mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8937978,Pregabalin 75mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8939978,Pregabalin 50mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8941978,Pregabalin 200mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8943978,Pregabalin 150mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10027978,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for infusion 10ml ampoules   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10174978,Belvo 500mg gastro-resistant tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10387978,Belvo 250mg gastro-resistant tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10468978,Midazolam 10mg/5ml oral solution unit dose ampoules sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10470978,Lorazepam 2.5mg orodispersible tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10472978,Lorazepam 1mg orodispersible tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+11061978,Levetiracetam 100mg/ml oral solution sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+11742978,Levetiracetam 500mg/5ml concentrate for solution for infusion vials   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+12083978,Lorazepam 500microgram tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+12215978,Dilantin Infatabs 50mg chewable tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+13185978,Fycompa 0.5mg/ml oral suspension   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14417978,Levetiracetam 250mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14523978,Topiramate 100mg/5ml oral suspension sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14916978,Levetiracetam 1.5g/100ml infusion bags   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14932978,Cannabidiol 100mg/ml oral solution sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+17664978,Levetiracetam 500mg/5ml concentrate for solution for infusion vials infusions 100 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+20222978,Lamotrigine 200mg tablets tablets 200 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+20223978,Lamotrigine 25mg tablets tablets 25 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+20225978,Lamotrigine 50mg tablets tablets 50 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+22647978,Carbamazepine 50mg/5ml oral solution solution 10 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+28851978,Pregabalin 300mg capsules capsules 300 ,04.03.00.00,00.00.00.00,00.00.00.00,,IMRD
+46243978,Pregabalin 150mg capsules capsules 150 ,04.03.00.00,00.00.00.00,00.00.00.00,,IMRD
+59339978,Sodium valproate 500mg modified-release tablets tablets 500 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+59982979,Clonazepam 2mg/5ml oral solution solution 400 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+60717979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes solution 10 ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+61206979,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes solution 10 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+63816979,Pregabalin 200mg/5ml oral suspension suspension 40 ,04.03.00.00,00.00.00.00,00.00.00.00,,IMRD
+64758979,Phenytoin 90mg/5ml oral solution solution 18 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+65485979,Sodium valproate 75mg/5ml oral solution solution 15 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+66431979,Midazolam 25mg/5ml oral suspension suspension 5 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+66447979,Midazolam 10mg/5ml oral suspension suspension 2 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+67410979,Lamotrigine 5mg/5ml oral suspension suspension 1 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+68711979,Phenobarbital sodium 50mg/5ml oral suspension suspension 10 ,04.08.01.02,00.00.00.00,00.00.00.00,,IMRD
+80030979,Gabapentin 100mg/5ml oral suspension suspension 20 ,04.07.03.00,00.00.00.00,00.00.00.00,,IMRD
+80525979,Clonazepam 2.5mg/5ml oral solution solution 500 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+80527979,Clonazepam 1mg/5ml oral suspension suspension 200 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+80576979,Clobazam 3.5mg/5ml oral suspension suspension 700 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+80646979,Chlordiazepoxide 5mg/5ml oral suspension suspension 1 ,04.01.02.01,00.00.00.00,00.00.00.00,,IMRD
+81790979,Ospolot 50mg tablets tablets 50 ,04.08.01.01,00.00.00.00,00.00.00.00,,IMRD
+82667978,Midazolam 5mg/5ml solution for injection pre-filled syringes injection 1 ,15.01.04.01,00.00.00.00,00.00.00.00,,IMRD
+89157979,Gabapentin 250mg/5ml oral solution solution 50 ,04.07.03.00,00.00.00.00,00.00.00.00,,IMRD
+90043979,Keppra 750mg tablets tablets 750 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+92806990,Lamotrigine 25mg dispersible tablets sugar free tablets 25 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+94847979,Keppra 250mg tablets tablets 250 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD
+95075979,Lamotrigine 100mg dispersible tablets sugar free tablets 100 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+95111979,Lamictal 25mg tablets tablets 25 ,04.02.00.00,00.00.00.00,00.00.00.00,,IMRD
+97911988,Sodium valproate 500mg gastro-resistant tablets tablets 500 ,04.08.01.00,00.00.00.00,00.00.00.00,,IMRD

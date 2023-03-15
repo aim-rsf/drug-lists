@@ -1,0 +1,174 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+44250,Metformin 500mg/5ml Oral solution (Hillcross Pharmaceuticals Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+43684,Janumet 50mg/1000mg tablets (Merck Sharp & Dohme Ltd) Metformin hydrochloride/Sitagliptin phosphate 1gram + 50mg Tablet Oral,6010209,,,,CPRD_GOLD
+7815,METFORMIN 800 MG TAB    ,0,,,,CPRD_GOLD
+39598,Metformin 1g modified-release tablets Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+39560,Bolamyn SR 500mg tablets (Teva UK Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+30316,Metformin with pioglitazone 850mg + 15mg Tablet Metformin/Pioglitazone 850mg + 15mg Tablet Oral,6010202,6010203,,,CPRD_GOLD
+57147,Bolamyn SR 1000mg tablets (Teva UK Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+68589,Metformin 1g/5ml oral solution sugar free Metformin hydrochloride 200mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+11604,Rosiglitazone 1mg / Metformin 500mg tablets Rosiglitazone maleate/Metformin hydrochloride 1mg + 500mg Tablet Oral,6010213,,,,CPRD_GOLD
+3252,METFORMIN HCl 500 MG TAB    ,0,,,,CPRD_GOLD
+70463,Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd) Empagliflozin/Metformin hydrochloride 12.5mg + 850mg Tablet Oral,6010210,,,,CPRD_GOLD
+51135,Metformin 500mg modified-release tablets (A A H Pharmaceuticals Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+62265,Metformin 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+60074,Metformin 1g modified-release tablets (Waymade Healthcare Plc) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+50570,Glucophage SR 500mg tablets (Lexon (UK) Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+34917,Metformin 500mg tablets (Teva UK Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+42161,Orabet 500mg Tablet (Sandoz Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+20810,METFORMIN    ,0,,,,CPRD_GOLD
+63031,Dapagliflozin 5mg / Metformin 850mg tablets Metformin hydrochloride/Dapagliflozin propanediol monohydrate 850mg + 5mg Tablet Oral,6010210,,,,CPRD_GOLD
+16213,METFORMIN 250 MG TAB    ,0,,,,CPRD_GOLD
+48149,Metformin 500mg tablets (Almus Pharmaceuticals Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+58865,Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd) Metformin hydrochloride/Saxagliptin hydrochloride 850mg + 2.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+11609,Metformin with rosiglitazone 500mg + 1mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 500mg + 1mg Tablet Oral,6010202,6010203,,,CPRD_GOLD
+11737,Metformin with rosiglitazone 1000mg + 4mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 1000mg + 4mg Tablet Oral,6010202,6010203,,,CPRD_GOLD
+34004,Metformin 500mg tablets (IVAX Pharmaceuticals UK Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+49738,Metformin 1g modified-release tablets (A A H Pharmaceuticals Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+55739,Metformin 500mg tablets (Tillomed Laboratories Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+72107,Meijumet 500mg modified-release tablets (Medreich Plc) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+735,Metformin 100mg/ml Oral solution Metformin Hydrochloride 100mg/ml Oral Solution Oral,6010202,,,,CPRD_GOLD
+71012,Metformin 500mg tablets (Phoenix Healthcare Distribution Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+38551,Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd) Vildagliptin/Metformin hydrochloride 50mg + 1gram Tablet Oral,6010209,,,,CPRD_GOLD
+37874,Vildagliptin 50mg / Metformin 850mg tablets Metformin hydrochloride/Vildagliptin 850mg + 50mg Tablet Oral,6010209,,,,CPRD_GOLD
+68389,Metformin 500mg/5ml oral solution sugar free (Pinewood Healthcare) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+7166,Glucophage 500mg tablets (Merck Serono Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+40110,Glucophage 500mg oral powder sachets (Merck Serono Ltd) Metformin hydrochloride 500mg Powder Oral,6010202,,,,CPRD_GOLD
+68214,Metformin 500mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+34697,Metformin 850mg tablets (Wockhardt UK Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+11601,Rosiglitazone 2mg / Metformin 500mg tablets Metformin hydrochloride/Rosiglitazone maleate 500mg + 2mg Tablet Oral,6010213,,,,CPRD_GOLD
+69370,Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd) Metformin hydrochloride/Empagliflozin 850mg + 5mg Tablet Oral,6010210,,,,CPRD_GOLD
+57457,Metformin 500mg tablets (Milpharm Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+52449,Linagliptin 2.5mg / Metformin 850mg tablets Metformin hydrochloride/Linagliptin 850mg + 2.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+25678,Glucamet 500mg Tablet (Opus Pharmaceuticals Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+58607,Metformin 500mg/5ml oral solution sugar free (Zentiva) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+40233,Metformin 1g oral powder sachets sugar free Metformin hydrochloride 1gram Powder Oral,6010202,,,,CPRD_GOLD
+34135,Metformin 500mg Tablet (M & A Pharmachem Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+52634,Glucophage SR 500mg tablets (DE Pharmaceuticals) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+38355,Metformin 750mg modified-release tablets Metformin hydrochloride 750mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+59620,Glucophage SR 500mg tablets (Waymade Healthcare Plc) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+56965,Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd) Saxagliptin hydrochloride/Metformin hydrochloride 2.5mg + 1gram Tablet Oral,6010209,,,,CPRD_GOLD
+73525,Metformin 500mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+53774,Metabet SR 500mg tablets (Actavis UK Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+34598,Metformin 500mg tablets (Mylan) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+63045,Metformin 850mg tablets (Relonchem Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+23,Metformin 500mg tablets Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+70744,Metformin 500mg/5ml oral solution sugar free (Advanz Pharma) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+7325,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd) Metformin hydrochloride/Rosiglitazone maleate 1gram + 4mg Tablet Oral,0,,,,CPRD_GOLD
+60012,Dapagliflozin 5mg / Metformin 1g tablets Dapagliflozin propanediol monohydrate/Metformin hydrochloride 5mg + 1gram Tablet Oral,6010210,,,,CPRD_GOLD
+71890,Metformin 500mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+74021,Metformin 250mg/5ml oral solution Metformin hydrochloride 50mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+54973,Saxagliptin 2.5mg / Metformin 850mg tablets Metformin hydrochloride/Saxagliptin hydrochloride 850mg + 2.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+54150,Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd) Metformin hydrochloride/Linagliptin 850mg + 2.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+46989,Metabet SR 1000mg tablets (Morningside Healthcare Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+38400,Glucophage SR 750mg tablets (Merck Serono Ltd) Metformin hydrochloride 750mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+34323,Metformin 500mg tablets (A A H Pharmaceuticals Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+74734,Metformin 850mg capsules Metformin hydrochloride 850mg Capsule Oral,6010202,,,,CPRD_GOLD
+73303,Metformin 500mg/5ml oral solution sugar free (Colonis Pharma Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+65083,Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd) Empagliflozin/Metformin hydrochloride 5mg + 1gram Tablet Oral,6010210,,,,CPRD_GOLD
+69221,Metformin 1g oral powder sachets sugar free (J M McGill Ltd) Metformin hydrochloride 1gram Powder Oral,6010202,,,,CPRD_GOLD
+11760,Metformin with rosiglitazone 1000mg + 2mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 1000mg + 2mg Tablet Oral,6010202,6010203,,,CPRD_GOLD
+7610,Glucophage 850mg tablets (Merck Serono Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+80647,Metuxtan SR 500mg tablets (Accord Healthcare Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+40007,Glucophage 1000mg oral powder sachets (Merck Serono Ltd) Metformin hydrochloride 1gram Powder Oral,6010202,,,,CPRD_GOLD
+77753,Meijumet 1000mg modified-release tablets (Medreich Plc) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+68203,Metformin 500mg modified-release tablets (Almus Pharmaceuticals Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+59385,Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd) Metformin hydrochloride/Alogliptin benzoate 1gram + 12.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+62605,Metformin 850mg tablets (Kent Pharmaceuticals Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+52442,Metformin 500mg tablets (Pfizer Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+78392,Metformin 850mg tablets (Zentiva) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+34836,Metformin 850mg tablets (Actavis UK Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+78293,Alogliptin 12.5mg / Metformin 1g tablets (Colorama Pharmaceuticals Ltd) Metformin hydrochloride/Alogliptin benzoate 1gram + 12.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+54891,Saxagliptin 2.5mg / Metformin 1g tablets Saxagliptin hydrochloride/Metformin hydrochloride 2.5mg + 1gram Tablet Oral,6010209,,,,CPRD_GOLD
+65066,Empagliflozin 12.5mg / Metformin 1g tablets Metformin hydrochloride/Empagliflozin 1gram + 12.5mg Tablet Oral,6010210,,,,CPRD_GOLD
+51080,Metabet SR 1000mg tablets (Actavis UK Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+50970,Metformin 500mg tablets (Bristol Laboratories Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+31146,Metsol 500mg/5ml oral solution (Kappin Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+27501,Orabet 500mg Tablet (Lagap) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+37902,Vildagliptin 50mg / Metformin 1g tablets Vildagliptin/Metformin hydrochloride 50mg + 1gram Tablet Oral,6010209,,,,CPRD_GOLD
+79017,Metformin 850mg tablets (Mylan) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+72695,Metformin 500mg Tablet (Celltech Pharma Europe Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+54442,Metformin (roi) 1000mg Tablet Metformin Hydrochloride 1000mg Tablet ,6010202,,,,CPRD_GOLD
+60643,Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd) Dapagliflozin propanediol monohydrate/Metformin hydrochloride 5mg + 1gram Tablet Oral,6010210,,,,CPRD_GOLD
+73254,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+14164,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd) Rosiglitazone maleate/Metformin hydrochloride 2mg + 1gram Tablet Oral,0,,,,CPRD_GOLD
+65344,Empagliflozin 5mg / Metformin 850mg tablets Metformin hydrochloride/Empagliflozin 850mg + 5mg Tablet Oral,6010210,,,,CPRD_GOLD
+34742,Metformin 850mg tablets (Teva UK Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+50821,Metformin 850mg tablets (Pfizer Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+63929,Canagliflozin 50mg / Metformin 1g tablets Metformin hydrochloride/Canagliflozin hemihydrate 1gram + 50mg Tablet Oral,6010210,,,,CPRD_GOLD
+34504,Metformin 500mg tablets (Wockhardt UK Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+34020,Metformin 850mg tablets (IVAX Pharmaceuticals UK Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+60497,Alogliptin 12.5mg / Metformin 1g tablets Metformin hydrochloride/Alogliptin benzoate 1gram + 12.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+6855,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd) Metformin hydrochloride/Rosiglitazone maleate 500mg + 2mg Tablet Oral,0,,,,CPRD_GOLD
+73808,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+16044,Glucophage SR 500mg tablets (Merck Serono Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+63307,Metformin 1g/5ml oral solution Metformin hydrochloride 200mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+54898,Metformin 850mg tablets (Almus Pharmaceuticals Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+78537,Metformin 850mg/5ml oral suspension Metformin hydrochloride 170mg/1ml Oral suspension Oral,6010202,,,,CPRD_GOLD
+18220,Pioglitazone 15mg / Metformin 850mg tablets Metformin hydrochloride/Pioglitazone hydrochloride 850mg + 15mg Tablet Oral,6010213,,,,CPRD_GOLD
+60968,Metformin 500mg modified-release tablets (Actavis UK Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+17580,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd) Rosiglitazone maleate/Metformin hydrochloride 1mg + 500mg Tablet Oral,0,,,,CPRD_GOLD
+73460,Metformin 500mg/5ml oral solution sugar free (Actavis UK Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,0,,,,CPRD_GOLD
+47939,Glucient SR 500mg tablets (Consilient Health Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+65057,Empagliflozin 5mg / Metformin 1g tablets Empagliflozin/Metformin hydrochloride 5mg + 1gram Tablet Oral,6010210,,,,CPRD_GOLD
+73252,Yaltormin SR 500mg tablets (Wockhardt UK Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+62824,Metformin 1g modified-release tablets (Actavis UK Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+49502,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+45581,Metabet SR 500mg tablets (Morningside Healthcare Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+50682,Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd) Metformin hydrochloride/Linagliptin 1000mg + 2.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+7375,Rosiglitazone 4mg / Metformin 1g tablets Metformin hydrochloride/Rosiglitazone maleate 1gram + 4mg Tablet Oral,6010213,,,,CPRD_GOLD
+71198,Metformin 500mg tablets (Zanza Specials International Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+65694,Metformin 500mg modified-release tablets (Waymade Healthcare Plc) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+33674,Metformin 850mg tablets (A A H Pharmaceuticals Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+31077,Competact 15mg/850mg tablets (Takeda UK Ltd) Metformin hydrochloride/Pioglitazone hydrochloride 850mg + 15mg Tablet Oral,6010213,,,,CPRD_GOLD
+64939,Glucient SR 1000mg tablets (Consilient Health Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+33087,Metformin 500mg tablets (Actavis UK Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+53867,Metformin 500mg tablets (Zentiva) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+2928,METFORMIN HCl 850 MG TAB    ,0,,,,CPRD_GOLD
+65059,Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd) Metformin hydrochloride/Dapagliflozin propanediol monohydrate 850mg + 5mg Tablet Oral,6010210,,,,CPRD_GOLD
+75700,Metformin 500mg/5ml oral solution sugar free (Waymade Healthcare Plc) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+39203,Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd) Metformin hydrochloride/Vildagliptin 850mg + 50mg Tablet Oral,6010209,,,,CPRD_GOLD
+73511,Yaltormin SR 750mg tablets (Wockhardt UK Ltd) Metformin hydrochloride 750mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+72046,Metformin 500mg tablets (DE Pharmaceuticals) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+60286,Metformin 500mg/5ml oral suspension Metformin hydrochloride 100mg/1ml Oral suspension Oral,6010202,,,,CPRD_GOLD
+11990,Metformin 500mg/5ml oral solution sugar free Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+11610,Metformin with rosiglitazone 500mg + 2mg Tablet Metformin Hydrochloride/Rosiglitazone Maleate 500mg + 2mg Tablet Oral,6010202,6010203,,,CPRD_GOLD
+43270,Metformin 500mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+66854,Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd) Metformin hydrochloride/Canagliflozin hemihydrate 1gram + 50mg Tablet Oral,6010210,,,,CPRD_GOLD
+65923,Metformin 1g modified-release tablets (Mawdsley-Brooks & Company Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+55711,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+66136,Glucophage SR 1000mg tablets (Waymade Healthcare Plc) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+72001,Metformin 1g modified-release tablets (DE Pharmaceuticals) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+93,Metformin 850mg tablets Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+11717,Rosiglitazone 2mg / Metformin 1g tablets Rosiglitazone maleate/Metformin hydrochloride 2mg + 1gram Tablet Oral,6010213,,,,CPRD_GOLD
+75778,Metformin 500mg tablets (Crescent Pharma Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+66855,Empagliflozin 12.5mg / Metformin 850mg tablets Empagliflozin/Metformin hydrochloride 12.5mg + 850mg Tablet Oral,6010210,,,,CPRD_GOLD
+70477,Glucient SR 750mg tablets (Consilient Health Ltd) Metformin hydrochloride 750mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+51527,Metformin 500mg tablets (Boston Healthcare Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+61043,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+62144,Metformin 500mg modified-release tablets (DE Pharmaceuticals) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+43619,Metformin 1g / Sitagliptin 50mg tablets Metformin hydrochloride/Sitagliptin phosphate 1gram + 50mg Tablet Oral,6010209,,,,CPRD_GOLD
+55270,Duformin 500mg Tablet (Dumex Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+53478,Metformin 500mg modified-release tablets (Kent Pharmaceuticals Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+52445,Linagliptin 2.5mg / Metformin 1g tablets Metformin hydrochloride/Linagliptin 1000mg + 2.5mg Tablet Oral,6010209,,,,CPRD_GOLD
+58051,Metformin 500mg/5ml oral solution Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+39729,Glucophage SR 1000mg tablets (Merck Serono Ltd) Metformin hydrochloride 1gram Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+52221,Diagemet XL 500mg tablets (Thornton & Ross Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+68636,Metformin 850mg/5ml oral solution sugar free Metformin hydrochloride 170mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+64743,Canagliflozin 50mg / Metformin 850mg tablets Metformin hydrochloride/Canagliflozin hemihydrate 850mg + 50mg Tablet Oral,6010210,,,,CPRD_GOLD
+26258,Glucamet 850mg Tablet (Opus Pharmaceuticals Ltd) Metformin hydrochloride 850mg Tablet Oral,6010202,,,,CPRD_GOLD
+66008,Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd) Metformin hydrochloride/Empagliflozin 1gram + 12.5mg Tablet Oral,6010210,,,,CPRD_GOLD
+7048,Metformin 500mg modified-release tablets Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+73285,Metformin 500mg tablets (Waymade Healthcare Plc) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+73892,Metformin 500mg tablets (Relonchem Ltd) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+73673,Metformin 500mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc) Metformin hydrochloride 100mg/1ml Oral solution Oral,6010202,,,,CPRD_GOLD
+39988,Metformin 500mg oral powder sachets sugar free Metformin hydrochloride 500mg Powder Oral,6010202,,,,CPRD_GOLD
+72052,Metformin 500mg Tablet (Lagap) Metformin hydrochloride 500mg Tablet Oral,6010202,,,,CPRD_GOLD
+61559,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd) Metformin hydrochloride 500mg Modified-release tablet Oral,6010202,,,,CPRD_GOLD
+81428,Sukkarto SR 750mg tablets (Morningside Healthcare Ltd)Metformin hydrochloride750mgModified-release tabletOral ,6010202,,,,CPRD_GOLD
+81864,Metformin 500mg modified-release tablets (Morningside Healthcare Ltd)Metformin hydrochloride500mgModified-release tabletOral ,6010202,,,,CPRD_GOLD
+82085,Metformin 500mg tablets (RX Farma)Metformin hydrochloride500mgTabletOral ,6010202,,,,CPRD_GOLD
+82349,Metformin 850mg tablets (Phoenix Healthcare Distribution Ltd)Metformin hydrochloride850mgTabletOral ,6010202,,,,CPRD_GOLD
+82372,Competact 15mg/850mg tablets (DE Pharmaceuticals)Pioglitazone hydrochloride/Metformin hydrochloride15mg + 850mgTabletOral ,6010213,,,,CPRD_GOLD
+82855,Metformin 500mg modified-release tablets (Medihealth (Northern) Ltd)Metformin hydrochloride500mgModified-release tabletOral ,6010202,,,,CPRD_GOLD
+82890,Metformin 850mg tablets (Milpharm Ltd)Metformin hydrochloride850mgTabletOral ,6010202,,,,CPRD_GOLD

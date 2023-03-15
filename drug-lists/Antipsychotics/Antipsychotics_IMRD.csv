@@ -1,0 +1,665 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+13198978,Olanzapine 7.5mg orodispersible tablets sugar free,0,0,0,,IMRD
+13200978,Olanzapine 2.5mg orodispersible tablets sugar free,0,0,0,,IMRD
+17086978,Levomepromazine 1mg capsules,4020101,0,0,,IMRD
+17719978,Prochlorperazine 3mg buccal tablets,4065400,0,0,,IMRD
+29084978,Brancico XL 50mg tablets,4020102,0,0,,IMRD
+29297978,Brancico XL 300mg tablets,4020102,0,0,,IMRD
+30144978,Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30145978,Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30146978,Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30147978,Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30148978,Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30149978,Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30150978,Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+30151978,Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes,0,0,0,,IMRD
+34055978,Aripiprazole 7.5mg/ml oral solution,0,0,0,,IMRD
+39109978,Aripiprazole 400mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AX12,IMRD
+39110978,Aripiprazole 400mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AX12,IMRD
+39298978,Aripiprazole 30mg tablets,4020100,0,0,N05AX12,IMRD
+39301978,Aripiprazole 5mg tablets,4020100,0,0,N05AX12,IMRD
+39820978,Haloperidol 200micrograms/ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+46610978,Risperidone 1mg/ml oral solution sugar free,4020100,0,0,N05AX08,IMRD
+52748979,Risperidone 2mg tablets,4020100,0,0,N05AX08,IMRD
+53671979,Levomepromazine 25mg/1ml solution for injection ampoules,4020100,0,0,N05AA02,IMRD
+54533979,Trifluoperazine 5mg tablets,4020100,0,0,N05AB06,IMRD
+54534979,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+54952979,Paliperidone 100mg+150mg initial treatment set,4020200,4020100,0,N05AX13,IMRD
+54953979,Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes and paliperidone 100mg/1ml suspension for injectio,4020200,4020100,0,N05AX13,IMRD
+55056978,Aripiprazole 30mg tablets,4020100,0,0,N05AX12,IMRD
+55523979,Risperidone 25mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+55724978,Aripiprazole 15mg tablets,4020100,0,0,N05AX12,IMRD
+59416978,Levomepromazine 100mg tablets,0,0,0,,IMRD
+59474979,Trifluoperazine 1mg/5ml oral solution sugar free,4020100,0,0,N05AB06,IMRD
+59529979,Chlorpromazine 10mg capsules,0,0,0,,IMRD
+60067979,Olanzapine 15mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+61080979,Levomepromazine 6mg tablets,0,0,0,,IMRD
+61131979,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+61145979,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+61165979,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+61166979,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+61579979,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+61581979,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+61583979,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+61585979,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+61602979,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+61605979,Olanzapine 20mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+61610979,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+63094979,Risperidone 125micrograms/5ml oral solution,0,0,0,,IMRD
+63461979,Olanzapine 1.25mg/5ml oral suspension,0,0,0,,IMRD
+64673979,Olanzapine 2.5mg/5ml oral suspension,0,0,0,,IMRD
+64675979,Olanzapine 2.5mg/5ml oral solution,0,0,0,,IMRD
+64779979,Chlorpromazine 100mg/5ml oral suspension,4020100,0,0,N05AA01,IMRD
+64872979,Levomepromazine 3mg/5ml oral solution,0,0,0,,IMRD
+64989979,Amisulpride 12.5mg/5ml oral suspension,0,0,0,,IMRD
+64991979,Amisulpride 12.5mg/5ml oral solution,0,0,0,,IMRD
+65123979,Sulpiride 150mg/5ml oral solution,0,0,0,,IMRD
+65886979,Promazine 6.25mg/5ml oral suspension,0,0,0,,IMRD
+65890979,Promazine 50mg/5ml oral suspension,4020100,0,0,N05AA03,IMRD
+65892979,Promazine 25mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+67378979,Levomepromazine 6mg/5ml oral suspension,0,0,0,,IMRD
+67380979,Levomepromazine 6mg/5ml oral solution,0,0,0,,IMRD
+67382979,Levomepromazine 6.25mg/5ml oral suspension,0,0,0,,IMRD
+67384979,Levomepromazine 6.25mg/5ml oral solution,0,0,0,,IMRD
+67390979,Levomepromazine 12.5mg/5ml oral suspension,0,0,0,,IMRD
+67394979,Levomepromazine 10mg/5ml oral suspension,0,0,0,,IMRD
+67916979,Haloperidol 5mg/5ml oral suspension,0,0,0,,IMRD
+67918979,Haloperidol 5mg/5ml oral solution,0,0,0,,IMRD
+67935979,Haloperidol 1.5mg/5ml oral suspension,4020100,0,0,N05AD01,IMRD
+68579979,Benperidol 500micrograms/5ml oral suspension,0,0,0,,IMRD
+68750978,Lurasidone 74mg tablets,4020100,0,0,N05AE05,IMRD
+68751978,Lurasidone 74mg tablets,4020100,0,0,N05AE05,IMRD
+68752978,Lurasidone 37mg tablets,4020100,0,0,N05AE05,IMRD
+68753978,Lurasidone 37mg tablets,4020100,0,0,N05AE05,IMRD
+68754978,Lurasidone 18.5mg tablets,4020100,0,0,N05AE05,IMRD
+68755978,Lurasidone 18.5mg tablets,4020100,0,0,N05AE05,IMRD
+69237979,Droperidol 5mg/5ml oral solution,4020100,0,0,N05AD08,IMRD
+72658978,Pimozide 1mg tablets,0,0,0,,IMRD
+78405978,Aripiprazole 400mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AX12,IMRD
+78406978,Aripiprazole 400mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AX12,IMRD
+78628978,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+79122979,Droperidol 1mg capsules,0,0,0,,IMRD
+79730979,Levomepromazine 5mg/5ml oral solution,0,0,0,,IMRD
+79736979,Levomepromazine 2.5mg/5ml oral suspension,0,0,0,,IMRD
+79738979,Levomepromazine 2.5mg/5ml oral solution,0,0,0,,IMRD
+79816978,Risperidone 2mg tablets,4020100,0,0,N05AX08,IMRD
+79928979,Haloperidol 500micrograms/5ml oral suspension,0,0,0,,IMRD
+79930979,Haloperidol 500micrograms/5ml oral solution,0,0,0,,IMRD
+79932979,Haloperidol 2mg/5ml oral suspension,0,0,0,,IMRD
+79934979,Haloperidol 2mg/5ml oral solution,4020100,0,0,N05AD01,IMRD
+80619979,Chlorpromazine 10mg/5ml oral suspension,0,0,0,,IMRD
+80974998,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+80969998,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+80970998,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+80971998,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+80972998,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+80973998,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+80976998,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+80977998,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+80978998,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+80979998,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+80980998,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+80981998,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+81029979,Amisulpride 50mg/5ml oral suspension,0,0,0,,IMRD
+81040998,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+81041998,Olanzapine 5mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+81043998,Olanzapine 15mg tablets,4020100,0,0,N05AH03,IMRD
+81081998,Haloperidol 200micrograms/ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+81115998,Haloperidol 1mg/5ml oral suspension,0,0,0,,IMRD
+81131998,Amisulpride 25mg/5ml oral solution,0,0,0,,IMRD
+81170998,Asenapine 10mg sublingual tablets sugar free,4020300,4020100,0,N05AH05,IMRD
+81172998,Asenapine 5mg sublingual tablets sugar free,4020300,4020100,0,N05AH05,IMRD
+81418998,Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81419998,Paliperidone 100mg/1ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81420998,Paliperidone 75mg/0.75ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81421998,Paliperidone 50mg/0.5ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81422998,Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81423998,Paliperidone 100mg/1ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81424998,Paliperidone 75mg/0.75ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81425998,Paliperidone 50mg/0.5ml suspension for injection pre-filled syringes,4020200,4020100,0,N05AX13,IMRD
+81467998,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+81468998,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+82198998,Olanzapine embonate 405mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AH03,IMRD
+82199998,Olanzapine embonate 300mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AH03,IMRD
+82200998,Olanzapine embonate 405mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AH03,IMRD
+82201998,Olanzapine embonate 300mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AH03,IMRD
+82202998,Olanzapine embonate 210mg powder and solvent for suspension for injection vials,4020200,4020100,0,N05AH03,IMRD
+82225998,Benperidol 250microgram tablets,4020100,0,0,N05AD07,IMRD
+82241998,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+82583978,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+82709998,Levomepromazine 6mg tablet,0,0,0,,IMRD
+82798998,Clozapine 50mg/ml oral suspension sugar free,4020100,0,0,N05AH02,IMRD
+82799998,Clozapine 50mg/ml oral suspension sugar free,4020100,0,0,N05AH02,IMRD
+82800998,Clozapine 200mg tablets,4020100,0,0,N05AH02,IMRD
+82801998,Clozapine 200mg tablets,4020100,0,0,N05AH02,IMRD
+82802998,Clozapine 50mg tablets,4020100,0,0,N05AH02,IMRD
+82803998,Clozapine 50mg tablets,4020100,0,0,N05AH02,IMRD
+82873998,Droperidol 2.5mg/1ml solution for injection ampoules,4060000,4020100,0,N05AD08,IMRD
+82892998,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+82920998,Prochlorperazine 5mg/5ml oral solution,4060000,0,0,N05AB04,IMRD
+82921998,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+83019998,Pericyazine 10mg tablets,4020100,0,0,N05AC01,IMRD
+83020998,Pericyazine 2.5mg tablets,4020100,0,0,N05AC01,IMRD
+83786998,Haloperidol 5mg/1ml solution for injection ampoules,4020100,0,0,N05AD01,IMRD
+83787998,Haloperidol 5mg/1ml solution for injection ampoules,4020100,0,0,N05AD01,IMRD
+83903998,Aripiprazole 9.75mg/1.3ml solution for injection vials,4020100,0,0,N05AX12,IMRD
+84522998,Paliperidone 9mg modified-release tablets,4020100,0,0,N05AX13,IMRD
+84523998,Paliperidone 6mg modified-release tablets,4020100,0,0,N05AX13,IMRD
+84524998,Paliperidone 3mg modified-release tablets,4020100,0,0,N05AX13,IMRD
+84525998,Paliperidone 9mg modified-release tablets,4020100,0,0,N05AX13,IMRD
+84526998,Paliperidone 6mg modified-release tablets,4020100,0,0,N05AX13,IMRD
+84527998,Paliperidone 3mg modified-release tablets,4020100,0,0,N05AX13,IMRD
+85038998,Risperidone 4mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+85039998,Risperidone 3mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+85040998,Risperidone 4mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+85042998,Risperidone 3mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+85164998,Chlorpromazine oral liquid,23000000,0,0,,IMRD
+85294998,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85295998,Fluphenazine decanoate 50mg/0.5ml oily injection,4020200,0,0,N05AB02,IMRD
+85296998,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85297998,Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85298998,Fluphenazine decanoate 50mg/2ml oily injection,4020200,0,0,N05AB02,IMRD
+85299998,Fluphenazine decanoate 25mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85300998,Fluphenazine decanoate 12.5mg/0.5ml oily injection,4020200,0,0,N05AB02,IMRD
+85301998,Fluphenazine decanoate 50mg/2ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85302998,Fluphenazine decanoate 25mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85303998,Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+85376998,Olanzapine 20mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+85377998,Olanzapine 20mg tablets,4020100,0,0,N05AH03,IMRD
+85523998,Haloperidol oral solution,23000000,0,0,,IMRD
+85607998,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules,4020200,0,0,N05AF05,IMRD
+85609998,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules,4020200,0,0,N05AF05,IMRD
+85613998,Flupentixol 20mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+85614998,Flupentixol 20mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+85702998,Chlorpromazine 50mg/2ml solution for injection ampoules,15010401,4020100,0,N05AA01,IMRD
+85704998,Chlorpromazine 25mg/1ml solution for injection ampoules,15010401,4020100,0,N05AA01,IMRD
+85722998,Prochlorperazine 12.5mg/1ml solution for injection ampoules,4060000,0,0,N05AB04,IMRD
+85724998,Prochlorperazine 12.5mg/1ml solution for injection ampoules,4060000,0,0,N05AB04,IMRD
+85832998,Aripiprazole 1mg/ml oral solution,4020100,0,0,N05AX12,IMRD
+85833998,Aripiprazole 15mg orodispersible tablets sugar free,4020100,0,0,N05AX12,IMRD
+85834998,Aripiprazole 10mg orodispersible tablets sugar free,4020100,0,0,N05AX12,IMRD
+85835998,Aripiprazole 1mg/ml oral solution,4020100,0,0,N05AX12,IMRD
+85836998,Aripiprazole 15mg orodispersible tablets sugar free,4020100,0,0,N05AX12,IMRD
+85837998,Aripiprazole 10mg orodispersible tablets sugar free,4020100,0,0,N05AX12,IMRD
+86324998,Olanzapine 20mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+86325998,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+86332998,Zuclopenthixol acetate 100mg/2ml oily injection,4020100,4020200,0,N05AF05,IMRD
+86333998,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules,4020100,4020200,0,N05AF05,IMRD
+86334998,Zuclopenthixol acetate 100mg/2ml solution for injection ampoules,4020100,0,0,N05AF05,IMRD
+86335998,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules,4020100,0,0,N05AF05,IMRD
+86420998,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86421998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86422998,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86423998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86433998,Amisulpride 25mg/5ml oral suspension,4020100,0,0,,IMRD
+86536998,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86537998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+86539998,Flupentixol 20mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+87019998,Clozapine 100mg tablets,4020100,0,0,N05AH02,IMRD
+86983998,Risperidone 500microgram orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+86984998,Risperidone 500microgram orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+87020998,Clozapine 25mg tablets,4020100,0,0,N05AH02,IMRD
+87089998,Aripiprazole 5mg tablets,4020100,0,0,N05AX12,IMRD
+87090998,Aripiprazole 5mg tablets,4020100,0,0,N05AX12,IMRD
+87190998,Haloperidol 250micrograms/5ml oral suspension,4020100,0,0,,IMRD
+87340998,Clozapine 100mg tablets,4020100,0,0,N05AH02,IMRD
+87341998,Clozapine 25mg tablets,4020100,0,0,N05AH02,IMRD
+87435998,Trifluoperazine 5mg/5ml oral solution sugar free,4020100,0,0,N05AB06,IMRD
+87448998,Aripiprazole 30mg tablets,4020100,0,0,N05AX12,IMRD
+87449998,Aripiprazole 15mg tablets,4020100,0,0,N05AX12,IMRD
+87450998,Aripiprazole 10mg tablets,4020100,0,0,N05AX12,IMRD
+87451998,Aripiprazole 30mg tablets,4020100,0,0,N05AX12,IMRD
+87452998,Aripiprazole 15mg tablets,4020100,0,0,N05AX12,IMRD
+87453998,Aripiprazole 10mg tablets,4020100,0,0,N05AX12,IMRD
+87504998,Levomepromazine 6mg tablets,23010000,0,0,,IMRD
+87505998,Levomepromazine 6mg tablets,23010000,0,0,,IMRD
+87647998,Olanzapine 10mg powder for solution for injection vials,4020100,0,0,N05AH03,IMRD
+88163998,Risperidone 37.5mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+88164998,Risperidone 25mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+88383996,Amisulpride 400mg tablets,4020100,0,0,N05AL05,IMRD
+88383997,Amisulpride 200mg tablets,4020100,0,0,N05AL05,IMRD
+88383998,Amisulpride 50mg tablets,4020100,0,0,N05AL05,IMRD
+88387996,Amisulpride 400mg tablets,4020100,0,0,N05AL05,IMRD
+88387997,Amisulpride 200mg tablets,4020100,0,0,N05AL05,IMRD
+88387998,Amisulpride 50mg tablets,4020100,0,0,N05AL05,IMRD
+88885998,Benperidol 250microgram tablets,4020100,0,0,N05AD07,IMRD
+89497979,Sulpiride 200mg/5ml oral solution,4020100,0,0,N05AL01,IMRD
+89520979,Aripiprazole 15mg tablets,4020100,0,0,N05AX12,IMRD
+89524979,Aripiprazole 10mg tablets,4020100,0,0,N05AX12,IMRD
+89529979,Aripiprazole 5mg tablets,4020100,0,0,N05AX12,IMRD
+89532979,Aripiprazole 5mg tablets,4020100,0,0,N05AX12,IMRD
+89567996,Olanzapine 10mg tablets,4020100,0,0,N05AH03,IMRD
+89567997,Olanzapine 7.5mg tablets,4020100,0,0,N05AH03,IMRD
+89567998,Olanzapine 5mg tablets,4020100,0,0,N05AH03,IMRD
+89569996,Olanzapine 10mg tablets,4020100,0,0,N05AH03,IMRD
+89569997,Olanzapine 7.5mg tablets,4020100,0,0,N05AH03,IMRD
+89569998,Olanzapine 5mg tablets,4020100,0,0,N05AH03,IMRD
+89908998,Risperidone 50mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+89981979,Olanzapine 15mg tablets,4020100,0,0,N05AH03,IMRD
+90158998,Sulpiride 200mg/5ml oral solution sugar free,4020100,0,0,N05AL01,IMRD
+90190979,Olanzapine 20mg tablets,4020100,0,0,N05AH03,IMRD
+90209998,Amisulpride 100mg/ml oral solution sugar free,4020100,0,0,N05AL05,IMRD
+90395998,Risperidone 1mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+90396998,Risperidone 2mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+90659996,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+90659997,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+90659998,Olanzapine 2.5mg tablets,4020100,0,0,N05AH03,IMRD
+90664998,Olanzapine 2.5mg tablets,4020100,0,0,N05AH03,IMRD
+90805998,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+91077998,Amisulpride 100mg tablets,4020100,0,0,N05AL05,IMRD
+91083998,Amisulpride 100mg tablets,4020100,0,0,N05AL05,IMRD
+91364998,Olanzapine 15mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+91374998,Risperidone 1mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+91425998,Amisulpride 100mg/ml oral solution sugar free,4020100,0,0,N05AL05,IMRD
+91618997,Olanzapine 10mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+91618998,Olanzapine 5mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+91676998,Risperidone 25mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+91785990,Amisulpride 50mg tablets,4020100,0,0,N05AL05,IMRD
+91824990,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+91825990,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+91827990,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+91828990,Olanzapine 20mg tablets,4020100,0,0,N05AH03,IMRD
+91864990,Olanzapine 20mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+91866990,Olanzapine 10mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+91867990,Olanzapine 5mg orodispersible tablets,4020100,0,0,N05AH03,IMRD
+91869990,Olanzapine 15mg tablets,4020100,0,0,N05AH03,IMRD
+91870990,Olanzapine 10mg tablets,4020100,0,0,N05AH03,IMRD
+91871990,Olanzapine 7.5mg tablets,4020100,0,0,N05AH03,IMRD
+91921998,Haloperidol 1mg/ml sugar free Oral solution,4020100,0,0,N05AD01,IMRD
+91932990,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+91968998,Risperidone 500microgram tablets,4020100,0,0,N05AX08,IMRD
+92023998,Risperidone 500microgram tablets,4020100,0,0,N05AX08,IMRD
+92089998,Risperidone 37.5mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+92107998,Risperidone 2mg orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+92352990,Risperidone 500microgram orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+92491990,Risperidone 500microgram orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+92623996,Trifluoperazine 2mg modified-release capsules,4020100,0,0,N05AB06,IMRD
+92623997,Trifluoperazine 1mg/5ml oral solution sugar free,4020100,0,0,N05AB06,IMRD
+92623998,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+92625990,Risperidone 500microgram orodispersible tablets sugar free,4020100,0,0,N05AX08,IMRD
+92731990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+92785990,Haloperidol 5mg/1ml solution for injection ampoules,4020101,0,0,,IMRD
+92815996,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+92815997,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+92815998,Haloperidol 1.5mg/5ml sugar free oral solution,4020100,0,0,N05AD01,IMRD
+92899990,Risperidone 2mg Tablet,4020100,0,0,,IMRD
+92908990,Risperidone 1mg/ml oral solution sugar free,4020100,0,0,N05AX08,IMRD
+92917990,Risperidone 1mg tablets,4020100,0,0,N05AX08,IMRD
+92918990,Risperidone 500microgram tablets,4020102,0,0,,IMRD
+92953990,Risperidone 4mg tablets,4020100,0,0,N05AX08,IMRD
+92954990,Risperidone 3mg tablets,4020100,0,0,N05AX08,IMRD
+92955990,Risperidone 2mg tablets,4020100,0,0,N05AX08,IMRD
+92956990,Risperidone 1mg tablets,4020100,0,0,N05AX08,IMRD
+92957990,Risperidone 500microgram tablets,4020100,0,0,N05AX08,IMRD
+93032992,Fluphenazine decanoate 12.5 mg inj,4020200,0,0,N05AB02,IMRD
+93092998,Fluphenazine decanoate 25mg/1ml oily injection,4020200,0,0,N05AB02,IMRD
+93240996,Risperidone 6mg tablets,4020100,0,0,N05AX08,IMRD
+93240997,Risperidone 1mg/ml oral solution sugar free,4020100,0,0,N05AX08,IMRD
+93240998,Risperidone 4mg tablets,4020100,0,0,N05AX08,IMRD
+93242998,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+93328990,Promazine 25mg tablets,4020100,0,0,N05AA03,IMRD
+93460998,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+93476998,Promazine 100mg tablet,4020100,0,0,,IMRD
+93477997,Promazine 50mg tablets,4020100,0,0,N05AA03,IMRD
+93477998,Promazine 25mg tablets,4020100,0,0,N05AA03,IMRD
+93519998,Zuclopenthixol acetate 100mg/2ml oily injection,4020100,0,0,N05AF05,IMRD
+93520998,Zuclopenthixol acetate 50mg/ml oily injection,4020100,0,0,N05AF05,IMRD
+93587998,Chlorpromazine 100mg suppositories,4020100,0,0,N05AA01,IMRD
+93590998,Chlorpromazine 25mg/ml injection,4020100,0,0,N05AA01,IMRD
+93593997,Chlorpromazine 100mg/5ml oral solution,4020100,4060000,0,N05AA01,IMRD
+93593998,Chlorpromazine 100mg/5ml oral suspension,4020100,0,0,N05AA01,IMRD
+93595997,Clozapine 100mg tablets,4020100,0,0,N05AH02,IMRD
+93595998,Clozapine 25mg tablets,4020100,0,0,N05AH02,IMRD
+93596997,Clozapine 100mg tablets,4020100,0,0,N05AH02,IMRD
+93596998,Clozapine 25mg tablets,4020100,0,0,N05AH02,IMRD
+93674998,Droperidol 1mg/1ml oral liquid,4020100,0,0,N05AD08,IMRD
+93675998,Droperidol 5mg/ml injection,4020100,0,0,N05AD08,IMRD
+93695997,Haloperidol 20mg/2ml solution for injection ampoules,4020100,0,0,N05AD01,IMRD
+93695998,Haloperidol 5mg/ml injection,4020100,0,0,N05AD01,IMRD
+93707998,Prochlorperazine mesilate 12.5mg/ml injection,4060000,0,0,N05AB04,IMRD
+93708997,Promazine 50mg/ml injection,4020100,0,0,N05AA03,IMRD
+93708998,Promazine 50mg/ml injection,4020100,0,0,N05AA03,IMRD
+94006996,Loxapine 50mg capsules,4020100,0,0,N05AH01,IMRD
+94006997,Loxapine 25mg capsules,4020100,0,0,N05AH01,IMRD
+94006998,Loxapine 10mg capsules,4020100,0,0,N05AH01,IMRD
+94007996,Loxapine 50mg capsules,4020100,0,0,N05AH01,IMRD
+94007997,Loxapine 25mg capsules,4020100,0,0,N05AH01,IMRD
+94007998,Loxapine 10mg capsules,4020100,0,0,N05AH01,IMRD
+94107992,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+94111992,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+94351992,Stemetil 2.5 mg sup,4060000,0,0,,IMRD
+94460998,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+94488997,Prochlorperazine maleate 15mg modified release capsul,4060000,0,0,N05AB04,IMRD
+94488998,Prochlorperazine maleate 10mg modified release capsule,4060000,0,0,N05AB04,IMRD
+94544990,Amisulpride 200mg tablets,4020100,0,0,N05AL05,IMRD
+94545990,Amisulpride 100mg tablets,4020100,0,0,N05AL05,IMRD
+94546990,Amisulpride 50mg tablets,4020100,0,0,N05AL05,IMRD
+94626998,Trifluoperazine with tranylcypromine 1mg + 10mg tablet,4030200,4030200,4020100,N06C,IMRD
+94630997,Nortriptyline 30mg / fluphenazine 1.5mg tablets,4030100,4030100,4020100,N06C,IMRD
+94630998,Nortriptyline 10mg / fluphenazine 500microgram tablets,4030100,4020100,4030100,N06C,IMRD
+94761997,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+94761998,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+94821992,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+94822992,Chlorpromazine 10mg tablets,4020100,0,0,N05AA01,IMRD
+94836998,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+94844990,Amisulpride 200mg tablets,4020100,0,0,N05AL05,IMRD
+94845990,Amisulpride 100mg tablets,4020100,0,0,N05AL05,IMRD
+94846990,Amisulpride 50mg tablets,4020100,0,0,N05AL05,IMRD
+94879998,Flupentixol 40mg/2ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+94886998,Prochlorperazine mesylate 5mg/sachet effervescent granules,4060000,0,0,N05AB04,IMRD
+95071998,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules,4020200,0,0,N05AF05,IMRD
+95086992,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+95118996,Trifluoperazine 5mg/5ml oral solution sugar free,4020100,0,0,N05AB06,IMRD
+95118997,Trifluoperazine 1mg/ml injection,4020100,0,0,N05AB06,IMRD
+95118998,Trifluoperazine 15mg modified-release capsules,4020100,0,0,N05AB06,IMRD
+95119996,Trifluoperazine 10mg modified-release capsules,4020100,0,0,N05AB06,IMRD
+95119997,Trifluoperazine 5mg tablets,4020100,0,0,N05AB06,IMRD
+95119998,Trifluoperazine 10mg/ml concentrate,4020100,0,0,N05AB06,IMRD
+95143998,Tranylcypromine with trifluoperazine tablet,4030200,4030200,4020100,N06C,IMRD
+95200992,Chlorpromazine hydrochloride 100mg/5ml sugar free suspension,4020100,0,0,N05AA01,IMRD
+95226996,Sulpiride 400mg tablets,4020100,0,0,N05AL01,IMRD
+95226997,Sulpiride 200mg/5ml oral solution sugar free,4020100,0,0,N05AL01,IMRD
+95226998,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+95242990,Haloperidol 500microgram tablets,4020100,0,0,N05AD01,IMRD
+95364990,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+95365990,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+95385997,Promazine 50mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+95385998,Promazine 50mg/5ml oral solution sugar free,4020100,0,0,N05AA03,IMRD
+95386996,Promazine 12.5mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+95386997,Promazine 25mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+95386998,Promazine 50mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+95394997,Prochlorperazine 5mg effervescent granules sachets sugar free,4060000,0,0,N05AB04,IMRD
+95394998,Prochlorperazine 5mg/5ml oral solution,4060000,0,0,N05AB04,IMRD
+95395997,Prochlorperazine 5mg suppositories,4060000,0,0,N05AB04,IMRD
+95395998,Prochlorperazine 25mg suppositories,4060000,0,0,N05AB04,IMRD
+95396997,Prochlorperazine 25mg tablets,4060000,0,0,N05AB04,IMRD
+95396998,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+95516996,Pimozide 10mg tablet,4020100,0,0,N05AG02,IMRD
+95516997,Pimozide 4mg tablets,4020100,0,0,N05AG02,IMRD
+95516998,Pimozide 2mg tablets,4020100,0,0,N05AG02,IMRD
+95519998,Risperidone 50mg powder and solvent for suspension for injection vials,4020100,0,0,N05AX08,IMRD
+95524990,Sulpiride 400mg tablets,4020100,0,0,N05AL01,IMRD
+95576998,Pericyazine 10mg/5ml oral solution,4020100,0,0,N05AC01,IMRD
+95577996,Pericyazine 25mg tablet,4020100,0,0,N05AC01,IMRD
+95577997,Pericyazine 10mg tablets,4020100,0,0,N05AC01,IMRD
+95577998,Pericyazine 2.5mg tablets,4020100,0,0,N05AC01,IMRD
+95607992,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+95687990,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+95868979,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+95870979,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+95871979,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+95876979,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+95877979,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+95880979,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+95918998,Levomepromazine maleate 25mg tablets,4020100,0,0,N05AA02,IMRD
+95919997,Levomepromazine 25mg tablets,4020100,0,0,N05AA02,IMRD
+95919998,Levomepromazine 25mg/1ml solution for injection ampoules,4020100,0,0,N05AA02,IMRD
+95959992,"Morphine,cocaine & chlorpromazine mix",4070200,0,0,N02A,IMRD
+95979998,Benperidol 250microgram tablets,4020100,0,0,N05AD07,IMRD
+95980998,Benperidol 250microgram tablets,4020100,0,0,N05AD07,IMRD
+96102992,Chlorpromazine 50mg/2ml solution for injection ampoules,4020100,0,0,N05AA01,IMRD
+96115990,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+96242997,Haloperidol 10mg/5ml oral liquid,4020100,0,0,N05AD01,IMRD
+96242998,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+96244998,Haloperidol 500mcg tablets,4020100,0,0,N05AD01,IMRD
+96245997,Haloperidol decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AD01,IMRD
+96245998,Haloperidol decanoate 50mg/1ml solution for injection ampoules,4020200,0,0,N05AD01,IMRD
+96246998,Haloperidol 500microgram tablets,4020100,0,0,N05AD01,IMRD
+96247996,Haloperidol 200micrograms/ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+96247997,Haloperidol 10mg/ml oral solution,4020100,0,0,N05AD01,IMRD
+96247998,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+96248996,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+96248997,Haloperidol 20mg tablets,4020100,0,0,N05AD01,IMRD
+96248998,Haloperidol 10mg tablets,4020100,0,0,N05AD01,IMRD
+96249990,Haloperidol 5mg/5ml oral solution sugar free,4020101,0,0,,IMRD
+96249996,Haloperidol 5mg tablets,4020100,0,0,N05AD01,IMRD
+96249997,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+96249998,Haloperidol 500microgram tablets,4020100,0,0,N05AD01,IMRD
+96265992,Haldol 20 mg tab,4020100,0,0,N05AD01,IMRD
+96286990,Fluphenazine decanoate 25mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+96303997,Droperidol 1mg/ml liquid,4020100,0,0,N05AD08,IMRD
+96303998,Droperidol 10mg tablets,4020100,0,0,N05AD08,IMRD
+96307992,Haloperidol decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AD01,IMRD
+96342992,Fluphenazine decanoate 12.5mg/0.5ml oily injection,4020200,0,0,N05AB02,IMRD
+96344979,Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+96360979,Amisulpride 200mg tablets,4020100,0,0,N05AL05,IMRD
+96363979,Amisulpride 200mg tablets,4020100,0,0,N05AL05,IMRD
+96389990,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+96404979,Olanzapine 10mg oral lyophilisates sugar free,4020100,0,0,N05AH03,IMRD
+96414992,Prochlorperazine 5mg/5ml oral solution,4060000,0,0,N05AB04,IMRD
+96416979,Olanzapine 2.5mg tablets,4020100,0,0,N05AH03,IMRD
+96417979,Olanzapine 2.5mg tablets,4020102,0,0,,IMRD
+96421979,Olanzapine 2.5mg tablets,4020100,0,0,N05AH03,IMRD
+96427979,Olanzapine 10mg tablets,4020100,0,0,N05AH03,IMRD
+96450979,Olanzapine 5mg tablets,4020100,0,0,N05AH03,IMRD
+96498997,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+96498998,Fluphenazine decanoate 25mg/ml injection,4020200,0,0,N05AB02,IMRD
+96499998,Fluphenazine hydrochloride & nortriptyline 500mcg+10mg tablets,4030100,4020100,4030100,N06C,IMRD
+96500998,Fluphenazine enanthate 25mg/ml injection,4020200,0,0,N05AB02,IMRD
+96501996,Fluphenazine 5mg tablets,4020100,0,0,N05AB02,IMRD
+96501997,Fluphenazine 2.5mg tablets,4020100,0,0,N05AB02,IMRD
+96501998,Fluphenazine 1mg tablets,4020100,0,0,N05AB02,IMRD
+96502996,Flupentixol 200mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+96502997,Flupentixol 100mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+96502998,Flupentixol decanoate 20mg/ml injection,4020200,0,0,N05AF01,IMRD
+96503998,Flupentixol 3mg tablets,4020100,0,0,N05AF01,IMRD
+96504997,Flupentixol 1mg tablets,4030400,4020100,0,N05AF01,IMRD
+96504998,Flupentixol 500microgram tablets,4030400,4020100,0,N05AF01,IMRD
+96551998,Fentanyl with droperidol 500microgramwith2.5mg/ml injection,15010403,15010403,4020100,N01AH51,IMRD
+96554979,Risperidone 1mg tablets,4020100,0,0,N05AX08,IMRD
+96580979,Trifluoperazine 5mg tablets,4020100,0,0,N05AB06,IMRD
+96586979,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+96614992,Chlorpromazine 100mg/5ml oral suspension,4020100,0,0,N05AA01,IMRD
+96628997,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules,4020200,0,0,N05AF05,IMRD
+96628998,Zuclopenthixol decanoate 200mg/ml oily injection,4020200,0,0,N05AF05,IMRD
+96629996,Zuclopenthixol 25mg tablets,4020100,0,0,N05AF05,IMRD
+96629997,Zuclopenthixol 10mg tablets,4020100,0,0,N05AF05,IMRD
+96629998,Zuclopenthixol 2mg tablets,4020100,0,0,N05AF05,IMRD
+96634979,Levomepromazine 25mg/1ml solution for injection ampoules,4020100,0,0,N05AA02,IMRD
+96645979,Haloperidol 20mg tablets,4020100,0,0,N05AD01,IMRD
+96662979,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+96673979,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+96674979,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+96687979,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+96689979,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+96689996,Chlorpromazine hydrochloride 100mg tablets,4020100,0,0,N05AA01,IMRD
+96689997,Chlorpromazine hydrochloride 50mg tablets,4020100,0,0,N05AA01,IMRD
+96689998,Chlorpromazine hydrochloride 25mg tablets,4020100,0,0,N05AA01,IMRD
+96690996,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+96690997,Chlorpromazine 50mg/5ml oral suspension,4020100,4060000,0,N05AA01,IMRD
+96690998,Chlorpromazine 100mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+96691996,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+96691997,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+96691998,Chlorpromazine 10mg tablets,4020100,0,0,N05AA01,IMRD
+96701979,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+96702979,Chlorpromazine 10mg tablets,4020100,0,0,N05AA01,IMRD
+96742990,Fluphenazine decanoate 25mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+96750992,Promazine 25mg tablets,4020100,0,0,N05AA03,IMRD
+96758992,Haloperidol 20mg/2ml injection,4020100,0,0,N05AD01,IMRD
+96839990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+96889988,Haloperidol 500microgram tablets,4020100,0,0,N05AD01,IMRD
+96889990,Haloperidol 5mg tablets,4020100,0,0,N05AD01,IMRD
+96891989,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+96902992,Prochlorperazine 3mg buccal tablets,4060000,0,0,N05AB04,IMRD
+96914992,Risperidone 3mg tablets,4020100,0,0,N05AX08,IMRD
+96919989,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+96919990,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+96950989,Promazine 50mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+96950990,Promazine 25mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+97021992,Chlorpromazine 50mg/2ml solution for injection ampoules,15010401,4020100,0,N05AA01,IMRD
+97030990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+97111998,Olanzapine 15mg tablets,4020100,0,0,N05AH03,IMRD
+97129992,Chlorpromazine hcl 10 mg inj,4020100,0,0,,IMRD
+97131992,Chlorpromazine 25mg suppositories,4020100,4060000,0,N05AA01,IMRD
+97132992,Chlorpromazine 50mg/2ml solution for injection ampoules,4020100,0,0,N05AA01,IMRD
+97134992,Chlorpromazine 200 mg tab,4020100,0,0,,IMRD
+97135989,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+97135990,Haloperidol 500microgram tablets,4020100,0,0,,IMRD
+97163989,Sulpiride 400mg tablets,4020100,0,0,N05AL01,IMRD
+97163990,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+97176998,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+97236988,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+97236989,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+97236990,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+97334992,Droperidol 5 mg/5ml eli,4020100,0,0,N05AD08,IMRD
+97340998,Prochlorperazine mesylate 25mg/2ml injection,4060000,0,0,N05AB04,IMRD
+97342996,Pimozide 10mg tablets,4020100,0,0,N05AG02,IMRD
+97342997,Pimozide 4mg tablets,4020100,0,0,N05AG02,IMRD
+97342998,Pimozide 2mg tablets,4020100,0,0,N05AG02,IMRD
+97343997,Droperidol 10mg/2ml injection,4020100,0,0,N05AD08,IMRD
+97343998,Droperidol 10mg tablets,4020100,0,0,N05AD08,IMRD
+97344997,Haloperidol decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AD01,IMRD
+97344998,Haloperidol decanoate 50mg/1ml solution for injection ampoules,4020200,0,0,N05AD01,IMRD
+97345997,Haloperidol 10mg/2ml injection,4020100,0,0,N05AD01,IMRD
+97345998,Haloperidol 10mg/ml oral solution,4020100,0,0,N05AD01,IMRD
+97346996,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+97346997,Haloperidol 10mg tablets,4020100,0,0,N05AD01,IMRD
+97346998,Haloperidol 5mg tablets,4020100,0,0,N05AD01,IMRD
+97406989,Promazine 50mg/ml injection,4020100,0,0,N05AA03,IMRD
+97433998,Olanzapine 15mg tablets,4020100,0,0,N05AH03,IMRD
+97466992,Fluphenazine hcl eli,4020100,0,0,,IMRD
+97516998,Flupentixol 200mg/1ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+97568992,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+97632998,Fluphenazine hydrochloride & nortriptyline 1.5mg+30mg tablets,4030100,4020100,4030100,N06C,IMRD
+97634998,Fluphenazine hydrochloride & nortriptyline 500mcg+10mg tablets,4030100,4020100,4030100,N06C,IMRD
+97725990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+97880996,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+97858990,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+97864998,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+97880997,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+97871998,Chlorpromazine hydrochloride 100mg suppositories,4020100,0,0,N05AA01,IMRD
+97874998,Chlorpromazine 50mg/2ml solution for injection ampoules,15010401,4020100,0,N05AA01,IMRD
+97877998,Chlorpromazine hydrochloride 100mg/5ml sugar free suspension,4020100,0,0,N05AA01,IMRD
+97878992,Pericyazine 2.5 mg eli,4020100,0,0,,IMRD
+97879998,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+97880998,Chlorpromazine 10mg tablets,4020100,0,0,N05AA01,IMRD
+97905990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+97944997,Haloperidol 20mg/2ml injection,4020100,0,0,N05AD01,IMRD
+97944998,Haloperidol 5mg/1ml solution for injection ampoules,4020100,0,0,N05AD01,IMRD
+97945996,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+97945997,Haloperidol 20mg tablets,4020100,0,0,N05AD01,IMRD
+97945998,Haloperidol 10mg tablets,4020100,0,0,N05AD01,IMRD
+97946996,Haloperidol 5mg tablets,4020100,0,0,N05AD01,IMRD
+97946997,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+97946998,Haloperidol 500microgram capsules,4020100,0,0,N05AD01,IMRD
+97966990,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+97995998,Olanzapine 15mg orodispersible tablets sugar free,4020100,0,0,N05AH03,IMRD
+98052989,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+98052990,Trifluoperazine 5mg tablets,4020100,0,0,N05AB06,IMRD
+98062989,Chlorpromazine 100mg/5ml oral solution,4020100,4060000,0,N05AA01,IMRD
+98062990,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+98063989,Promazine 50mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+98063990,Promazine 25mg/5ml oral solution,4020100,0,0,N05AA03,IMRD
+98080990,Haloperidol 1.5mg/5ml sugar free oral solution,4020100,0,0,N05AD01,IMRD
+98106990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+98131989,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+98131990,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+98149992,Sulpiride 500 mg tab,4020100,0,0,,IMRD
+98154990,Haloperidol 5mg tablets,4020100,0,0,N05AD01,IMRD
+98155990,Haloperidol 5mg/1ml solution for injection ampoules,4020100,0,0,N05AD01,IMRD
+98186990,Chlorpromazine 25mg/ml injection,4020100,0,0,N05AA01,IMRD
+98189990,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+98192988,Chlorpromazine 25mg tablets,4020100,0,0,N05AA01,IMRD
+98192989,Chlorpromazine 100mg tablets,4020100,0,0,N05AA01,IMRD
+98192990,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+98203992,Trifluoperazine 5mg/5ml oral solution sugar free,4020100,0,0,N05AB06,IMRD
+98206992,Trifluoperazine tab,4020100,0,0,,IMRD
+98287990,Prochlorperazine 12.5mg/1ml solution for injection ampoules,4060000,0,0,N05AB04,IMRD
+98360988,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+98400990,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+98454990,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+98544988,Haloperidol 5mg tablets,4020100,0,0,N05AD01,IMRD
+98544990,Haloperidol 1.5mg tablets,4020100,0,0,N05AD01,IMRD
+98585996,Risperidone 3mg tablets,4020100,0,0,N05AX08,IMRD
+98585997,Risperidone 2mg tablets,4020100,0,0,N05AX08,IMRD
+98585998,Risperidone 1mg tablets,4020100,0,0,N05AX08,IMRD
+98625988,Haloperidol 200micrograms/ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+98625989,Haloperidol 5mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+98625990,Haloperidol 10mg/5ml oral solution sugar free,4020100,0,0,N05AD01,IMRD
+98668990,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+98759998,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,4020200,0,0,N05AB02,IMRD
+98766997,Flupentixol 40mg/2ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+98766998,Flupentixol decanoate 200mg/10ml oily injection,4020200,0,0,N05AF01,IMRD
+98767998,Zuclopenthixol decanoate 200mg/ml oily injection,4020200,0,0,N05AF05,IMRD
+98783998,Promazine hydrochloride 50mg/5ml suspension,4020100,0,0,N05AA03,IMRD
+98786996,Promazine 100mg tablet,4020100,0,0,,IMRD
+98786997,Promazine 50mg tablets,4020100,0,0,N05AA03,IMRD
+98786998,Promazine 25mg tablets,4020100,0,0,,IMRD
+98796997,Sulpiride 400mg tablets,4020100,0,0,N05AL01,IMRD
+98796998,Sulpiride 200mg tablets,4020100,0,0,N05AL01,IMRD
+98847997,Prochlorperazine 25mg suppositories,4060000,0,0,N05AB04,IMRD
+98847998,Prochlorperazine 5mg suppositories,4060000,0,0,N05AB04,IMRD
+98853997,Levomepromazine 25mg tablets,4020100,0,0,N05AA02,IMRD
+98853998,Levomepromazine 25mg/1ml solution for injection ampoules,4020100,0,0,N05AA02,IMRD
+98865998,Pericyazine 10mg/5ml oral solution,4020100,0,0,N05AC01,IMRD
+98972997,Prochlorperazine maleate 15mg modified release capsul,4060000,0,0,N05AB04,IMRD
+98972998,Prochlorperazine maleate 10mg modified release capsule,4060000,0,0,N05AB04,IMRD
+99007990,Chlorpromazine 25mg/5ml oral solution,4020100,0,0,N05AA01,IMRD
+99010990,Chlorpromazine 50mg tablets,4020100,0,0,N05AA01,IMRD
+99093988,Promazine 50mg tablets,4020100,0,0,N05AA03,IMRD
+99093990,Promazine 25mg tablets,4020100,0,0,N05AA03,IMRD
+99106996,Prochlorperazine 5mg/5ml oral solution,4060000,0,0,N05AB04,IMRD
+99106997,Prochlorperazine maleate 25mg tablets,4060000,0,0,N05AB04,IMRD
+99106998,Prochlorperazine 5mg tablets,4060000,0,0,N05AB04,IMRD
+99107997,Trifluoperazine 1mg/1ml injection,4020100,0,0,N05AB06,IMRD
+99107998,Trifluoperazine 15mg modified release capsules,4020100,0,0,N05AB06,IMRD
+99108996,Trifluoperazine 10mg modified release capsules,4020100,0,0,N05AB06,IMRD
+99108997,Trifluoperazine 2mg modified release capsules,4020100,0,0,N05AB06,IMRD
+99108998,Trifluoperazine 10mg/ml concentrate,4020100,0,0,N05AB06,IMRD
+99109996,Trifluoperazine 1mg/5ml oral solution sugar free,4020100,0,0,N05AB06,IMRD
+99109997,Trifluoperazine 5mg tablets,4020100,0,0,N05AB06,IMRD
+99109998,Trifluoperazine 1mg tablets,4020100,0,0,N05AB06,IMRD
+99112998,Isopropamide iodide with trifluoperazine tablet,1020000,4020100,0,A03,IMRD
+99117998,Promazine hydrochloride 100mg/2ml injection,4020100,0,0,N05AA03,IMRD
+99280998,Tranylcypromine & trifluoperazine 10mg+1mg tablets,4030200,4030200,4020100,N06C,IMRD
+99362996,Pericyazine 25mg tablets,4020100,0,0,N05AC01,IMRD
+99362997,Pericyazine 10mg tablets,4020100,0,0,N05AC01,IMRD
+99362998,Pericyazine 2.5mg tablets,4020100,0,0,N05AC01,IMRD
+99408998,Fluphenazine enantate 25mg/1ml injection,4020200,0,0,N05AB02,IMRD
+99411996,Fluphenazine hydrochloride 5mg tablets,4020100,0,0,N05AB02,IMRD
+99411997,Fluphenazine hydrochloride 2.5mg tablets,4020100,0,0,N05AB02,IMRD
+99411998,Fluphenazine 1mg tablets,4020100,0,0,N05AB02,IMRD
+99414998,Fluphenazine decanoate 250mg/10ml oily injection,4020200,0,0,N05AB02,IMRD
+99634997,Flupentixol 1mg tablets,4030400,4020100,0,N05AF01,IMRD
+99634998,Flupentixol 500microgram tablets,4030400,4020100,0,N05AF01,IMRD
+99637996,Risperidone 6mg tablets,4020100,0,0,N05AX08,IMRD
+99637997,Risperidone 1mg/ml oral solution sugar free,4020100,0,0,N05AX08,IMRD
+99637998,Risperidone 4mg tablets,4020100,0,0,N05AX08,IMRD
+99649996,Risperidone 3mg tablets,4020100,0,0,N05AX08,IMRD
+99649997,Risperidone 2mg tablets,4020100,0,0,N05AX08,IMRD
+99649998,Risperidone 1mg tablets,4020100,0,0,N05AX08,IMRD
+99775998,Flupentixol 50mg/0.5ml solution for injection ampoules,4020200,0,0,N05AF01,IMRD
+99776998,Flupentixol 3mg tablets,4020100,0,0,N05AF01,IMRD
+99821996,Zuclopenthixol 25mg tablets,4020100,0,0,N05AF05,IMRD
+99821997,Zuclopenthixol 10mg tablets,4020100,0,0,N05AF05,IMRD
+99821998,Zuclopenthixol 2mg tablets,4020100,0,0,N05AF05,IMRD
+4033978,Biquelle XL 600mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+6111978,Risperidone 250microgram tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10025978,Clozapine 25mg orodispersible tablets sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10031978,Zaponex 12.5mg orodispersible tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+10040978,Clozapine 200mg orodispersible tablets sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+11436978,Aripiprazole 1mg/ml oral solution sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+17396978,Cariprazine 4.5mg capsules capsules 4.5 ,04.02.01.00,00.00.00.00,00.00.00.00,,IMRD
+17397978,Reagila 3mg capsules capsules 3 ,04.02.01.00,00.00.00.00,00.00.00.00,,IMRD
+17398978,Cariprazine 3mg capsules capsules 3 ,04.02.01.00,00.00.00.00,00.00.00.00,,IMRD
+17400978,Cariprazine 1.5mg capsules capsules 1.5 ,04.02.01.00,00.00.00.00,00.00.00.00,,IMRD
+18298978,Risperidone 250micrograms/5ml oral suspension suspension 50 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+29078978,Brancico XL 150mg tablets tablets 150 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+29295978,Brancico XL 400mg tablets tablets 400 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+29296978,Brancico XL 200mg tablets tablets 200 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+51989978,Haloperidol 1.5mg tablets tablets 1.5 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+52687979,Prochlorperazine 5mg tablets tablets 5 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+61218979,Olanzapine 15mg orodispersible tablets sugar free tablets 15 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+64870979,Levomepromazine 3mg/5ml oral suspension suspension 600 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+69643979,Chlorpromazine 12.5mg/5ml oral suspension suspension 2.5 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+78864979,Risperidone 500microgram orodispersible tablets sugar free tablets 500 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+79411979,Promazine 10mg/5ml oral solution solution 2 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+86231979,Risperdal Consta 50mg powder and solvent for suspension for injection vials injection 50 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+86232979,Risperdal Consta 37.5mg powder and solvent for suspension for injection vials injection 37.5 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+92610990,Risperidone 1mg/ml oral solution sugar free solution 1 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+92793990,Risperidone 3mg orodispersible tablets sugar free tablets 3 ,04.02.01.02,00.00.00.00,00.00.00.00,,IMRD
+93558990,Promazine 25mg tablets tablets 25 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+95873979,Prochlorperazine 5mg tablets tablets 5 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+96637979,Haloperidol 5mg/1ml solution for injection ampoules injection 5 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+98360990,Haloperidol 10mg tablets tablets 10 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD
+98544989,Haloperidol 10mg tablets tablets 10 ,04.02.01.01,00.00.00.00,00.00.00.00,,IMRD

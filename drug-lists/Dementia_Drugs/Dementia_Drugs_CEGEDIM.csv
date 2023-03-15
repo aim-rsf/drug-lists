@@ -1,0 +1,1082 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+16151,Donepezil 5mg tablets,,,,N06DA02,CEGEDIM
+16152,Aricept 5mg tablets (Eisai Ltd),,,,N06DA02,CEGEDIM
+16153,Aricept 5mg tablets (Eisai Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+16158,Donepezil 10mg tablets,,,,N06DA02,CEGEDIM
+16159,Aricept 10mg tablets (Eisai Ltd),,,,N06DA02,CEGEDIM
+16160,Aricept 10mg tablets (Eisai Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+18775,Memantine 10mg tablets,,,,N06DX01,CEGEDIM
+18776,Ebixa 10mg tablets (Lundbeck Ltd),,,,N06DX01,CEGEDIM
+18777,Ebixa 10mg tablets (Lundbeck Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+18778,Ebixa 10mg tablets (Lundbeck Ltd) 56 tablet4 x 14 tablets,,,,N06DX01,CEGEDIM
+18782,Ebixa 10mg tablets (Lundbeck Ltd) 112 tablet8 x 14 tablets,,,,N06DX01,CEGEDIM
+21281,Galantamine 20mg/5ml oral solution sugar free,,,,N06DA04,CEGEDIM
+21282,Reminyl 4mg/ml oral solution (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+21283,Reminyl 4mg/ml oral solution (Shire Pharmaceuticals Ltd) 100 ml,,,,N06DA04,CEGEDIM
+22842,Rivastigmine 1.5mg capsules,,,,N06DA03,CEGEDIM
+22843,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+22844,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+22845,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+22846,Rivastigmine 3mg capsules,,,,N06DA03,CEGEDIM
+22847,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+22848,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+22852,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+22872,Galantamine 4mg tablets,,,,N06DA04,CEGEDIM
+22873,Reminyl 4mg tablets (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+22874,Reminyl 4mg tablets (Shire Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+22875,Galantamine 8mg tablets,,,,N06DA04,CEGEDIM
+22876,Reminyl 8mg tablets (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+22877,Reminyl 8mg tablets (Shire Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+22878,Galantamine 12mg tablets,,,,N06DA04,CEGEDIM
+22879,Reminyl 12mg tablets (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+22880,Reminyl 12mg tablets (Shire Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+23960,Rivastigmine 4.5mg capsules,,,,N06DA03,CEGEDIM
+23961,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+23962,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+23963,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+23967,Rivastigmine 6mg capsules,,,,N06DA03,CEGEDIM
+23968,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+23969,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+23970,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+27232,Rivastigmine 2mg/ml oral solution sugar free,,,,N06DA03,CEGEDIM
+27233,Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+27234,Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd) 120 ml,,,,N06DA03,CEGEDIM
+29362,Memantine 10mg/ml oral solution sugar free,,,,N06DX01,CEGEDIM
+29363,Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd),,,,N06DX01,CEGEDIM
+29364,Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd) 50 gram,,,,N06DX01,CEGEDIM
+29365,Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd) 100 gram,,,,N06DX01,CEGEDIM
+34064,Exelon 2mg/ml oral solution (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34065,Exelon 2mg/ml oral solution (Waymade Healthcare Plc) 120 ml,,,,N06DA03,CEGEDIM
+34607,Aricept 5mg tablets (Waymade Healthcare Plc),,,,N06DA02,CEGEDIM
+34608,Aricept 5mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N06DA02,CEGEDIM
+34611,Aricept 10mg tablets (Waymade Healthcare Plc),,,,N06DA02,CEGEDIM
+34612,Aricept 10mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N06DA02,CEGEDIM
+34845,Exelon 1.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34846,Exelon 1.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+34849,Exelon 3mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34850,Exelon 3mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+34855,Exelon 4.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34856,Exelon 4.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+34857,Exelon 6mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+34858,Exelon 6mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+35214,Reminyl 4mg tablets (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+35215,Reminyl 4mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06DA04,CEGEDIM
+35216,Reminyl 12mg tablets (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+35217,Reminyl 12mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06DA04,CEGEDIM
+35528,Donepezil 10mg tablets (Dowelhurst Ltd),,,,N06DA02,CEGEDIM
+35529,Donepezil 10mg tablets (Dowelhurst Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+35540,Donepezil 5mg tablets (Dowelhurst Ltd),,,,N06DA02,CEGEDIM
+35541,Donepezil 5mg tablets (Dowelhurst Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+35989,Aricept 10mg tablets (Dowelhurst Ltd),,,,N06DA02,CEGEDIM
+35990,Aricept 10mg tablets (Dowelhurst Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+35997,Aricept 5mg tablets (Dowelhurst Ltd),,,,N06DA02,CEGEDIM
+35998,Aricept 5mg tablets (Dowelhurst Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+36495,Reminyl 12mg tablets (Dowelhurst Ltd),,,,N06DA04,CEGEDIM
+36496,Reminyl 12mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06DA04,CEGEDIM
+36501,Reminyl 4mg tablets (Dowelhurst Ltd),,,,N06DA04,CEGEDIM
+36502,Reminyl 4mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06DA04,CEGEDIM
+36503,Reminyl 8mg tablets (Dowelhurst Ltd),,,,N06DA04,CEGEDIM
+36504,Reminyl 8mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06DA04,CEGEDIM
+68154,Galantamine 16mg modified-release capsules,,,,N06DA04,CEGEDIM
+68155,Reminyl XL 16mg capsules (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+68156,Reminyl XL 16mg capsules (Shire Pharmaceuticals Ltd) 28 capsule4 x 7 capsules,,,,N06DA04,CEGEDIM
+68157,Galantamine 8mg modified-release capsules,,,,N06DA04,CEGEDIM
+68158,Reminyl XL 8mg capsules (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+68159,Reminyl XL 8mg capsules (Shire Pharmaceuticals Ltd) 28 capsule4 x 7 capsules,,,,N06DA04,CEGEDIM
+68160,Galantamine 24mg modified-release capsules,,,,N06DA04,CEGEDIM
+68161,Reminyl XL 24mg capsules (Shire Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+68162,Reminyl XL 24mg capsules (Shire Pharmaceuticals Ltd) 28 capsule4 x 7 capsules,,,,N06DA04,CEGEDIM
+77649,Ebixa 10mg tablets (Dowelhurst Ltd),,,,N06DX01,CEGEDIM
+77650,Ebixa 10mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06DX01,CEGEDIM
+77654,Ebixa 5mg/0.5ml pump actuation oral solution (Dowelhurst Ltd),,,,N06DX01,CEGEDIM
+77655,Ebixa 5mg/0.5ml pump actuation oral solution (Dowelhurst Ltd) 50 gram,,,,N06DX01,CEGEDIM
+77685,Exelon 1.5mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77686,Exelon 1.5mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77689,Exelon 3mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77690,Exelon 3mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77693,Exelon 4.5mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77694,Exelon 4.5mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77697,Exelon 6mg capsules (Dowelhurst Ltd),,,,N06DA03,CEGEDIM
+77698,Exelon 6mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+77807,Reminyl 8mg tablets (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+77808,Reminyl 8mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06DA04,CEGEDIM
+77886,Ebixa 10mg tablets (Waymade Healthcare Plc),,,,N06DX01,CEGEDIM
+77887,Ebixa 10mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06DX01,CEGEDIM
+80330,Rivastigmine 6mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80331,Rivastigmine 6mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+80334,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80335,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+80336,Rivastigmine 3mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80337,Rivastigmine 3mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+80338,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+80339,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+81390,Ebixa 10mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N06DX01,CEGEDIM
+82804,Donepezil 5mg orodispersible tablets sugar free,,,,N06DA02,CEGEDIM
+82805,Aricept Evess 5mg orodispersible tablets (Eisai Ltd),,,,N06DA02,CEGEDIM
+82806,Aricept Evess 5mg orodispersible tablets (Eisai Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+82807,Donepezil 10mg orodispersible tablets sugar free,,,,N06DA02,CEGEDIM
+82808,Aricept Evess 10mg orodispersible tablets (Eisai Ltd),,,,N06DA02,CEGEDIM
+82809,Aricept Evess 10mg orodispersible tablets (Eisai Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+91371,Reminyl XL 8mg capsules (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+91372,Reminyl XL 8mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA04,CEGEDIM
+91373,Reminyl XL 16mg capsules (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+91374,Reminyl XL 16mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA04,CEGEDIM
+91375,Reminyl XL 24mg capsules (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+91376,Reminyl XL 24mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA04,CEGEDIM
+91645,Rivastigmine 4.6mg/24hours transdermal patches,,,,N06DA03,CEGEDIM
+91646,Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+91647,Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+91648,Rivastigmine 9.5mg/24hours transdermal patches,,,,N06DA03,CEGEDIM
+91649,Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+91650,Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+104599,Aricept 5mg tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+104600,Aricept 5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+104601,Aricept 10mg tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+104602,Aricept 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+104951,Ebixa 10mg tablets (DE Pharmaceuticals),,,,N06DX01,CEGEDIM
+104952,Ebixa 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DX01,CEGEDIM
+105003,Exelon 2mg/ml oral solution (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105004,Exelon 2mg/ml oral solution (DE Pharmaceuticals) 120 ml,,,,N06DA03,CEGEDIM
+105005,Exelon 1.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105006,Exelon 1.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105007,Exelon 3mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105008,Exelon 3mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105009,Exelon 4.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105010,Exelon 4.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105011,Exelon 6mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+105012,Exelon 6mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+105340,Memantine 20mg tablets,,,,N06DX01,CEGEDIM
+105341,Ebixa 20mg tablets (Lundbeck Ltd),,,,N06DX01,CEGEDIM
+105342,Ebixa 20mg tablets (Lundbeck Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+105734,Reminyl 8mg tablets (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+105735,Reminyl 8mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06DA04,CEGEDIM
+105736,Reminyl 12mg tablets (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+105737,Reminyl 12mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06DA04,CEGEDIM
+105743,Reminyl XL 8mg capsules (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+105744,Reminyl XL 8mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA04,CEGEDIM
+105747,Reminyl XL 16mg capsules (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+105748,Reminyl XL 16mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA04,CEGEDIM
+105749,Reminyl XL 24mg capsules (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+105750,Reminyl XL 24mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA04,CEGEDIM
+106642,Memantine 5mg tablets,,,,N06DX01,CEGEDIM
+106643,Ebixa 5mg tablets (Lundbeck Ltd),,,,N06DX01,CEGEDIM
+106644,Ebixa 5mg tablets (Lundbeck Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+106645,Ebixa 10mg tablets (Lundbeck Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+106646,Memantine 15mg tablets,,,,N06DX01,CEGEDIM
+106647,Ebixa 15mg tablets (Lundbeck Ltd),,,,N06DX01,CEGEDIM
+106648,Ebixa 15mg tablets (Lundbeck Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+106649,Ebixa 20mg tablets (Lundbeck Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+106650,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack,,,,N06DX01,CEGEDIM
+106651,Ebixa tablets treatment initiation pack (Lundbeck Ltd),,,,N06DX01,CEGEDIM
+106652,Ebixa tablets treatment initiation pack (Lundbeck Ltd) 28 tablet1 x (7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+107924,Aricept 10mg tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+107925,Aricept 10mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+107926,Aricept 5mg tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+107927,Aricept 5mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+108069,Ebixa 10mg tablets (Sigma Pharmaceuticals Plc),,,,N06DX01,CEGEDIM
+108070,Ebixa 10mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DX01,CEGEDIM
+108200,Exelon 1.5mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108201,Exelon 1.5mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+108202,Exelon 3mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108203,Exelon 3mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+108204,Exelon 4.5mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108205,Exelon 4.5mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+108206,Exelon 6mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+108207,Exelon 6mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA03,CEGEDIM
+111871,Reminyl 12mg tablets (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+111872,Reminyl 12mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N06DA04,CEGEDIM
+111875,Reminyl 8mg tablets (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+111876,Reminyl 8mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N06DA04,CEGEDIM
+111877,Reminyl XL 16mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+111878,Reminyl XL 16mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA04,CEGEDIM
+111881,Reminyl XL 24mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+111882,Reminyl XL 24mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA04,CEGEDIM
+111883,Reminyl XL 8mg capsules (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+111884,Reminyl XL 8mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06DA04,CEGEDIM
+119119,Donepezil 10mg/5ml oral suspension,,,,N06DA02,CEGEDIM
+119120,Donepezil 10mg/5ml oral suspension (Special Order),,,,N06DA02,CEGEDIM
+119121,Donepezil 10mg/5ml oral suspension (Special Order) 1 ml,,,,N06DA02,CEGEDIM
+124970,Aricept 5mg tablets (Lexon (UK) Ltd),,,,N06DA02,CEGEDIM
+124971,Aricept 5mg tablets (Lexon (UK) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+124972,Aricept 10mg tablets (Lexon (UK) Ltd),,,,N06DA02,CEGEDIM
+124973,Aricept 10mg tablets (Lexon (UK) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+125245,Ebixa 5mg/0.5ml pump actuation oral solution (Lexon (UK) Ltd),,,,N06DX01,CEGEDIM
+125246,Ebixa 5mg/0.5ml pump actuation oral solution (Lexon (UK) Ltd) 50 gram,,,,N06DX01,CEGEDIM
+125279,Exelon 2mg/ml oral solution (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+125280,Exelon 2mg/ml oral solution (Lexon (UK) Ltd) 120 ml,,,,N06DA03,CEGEDIM
+125831,Reminyl XL 16mg capsules (Lexon (UK) Ltd),,,,N06DA04,CEGEDIM
+125832,Reminyl XL 16mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+125833,Reminyl XL 8mg capsules (Lexon (UK) Ltd),,,,N06DA04,CEGEDIM
+125834,Reminyl XL 8mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+125835,Reminyl XL 24mg capsules (Lexon (UK) Ltd),,,,N06DA04,CEGEDIM
+125836,Reminyl XL 24mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+126102,Aricept 5mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+126103,Aricept 5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+126106,Aricept 10mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+126107,Aricept 10mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+128682,Aricept 10mg tablets (Stephar (U.K.) Ltd),,,,N06DA02,CEGEDIM
+128683,Aricept 10mg tablets (Stephar (U.K.) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+128792,Memantine 20mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+128793,Memantine 20mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+128913,Ebixa 5mg/0.5ml pump actuation oral solution (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+128914,Ebixa 5mg/0.5ml pump actuation oral solution (Mawdsley-Brooks & Company Ltd) 50 gram,,,,N06DX01,CEGEDIM
+128915,Ebixa 10mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+128916,Ebixa 10mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+128987,Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128988,Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+128989,Exelon 3mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128990,Exelon 3mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+128991,Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128992,Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+128993,Exelon 2mg/ml oral solution (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+128994,Exelon 2mg/ml oral solution (Mawdsley-Brooks & Company Ltd) 120 ml,,,,N06DA03,CEGEDIM
+136523,Reminyl XL 8mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA04,CEGEDIM
+136524,Reminyl XL 8mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+136525,Reminyl 12mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA04,CEGEDIM
+136526,Reminyl 12mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,N06DA04,CEGEDIM
+137030,Aricept Evess 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+137031,Aricept Evess 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+137150,Exelon 1.5mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+137151,Exelon 4.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+137152,Exelon 4.5mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+137153,Exelon 4.6mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+137154,Exelon 4.6mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd) 30 patch,,,,N06DA03,CEGEDIM
+137155,Exelon 9.5mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+137156,Exelon 9.5mg/24hours transdermal patches (Mawdsley-Brooks & Company Ltd) 30 patch,,,,N06DA03,CEGEDIM
+137398,Aricept Evess 10mg orodispersible tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+137399,Aricept Evess 10mg orodispersible tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+137900,Aricept 10mg tablets (Necessity Supplies Ltd),,,,N06DA02,CEGEDIM
+137901,Aricept 10mg tablets (Necessity Supplies Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+137906,Aricept 5mg tablets (Necessity Supplies Ltd),,,,N06DA02,CEGEDIM
+137907,Aricept 5mg tablets (Necessity Supplies Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+137915,Reminyl 4mg/ml oral solution (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+137916,Reminyl 4mg/ml oral solution (Sigma Pharmaceuticals Plc) 100 ml,,,,N06DA04,CEGEDIM
+138306,Exelon 4.6mg/24hours transdermal patches (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+138307,Exelon 4.6mg/24hours transdermal patches (Waymade Healthcare Plc) 30 patch,,,,N06DA03,CEGEDIM
+138308,Exelon 9.5mg/24hours transdermal patches (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+138309,Exelon 9.5mg/24hours transdermal patches (Waymade Healthcare Plc) 30 patch,,,,N06DA03,CEGEDIM
+140270,Galantamine 4mg tablets (Special Order),,,,N06DA04,CEGEDIM
+140271,Galantamine 4mg tablets (Special Order) 1 tablet,,,,N06DA04,CEGEDIM
+140692,Exelon 2mg/ml oral solution (Sigma Pharmaceuticals Plc),,,,N06DA03,CEGEDIM
+140693,Exelon 2mg/ml oral solution (Sigma Pharmaceuticals Plc) 120 ml,,,,N06DA03,CEGEDIM
+142019,Exelon 1.5mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142020,Exelon 1.5mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142021,Exelon 3mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142022,Exelon 3mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142023,Exelon 4.5mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142024,Exelon 4.5mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142025,Exelon 6mg capsules (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142026,Exelon 6mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+142027,Exelon 9.5mg/24hours transdermal patches (Lexon (UK) Ltd),,,,N06DA03,CEGEDIM
+142028,Exelon 9.5mg/24hours transdermal patches (Lexon (UK) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+142852,Exelon 6mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143021,Reminyl XL 16mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA04,CEGEDIM
+143022,Reminyl XL 16mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+143023,Reminyl XL 24mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA04,CEGEDIM
+143024,Reminyl XL 24mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+143038,Reminyl 12mg tablets (Necessity Supplies Ltd),,,,N06DA04,CEGEDIM
+143039,Reminyl 12mg tablets (Necessity Supplies Ltd) 56 tablet,,,,N06DA04,CEGEDIM
+143042,Reminyl 8mg tablets (Necessity Supplies Ltd),,,,N06DA04,CEGEDIM
+143043,Reminyl 8mg tablets (Necessity Supplies Ltd) 56 tablet,,,,N06DA04,CEGEDIM
+143044,Reminyl XL 16mg capsules (Necessity Supplies Ltd),,,,N06DA04,CEGEDIM
+143045,Reminyl XL 16mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+143048,Reminyl XL 24mg capsules (Necessity Supplies Ltd),,,,N06DA04,CEGEDIM
+143049,Reminyl XL 24mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+143050,Reminyl XL 8mg capsules (Necessity Supplies Ltd),,,,N06DA04,CEGEDIM
+143051,Reminyl XL 8mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+143621,Ebixa 5mg/0.5ml pump actuation oral solution (Dowelhurst Ltd) 50 ml,,,,N06DX01,CEGEDIM
+143622,Ebixa 5mg/0.5ml pump actuation oral solution (Lexon (UK) Ltd) 50 ml,,,,N06DX01,CEGEDIM
+143623,Ebixa 5mg/0.5ml pump actuation oral solution (Mawdsley-Brooks & Company Ltd) 50 ml,,,,N06DX01,CEGEDIM
+143624,Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd) 50 ml,,,,N06DX01,CEGEDIM
+143627,Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd) 100 ml,,,,N06DX01,CEGEDIM
+143772,Exelon 1.5mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143773,Exelon 1.5mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143774,Exelon 4.5mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143775,Exelon 4.5mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143776,Exelon 3mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143777,Exelon 3mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143778,Exelon 6mg capsules (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143779,Exelon 6mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+143780,Exelon 4.6mg/24hours transdermal patches (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143781,Exelon 4.6mg/24hours transdermal patches (Necessity Supplies Ltd) 30 patch,,,,N06DA03,CEGEDIM
+143782,Exelon 9.5mg/24hours transdermal patches (Necessity Supplies Ltd),,,,N06DA03,CEGEDIM
+143783,Exelon 9.5mg/24hours transdermal patches (Necessity Supplies Ltd) 30 patch,,,,N06DA03,CEGEDIM
+144066,Exelon 1.5mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144067,Exelon 1.5mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+144068,Exelon 3mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144069,Exelon 3mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+144072,Exelon 4.5mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144073,Exelon 4.5mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+144074,Exelon 6mg capsules (Stephar (U.K.) Ltd),,,,N06DA03,CEGEDIM
+144075,Exelon 6mg capsules (Stephar (U.K.) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+146526,Exelon 4.6mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+146527,Exelon 4.6mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+146528,Exelon 9.5mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+146529,Exelon 9.5mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+146797,Reminyl 4mg/ml oral solution (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+146798,Reminyl 4mg/ml oral solution (DE Pharmaceuticals) 100 ml,,,,N06DA04,CEGEDIM
+147000,Reminyl 4mg/ml oral solution (Mawdsley-Brooks & Company Ltd),,,,N06DA04,CEGEDIM
+147001,Reminyl 4mg/ml oral solution (Mawdsley-Brooks & Company Ltd) 100 ml,,,,N06DA04,CEGEDIM
+149123,Aricept 10mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,N06DA02,CEGEDIM
+154515,Galsya XL 8mg capsules (Consilient Health Ltd),,,,N06DA04,CEGEDIM
+154516,Galsya XL 8mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+154517,Galsya XL 16mg capsules (Consilient Health Ltd),,,,N06DA04,CEGEDIM
+154518,Galsya XL 16mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+154519,Galsya XL 24mg capsules (Consilient Health Ltd),,,,N06DA04,CEGEDIM
+154520,Galsya XL 24mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+154897,Aricept Evess 10mg orodispersible tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+154898,Aricept Evess 10mg orodispersible tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+156036,Rivastigmine 1.5mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156037,Rivastigmine 1.5mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156038,Rivastigmine 1.5mg capsules (A A H Pharmaceuticals Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+156039,Rivastigmine 3mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156040,Rivastigmine 3mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156041,Rivastigmine 3mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+156042,Rivastigmine 4.5mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156043,Rivastigmine 4.5mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156044,Rivastigmine 4.5mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+156045,Rivastigmine 6mg capsules (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+156046,Rivastigmine 6mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+156047,Rivastigmine 6mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+156405,Nimvastid 1.5mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156406,Nimvastid 1.5mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156407,Nimvastid 4.5mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156408,Nimvastid 4.5mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156409,Nimvastid 3mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156410,Nimvastid 3mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156411,Nimvastid 6mg capsules (Consilient Health Ltd),,,,N06DA03,CEGEDIM
+156412,Nimvastid 6mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+156561,Donepezil 5mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+156562,Donepezil 5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+156563,Donepezil 10mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+156564,Donepezil 10mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+156567,Ebixa 20mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+156568,Ebixa 20mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+157034,Rivastigmine 1.5mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157035,Rivastigmine 1.5mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157036,Rivastigmine 1.5mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+157037,Rivastigmine 3mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157038,Rivastigmine 3mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157039,Rivastigmine 3mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+157040,Rivastigmine 4.5mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157041,Rivastigmine 4.5mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157042,Rivastigmine 4.5mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+157043,Rivastigmine 6mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+157044,Rivastigmine 6mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+157289,Rivastigmine 6mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157290,Rivastigmine 6mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157291,Rivastigmine 6mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157292,Rivastigmine 4.5mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157293,Rivastigmine 4.5mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157294,Rivastigmine 4.5mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157295,Rivastigmine 3mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157296,Rivastigmine 3mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157297,Rivastigmine 3mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157298,Rivastigmine 1.5mg capsules (Mylan),,,,N06DA03,CEGEDIM
+157299,Rivastigmine 1.5mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+157300,Rivastigmine 1.5mg capsules (Mylan) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+157323,Exelon 1.5mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+157324,Exelon 3mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+157590,Aricept Evess 10mg orodispersible tablets (Lexon (UK) Ltd),,,,N06DA02,CEGEDIM
+157591,Aricept Evess 10mg orodispersible tablets (Lexon (UK) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+157692,Galantamine 20mg/5ml oral solution sugar free (Sandoz Ltd),,,,N06DA04,CEGEDIM
+157693,Galantamine 20mg/5ml oral solution sugar free (Sandoz Ltd) 100 ml,,,,N06DA04,CEGEDIM
+157696,Rivastigmine 6mg capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+158161,Zeebral XL 16mg capsules (Teva UK Ltd),,,,N06DA04,CEGEDIM
+158162,Zeebral XL 16mg capsules (Teva UK Ltd) 28 capsule4 x 7 capsules,,,,N06DA04,CEGEDIM
+158167,Zeebral XL 24mg capsules (Teva UK Ltd),,,,N06DA04,CEGEDIM
+158168,Zeebral XL 24mg capsules (Teva UK Ltd) 28 capsule4 x 7 capsules,,,,N06DA04,CEGEDIM
+158173,Galantamine 12mg tablets (Teva UK Ltd),,,,N06DA04,CEGEDIM
+158174,Galantamine 12mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+158175,Galantamine 8mg tablets (Teva UK Ltd),,,,N06DA04,CEGEDIM
+158176,Galantamine 8mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+158177,Donepezil 5mg tablets (Teva UK Ltd),,,,N06DA02,CEGEDIM
+158178,Donepezil 5mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+158179,Donepezil 10mg tablets (Teva UK Ltd),,,,N06DA02,CEGEDIM
+158180,Donepezil 10mg tablets (Teva UK Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+158183,Donepezil 5mg orodispersible tablets sugar free (Teva UK Ltd),,,,N06DA02,CEGEDIM
+158184,Donepezil 5mg orodispersible tablets sugar free (Teva UK Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+158185,Donepezil 10mg orodispersible tablets sugar free (Teva UK Ltd),,,,N06DA02,CEGEDIM
+158186,Donepezil 10mg orodispersible tablets sugar free (Teva UK Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+158196,Zeebral XL 8mg capsules (Teva UK Ltd),,,,N06DA04,CEGEDIM
+158197,Zeebral XL 8mg capsules (Teva UK Ltd) 28 capsule4 x 7 capsules,,,,N06DA04,CEGEDIM
+158526,Galantamine 8mg tablets (A A H Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+158527,Galantamine 8mg tablets (A A H Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+158528,Galantamine 12mg tablets (A A H Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+158529,Galantamine 12mg tablets (A A H Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+158545,Galantamine 20mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+158546,Galantamine 20mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) 100 ml,,,,N06DA04,CEGEDIM
+159041,Donepezil 5mg tablets (Actavis UK Ltd),,,,N06DA02,CEGEDIM
+159042,Donepezil 5mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159043,Donepezil 10mg tablets (Actavis UK Ltd),,,,N06DA02,CEGEDIM
+159044,Donepezil 10mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159045,Donepezil 5mg orodispersible tablets sugar free (Actavis UK Ltd),,,,N06DA02,CEGEDIM
+159046,Donepezil 5mg orodispersible tablets sugar free (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159047,Donepezil 10mg orodispersible tablets sugar free (Actavis UK Ltd),,,,N06DA02,CEGEDIM
+159048,Donepezil 10mg orodispersible tablets sugar free (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159101,Donepezil 5mg tablets (Wockhardt UK Ltd),,,,N06DA02,CEGEDIM
+159102,Donepezil 5mg tablets (Wockhardt UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159103,Donepezil 10mg tablets (Wockhardt UK Ltd),,,,N06DA02,CEGEDIM
+159104,Donepezil 10mg tablets (Wockhardt UK Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159329,Donepezil 5mg tablets (Ranbaxy (UK) Ltd),,,,N06DA02,CEGEDIM
+159330,Donepezil 5mg tablets (Ranbaxy (UK) Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+159331,Donepezil 10mg tablets (Ranbaxy (UK) Ltd),,,,N06DA02,CEGEDIM
+159332,Donepezil 10mg tablets (Ranbaxy (UK) Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+159756,Donepezil 5mg tablets (Accord Healthcare Ltd),,,,N06DA02,CEGEDIM
+159757,Donepezil 5mg tablets (Accord Healthcare Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159758,Donepezil 10mg tablets (Accord Healthcare Ltd),,,,N06DA02,CEGEDIM
+159759,Donepezil 10mg tablets (Accord Healthcare Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+159841,Rivastigmine 1.5mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159842,Rivastigmine 1.5mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159843,Rivastigmine 1.5mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159844,Rivastigmine 3mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159845,Rivastigmine 3mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159846,Rivastigmine 3mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159847,Rivastigmine 4.5mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159848,Rivastigmine 4.5mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159849,Rivastigmine 4.5mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159907,Rivastigmine 6mg capsules (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+159908,Rivastigmine 6mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+159909,Rivastigmine 6mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+159918,Donepezil 5mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06DA02,CEGEDIM
+159919,Donepezil 5mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+159920,Donepezil 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06DA02,CEGEDIM
+159921,Donepezil 10mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+159922,Donepezil 5mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DA02,CEGEDIM
+159923,Donepezil 5mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+159924,Donepezil 10mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DA02,CEGEDIM
+159925,Donepezil 10mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+159928,Galantamine 20mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DA04,CEGEDIM
+159929,Galantamine 20mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 100 ml,,,,N06DA04,CEGEDIM
+159962,Donepezil 5mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+159963,Donepezil 5mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+159964,Donepezil 10mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+159965,Donepezil 10mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+159966,Donepezil 5mg tablets (A A H Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+159967,Donepezil 5mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+159968,Donepezil 10mg tablets (A A H Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+159969,Donepezil 10mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+160818,Donepezil 5mg orodispersible tablets sugar free (Sandoz Ltd),,,,N06DA02,CEGEDIM
+160819,Donepezil 5mg orodispersible tablets sugar free (Sandoz Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+160820,Donepezil 10mg orodispersible tablets sugar free (Sandoz Ltd),,,,N06DA02,CEGEDIM
+160821,Donepezil 10mg orodispersible tablets sugar free (Sandoz Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+160822,Donepezil 5mg tablets (Sandoz Ltd),,,,N06DA02,CEGEDIM
+160823,Donepezil 5mg tablets (Sandoz Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+160824,Donepezil 10mg tablets (Sandoz Ltd),,,,N06DA02,CEGEDIM
+160825,Donepezil 10mg tablets (Sandoz Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+161364,Donepezil 5mg tablets (Consilient Health Ltd),,,,N06DA02,CEGEDIM
+161366,Donepezil 10mg tablets (Consilient Health Ltd),,,,N06DA02,CEGEDIM
+161365,Donepezil 5mg tablets (Consilient Health Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+161367,Donepezil 10mg tablets (Consilient Health Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+161368,Donepezil 5mg orodispersible tablets,,,,N06DA02,CEGEDIM
+161369,Donepezil 5mg orodispersible tablets (Consilient Health Ltd),,,,N06DA02,CEGEDIM
+161370,Donepezil 5mg orodispersible tablets (Consilient Health Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+161371,Donepezil 10mg orodispersible tablets,,,,N06DA02,CEGEDIM
+161372,Donepezil 10mg orodispersible tablets (Consilient Health Ltd),,,,N06DA02,CEGEDIM
+161373,Donepezil 10mg orodispersible tablets (Consilient Health Ltd) 28 tablet4 x 7 tablets,,,,N06DA02,CEGEDIM
+161410,Acumor XL 8mg capsules (Mylan),,,,N06DA04,CEGEDIM
+161411,Acumor XL 8mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+161412,Acumor XL 16mg capsules (Mylan),,,,N06DA04,CEGEDIM
+161413,Acumor XL 16mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+161414,Acumor XL 24mg capsules (Mylan),,,,N06DA04,CEGEDIM
+161415,Acumor XL 24mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+161941,Donepezil 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA02,CEGEDIM
+161942,Donepezil 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+161943,Donepezil 10mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA02,CEGEDIM
+161944,Donepezil 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+161955,Rivastigmine 1.5mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161956,Rivastigmine 1.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161957,Rivastigmine 1.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161958,Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161959,Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161960,Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161961,Rivastigmine 4.5mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161962,Rivastigmine 4.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161963,Rivastigmine 4.5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+161964,Rivastigmine 6mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+161965,Rivastigmine 6mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+161966,Rivastigmine 6mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+162078,Donepezil 5mg tablets (Arrow Generics Ltd),,,,N06DA02,CEGEDIM
+162079,Donepezil 5mg tablets (Arrow Generics Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+162083,Donepezil 10mg tablets (Arrow Generics Ltd),,,,N06DA02,CEGEDIM
+162084,Donepezil 10mg tablets (Arrow Generics Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+162085,Donepezil 5mg orodispersible tablets sugar free (Arrow Generics Ltd),,,,N06DA02,CEGEDIM
+162086,Donepezil 5mg orodispersible tablets sugar free (Arrow Generics Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+162087,Donepezil 10mg orodispersible tablets sugar free (Arrow Generics Ltd),,,,N06DA02,CEGEDIM
+162088,Donepezil 10mg orodispersible tablets sugar free (Arrow Generics Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+162647,Donepezil 5mg orodispersible tablets sugar free (Beacon Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+162648,Donepezil 5mg orodispersible tablets sugar free (Beacon Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+162649,Donepezil 10mg orodispersible tablets sugar free (Beacon Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+162650,Donepezil 10mg orodispersible tablets sugar free (Beacon Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+166340,Donepezil 5mg tablets (Zentiva),,,,N06DA02,CEGEDIM
+166341,Donepezil 5mg tablets (Zentiva) 28 tablet,,,,N06DA02,CEGEDIM
+166342,Donepezil 10mg tablets (Zentiva),,,,N06DA02,CEGEDIM
+166343,Donepezil 10mg tablets (Zentiva) 28 tablet,,,,N06DA02,CEGEDIM
+166189,Rivastigmine 1.5mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166190,Rivastigmine 1.5mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166193,Rivastigmine 1.5mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166198,Rivastigmine 3mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166199,Rivastigmine 3mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166202,Rivastigmine 3mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166203,Rivastigmine 4.5mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166204,Rivastigmine 4.5mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166207,Rivastigmine 4.5mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166212,Rivastigmine 6mg capsules (Sandoz Ltd),,,,N06DA03,CEGEDIM
+166213,Rivastigmine 6mg capsules (Sandoz Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+166216,Rivastigmine 6mg capsules (Sandoz Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+166547,Rivastigmine 1.5mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166548,Rivastigmine 1.5mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166549,Rivastigmine 1.5mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166550,Rivastigmine 3mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166551,Rivastigmine 3mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166552,Rivastigmine 3mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166553,Rivastigmine 4.5mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166554,Rivastigmine 4.5mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166555,Rivastigmine 4.5mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+166556,Rivastigmine 6mg capsules (Teva UK Ltd),,,,N06DA03,CEGEDIM
+166557,Rivastigmine 6mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+166558,Rivastigmine 6mg capsules (Teva UK Ltd) 56 capsule4 x 14 capsules,,,,N06DA03,CEGEDIM
+167847,Rivastigmine 2mg/ml oral solution,,,,N06DA03,CEGEDIM
+167848,Rivastigmine 2mg/ml oral solution (Teva UK Ltd),,,,N06DA03,CEGEDIM
+167849,Rivastigmine 2mg/ml oral solution (Teva UK Ltd) 120 ml,,,,N06DA03,CEGEDIM
+169160,Donepezil 5mg tablets (Pfizer Ltd),,,,N06DA02,CEGEDIM
+169161,Donepezil 5mg tablets (Pfizer Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+169162,Donepezil 10mg tablets (Pfizer Ltd),,,,N06DA02,CEGEDIM
+169163,Donepezil 10mg tablets (Pfizer Ltd) 28 tablet2 x 14 tablets,,,,N06DA02,CEGEDIM
+170059,Gatalin XL 8mg capsules (Aspire Pharma Ltd),,,,N06DA04,CEGEDIM
+170060,Gatalin XL 8mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+170066,Gatalin XL 16mg capsules (Aspire Pharma Ltd),,,,N06DA04,CEGEDIM
+170067,Gatalin XL 16mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+170076,Gatalin XL 24mg capsules (Aspire Pharma Ltd),,,,N06DA04,CEGEDIM
+170077,Gatalin XL 24mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+171444,Rivastigmine 2mg/ml oral solution (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+171445,Rivastigmine 2mg/ml oral solution (A A H Pharmaceuticals Ltd) 120 ml,,,,N06DA03,CEGEDIM
+172694,Lotprosin XL 24mg capsules (Accord Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+172685,Lotprosin XL 8mg capsules (Accord Healthcare Ltd),,,,N06DA04,CEGEDIM
+172686,Lotprosin XL 8mg capsules (Accord Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+172691,Lotprosin XL 16mg capsules (Accord Healthcare Ltd),,,,N06DA04,CEGEDIM
+172692,Lotprosin XL 16mg capsules (Accord Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+172693,Lotprosin XL 24mg capsules (Accord Healthcare Ltd),,,,N06DA04,CEGEDIM
+174228,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174229,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174230,Rivastigmine 3mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174231,Rivastigmine 3mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174232,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174233,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174234,Rivastigmine 6mg capsules (Waymade Healthcare Plc),,,,N06DA03,CEGEDIM
+174235,Rivastigmine 6mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06DA03,CEGEDIM
+174236,Rivastigmine 1.5mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+174237,Rivastigmine 3mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+174238,Rivastigmine 4.5mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+174239,Rivastigmine 6mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N06DA03,CEGEDIM
+175705,Kerstipon 1.5mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175706,Kerstipon 1.5mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+175707,Kerstipon 3mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175708,Kerstipon 3mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+175709,Kerstipon 4.5mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175710,Kerstipon 4.5mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+175711,Kerstipon 6mg capsules (Aspire Pharma Ltd),,,,N06DA03,CEGEDIM
+175712,Kerstipon 6mg capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06DA03,CEGEDIM
+177156,Memantine 20mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+177155,Memantine 20mg tablets (Teva UK Ltd),,,,N06DX01,CEGEDIM
+177152,Memantine 10mg tablets (Teva UK Ltd),,,,N06DX01,CEGEDIM
+177153,Memantine 10mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+177154,Memantine 10mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,N06DX01,CEGEDIM
+177213,Memantine 10mg tablets (A A H Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+177214,Memantine 10mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+177215,Memantine 10mg tablets (A A H Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06DX01,CEGEDIM
+177218,Memantine 20mg tablets (A A H Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+177219,Memantine 20mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+177323,Memantine 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06DX01,CEGEDIM
+177324,Memantine 10mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+177325,Memantine 20mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06DX01,CEGEDIM
+177326,Memantine 20mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+178159,Voleze 4.6mg/24hours transdermal patches (Advanz Pharma),,,,N06DA03,CEGEDIM
+178160,Voleze 4.6mg/24hours transdermal patches (Advanz Pharma) 30 patch,,,,N06DA03,CEGEDIM
+178161,Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+178162,Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+178219,Elmino XL 24mg capsules (Zentiva),,,,N06DA04,CEGEDIM
+178220,Elmino XL 24mg capsules (Zentiva) 28 capsule,,,,N06DA04,CEGEDIM
+178221,Elmino XL 16mg capsules (Zentiva),,,,N06DA04,CEGEDIM
+178222,Elmino XL 16mg capsules (Zentiva) 28 capsule,,,,N06DA04,CEGEDIM
+178223,Elmino XL 8mg capsules (Zentiva),,,,N06DA04,CEGEDIM
+178224,Elmino XL 8mg capsules (Zentiva) 28 capsule,,,,N06DA04,CEGEDIM
+178390,Rivastigmine 13.3mg/24hours transdermal patches,,,,N06DA03,CEGEDIM
+178391,Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+178392,Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+178706,Marixino 10mg tablets (Consilient Health Ltd),,,,N06DX01,CEGEDIM
+178707,Marixino 10mg tablets (Consilient Health Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+178708,Marixino 20mg tablets (Consilient Health Ltd),,,,N06DX01,CEGEDIM
+178709,Marixino 20mg tablets (Consilient Health Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+179019,Rivastigmine 2mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+179020,Rivastigmine 2mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 120 ml,,,,N06DA03,CEGEDIM
+179261,Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd),,,,N06DA03,CEGEDIM
+179262,Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179275,Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd),,,,N06DA03,CEGEDIM
+179276,Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179698,Rivastigmine 4.6mg/24hours transdermal patches (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+179699,Rivastigmine 4.6mg/24hours transdermal patches (A A H Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+179700,Rivastigmine 9.5mg/24hours transdermal patches (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+179701,Rivastigmine 9.5mg/24hours transdermal patches (A A H Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+180487,Nemdatine 10mg tablets (Actavis UK Ltd),,,,N06DX01,CEGEDIM
+180488,Nemdatine 10mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,N06DX01,CEGEDIM
+180489,Nemdatine 10mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+180490,Nemdatine 20mg tablets (Actavis UK Ltd),,,,N06DX01,CEGEDIM
+180491,Nemdatine 20mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+180570,Rivastigmine 2mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+180571,Rivastigmine 2mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 120 ml,,,,N06DA03,CEGEDIM
+180723,Donepezil 5mg tablets (Waymade Healthcare Plc),,,,N06DA02,CEGEDIM
+180724,Donepezil 5mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N06DA02,CEGEDIM
+180725,Donepezil 10mg tablets (Waymade Healthcare Plc),,,,N06DA02,CEGEDIM
+180726,Donepezil 10mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N06DA02,CEGEDIM
+181828,Galantamine 20mg/5ml oral solution sugar free (Colorama Pharmaceuticals Ltd),,,,N06DA04,CEGEDIM
+181829,Galantamine 20mg/5ml oral solution sugar free (Colorama Pharmaceuticals Ltd) 100 ml,,,,N06DA04,CEGEDIM
+185919,Memantine 10mg/ml oral solution sugar free (Zentiva),,,,N06DX01,CEGEDIM
+185920,Memantine 10mg/ml oral solution sugar free (Zentiva) 50 ml,,,,N06DX01,CEGEDIM
+185921,Memantine 10mg/ml oral solution sugar free (Zentiva) 100 ml,,,,N06DX01,CEGEDIM
+186768,Memantine 10mg/ml oral solution sugar free (Accord Healthcare Ltd),,,,N06DX01,CEGEDIM
+186769,Memantine 10mg/ml oral solution sugar free (Accord Healthcare Ltd) 50 ml,,,,N06DX01,CEGEDIM
+186770,Memantine 10mg/ml oral solution sugar free (Accord Healthcare Ltd) 100 ml,,,,N06DX01,CEGEDIM
+186905,Memantine 10mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+186906,Memantine 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+186909,Memantine 20mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+186910,Memantine 20mg tablets (Dr Reddy's Laboratories (UK) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+187632,Memantine 10mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+187633,Memantine 10mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 50 ml,,,,N06DX01,CEGEDIM
+187634,Memantine 10mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 100 ml,,,,N06DX01,CEGEDIM
+187645,Memantine 10mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DX01,CEGEDIM
+187646,Memantine 10mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 50 ml,,,,N06DX01,CEGEDIM
+187647,Memantine 10mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 100 ml,,,,N06DX01,CEGEDIM
+189292,Donepezil 5mg tablets (Sovereign Medical Ltd),,,,N06DA02,CEGEDIM
+189293,Donepezil 5mg tablets (Sovereign Medical Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+189073,Rivastigmine 4.6mg/24hours transdermal patches (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+189074,Rivastigmine 4.6mg/24hours transdermal patches (Actavis UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+189075,Rivastigmine 9.5mg/24hours transdermal patches (Actavis UK Ltd),,,,N06DA03,CEGEDIM
+189076,Rivastigmine 9.5mg/24hours transdermal patches (Actavis UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+189294,Donepezil 10mg tablets (Sovereign Medical Ltd),,,,N06DA02,CEGEDIM
+189295,Donepezil 10mg tablets (Sovereign Medical Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+190908,Donepezil 5mg orodispersible tablets (Phoenix Healthcare Distribution Ltd),,,,N06DA02,CEGEDIM
+190909,Donepezil 5mg orodispersible tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+190910,Donepezil 10mg orodispersible tablets (Phoenix Healthcare Distribution Ltd),,,,N06DA02,CEGEDIM
+190911,Donepezil 10mg orodispersible tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+190912,Donepezil 5mg tablets (Phoenix Healthcare Distribution Ltd),,,,N06DA02,CEGEDIM
+190913,Donepezil 5mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+190914,Donepezil 10mg tablets (Phoenix Healthcare Distribution Ltd),,,,N06DA02,CEGEDIM
+190915,Donepezil 10mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+191736,Galantamine 20mg/5ml oral solution sugar free (Phoenix Healthcare Distribution Ltd),,,,N06DA04,CEGEDIM
+191737,Galantamine 20mg/5ml oral solution sugar free (Phoenix Healthcare Distribution Ltd) 100 ml,,,,N06DA04,CEGEDIM
+191844,Reminyl 4mg/ml oral solution (Waymade Healthcare Plc),,,,N06DA04,CEGEDIM
+191845,Reminyl 4mg/ml oral solution (Waymade Healthcare Plc) 100 ml,,,,N06DA04,CEGEDIM
+192165,Donepezil 10mg tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+192166,Donepezil 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+192167,Donepezil 5mg tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+192168,Donepezil 5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+192551,Galzemic XL 8mg capsules (Creo Pharma Ltd),,,,N06DA04,CEGEDIM
+192552,Galzemic XL 8mg capsules (Creo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+192555,Galzemic XL 16mg capsules (Creo Pharma Ltd),,,,N06DA04,CEGEDIM
+192556,Galzemic XL 16mg capsules (Creo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+192562,Galzemic XL 24mg capsules (Creo Pharma Ltd),,,,N06DA04,CEGEDIM
+192563,Galzemic XL 24mg capsules (Creo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+195898,Memantine 10mg tablets (DE Pharmaceuticals),,,,N06DX01,CEGEDIM
+195899,Memantine 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DX01,CEGEDIM
+195903,Memantine 20mg tablets (DE Pharmaceuticals),,,,N06DX01,CEGEDIM
+195904,Memantine 20mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06DX01,CEGEDIM
+196342,Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+196343,Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+196344,Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA03,CEGEDIM
+196345,Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+197338,Memantine 10mg tablets (Zentiva),,,,N06DX01,CEGEDIM
+197339,Memantine 10mg tablets (Zentiva) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+197340,Memantine 20mg tablets (Zentiva),,,,N06DX01,CEGEDIM
+197341,Memantine 20mg tablets (Zentiva) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+198165,Donepezil 1mg/ml oral solution sugar free,,,,N06DA02,CEGEDIM
+198166,Donepezil 1mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+198167,Donepezil 1mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 150 ml,,,,N06DA02,CEGEDIM
+199035,Donepezil 1mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N06DA02,CEGEDIM
+199036,Donepezil 1mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 150 ml,,,,N06DA02,CEGEDIM
+244837,Memantine 10mg tablets (Macleods Pharma UK Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+244838,Memantine 20mg tablets (Macleods Pharma UK Ltd),,,,N06DX01,CEGEDIM
+244839,Memantine 20mg tablets (Macleods Pharma UK Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+205551,Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+205552,Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+205561,Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd),,,,N06DA03,CEGEDIM
+205562,Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+206339,Somniton 4.6mg/24hours transdermal patches (Zentiva),,,,N06DA03,CEGEDIM
+206340,Somniton 4.6mg/24hours transdermal patches (Zentiva) 30 patch,,,,N06DA03,CEGEDIM
+206341,Somniton 9.5mg/24hours transdermal patches (Zentiva),,,,N06DA03,CEGEDIM
+206342,Somniton 9.5mg/24hours transdermal patches (Zentiva) 30 patch,,,,N06DA03,CEGEDIM
+221482,Galantamine 12mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06DA04,CEGEDIM
+221483,Galantamine 12mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+209343,Memantine 10mg tablets (A A H Pharmaceuticals Ltd) 112 tablet,,,,N06DX01,CEGEDIM
+211084,Galantamine 20mg/5ml oral solution sugar free (Ennogen Healthcare Ltd) 100 ml,,,,N06DA04,CEGEDIM
+211083,Galantamine 20mg/5ml oral solution sugar free (Ennogen Healthcare Ltd),,,,N06DA04,CEGEDIM
+215641,Luventa XL 8mg capsules (Fontus Health Ltd),,,,N06DA04,CEGEDIM
+215642,Luventa XL 8mg capsules (Fontus Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+215643,Luventa XL 16mg capsules (Fontus Health Ltd),,,,N06DA04,CEGEDIM
+215644,Luventa XL 16mg capsules (Fontus Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+215645,Luventa XL 24mg capsules (Fontus Health Ltd),,,,N06DA04,CEGEDIM
+215646,Luventa XL 24mg capsules (Fontus Health Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+220658,Donepezil 1mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+220659,Donepezil 1mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,N06DA02,CEGEDIM
+221477,Galantamine 8mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06DA04,CEGEDIM
+221478,Galantamine 8mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet4 x 14 tablets,,,,N06DA04,CEGEDIM
+223887,Eluden 4.6mg/24hours transdermal patches (Mylan),,,,N06DA03,CEGEDIM
+223888,Eluden 4.6mg/24hours transdermal patches (Mylan) 30 patch5 x 6 patches,,,,N06DA03,CEGEDIM
+223889,Eluden 9.5mg/24hours transdermal patches (Mylan),,,,N06DA03,CEGEDIM
+223890,Eluden 9.5mg/24hours transdermal patches (Mylan) 30 patch5 x 6 patches,,,,N06DA03,CEGEDIM
+224361,Gazylan XL 8mg capsules (Teva UK Ltd),,,,N06DA04,CEGEDIM
+224362,Gazylan XL 8mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+224363,Gazylan XL 16mg capsules (Teva UK Ltd),,,,N06DA04,CEGEDIM
+224364,Gazylan XL 16mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+224365,Gazylan XL 24mg capsules (Teva UK Ltd),,,,N06DA04,CEGEDIM
+224366,Gazylan XL 24mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06DA04,CEGEDIM
+230318,Galantamine 20mg/5ml oral solution sugar free (J M McGill Ltd) 100 ml,,,,N06DA04,CEGEDIM
+228258,Memantine 10mg tablets (Accord Healthcare Ltd),,,,N06DX01,CEGEDIM
+228259,Memantine 10mg tablets (Accord Healthcare Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+228260,Memantine 20mg tablets (Accord Healthcare Ltd),,,,N06DX01,CEGEDIM
+228261,Memantine 20mg tablets (Accord Healthcare Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+229595,Memantine 10mg tablets (Lupin Healthcare (UK) Ltd),,,,N06DX01,CEGEDIM
+229596,Memantine 10mg tablets (Lupin Healthcare (UK) Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+229597,Memantine 20mg tablets (Lupin Healthcare (UK) Ltd),,,,N06DX01,CEGEDIM
+229598,Memantine 20mg tablets (Lupin Healthcare (UK) Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+230317,Galantamine 20mg/5ml oral solution sugar free (J M McGill Ltd),,,,N06DA04,CEGEDIM
+232819,Memantine 10mg/ml oral solution sugar free (Teva UK Ltd),,,,N06DX01,CEGEDIM
+232820,Memantine 10mg/ml oral solution sugar free (Teva UK Ltd) 50 ml,,,,N06DX01,CEGEDIM
+232821,Memantine 10mg/ml oral solution sugar free (Teva UK Ltd) 100 ml,,,,N06DX01,CEGEDIM
+236951,Memantine 10mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+236952,Memantine 10mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 50 ml,,,,N06DX01,CEGEDIM
+236953,Memantine 10mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 100 ml,,,,N06DX01,CEGEDIM
+237731,Consion XL 8mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA04,CEGEDIM
+237732,Consion XL 8mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+237733,Consion XL 16mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA04,CEGEDIM
+237734,Consion XL 16mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+237735,Consion XL 24mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06DA04,CEGEDIM
+237736,Consion XL 24mg capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+238621,Rivastigmine 1.5mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238622,Rivastigmine 1.5mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+238625,Rivastigmine 3mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238626,Rivastigmine 3mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+238627,Rivastigmine 4.5mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238628,Rivastigmine 4.5mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+238629,Rivastigmine 6mg capsules (Crescent Pharma Ltd),,,,N06DA03,CEGEDIM
+238630,Rivastigmine 6mg capsules (Crescent Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06DA03,CEGEDIM
+244836,Memantine 10mg tablets (Macleods Pharma UK Ltd),,,,N06DX01,CEGEDIM
+244797,Donepezil 5mg tablets (Macleods Pharma UK Ltd),,,,N06DA02,CEGEDIM
+244798,Donepezil 5mg tablets (Macleods Pharma UK Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+244799,Donepezil 10mg tablets (Macleods Pharma UK Ltd),,,,N06DA02,CEGEDIM
+244800,Donepezil 10mg tablets (Macleods Pharma UK Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+246134,Donepezil 10mg orodispersible tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+246135,Donepezil 10mg orodispersible tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+246138,Donepezil 10mg tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+246139,Donepezil 10mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+246140,Donepezil 1mg/ml oral solution sugar free (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+246141,Donepezil 1mg/ml oral solution sugar free (Sigma Pharmaceuticals Plc) 150 ml,,,,N06DA02,CEGEDIM
+246142,Donepezil 5mg orodispersible tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+246143,Donepezil 5mg orodispersible tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+246146,Donepezil 5mg tablets (Sigma Pharmaceuticals Plc),,,,N06DA02,CEGEDIM
+246147,Donepezil 5mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DA02,CEGEDIM
+246316,Galantamine 20mg/5ml oral solution sugar free (Niche Pharma Ltd),,,,N06DA04,CEGEDIM
+246317,Galantamine 20mg/5ml oral solution sugar free (Niche Pharma Ltd) 100 ml,,,,N06DA04,CEGEDIM
+246434,Galantamine 20mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),,,,N06DA04,CEGEDIM
+246435,Galantamine 20mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc) 100 ml,,,,N06DA04,CEGEDIM
+246722,Memantine 10mg tablets (Sigma Pharmaceuticals Plc),,,,N06DX01,CEGEDIM
+246723,Memantine 10mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DX01,CEGEDIM
+246724,Memantine 10mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N06DX01,CEGEDIM
+246725,Memantine 20mg tablets (Sigma Pharmaceuticals Plc),,,,N06DX01,CEGEDIM
+246726,Memantine 20mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N06DX01,CEGEDIM
+246727,Memantine 10mg/ml oral solution sugar free (Sigma Pharmaceuticals Plc),,,,N06DX01,CEGEDIM
+246728,Memantine 10mg/ml oral solution sugar free (Sigma Pharmaceuticals Plc) 50 ml,,,,N06DX01,CEGEDIM
+246729,Memantine 10mg/ml oral solution sugar free (Sigma Pharmaceuticals Plc) 100 ml,,,,N06DX01,CEGEDIM
+247783,Donepezil 5mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+247784,Donepezil 5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+247913,Donepezil 5mg orodispersible tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+247914,Donepezil 5mg orodispersible tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+247915,Donepezil 10mg orodispersible tablets (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+247916,Donepezil 10mg orodispersible tablets (DE Pharmaceuticals) 28 tablet,,,,N06DA02,CEGEDIM
+248002,Memantine 10mg/ml oral solution sugar free (DE Pharmaceuticals),,,,N06DX01,CEGEDIM
+248003,Memantine 10mg/ml oral solution sugar free (DE Pharmaceuticals) 100 ml,,,,N06DX01,CEGEDIM
+248004,Memantine 10mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06DX01,CEGEDIM
+248153,Memantine 10mg/ml oral solution sugar free (DE Pharmaceuticals) 50 ml,,,,N06DX01,CEGEDIM
+248288,Rivastigmine 1.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248289,Rivastigmine 1.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248290,Rivastigmine 1.5mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248291,Rivastigmine 3mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248292,Rivastigmine 3mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248293,Rivastigmine 3mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248294,Rivastigmine 4.5mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248295,Rivastigmine 4.5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248296,Rivastigmine 4.5mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248297,Rivastigmine 6mg capsules (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248298,Rivastigmine 6mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06DA03,CEGEDIM
+248299,Rivastigmine 6mg capsules (DE Pharmaceuticals) 56 capsule,,,,N06DA03,CEGEDIM
+248300,Rivastigmine 4.6mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248301,Rivastigmine 4.6mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+248302,Rivastigmine 9.5mg/24hours transdermal patches (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+248303,Rivastigmine 9.5mg/24hours transdermal patches (DE Pharmaceuticals) 30 patch,,,,N06DA03,CEGEDIM
+249905,Aricept Evess 10mg orodispersible tablets (Waymade Healthcare Plc),,,,N06DA02,CEGEDIM
+249906,Aricept Evess 10mg orodispersible tablets (Waymade Healthcare Plc) 28 tablet,,,,N06DA02,CEGEDIM
+254633,Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd),,,,N06DA03,CEGEDIM
+254634,Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd) 30 patch,,,,N06DA03,CEGEDIM
+254653,Memantine 10mg tablets (Creo Pharma Ltd),,,,N06DX01,CEGEDIM
+254654,Memantine 10mg tablets (Creo Pharma Ltd) 28 tablet4 x 7 tablets,,,,N06DX01,CEGEDIM
+254655,Memantine 10mg tablets (Creo Pharma Ltd) 56 tablet8 x 7 tablets,,,,N06DX01,CEGEDIM
+254943,Rivastigmine 13.3mg/24hours transdermal patches (A A H Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+254944,Rivastigmine 13.3mg/24hours transdermal patches (A A H Pharmaceuticals Ltd) 30 patch,,,,N06DA03,CEGEDIM
+254955,Donepezil 5mg orodispersible tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+254956,Donepezil 5mg orodispersible tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+254957,Donepezil 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+254958,Donepezil 10mg orodispersible tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+255113,Memantine 10mg/ml oral solution sugar free (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+255114,Memantine 10mg/ml oral solution sugar free (Mawdsley-Brooks & Company Ltd) 50 ml,,,,N06DX01,CEGEDIM
+255117,Memantine 10mg/ml oral solution sugar free (Mawdsley-Brooks & Company Ltd) 100 ml,,,,N06DX01,CEGEDIM
+255137,Rivastigmine 2mg/ml oral solution sugar free (DE Pharmaceuticals),,,,N06DA03,CEGEDIM
+255138,Rivastigmine 2mg/ml oral solution sugar free (DE Pharmaceuticals) 120 ml,,,,N06DA03,CEGEDIM
+255589,Rivastigmine 1.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255590,Rivastigmine 1.5mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255591,Rivastigmine 3mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255592,Rivastigmine 3mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255605,Rivastigmine 4.5mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255606,Rivastigmine 4.5mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255609,Rivastigmine 4.5mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+255614,Rivastigmine 6mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06DA03,CEGEDIM
+255615,Rivastigmine 6mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+255616,Rivastigmine 6mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06DA03,CEGEDIM
+256424,Rivastigmine 2mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),,,,N06DA03,CEGEDIM
+256425,Rivastigmine 2mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 120 ml,,,,N06DA03,CEGEDIM
+259846,Memantine 20mg tablets (Creo Pharma Ltd),,,,N06DX01,CEGEDIM
+259847,Memantine 20mg tablets (Creo Pharma Ltd) 28 tablet4 x 7 tablets,,,,N06DX01,CEGEDIM
+269697,Donepezil 5mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+269698,Donepezil 10mg tablets (Kent Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+269699,Donepezil 10mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+269696,Donepezil 5mg tablets (Kent Pharmaceuticals Ltd),,,,N06DA02,CEGEDIM
+269838,Memantine 10mg tablets (Kent Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+269839,Memantine 10mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+269883,Rivastigmine 9.5mg/24hours transdermal patches (Alliance Healthcare (Distribution) Ltd),,,,N06DA03,CEGEDIM
+269884,Rivastigmine 9.5mg/24hours transdermal patches (Alliance Healthcare (Distribution) Ltd) 30 patch,,,,N06DA03,CEGEDIM
+269910,Voleze 13.3mg/24hours transdermal patches (Advanz Pharma),,,,N06DA03,CEGEDIM
+269911,Voleze 13.3mg/24hours transdermal patches (Advanz Pharma) 30 patch,,,,N06DA03,CEGEDIM
+270379,Memantine 10mg orodispersible tablets sugar free,,,,N06DX01,CEGEDIM
+270380,Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+270381,Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+270382,Memantine 20mg orodispersible tablets sugar free,,,,N06DX01,CEGEDIM
+270383,Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+270384,Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+271779,Nemdatine 5mg tablets (Actavis UK Ltd),,,,N06DX01,CEGEDIM
+271780,Nemdatine 5mg tablets (Actavis UK Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+271781,Nemdatine 10mg tablets (Actavis UK Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+271782,Nemdatine 15mg tablets (Actavis UK Ltd),,,,N06DX01,CEGEDIM
+271783,Nemdatine 15mg tablets (Actavis UK Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+271784,Nemdatine 20mg tablets (Actavis UK Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+271793,Nemdatine tablets treatment initiation pack (Actavis UK Ltd),,,,N06DX01,CEGEDIM
+271794,Nemdatine tablets treatment initiation pack (Actavis UK Ltd) 28 tablet1 x (7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+279809,Memantine 10mg/ml oral solution sugar free (Mylan) 50 ml,,,,N06DX01,CEGEDIM
+278631,Memantine 10mg/ml oral solution sugar free (Healthcare Pharma Ltd),,,,N06DX01,CEGEDIM
+278632,Memantine 10mg/ml oral solution sugar free (Healthcare Pharma Ltd) 50 ml,,,,N06DX01,CEGEDIM
+278712,Memantine 10mg/ml oral solution sugar free (Healthcare Pharma Ltd) 100 ml,,,,N06DX01,CEGEDIM
+279627,Donepezil 5mg tablets (Mylan),,,,N06DA02,CEGEDIM
+279628,Donepezil 5mg tablets (Mylan) 28 tablet,,,,N06DA02,CEGEDIM
+279629,Donepezil 10mg tablets (Mylan),,,,N06DA02,CEGEDIM
+279630,Donepezil 10mg tablets (Mylan) 28 tablet,,,,N06DA02,CEGEDIM
+279647,Donepezil 5mg orodispersible tablets sugar free (Mylan),,,,N06DA02,CEGEDIM
+279648,Donepezil 5mg orodispersible tablets sugar free (Mylan) 28 tablet,,,,N06DA02,CEGEDIM
+279649,Donepezil 10mg orodispersible tablets sugar free (Mylan),,,,N06DA02,CEGEDIM
+279650,Donepezil 10mg orodispersible tablets sugar free (Mylan) 28 tablet,,,,N06DA02,CEGEDIM
+279803,Memantine 20mg tablets (Mylan),,,,N06DX01,CEGEDIM
+279804,Memantine 20mg tablets (Mylan) 28 tablet,,,,N06DX01,CEGEDIM
+279808,Memantine 10mg/ml oral solution sugar free (Mylan),,,,N06DX01,CEGEDIM
+279813,Memantine 10mg/ml oral solution sugar free (Mylan) 100 ml,,,,N06DX01,CEGEDIM
+279985,Memantine 10mg tablets (Mylan),,,,N06DX01,CEGEDIM
+279986,Memantine 10mg tablets (Mylan) 28 tablet,,,,N06DX01,CEGEDIM
+279987,Memantine 10mg tablets (Mylan) 56 tablet,,,,N06DX01,CEGEDIM
+283366,Memantine 10mg tablets (Crescent Pharma Ltd),,,,N06DX01,CEGEDIM
+283367,Memantine 10mg tablets (Crescent Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+283368,Memantine 20mg tablets (Crescent Pharma Ltd),,,,N06DX01,CEGEDIM
+283369,Memantine 20mg tablets (Crescent Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+284658,Memantine 5mg tablets (Lupin Healthcare (UK) Ltd),,,,N06DX01,CEGEDIM
+284659,Memantine 5mg tablets (Lupin Healthcare (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+284660,Memantine 10mg tablets (Lupin Healthcare (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+284661,Memantine 20mg tablets (Lupin Healthcare (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+284662,Memantine 15mg tablets (Lupin Healthcare (UK) Ltd),,,,N06DX01,CEGEDIM
+284663,Memantine 15mg tablets (Lupin Healthcare (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+284664,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (Lupin Healthcare (UK) Ltd),,,,N06DX01,CEGEDIM
+284665,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (Lupin Healthcare (UK) Ltd) 28 tablet1 x (7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+285108,Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd),,,,N06DA03,CEGEDIM
+285109,Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd) 30 patch,,,,N06DA03,CEGEDIM
+285110,Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd),,,,N06DA03,CEGEDIM
+285111,Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd) 30 patch,,,,N06DA03,CEGEDIM
+287754,Memantine 20mg soluble tablets sugar free,,,,N06DX01,CEGEDIM
+287064,Memantine 10mg tablets (Niche Generics Ltd),,,,N06DX01,CEGEDIM
+287065,Memantine 10mg tablets (Niche Generics Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+287066,Memantine 20mg tablets (Niche Generics Ltd),,,,N06DX01,CEGEDIM
+287067,Memantine 20mg tablets (Niche Generics Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+287755,Alzhok 20mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),,,,N06DX01,CEGEDIM
+287753,Alzhok 10mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) 28 tablet4 x 7 tablets,,,,N06DX01,CEGEDIM
+287751,Memantine 10mg soluble tablets sugar free,,,,N06DX01,CEGEDIM
+287752,Alzhok 10mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),,,,N06DX01,CEGEDIM
+287756,Alzhok 20mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) 28 tablet4 x 7 tablets,,,,N06DX01,CEGEDIM
+287767,Memantine 5mg soluble tablets sugar free,,,,N06DX01,CEGEDIM
+287768,Alzhok 5mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),,,,N06DX01,CEGEDIM
+287769,Alzhok 5mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+287770,Memantine 15mg soluble tablets sugar free,,,,N06DX01,CEGEDIM
+287771,Alzhok 15mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd),,,,N06DX01,CEGEDIM
+287772,Alzhok 15mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+287924,Generic Alzhok soluble tablets treatment initiation pack sugar free,,,,N06DX01,CEGEDIM
+287925,Alzhok soluble tablets treatment initiation pack (Glenmark Pharmaceuticals Europe Ltd),,,,N06DX01,CEGEDIM
+287926,Alzhok soluble tablets treatment initiation pack (Glenmark Pharmaceuticals Europe Ltd) 28 tablet1x(7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+287927,Alzhok 10mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+287928,Alzhok 20mg soluble tablets (Glenmark Pharmaceuticals Europe Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+290419,Memantine 10mg/ml oral solution sugar free (Genus Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+290420,Memantine 10mg/ml oral solution sugar free (Genus Pharmaceuticals Ltd) 50 ml,,,,N06DX01,CEGEDIM
+290421,Memantine 10mg/ml oral solution sugar free (Genus Pharmaceuticals Ltd) 100 ml,,,,N06DX01,CEGEDIM
+290774,Memantine 10mg tablets (Accord Healthcare Ltd) 56 tablet,,,,N06DX01,CEGEDIM
+292308,Donepezil 5mg tablets (Milpharm Ltd),,,,N06DA02,CEGEDIM
+292309,Donepezil 5mg tablets (Milpharm Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+292310,Donepezil 10mg tablets (Milpharm Ltd),,,,N06DA02,CEGEDIM
+292311,Donepezil 10mg tablets (Milpharm Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+292745,Memantine 5mg orodispersible tablets sugar free,,,,N06DX01,CEGEDIM
+292746,Valios 5mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+292747,Valios 5mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+292748,Valios 10mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+292749,Valios 20mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+292750,Memantine 15mg orodispersible tablets sugar free,,,,N06DX01,CEGEDIM
+292751,Valios 15mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+292752,Valios 15mg orodispersible tablets sugar free (Dr Reddy's Laboratories (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+292756,Memantine 5mg/10mg/15mg/20mg orodispersible tablets initiation pack sugar free,,,,N06DX01,CEGEDIM
+292757,Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd),,,,N06DX01,CEGEDIM
+292758,Valios 5mg/10mg/15mg/20mg orodispersible tablets initiation pack (Dr Reddy's Laboratories (UK) Ltd) 28 tablet1x(7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+293630,Galzemic 4mg/ml oral solution (Creo Pharma Ltd),,,,N06DA04,CEGEDIM
+293631,Galzemic 4mg/ml oral solution (Creo Pharma Ltd) 100 ml,,,,N06DA04,CEGEDIM
+321614,Donepezil 5mg Tablet (Niche Generics Ltd),,,,,CEGEDIM
+321615,Donepezil 10mg Tablet (Niche Generics Ltd),,,,,CEGEDIM
+321618,Donepezil 5mg Tablet (Pfizer Ltd),,,,,CEGEDIM
+321619,Donepezil 10mg Tablet (Pfizer Ltd),,,,,CEGEDIM
+321634,Donepezil 5mg Tablet (Actavis UK Ltd),,,,,CEGEDIM
+321635,Donepezil 10mg Tablet (Actavis UK Ltd),,,,,CEGEDIM
+321637,Donepezil 5mg Orodispersible tablet (Actavis UK Ltd),,,,,CEGEDIM
+321638,Donepezil 10mg Orodispersible tablet (Actavis UK Ltd),,,,,CEGEDIM
+326109,Memantine 5mg+10mg+15mg+20mg Tablet,,,,,CEGEDIM
+326113,Memantine 5mg Tablet,,,,,CEGEDIM
+326114,Memantine 15mg Tablet,,,,,CEGEDIM
+327651,Gaalin 16mg modified-release capsules (Milpharm Ltd),,,,N06DA04,CEGEDIM
+327652,Gaalin 24mg modified-release capsules (Milpharm Ltd),,,,N06DA04,CEGEDIM
+327653,Gaalin 8mg modified-release capsules (Milpharm Ltd),,,,N06DA04,CEGEDIM
+328953,Gaalin 16mg modified-release capsules (Milpharm Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+328954,Gaalin 8mg modified-release capsules (Milpharm Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+328961,Gaalin 24mg modified-release capsules (Milpharm Ltd) 28 capsule,,,,N06DA04,CEGEDIM
+330595,Memantine 5mg tablets (A A H Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+330596,Memantine 5mg tablets (A A H Pharmaceuticals Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+330597,Memantine 15mg tablets (A A H Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+330598,Memantine 15mg tablets (A A H Pharmaceuticals Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+330601,Memantine 10mg tablets (A A H Pharmaceuticals Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+330602,Memantine 20mg tablets (A A H Pharmaceuticals Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+330605,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (A A H Pharmaceuticals Ltd),,,,N06DX01,CEGEDIM
+330606,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (A A H Pharmaceuticals Ltd) 28 tablet1 x (7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+330687,Donepezil 5mg tablets (Cipla EU Ltd),,,,N06DA02,CEGEDIM
+330688,Donepezil 5mg tablets (Cipla EU Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+330689,Donepezil 10mg tablets (Cipla EU Ltd),,,,N06DA02,CEGEDIM
+330690,Donepezil 10mg tablets (Cipla EU Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+335292,Memantine 10mg tablets (Bristol Laboratories Ltd),,,,N06DX01,CEGEDIM
+335293,Memantine 10mg tablets (Bristol Laboratories Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+335294,Memantine 20mg tablets (Bristol Laboratories Ltd),,,,N06DX01,CEGEDIM
+335295,Memantine 20mg tablets (Bristol Laboratories Ltd) 28 tablet2 x 14 tablets,,,,N06DX01,CEGEDIM
+337149,Rivastigmine 2mg/ml oral solution sugar free (Sandoz Ltd),,,,N06DA03,CEGEDIM
+337150,Rivastigmine 2mg/ml oral solution sugar free (Sandoz Ltd) 120 ml,,,,N06DA03,CEGEDIM
+337161,Exelon 9.5mg/24hours transdermal patches (Originalis B.V.),,,,N06DA03,CEGEDIM
+337162,Exelon 9.5mg/24hours transdermal patches (Originalis B.V.) 30 patch,,,,N06DA03,CEGEDIM
+337163,Exelon 4.6mg/24hours transdermal patches (Originalis B.V.),,,,N06DA03,CEGEDIM
+337164,Exelon 4.6mg/24hours transdermal patches (Originalis B.V.) 30 patch,,,,N06DA03,CEGEDIM
+337350,Donepezil 5mg tablets (Torrent Pharma (UK) Ltd),,,,N06DA02,CEGEDIM
+337351,Donepezil 5mg tablets (Torrent Pharma (UK) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+337352,Donepezil 10mg tablets (Torrent Pharma (UK) Ltd),,,,N06DA02,CEGEDIM
+337353,Donepezil 10mg tablets (Torrent Pharma (UK) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+337377,Reminyl 4mg/ml oral solution (Originalis B.V.),,,,N06DA04,CEGEDIM
+337378,Reminyl 4mg/ml oral solution (Originalis B.V.) 100 ml,,,,N06DA04,CEGEDIM
+337379,Reminyl XL 24mg capsules (Originalis B.V.),,,,N06DA04,CEGEDIM
+337380,Reminyl XL 24mg capsules (Originalis B.V.) 28 capsule,,,,N06DA04,CEGEDIM
+337602,Memantine 10mg tablets (Torrent Pharma (UK) Ltd),,,,N06DX01,CEGEDIM
+337603,Memantine 10mg tablets (Torrent Pharma (UK) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+337606,Memantine 20mg tablets (Torrent Pharma (UK) Ltd),,,,N06DX01,CEGEDIM
+337607,Memantine 20mg tablets (Torrent Pharma (UK) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+337920,Memantine 10mg/ml oral solution sugar free (Torrent Pharma (UK) Ltd),,,,N06DX01,CEGEDIM
+337921,Memantine 10mg/ml oral solution sugar free (Torrent Pharma (UK) Ltd) 50 ml,,,,N06DX01,CEGEDIM
+337924,Memantine 10mg/ml oral solution sugar free (Torrent Pharma (UK) Ltd) 100 ml,,,,N06DX01,CEGEDIM
+337927,Rivastigmine 1.5mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337928,Rivastigmine 1.5mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337929,Rivastigmine 3mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337930,Rivastigmine 3mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337931,Rivastigmine 4.5mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337932,Rivastigmine 4.5mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337933,Rivastigmine 6mg capsules (Torrent Pharma (UK) Ltd),,,,N06DA03,CEGEDIM
+337934,Rivastigmine 6mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+337942,Memantine 5mg tablets (Torrent Pharma (UK) Ltd),,,,N06DX01,CEGEDIM
+337943,Memantine 5mg tablets (Torrent Pharma (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+337944,Memantine 10mg tablets (Torrent Pharma (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+337945,Memantine 15mg tablets (Torrent Pharma (UK) Ltd),,,,N06DX01,CEGEDIM
+337946,Memantine 15mg tablets (Torrent Pharma (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+337947,Memantine 20mg tablets (Torrent Pharma (UK) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+337948,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (Torrent Pharma (UK) Ltd),,,,N06DX01,CEGEDIM
+337949,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (Torrent Pharma (UK) Ltd) 28 tablet1 x (7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+339556,Donepezil 5mg orodispersible tablets sugar free (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+339557,Donepezil 5mg orodispersible tablets sugar free (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+339558,Donepezil 10mg orodispersible tablets sugar free (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+339559,Donepezil 10mg orodispersible tablets sugar free (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+339560,Donepezil 1mg/ml oral solution sugar free (Mawdsley-Brooks & Company Ltd),,,,N06DA02,CEGEDIM
+339561,Donepezil 1mg/ml oral solution sugar free (Mawdsley-Brooks & Company Ltd) 150 ml,,,,N06DA02,CEGEDIM
+339839,Memantine 10mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+339840,Memantine 10mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+339841,Memantine 10mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,N06DX01,CEGEDIM
+341142,Memantine 20mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06DX01,CEGEDIM
+341143,Memantine 20mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+341266,Donepezil 1mg/ml oral solution sugar free (DE Pharmaceuticals),,,,N06DA02,CEGEDIM
+341267,Donepezil 1mg/ml oral solution sugar free (DE Pharmaceuticals) 150 ml,,,,N06DA02,CEGEDIM
+341784,Reminyl 4mg/ml oral solution (CST Pharma Ltd),,,,N06DA04,CEGEDIM
+342189,Exelon 4.6mg/24hours transdermal patches (CST Pharma Ltd),,,,N06DA03,CEGEDIM
+342190,Exelon 9.5mg/24hours transdermal patches (CST Pharma Ltd),,,,N06DA03,CEGEDIM
+342567,Galantamine 20mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd),,,,N06DA04,CEGEDIM
+342852,Galantamine 20mg/5ml oral solution sugar free (Thame Laboratories Ltd),,,,N06DA04,CEGEDIM
+342853,Galantamine 20mg/5ml oral solution sugar free (CST Pharma Ltd),,,,N06DA04,CEGEDIM
+343069,Galantamine 12mg tablets (DE Pharmaceuticals),,,,N06DA04,CEGEDIM
+344087,Reminyl 4mg/ml oral solution (CST Pharma Ltd) 100 ml,,,,N06DA04,CEGEDIM
+344289,Exelon 4.6mg/24hours transdermal patches (CST Pharma Ltd) 30 patch,,,,N06DA03,CEGEDIM
+344290,Exelon 9.5mg/24hours transdermal patches (CST Pharma Ltd) 30 patch,,,,N06DA03,CEGEDIM
+344586,Galantamine 20mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd) 100 ml,,,,N06DA04,CEGEDIM
+344988,Galantamine 12mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06DA04,CEGEDIM
+344989,Galantamine 20mg/5ml oral solution sugar free (Thame Laboratories Ltd) 100 ml,,,,N06DA04,CEGEDIM
+345427,Galantamine 20mg/5ml oral solution sugar free (CST Pharma Ltd) 100 ml,,,,N06DA04,CEGEDIM
+346395,Memantine 10mg tablets (Dawa Ltd),,,,N06DX01,CEGEDIM
+346396,Memantine 10mg tablets (Dawa Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+346397,Memantine 20mg tablets (Dawa Ltd),,,,N06DX01,CEGEDIM
+346398,Memantine 20mg tablets (Dawa Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+350966,Donepezil 5mg tablets (Crescent Pharma Ltd),,,,N06DA02,CEGEDIM
+350967,Donepezil 5mg tablets (Crescent Pharma Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+353832,Donepezil 10mg tablets (Medihealth (Northern) Ltd),,,,N06DA02,CEGEDIM
+353945,Donepezil 5mg tablets (Medihealth (Northern) Ltd),,,,N06DA02,CEGEDIM
+354772,Donepezil 10mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+354774,Donepezil 5mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N06DA02,CEGEDIM
+355215,Galantamine 20mg/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N06DA04,CEGEDIM
+355216,Galantamine 20mg/5ml oral solution sugar free (Medihealth (Northern) Ltd) 100 ml,,,,N06DA04,CEGEDIM
+355911,Exelon 13.3mg/24hours transdermal patches (CST Pharma Ltd),,,,N06DA03,CEGEDIM
+355912,Exelon 13.3mg/24hours transdermal patches (CST Pharma Ltd) 30 patch,,,,N06DA03,CEGEDIM
+355995,Memantine 10mg tablets (Medihealth (Northern) Ltd),,,,N06DX01,CEGEDIM
+355996,Memantine 10mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+355997,Memantine 20mg tablets (Medihealth (Northern) Ltd),,,,N06DX01,CEGEDIM
+355998,Memantine 20mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N06DX01,CEGEDIM
+355999,Memantine 10mg/ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N06DX01,CEGEDIM
+356000,Memantine 10mg/ml oral solution sugar free (Medihealth (Northern) Ltd) 50 ml,,,,N06DX01,CEGEDIM
+356001,Memantine 10mg/ml oral solution sugar free (Medihealth (Northern) Ltd) 100 ml,,,,N06DX01,CEGEDIM
+356016,Memantine 5mg tablets (Medihealth (Northern) Ltd),,,,N06DX01,CEGEDIM
+356017,Memantine 5mg tablets (Medihealth (Northern) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+356018,Memantine 15mg tablets (Medihealth (Northern) Ltd),,,,N06DX01,CEGEDIM
+356019,Memantine 15mg tablets (Medihealth (Northern) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+356020,Memantine 10mg tablets (Medihealth (Northern) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+356021,Memantine 20mg tablets (Medihealth (Northern) Ltd) 7 tablet,,,,N06DX01,CEGEDIM
+356022,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (Medihealth (Northern) Ltd),,,,N06DX01,CEGEDIM
+356023,Memantine 5mg/10mg/15mg/20mg tablets treatment initiation pack (Medihealth (Northern) Ltd) 28 tablet1 x (7tabs+7tabs+7tabs+7tabs),,,,N06DX01,CEGEDIM
+357908,Rivastigmine 1.5mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357909,Rivastigmine 1.5mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+357910,Rivastigmine 3mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357911,Rivastigmine 3mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+357912,Rivastigmine 4.5mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357913,Rivastigmine 4.5mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM
+357917,Rivastigmine 6mg capsules (Medihealth (Northern) Ltd),,,,N06DA03,CEGEDIM
+357918,Rivastigmine 6mg capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06DA03,CEGEDIM

@@ -1,0 +1,552 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+18254978,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+19155978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+21715978,Generic solpadeine plus tablets,0,0,0,,IMRD
+22427978,Co-codamol 60mg/1000mg tablets,0,0,0,,IMRD
+22526978,Co-codamol 15mg/500mg capsules,4070100,0,0,,IMRD
+23070978,Tramadol 75mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+23071978,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+23072978,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+23073978,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+26085978,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+33979978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+37723978,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+38647978,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+39313978,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,4070200,10010100,N02AJ08,IMRD
+42687978,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+46555978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+47101978,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+52651979,Invodol SR 200mg tablets,4070200,0,0,,IMRD
+52653979,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+52655979,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+52664979,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+52669979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+52670979,Co-codamol 8mg/500mg capsules,4070100,0,0,,IMRD
+52671979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+53204979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+53206979,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+53420978,Tramadol 50mg/5ml oral suspension,0,0,0,,IMRD
+54657979,Codeine 15mg suppositories,0,0,0,,IMRD
+57740979,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+58617979,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+58621979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+59452979,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+60185979,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+61129979,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+64775979,Co-codamol 8mg/500mg/5ml oral suspension,0,0,0,,IMRD
+64777979,Co-codamol 8mg/500mg/5ml oral solution,0,0,0,,IMRD
+69926979,Codeine 30mg/5ml oral solution,0,0,0,,IMRD
+70309978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+70553979,Dihydrocodeine 30mg/5ml oral solution,0,0,0,,IMRD
+70555979,Dihydrocodeine 15mg/5ml oral solution,0,0,0,,IMRD
+73247978,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+73249978,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+76920978,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+76932978,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+76933978,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+78626978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+78644978,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+80216979,Dihydrocodeine 10mg/5ml oral suspension,0,0,0,,IMRD
+80420979,Codeine 5mg/5ml oral suspension,0,0,0,,IMRD
+80424979,Codeine 10mg/5ml oral suspension,0,0,0,,IMRD
+80426979,Codeine 10mg/5ml oral solution,0,0,0,,IMRD
+81062998,Co-dydramol (dihydrocodeine and paracetamol) 10mg with 500mg/5ml oral suspension,0,0,0,,IMRD
+81101998,Co-codamol 15mg/500mg capsules,0,0,0,,IMRD
+81102998,Co-codamol 15mg/500mg capsules,0,0,0,,IMRD
+81218998,Co-codamol 15mg/500mg effervescent tablets sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+81219998,Co-codamol 15mg/500mg effervescent tablets sugar free,4070100,4070200,4070100,N02AJ06,IMRD
+81303998,Tramadol 100mg/ml oral drops,4070200,0,0,N02AX02,IMRD
+81934998,Co-codamol 15mg/500mg tablets,0,0,0,,IMRD
+82138998,Paracetamol 500mg with codeine phosphate 12.8mg & caffeine 30mg effervescent tablet,0,0,0,,IMRD
+82140998,Co-codamol 12.8mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+82402998,Tramadol 37.5mg / Paracetamol 325mg tablets,4070200,4070100,4070200,N02AJ13,IMRD
+82577978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+82625998,Tramadol 37.5mg / Paracetamol 325mg effervescent tablets sugar free,4070200,4070100,4070200,N02AJ13,IMRD
+82792978,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+82793978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+82794978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+83069998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+83125998,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+83126998,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+83127998,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+83128998,Tramadol 50mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+83174978,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+83257998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+83258998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+83259998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+83292978,Co-codamol 8mg/500mg capsules,4070100,0,0,,IMRD
+83294978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+83295978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+83297978,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+83315978,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+83438998,Codeine phosphate 3mg/5ml sugar free paediatric linctus,3090100,4070200,0,R05DA04,IMRD
+83478998,Dihydrocodeine 40mg tablets,4070200,0,0,N02AA08,IMRD
+84014998,Co-codamol 12.8mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+84015998,Co-codamol 12.8mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+84235998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84236998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84237998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84263998,Tramadol 200mg modified-release tablets,4070200,0,0,,IMRD
+84264998,Tramadol 150mg modified-release tablets,4070200,0,0,,IMRD
+84265998,Tramadol 100mg modified-release tablets,4070200,0,0,,IMRD
+84342978,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+84348978,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84351978,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84353978,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84355978,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+84470998,Tramadol 50mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84471998,Tramadol 50mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+84539998,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+84540998,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+84541998,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+84542998,Tramadol 50mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+85080998,Tramadol (roi) tablet,4070200,0,0,,IMRD
+85081998,Tramadol (roi) tablet,4070200,0,0,,IMRD
+85166998,Codeine phosphate oral solution,23000000,0,0,,IMRD
+85304998,Tramadol 300mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+85305998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+85306998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+85307998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+85321979,Generic solpadeine plus capsules,0,0,0,,IMRD
+85334978,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+85391978,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+85545998,Co-codamol 8mg/500mg capsules,4070100,0,0,N02BE01,IMRD
+86072998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86073998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86096998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86097998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86100998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86126998,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,4070200,10010100,N02AJ08,IMRD
+86502979,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+86503998,Dihydrocodeine with paracetamol 7.46mg with 500mg effervescent tablets,4070200,4070200,4070100,N02AJ01,IMRD
+86513998,Generic Solpadeine Plus tablets,4070100,0,0,N02BE71,IMRD
+86514998,Generic Solpadeine Plus capsules,4070100,0,0,N02BE71,IMRD
+86515998,Generic Solpadeine Plus soluble tablets sugar free,4070100,0,0,N02BE71,IMRD
+86540998,Paracetamol & dihydrocodeine tartrate 500mg+7.46mg effervescent tablets,4070100,4070100,4070200,N02AJ01,IMRD
+86541998,Paracetamol 500mg / dihydrocodeine 7.46mg effervescent tablets sugar free,4070200,4070200,4070100,N02AJ01,IMRD
+86571998,Tramadol 400mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86572998,Tramadol 300mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86573998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86574998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86582998,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+86910998,Paracetamol with dihydrocodeine 500mg +10mg/5ml suspension sugar free,4070100,0,0,,IMRD
+86911998,Dihydrocodeine 10mg with paracetamol 500mg/5ml oral suspension sugar free,4070100,0,0,,IMRD
+86926998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86927998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86928998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+86979998,Codeine 6.75mg/5ml oral solution,3090100,0,0,,IMRD
+87007979,Generic migraleve tablets,0,0,0,,IMRD
+87008979,Generic migraleve pink tablets,0,0,0,,IMRD
+87495998,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,10010100,4070200,N02AJ08,IMRD
+87547998,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+87614998,Tramadol 37.5mg / Paracetamol 325mg tablets,4070200,4070200,4070100,N02AJ13,IMRD
+87615998,Tramadol 37.5mg / Paracetamol 325mg tablets,4070200,4070200,4070100,N02AJ13,IMRD
+87616998,Tramadol 37.5mg / Paracetamol 325mg tablets,4070200,4070200,4070100,N02AJ13,IMRD
+87697998,Paracetamol 450mg with codeine phosphate 10mg with doxylamine 5mg & caffeine 30mg tablet,4070100,0,0,R06AA09,IMRD
+87863998,Tramadol 50mg orodispersible tablets sugar free,4070200,0,0,N02AX02,IMRD
+87864998,Tramadol 50mg orodispersible tablets sugar free,4070200,0,0,N02AX02,IMRD
+87993998,Co-codamol 12.8mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+87997998,Co-codamol 12.8mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+88203998,Generic Migraleve tablets,4070401,0,0,N02C,IMRD
+88376998,Codeine phosphate with other ingredient pastilles,3090100,0,0,,IMRD
+88403998,Pseudoephedrine with brompheniramine & codeine phosphate oral solution,3090200,0,0,R05X,IMRD
+88546998,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+88547996,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+88547997,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+88547998,Tramadol 50mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+88735998,Paracetamol 450mg with codeine phosphate 10mg with doxylamine 5mg & caffeine 30mg tablet,4070100,0,0,N02BE71,IMRD
+88880998,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+89015998,Paracetamol & codeine phosphate 500mg+30mg/sachet powder,4070100,4070200,4070100,N02AJ06,IMRD
+89016997,Co-codamol 60mg/1000mg effervescent powder sachets sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+89016998,Co-codamol 30mg/500mg effervescent powder sachets sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+89068998,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+89079997,Tramadol hydrochloride 100mg/sachet powder,4070200,0,0,N02AX02,IMRD
+89079998,Tramadol hydrochloride 50mg/sachet powder,4070200,0,0,N02AX02,IMRD
+89184998,Co-codamol 8mg/500mg tablets,4070401,4070200,4070100,N02AJ06,IMRD
+89185998,Generic Migraleve Pink tablets,4070401,0,0,N02C,IMRD
+89614998,Tramadol 400mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+89615996,Tramadol 300mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+89615997,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+89615998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+89680997,Tramadol 100mg/2ml solution for injection ampoules,4070200,0,0,N02AX02,IMRD
+89680998,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+89745998,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,10010100,4070200,N02AJ08,IMRD
+89751998,Tramadol 50mg soluble tablets sugar free,4070200,0,0,N02AX02,IMRD
+89898998,Codeine 8mg with aspirin 500mg soluble tablets,4070100,4070200,4070100,N02AJ07,IMRD
+90085998,Tramadol 400mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+90086996,Tramadol 300mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+90086997,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+90086998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+90124998,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+90249998,Dihydrocodeine with paracetamol forte 30mg with 500mg effervescent tablets,4070100,4070100,4070200,N02AJ01,IMRD
+90330998,Guaiacol 75mg/5ml / codeine 7mg/5ml oral solution,3090200,4070200,3090200,R05X,IMRD
+90508996,Paracetamol 450mg with codeine phosphate 8.1mg tablet,4070100,0,0,,IMRD
+90508997,Paracetamol 500mg with codeine phosphate 10mg capsule,4070100,0,0,,IMRD
+90508998,Paracetamol 500mg with codeine phosphate 10mg tablet,4070100,0,0,,IMRD
+90643998,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+90729998,Paracetamo & codeine phosphate 1000mg+60mg/sachet powder,4070100,4070100,4070200,N02AJ06,IMRD
+91123996,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+91123997,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+91123998,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+91150997,Tramadol 75mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91150998,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+91153996,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+91153997,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+91153998,Tramadol 50mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+91158996,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91158997,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91158998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91159996,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91159997,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91159998,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91195997,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+91195998,Co-codamol 30mg/500mg capsules,4070100,4070100,4070200,N02AJ06,IMRD
+91235998,Co-codamol 15mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+91246997,Paracetamol 500mg with codeine phosphate 30mg effervescent powder sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+91246998,Paracetamol 1000mg with codeine phosphate 60mg effervescent powder sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+91436998,Generic Solpadeine Plus tablets,4070100,0,0,N02BE71,IMRD
+91620990,Co-codamol 30mg/500mg capsules,0,0,0,,IMRD
+91718990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+91733997,Tramadol 100mg effervescent powder sachets sugar free,4070200,0,0,N02AX02,IMRD
+91733998,Tramadol 50mg effervescent powder sachets sugar free,4070200,0,0,N02AX02,IMRD
+91748990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+91806998,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+91940998,Co-codamol 30mg/500mg capsules,4070100,4070100,4070200,N02AJ06,IMRD
+91966996,Tramadol 300mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91966997,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91966998,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+91969998,Tramadol 400mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+92048996,Generic Solpadeine Plus tablets,4070100,0,0,N02BE01,IMRD
+92079990,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+92087990,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+92116998,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+92121997,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,4070200,10010100,N02AJ08,IMRD
+92121998,Ibuprofen and codeine 200mg + 12.5mg tablet,10010100,10010100,4070200,N02AJ08,IMRD
+92122998,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,10010100,4070200,N02AJ08,IMRD
+92370990,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+92377990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+92380990,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+92381990,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+92417990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+92461990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+92467998,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+92468996,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+92468997,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+92468998,Tramadol 75mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+92676997,Tramadol 100mg/2ml solution for injection ampoules,4070200,0,0,N02AX02,IMRD
+92676998,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+92677996,Tramadol 50mg soluble tablets sugar free,4070200,0,0,N02AX02,IMRD
+92677997,Tramadol 100mg/2ml solution for injection ampoules,4070200,0,0,N02AX02,IMRD
+92677998,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+92776990,Dihydrocodeine 30mg tablets,4070200,0,0,,IMRD
+92780990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+92891998,Co-codamol 12.8mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+92909990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93021990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93048992,Ibuprofen 200mg / Codeine 12.8mg tablets,10010100,10010100,4070200,N02AJ08,IMRD
+93054990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+93233990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93259996,Co-codamol 30mg/500mg capsules,4070100,4070100,4070200,N02AJ06,IMRD
+93259997,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93259998,Co-codamol 30mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93271992,Aspirin / caffeine cit./ codeine phos./ 200 mg tab,4070100,0,0,,IMRD
+93296992,PARACETAMOL 500MG/CODEINE 10MG MG TAB,4070100,4070100,4070200,N02AJ06,IMRD
+93307992,Codeine phos/ephedrine hyd/promethazine lin,3090200,0,0,R05X,IMRD
+93308992,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93309992,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+93310992,Codeine phos/guaiphenesin/pseudoephedrin 7.5 mg eli,3090200,0,0,,IMRD
+93323998,Generic Solpadeine Plus capsules,4070100,0,0,N02BE01,IMRD
+93324998,Paracetamol with codeine with hyoscine & caffeine tablet,4070100,0,0,,IMRD
+93327998,Generic feminax tablets,4070100,0,0,N02BE01,IMRD
+93330998,Paracetamol 500mg with codeine phosphate 10mg tablet,4070100,0,0,,IMRD
+93342992,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93468998,Generic Migraleve tablets,4070401,0,0,N02C,IMRD
+93553998,Paracetamol with codeine phosphate peadiatric elixir,4070401,4070100,4070200,N02AJ06,IMRD
+93597992,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93671998,Dihydrocodeine 50mg/1ml solution for injection ampoules,4070200,0,0,N02AA08,IMRD
+93708990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93761990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93762990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93819990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93831997,Paracetamol 400mg with codeine phosphate 10mg with diphenhydramine 5mg & caffeine 50mg tablet,4070100,0,0,R06AA02,IMRD
+93831998,Paracetamol 400mg with codeine phosphate 10mg with diphenhydramine 5mg & caffeine 50mg tablet,4070100,0,0,R06AA02,IMRD
+93832998,Paracetamol 450mg with codeine phosphate 10mg with doxylamine 5mg & caffeine 30mg tablet,4070100,0,0,N02BE71,IMRD
+93833998,Paracetamol 400mg with codeine phosphate 10mg with diphenhydramine 5mg & caffeine 50mg tablet,4070100,0,0,,IMRD
+93849992,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+93941990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+93964998,Generic Migraleve Pink tablets,4070401,0,0,N02C,IMRD
+93966998,Generic Migraleve tablets,4070401,0,0,N02C,IMRD
+94103998,Codeine phosphate with dicycloverine with salts liquid,1040200,0,0,R05DA04,IMRD
+94104998,Kaolin light 1.5g/5ml / codeine 5mg/5ml oral suspension sugar free,1040200,4070200,1040100,A07DA52,IMRD
+94105998,Codeine phosphate with dicycloverine with salts liquid,1040200,0,0,,IMRD
+94157990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94252997,Codeine phosphate 3mg/5ml sugar free paediatric linctus,3090100,4070200,0,R05DA04,IMRD
+94252998,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+94267998,Codeine phosphate with menthol 15mg/5ml oral solution,3090200,0,0,R05X,IMRD
+94269998,Codeine phosphate with menthol 15mg/5ml oral solution,3090200,0,0,,IMRD
+94270998,Terpin 32.5mg/5ml / codeine 16mg/5ml linctus,3090100,0,0,,IMRD
+94275998,Codeine phosphate with diphenhydramine with paracetamol with phenylephrine with caffeine with vitamin c tablets,4070100,0,0,,IMRD
+94281990,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+94281998,Paracetamol with diphenhydramine with codeine with phenylephrine with caffeine & vitamin c tablet,4070100,0,0,,IMRD
+94282990,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+94283990,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+94284990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+94287998,"Diphenhydramine with codeine phosphate, sodium citrate and menthol 14mg with 5.7mg with 57mg with 1.1mg/5ml oral solutio",3090200,0,0,,IMRD
+94313997,Pseudoephedrine with brompheniramine & codeine phosphate paediatric oral solution,3090100,0,0,,IMRD
+94313998,Pseudoephedrine with brompheniramine & codeine phosphate oral solution,3090100,0,0,,IMRD
+94421998,Dihydrocodeine with paracetamol 7.46mg+500mg tablets,4070200,4070200,4070100,N02AJ01,IMRD
+94470990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94489990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94612998,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free,4070100,4070200,4070100,N02AJ07,IMRD
+94660990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+94677990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+94762990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94767998,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94768996,Paracetamol 500mg with codeine phosphate 13.5mg tablet,4070100,4070100,4070200,N02AJ06,IMRD
+94768997,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94768998,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94827997,Co-codamol 30mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94827998,Co-codamol 30mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+94858992,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95003990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95175990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+95180990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+95205990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+95206990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95267990,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95345990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95368990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+95384992,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95449998,Co-codamol 500mg+15mg tablets,4070100,0,0,N02AJ06,IMRD
+95450998,Co-codamol 8mg/500mg effervescent tablets,4070100,0,0,N02AJ06,IMRD
+95451998,Co-codamol 8mg+500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95452998,Co-codamol 8mg+500mg tablets,4070100,0,0,N02AJ06,IMRD
+95453998,Generic Solpadeine Plus tablets,4070100,0,0,N02BE71,IMRD
+95454998,Paracetamol 250mg with aspirin 250mg & codeine 6.8mg tablet,4070100,0,0,N02BA01,IMRD
+95458979,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95458997,Paracetamol 500mg / dihydrocodeine 7.46mg tablets,4070200,4070200,4070100,N02AJ01,IMRD
+95460979,Tramadol 200mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95462997,Generic Solpadeine Plus tablets,4070100,0,0,N02BE01,IMRD
+95462998,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg tablet,4070100,0,0,R05DA04,IMRD
+95463979,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95464979,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95464996,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95464997,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95464998,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95465979,Tramadol 150mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95465996,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95465997,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95465998,Co-codamol 15mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95466998,Generic Solpadeine Plus tablets,4070100,0,0,N02BE71,IMRD
+95470979,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95472979,Tramadol 100mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95475979,Tramadol 50mg modified-release capsules,4070200,0,0,N02AX02,IMRD
+95477979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95479979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95480979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95481979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95483979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95486979,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95487979,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95489979,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95492979,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95496979,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95497979,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95502979,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95507979,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+95509979,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+95511979,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+95513979,Tramadol 50mg capsules,4070200,0,0,,IMRD
+95539990,Tramadol 200mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95540990,Tramadol 150mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95541990,Tramadol 100mg modified-release tablets,4070200,0,0,N02AX02,IMRD
+95594979,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+95599992,Solpadeine forte tab,4070100,0,0,R05DA04,IMRD
+95600979,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+95602979,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+95605990,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+95609990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95659979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95660979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95662979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95664979,Co-codamol 30mg/500mg capsules,4070100,0,0,,IMRD
+95665979,Co-codamol 30mg/500mg capsules,4070100,0,0,,IMRD
+95671979,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95671990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95673979,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95674979,Co-codamol 8mg/500mg capsules,4070100,0,0,,IMRD
+95678979,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95682979,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95684979,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95687979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95688979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95689979,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+95708979,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95710979,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+95852992,Codeine phos/ibuprofen sr (20mg/300mg) tab,10010100,10010100,4070200,N02AJ08,IMRD
+95895992,Codeine co tab,4070100,0,0,,IMRD
+95899992,Codeine soluble tab,4070100,0,0,,IMRD
+96111992,Aspirin & codeine paed 75 mg tab,4070100,0,0,,IMRD
+96122990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96122992,Buclizine hyd/codeine phos/docusate sod/ 6.25 mg tab,4070401,0,0,,IMRD
+96128992,Caffeine /codeine phos./doxylamine succi 30 mg tab,4070100,0,0,,IMRD
+96165992,Codeine phosphate / magnesium chloride mg mix,1040200,0,0,,IMRD
+96166992,Codeine phos /diphenhydramine hyd. /ment 5.7 mg eli,3090200,0,0,,IMRD
+96167992,Codeine phos/guaiphenesin/pseudoephedrin 3 mg eli,3090200,0,0,,IMRD
+96184990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96304990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+96375996,Dihydrocodeine 120mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96375997,Dihydrocodeine 90mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96375998,Dihydrocodeine 60mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96376997,Co-dydramol (dihydrocodeine and paracetamol) 7.46mg with 500mg tablets,4070200,4070200,4070100,N02AJ01,IMRD
+96377996,Dihydrocodeine 120mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96377997,Dihydrocodeine 90mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96377998,Dihydrocodeine 60mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96379996,Dihydrocodeine 40mg tablets,4070200,0,0,N02AA08,IMRD
+96379997,Dihydrocodeine 10mg/5ml oral solution,4070200,0,0,N02AA08,IMRD
+96379998,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+96458990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96546990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96567990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96585992,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free,4070100,4070200,4070100,N02AJ07,IMRD
+96601990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+96616996,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+96616997,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+96616998,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96723990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+96730989,Dihydrocodeine 10mg/5ml oral solution,4070200,0,0,N02AA08,IMRD
+96732992,PARACETAMOL 450MG/CODEINE 8.1MG TAB,4070100,4070100,4070200,N02AJ06,IMRD
+96753996,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96753997,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+96753998,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96824990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96829990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96858990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+96916979,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96917979,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96919979,Codeine 3mg/5ml linctus paediatric,3090100,4070200,0,R05DA04,IMRD
+96947990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+96949990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+96950992,Aspirin & codeine 75 mg tab,4070100,0,0,,IMRD
+96953989,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+96953990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+96987990,Co-codamol 30mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+96993992,Brompheniramine /codeine phosphate / 2 mg eli,3090200,0,0,,IMRD
+96997992,Buclizine hyd/codeine phos/paracet / cod 6.25 mg tab,4070401,0,0,N02C,IMRD
+96997997,Codeine phosphate 15mg/5ml diabetic oral solution,3090100,4070200,0,R05DA04,IMRD
+96997998,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+96999997,Codeine 3mg/5ml linctus paediatric sugar free,3090100,4070200,0,R05DA04,IMRD
+96999998,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+97001990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+97014992,Caffeine citrate/codeine phosphate/parac 15 mg tab,4070100,0,0,,IMRD
+97016992,Caffeine/codeine phos./diphenhydramine h 50 mg tab,4070100,0,0,R06AA02,IMRD
+97031990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+97099990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+97071990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97083998,Ibuprofen 300mg modified-release / codeine 20mg tablets,10010100,10010100,4070200,N02AJ08,IMRD
+97125990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97181992,Codeine co soluble tab,4070100,0,0,,IMRD
+97188992,Codeine 8mg & paracetamol 500mg sup,4070100,0,0,,IMRD
+97189992,Codeine phosphate/paracetamol/sodium cit 8 mg cap,4070100,0,0,,IMRD
+97207989,Co-codamol 8mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+97207990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+97265992,Dihydrocodeine tartrate 30mg tablets,4070200,0,0,N02AA08,IMRD
+97305992,Dihydrocodeine tartrate/aspirin 300 mg tab,4070100,0,0,,IMRD
+97553998,Codeine phosphate 9mg with promethazine 3.6mg/5mhcl l oral solution,3090200,0,0,R05X,IMRD
+97582997,Co-codamol 8mg/500mg capsules,4070100,4070200,4070100,N02AJ06,IMRD
+97582998,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97695990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+97713990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+97863990,Tramadol 50mg capsules,4070200,0,0,N02AX02,IMRD
+97865992,"Paracetamol,caffeine,codeine & nicotinam tab",4070100,0,0,,IMRD
+97876988,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97876989,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97876990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97934990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+97984990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070100,4070200,N02AJ06,IMRD
+98018996,Dihydrocodeine with paracetamol 20mg with 500mg effervescent tablets,4070100,4070200,4070100,N02AJ01,IMRD
+98045990,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+98059990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98094997,Codeine 30mg/1ml solution for injection ampoules,4070200,0,0,,IMRD
+98094998,Codeine 60mg/1ml solution for injection ampoules,4070200,0,0,R05DA04,IMRD
+98174990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98184990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+98213998,Co-codamol 8mg/500mg tablets,4070401,4070200,4070100,N02AJ06,IMRD
+98248998,Pholcodine with menthol & terpin hydrate paste,3090200,0,0,R05X,IMRD
+98341990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+98349990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98429998,Ibuprofen & codeine phosphate 300mg+20mg modified release tablets,10010100,10010100,4070200,N02AJ08,IMRD
+98458997,Generic Solpadeine Plus capsules,4070100,0,0,N02BE71,IMRD
+98470998,Co-codamol 8mg+500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+98511990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+98553997,Codeine phosphate 30mg with paracetamol 500mg effervescent powder sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+98553998,Codeine phosphate 60mg with paracetamol 1000mg effervescent powder sugar free,4070100,4070100,4070200,N02AJ06,IMRD
+98568990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98574990,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+98577990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+98634988,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+98634990,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+98642998,Paracetamol 500mg with codeine phosphate 5mg & caffeine 10mg tablet,4070100,0,0,N06BC01,IMRD
+98737997,Co-codamol 30mg/500mg capsules,4070100,4070100,4070200,N02AJ06,IMRD
+98737998,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+98856990,Codeine phosphate powder,4070200,0,0,R05DA04,IMRD
+98874998,Dihydrocodeine tartrate 50mg/1ml injection,4070200,0,0,N02AA08,IMRD
+98875996,Dihydrocodeine 40mg tablets,4070200,0,0,N02AA08,IMRD
+98875997,Dihydrocodeine tartrate 10mg/5ml elixir,4070200,0,0,N02AA08,IMRD
+98875998,Dihydrocodeine tartrate 30mg tablets,4070200,0,0,N02AA08,IMRD
+98921998,Codeine 25mg/5ml oral solution,4070200,0,0,R05DA04,IMRD
+98922996,Codeine 60mg tablets,4070200,0,0,R05DA04,IMRD
+98922997,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+98922998,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+99085998,Paracetamol 450mg with codeine phosphate 10mg with doxylamine 5mg & caffeine 30mg tablet,4070100,0,0,N02BE71,IMRD
+99220990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99238990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99292989,Codeine 25mg/5ml oral solution,4070200,0,0,R05DA04,IMRD
+99293988,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99293989,Codeine 3mg/5ml linctus paediatric,3090100,4070200,0,R05DA04,IMRD
+99293990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99423998,Generic Migraleve Pink tablets,4070401,0,0,N02C,IMRD
+99518998,Codeine phosphate & kaolin 10mg+3g/10ml mixture,1040200,1040100,4070200,R05DA04,IMRD
+99624990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99626990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99627990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99628990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99638990,Codeine 25mg/5ml oral solution,4070200,0,0,R05DA04,IMRD
+99639988,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+99639989,Codeine 60mg tablets,4070200,0,0,R05DA04,IMRD
+99639990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+99640988,Codeine 60mg tablets,4070200,0,0,R05DA04,IMRD
+99640989,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+99640990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+99641990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99642990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99651988,Codeine 60mg tablets,4070200,0,0,R05DA04,IMRD
+99651989,Codeine 30mg tablets,4070200,0,0,R05DA04,IMRD
+99651990,Codeine 15mg tablets,4070200,0,0,R05DA04,IMRD
+99652990,Codeine 15mg/5ml linctus sugar free,3090100,4070200,0,R05DA04,IMRD
+99674988,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+99674989,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+99674990,Co-codamol 8mg/500mg effervescent tablets,4070100,4070200,4070100,N02AJ06,IMRD
+99675990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+99676990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+99677989,Co-codamol 30mg/500mg tablets,4070100,4070200,4070100,N02AJ06,IMRD
+99677990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+99678990,Co-codamol 8mg/500mg tablets,4070100,4070100,4070200,N02AJ06,IMRD
+99737992,Aspirin/codeine phosphate/paracetamol 250 mg tab,4070100,0,0,,IMRD
+99738992,Aspirin/caffeine/codeine phosphate 300 mg tab,4070100,0,0,,IMRD
+99812998,Pholcodine with menthol & terpin hydrate linctus,3090200,0,0,R05X,IMRD
+99897998,Generic benylin with codeine oral solution,3090200,0,0,R05X,IMRD
+99899992,Aspirin/codeine phosphate/paracetamol 300 mg tab,4070100,0,0,,IMRD
+5120978,Co-codamol 30mg/500mg caplets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+7200978,Co-codamol 8mg/500mg effervescent tablets sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8772978,Co-codamol 30mg/500mg/5ml oral solution sugar free   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+21785978,Brimisol PR 100mg tablets tablets 100 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+22525978,Co-codamol 15mg/500mg capsules capsules 15 ,04.07.01.00,00.00.00.00,00.00.00.00,,IMRD
+47765978,Co-codamol 30mg/500mg tablets tablets 30 ,04.07.01.00,00.00.00.00,00.00.00.00,,IMRD
+53205979,Tilodol SR 150mg tablets tablets 150 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+58275979,Codeine 30mg suppositories sup 30 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+58618979,Mabron 100mg modified-release tablets tablets 100 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+59214978,Tramadol 50mg orodispersible tablets sugar free tablets 50 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+64087979,Codeine 15mg/5ml linctus solution 3 ,03.09.01.00,00.00.00.00,00.00.00.00,,IMRD
+93817990,Co-codamol 30mg/500mg tablets tablets 30 ,04.07.01.00,00.00.00.00,00.00.00.00,,IMRD
+93820990,Co-codamol 30mg/500mg capsules capsules 30 ,04.07.01.00,00.00.00.00,00.00.00.00,,IMRD

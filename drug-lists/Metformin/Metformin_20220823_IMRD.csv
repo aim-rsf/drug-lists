@@ -1,0 +1,140 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+17678978,Metuxtan SR 500mg tablets,6010202,0,0,,IMRD
+19109978,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+19110978,Metformin 750mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+19122978,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+23051978,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+28975978,Metformin 850mg/5ml oral solution sugar free,0,0,0,,IMRD
+28977978,Metformin 1g/5ml oral solution sugar free,0,0,0,,IMRD
+42562978,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+45821978,Empagliflozin 5mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD20,IMRD
+45822978,Empagliflozin 5mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD20,IMRD
+45823978,Empagliflozin 5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD20,IMRD
+45824978,Empagliflozin 5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD20,IMRD
+45825978,Empagliflozin 12.5mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD20,IMRD
+45826978,Empagliflozin 12.5mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD20,IMRD
+45827978,Empagliflozin 12.5mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD20,IMRD
+45828978,Empagliflozin 12.5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD20,IMRD
+46249978,Metformin 1g modified-release tablets,0,0,0,,IMRD
+46254978,Metformin 750mg modified-release tablets,0,0,0,,IMRD
+53004979,Saxagliptin 2.5mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD10,IMRD
+53005979,Saxagliptin 2.5mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD10,IMRD
+53006979,Saxagliptin 2.5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD10,IMRD
+53007979,Saxagliptin 2.5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD10,IMRD
+54496979,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+54786979,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+54904979,Linagliptin 2.5mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD11,IMRD
+54905979,Linagliptin 2.5mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD11,IMRD
+54906979,Linagliptin 2.5mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD11,IMRD
+54907979,Linagliptin 2.5mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD11,IMRD
+56929978,Canagliflozin 50mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD16,IMRD
+56930978,Canagliflozin 50mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD16,IMRD
+56931978,Canagliflozin 50mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD16,IMRD
+56932978,Canagliflozin 50mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD16,IMRD
+58558979,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+67043979,Metformin 5mg/5ml oral solution,0,0,0,,IMRD
+71281979,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+74441978,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+74453978,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+74454978,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+76199978,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+76990978,Dapagliflozin 5mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD15,IMRD
+76991978,Dapagliflozin 5mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD15,IMRD
+76992978,Dapagliflozin 5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD15,IMRD
+76993978,Dapagliflozin 5mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD15,IMRD
+78729978,Alogliptin 12.5mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD13,IMRD
+78730978,Alogliptin 12.5mg / Metformin 1g tablets,6010203,6010203,6010202,A10BD13,IMRD
+79508979,Metformin 850mg/5ml oral suspension,0,0,0,,IMRD
+79510979,Metformin 850mg/5ml oral solution,0,0,0,,IMRD
+79512979,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+81158998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+81344998,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+81701998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+82068998,Metformin 1g / Sitagliptin 50mg tablets,6010203,6010202,6010203,A10BD07,IMRD
+82916998,Metformin hydrochloride 1g sachets,6010200,6010202,0,A10BA02,IMRD
+82917998,Metformin hydrochloride 500mg sachets,6010200,6010202,0,A10BA02,IMRD
+82918998,Metformin 1g oral powder sachets sugar free,6010200,6010202,0,A10BA02,IMRD
+82919998,Metformin 500mg oral powder sachets sugar free,6010200,6010202,0,A10BA02,IMRD
+83031998,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+83032998,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+83401998,Metformin 1g / Sitagliptin 50mg tablets,6010203,6010203,6010202,A10BD07,IMRD
+83619998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+83732998,Metformin 750mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+83733998,Metformin 750mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+84008998,Vildagliptin 50mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD,IMRD
+84009998,Vildagliptin 50mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD,IMRD
+84010998,Vildagliptin 50mg / Metformin 1g tablets,6010203,6010202,6010203,A10BD,IMRD
+84011998,Vildagliptin 50mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD,IMRD
+84268978,Metformin 1g modified-release tablets,0,0,0,,IMRD
+84318978,Metformin 500mg tablets,6010202,0,0,,IMRD
+85554998,Metformin 850mg capsules,23000000,0,0,,IMRD
+85555998,Metformin oral solution,23000000,0,0,,IMRD
+85622998,Pioglitazone 15mg / Metformin 850mg tablets,6010203,6010202,6010203,A10BD,IMRD
+85624998,Pioglitazone 15mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD,IMRD
+85625998,Pioglitazone 15mg / Metformin 850mg tablets,6010203,6010203,6010202,A10BD,IMRD
+85673998,Metformin 500mg/5ml oral solution sugar free,6010202,0,0,A10BA02,IMRD
+85674998,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+87053998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+87054998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+87165998,Metformin with rosiglitazone 1000mg + 4mg tablet,6010203,6010202,6010203,A10BD03,IMRD
+87166998,Metformin with rosiglitazone 1000mg + 2mg tablet,6010203,6010203,6010202,A10BD03,IMRD
+87179998,Metformin & rosiglitazone 1g+4mg tablets,6010203,6010202,6010203,A10BD03,IMRD
+87180998,Metformin & rosiglitazone 1g+2mg tablets,6010203,6010203,6010202,A10BD03,IMRD
+87181998,Rosiglitazone 4mg / metformin 1g tablets,6010203,6010202,6010203,A10BD03,IMRD
+87182998,Rosiglitazone 2mg / metformin 1g tablets,6010203,6010203,6010202,A10BD03,IMRD
+87536998,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+87770998,Metformin & rosiglitazone 500mg+2mg tablets,6010203,6010203,6010202,A10BD03,IMRD
+87771998,Metformin & rosiglitazone 500mg+1mg tablets,6010203,6010202,6010203,A10BD03,IMRD
+87772998,Metformin with rosiglitazone 500mg + 2mg tablet,6010203,6010203,6010202,A10BD03,IMRD
+87773998,Rosiglitazone 2mg / metformin 500mg tablets,6010203,6010203,6010202,A10BD03,IMRD
+87774998,Metformin with rosiglitazone 500mg + 1mg tablet,6010203,6010202,6010203,A10BD03,IMRD
+87775998,Rosiglitazone 1mg / metformin 500mg tablets,6010203,6010202,6010203,A10BD03,IMRD
+87883998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+89128979,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+89129979,Metformin 1g modified-release tablets,6010202,0,0,A10BA02,IMRD
+89188979,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+89865979,Glucophage SR 500mg tablets,6010202,0,0,,IMRD
+89868979,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+89870979,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+89871979,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+91221997,Metformin hydrochloride 850mg tablets,6010202,0,0,A10BA02,IMRD
+91221998,Metformin hydrochloride 500mg tablets,6010202,0,0,A10BA02,IMRD
+91686990,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+92983990,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+93167990,Metformin 500mg/5ml oral solution,6010202,0,0,A10BA02,IMRD
+93459979,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+93462979,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+93469979,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+94235992,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+94248990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+95270992,Metformin 800 mg tab,6010202,0,0,,IMRD
+95271992,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+95272992,Metformin 250 mg tab,6010202,0,0,,IMRD
+95600990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+95880998,Metformin 500mg modified-release tablets,6010202,0,0,A10BA02,IMRD
+96111990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+96270989,Metformin 850mg tablets,6010202,0,0,,IMRD
+96270990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+96850990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+97087997,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+97087998,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+97110989,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+97110990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+98125989,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+98125990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+98493989,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+98493990,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+98654989,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+98654990,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+99149990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+99513989,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+99513990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+99514989,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+99514990,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+99590997,Metformin 850mg tablets,6010202,0,0,A10BA02,IMRD
+99590998,Metformin 500mg tablets,6010202,0,0,A10BA02,IMRD
+5709978,Glucorex SR 500mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+7321978,Metformin 500mg modified-release tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+8228978,Sukkarto SR 750mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+79520979,Metformin 250mg/5ml oral solution solution 50 ,06.01.02.02,00.00.00.00,00.00.00.00,,IMRD
+94474990,Metformin 500mg tablets tablets 500 ,06.01.02.02,00.00.00.00,00.00.00.00,,IMRD

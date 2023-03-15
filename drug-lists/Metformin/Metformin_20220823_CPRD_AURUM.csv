@@ -1,0 +1,84 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+5.12824E+15,Glucophage Tablets 1000 mg    ,,,,,CPRD_AURUM
+3.89094E+15,Metformin Hydrochloride Sugar free suspension 500 mg/5 ml    ,,,,,CPRD_AURUM
+8.96941E+14,Metformin 500mg tablets Tablet Oral Metformin hydrochloride 500.000mg,6010202,,,,CPRD_AURUM
+6.44941E+14,Glucophage 500mg tablets (Merck Serono Ltd) Tablet Oral Metformin hydrochloride 500.000mg,6010202,,,,CPRD_AURUM
+6.45041E+14,Glucophage 850mg tablets (Merck Serono Ltd) Tablet Oral Metformin hydrochloride 850.000mg,6010202,,,,CPRD_AURUM
+8.97041E+14,Metformin 850mg tablets Tablet Oral Metformin hydrochloride 850.000mg,6010202,,,,CPRD_AURUM
+3.22824E+15,Glucophage SR 500mg tablets (Merck Serono Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,6010202,,,,CPRD_AURUM
+3.22814E+15,Metformin 500mg modified-release tablets Modified-release tablet Oral Metformin hydrochloride 500.000mg,6010202,,,,CPRD_AURUM
+6.39104E+15,Glucient SR 500mg tablets (Consilient Health Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+6.02984E+15,Metabet SR 500mg tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+4.95774E+15,Bolamyn SR 500mg tablets (Teva UK Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,6010202,,,,CPRD_AURUM
+7.87494E+15,Diagemet XL 500mg tablets (Thornton & Ross Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+1.25931E+16,Yaltormin SR 500mg tablets (Wockhardt UK Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+1.23265E+16,Meijumet 500mg modified-release tablets (Medreich Plc) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+1.26644E+16,Metuxtan SR 500mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+9.23064E+15,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+3.19134E+15,Rosiglitazone 1mg / Metformin 500mg tablets Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 500.000mg + 1.000mg,,,,,CPRD_AURUM
+2.99514E+15,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 500.000mg + 1.000mg,,,,,CPRD_AURUM
+2.99524E+15,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 500.000mg + 2.000mg,,,,,CPRD_AURUM
+3.19144E+15,Rosiglitazone 2mg / Metformin 500mg tablets Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 500.000mg + 2.000mg,,,,,CPRD_AURUM
+3.20054E+15,Rosiglitazone 2mg / Metformin 1g tablets Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 1.000gram + 2.000mg,,,,,CPRD_AURUM
+3.20074E+15,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 1.000gram + 2.000mg,,,,,CPRD_AURUM
+3.20084E+15,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 1.000gram + 4.000mg,,,,,CPRD_AURUM
+3.20064E+15,Rosiglitazone 4mg / Metformin 1g tablets Tablet Oral Metformin hydrochloride/ Rosiglitazone maleate 1.000gram + 4.000mg,,,,,CPRD_AURUM
+5.99704E+15,Metformin 500mg/5ml oral solution Oral solution Oral Metformin hydrochloride 100.000mg/1.000ml,,,,,CPRD_AURUM
+4.54914E+15,Metformin 750mg modified-release tablets Modified-release tablet Oral Metformin hydrochloride 750.000mg,,,,,CPRD_AURUM
+4.54924E+15,Glucophage SR 750mg tablets (Merck Serono Ltd) Modified-release tablet Oral Metformin hydrochloride 750.000mg,,,,,CPRD_AURUM
+1.23266E+16,Meijumet 750mg modified-release tablets (Medreich Plc) Modified-release tablet Oral Metformin hydrochloride 750.000mg,,,,,CPRD_AURUM
+1.25932E+16,Yaltormin SR 750mg tablets (Wockhardt UK Ltd) Modified-release tablet Oral Metformin hydrochloride 750.000mg,,,,,CPRD_AURUM
+1.05988E+16,Glucient SR 750mg tablets (Consilient Health Ltd) Modified-release tablet Oral Metformin hydrochloride 750.000mg,,,,,CPRD_AURUM
+1.3429E+16,Sukkarto SR 750mg tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Metformin hydrochloride 750.000mg,,,,,CPRD_AURUM
+4.94524E+15,Metformin 1g modified-release tablets Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+6.27974E+15,Metabet SR 1000mg tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+4.94534E+15,Glucophage SR 1000mg tablets (Merck Serono Ltd) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+8.34894E+15,Bolamyn SR 1000mg tablets (Teva UK Ltd) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+1.05989E+16,Glucient SR 1000mg tablets (Consilient Health Ltd) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+9.23084E+15,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+1.25933E+16,Yaltormin SR 1000mg tablets (Wockhardt UK Ltd) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+1.23267E+16,Meijumet 1000mg modified-release tablets (Medreich Plc) Modified-release tablet Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+3.98394E+15,Pioglitazone 15mg / Metformin 850mg tablets Tablet Oral Metformin hydrochloride/ Pioglitazone hydrochloride 850.000mg + 15.000mg,6010203,,,,CPRD_AURUM
+3.98424E+15,Competact 15mg/850mg tablets (Takeda UK Ltd) Tablet Oral Metformin hydrochloride/ Pioglitazone hydrochloride 850.000mg + 15.000mg,6010203,,,,CPRD_AURUM
+2.62024E+15,Metformin 500mg/5ml oral suspension Oral suspension Oral Metformin hydrochloride 100.000mg/1.000ml,,,,,CPRD_AURUM
+3.98234E+15,Metformin 500mg/5ml oral solution sugar free Oral solution Oral Metformin hydrochloride 100.000mg/1.000ml,,,,,CPRD_AURUM
+3.98244E+15,Metsol 500mg/5ml oral solution (Kappin Ltd) Oral solution Oral Metformin hydrochloride 100.000mg/1.000ml,,,,,CPRD_AURUM
+4.45244E+15,Vildagliptin 50mg / Metformin 1g tablets Tablet Oral Metformin hydrochloride/ Vildagliptin 1.000gram + 50.000mg,6010203,,,,CPRD_AURUM
+4.45254E+15,Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Metformin hydrochloride/ Vildagliptin 1.000gram + 50.000mg,6010203,,,,CPRD_AURUM
+4.45264E+15,Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Metformin hydrochloride/ Vildagliptin 850.000mg + 50.000mg,6010203,,,,CPRD_AURUM
+4.45234E+15,Vildagliptin 50mg / Metformin 850mg tablets Tablet Oral Metformin hydrochloride/ Vildagliptin 850.000mg + 50.000mg,6010203,,,,CPRD_AURUM
+5.00774E+15,Metformin 1g oral powder sachets sugar free Powder Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+5.00794E+15,Glucophage 1000mg oral powder sachets (Merck Serono Ltd) Powder Oral Metformin hydrochloride 1.000gram,,,,,CPRD_AURUM
+5.00764E+15,Metformin 500mg oral powder sachets sugar free Powder Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+5.00784E+15,Glucophage 500mg oral powder sachets (Merck Serono Ltd) Powder Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM
+5.13224E+15,Janumet 50mg/1000mg tablets (Merck Sharp & Dohme Ltd) Tablet Oral Metformin hydrochloride/ Sitagliptin phosphate 1.000gram + 50.000mg,6010203,,,,CPRD_AURUM
+5.57604E+15,Metformin 1g / Sitagliptin 50mg tablets Tablet Oral Metformin hydrochloride/ Sitagliptin phosphate 1.000gram + 50.000mg,6010203,,,,CPRD_AURUM
+8.11594E+15,Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd) Tablet Oral Linagliptin/ Metformin hydrochloride 2.500mg + 1000.000mg,6010203,,,,CPRD_AURUM
+8.11574E+15,Linagliptin 2.5mg / Metformin 1g tablets Tablet Oral Linagliptin/ Metformin hydrochloride 2.500mg + 1000.000mg,6010203,,,,CPRD_AURUM
+8.11584E+15,Linagliptin 2.5mg / Metformin 850mg tablets Tablet Oral Linagliptin/ Metformin hydrochloride 2.500mg + 850.000mg,6010203,,,,CPRD_AURUM
+8.11604E+15,Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd) Tablet Oral Linagliptin/ Metformin hydrochloride 2.500mg + 850.000mg,6010203,,,,CPRD_AURUM
+8.24264E+15,Saxagliptin 2.5mg / Metformin 1g tablets Tablet Oral Metformin hydrochloride/ Saxagliptin hydrochloride 1.000gram + 2.500mg,6010203,,,,CPRD_AURUM
+8.24284E+15,Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd) Tablet Oral Metformin hydrochloride/ Saxagliptin hydrochloride 1.000gram + 2.500mg,6010203,,,,CPRD_AURUM
+8.24274E+15,Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd) Tablet Oral Metformin hydrochloride/ Saxagliptin hydrochloride 850.000mg + 2.500mg,6010203,,,,CPRD_AURUM
+8.24254E+15,Saxagliptin 2.5mg / Metformin 850mg tablets Tablet Oral Metformin hydrochloride/ Saxagliptin hydrochloride 850.000mg + 2.500mg,6010203,,,,CPRD_AURUM
+8.95994E+15,Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd) Tablet Oral Alogliptin benzoate/ Metformin hydrochloride 12.500mg + 1.000gram,6010203,,,,CPRD_AURUM
+8.95984E+15,Alogliptin 12.5mg / Metformin 1g tablets Tablet Oral Alogliptin benzoate/ Metformin hydrochloride 12.500mg + 1.000gram,6010203,,,,CPRD_AURUM
+9.10624E+15,Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd) Tablet Oral Dapagliflozin propanediol monohydrate/ Metformin hydrochloride 5.000mg + 1.000gram,6010203,,,,CPRD_AURUM
+9.10604E+15,Dapagliflozin 5mg / Metformin 1g tablets Tablet Oral Dapagliflozin propanediol monohydrate/ Metformin hydrochloride 5.000mg + 1.000gram,6010203,,,,CPRD_AURUM
+9.10614E+15,Dapagliflozin 5mg / Metformin 850mg tablets Tablet Oral Dapagliflozin propanediol monohydrate/ Metformin hydrochloride 5.000mg + 850.000mg,6010203,,,,CPRD_AURUM
+9.10634E+15,Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd) Tablet Oral Dapagliflozin propanediol monohydrate/ Metformin hydrochloride 5.000mg + 850.000mg,6010203,,,,CPRD_AURUM
+9.85154E+15,Canagliflozin 50mg / Metformin 1g tablets Tablet Oral Canagliflozin hemihydrate/ Metformin hydrochloride 50.000mg + 1.000gram,6010203,,,,CPRD_AURUM
+9.85184E+15,Vokanamet 50mg/1000mg tablets (Napp Pharmaceuticals Ltd) Tablet Oral Canagliflozin hemihydrate/ Metformin hydrochloride 50.000mg + 1.000gram,6010203,,,,CPRD_AURUM
+9.85164E+15,Canagliflozin 50mg / Metformin 850mg tablets Tablet Oral Canagliflozin hemihydrate/ Metformin hydrochloride 50.000mg + 850.000mg,6010203,,,,CPRD_AURUM
+9.85174E+15,Vokanamet 50mg/850mg tablets (Napp Pharmaceuticals Ltd) Tablet Oral Canagliflozin hemihydrate/ Metformin hydrochloride 50.000mg + 850.000mg,6010203,,,,CPRD_AURUM
+1.06144E+16,Empagliflozin 12.5mg / Metformin 1g tablets Tablet Oral Empagliflozin/ Metformin hydrochloride 12.500mg + 1.000gram,6010203,,,,CPRD_AURUM
+1.06148E+16,Synjardy 12.5mg/1000mg tablets (Boehringer Ingelheim Ltd) Tablet Oral Empagliflozin/ Metformin hydrochloride 12.500mg + 1.000gram,6010203,,,,CPRD_AURUM
+1.06147E+16,Synjardy 12.5mg/850mg tablets (Boehringer Ingelheim Ltd) Tablet Oral Empagliflozin/ Metformin hydrochloride 12.500mg + 850.000mg,6010203,,,,CPRD_AURUM
+1.06143E+16,Empagliflozin 12.5mg / Metformin 850mg tablets Tablet Oral Empagliflozin/ Metformin hydrochloride 12.500mg + 850.000mg,6010203,,,,CPRD_AURUM
+1.06142E+16,Empagliflozin 5mg / Metformin 1g tablets Tablet Oral Empagliflozin/ Metformin hydrochloride 5.000mg + 1.000gram,6010203,,,,CPRD_AURUM
+1.06146E+16,Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd) Tablet Oral Empagliflozin/ Metformin hydrochloride 5.000mg + 1.000gram,6010203,,,,CPRD_AURUM
+1.06145E+16,Synjardy 5mg/850mg tablets (Boehringer Ingelheim Ltd) Tablet Oral Empagliflozin/ Metformin hydrochloride 5.000mg + 850.000mg,6010203,,,,CPRD_AURUM
+1.06141E+16,Empagliflozin 5mg / Metformin 850mg tablets Tablet Oral Empagliflozin/ Metformin hydrochloride 5.000mg + 850.000mg,6010203,,,,CPRD_AURUM
+1.17813E+16,Metformin 1g/5ml oral solution sugar free Oral solution Oral Metformin hydrochloride 200.000mg/1.000ml,,,,,CPRD_AURUM
+1.17814E+16,Metformin 850mg/5ml oral solution sugar free Oral solution Oral Metformin hydrochloride 170.000mg/1.000ml,,,,,CPRD_AURUM
+1.36066E+16,Glucorex SR 500mg tablets (GlucoRx Ltd) Glucorex SR 500mg tablets Modified-release tablet Oral Metformin hydrochloride 500.000mg,,,,,CPRD_AURUM

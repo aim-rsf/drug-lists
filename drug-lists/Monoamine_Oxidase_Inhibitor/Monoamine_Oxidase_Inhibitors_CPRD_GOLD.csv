@@ -1,0 +1,13 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+3955,Tranylcypromine with trifluoperazine Tablet Trifluoperazine Hydrochloride/Tranylcypromine Sulphate  Tablet Oral,4020100,4030200,,,CPRD_GOLD
+4321,Phenelzine 15mg tablets Phenelzine sulfate 15mg Tablet Oral,4030200,,,,CPRD_GOLD
+12207,Isocarboxazid 10mg tablets Isocarboxazid 10mg Tablet Oral,4030200,,,,CPRD_GOLD
+41731,Isocarboxazid 10mg Tablet (Cambridge Laboratories Ltd) Isocarboxazid 10mg Tablet Oral,4030200,,,,CPRD_GOLD
+3783,Tranylcypromine 10mg tablets Tranylcypromine sulfate 10mg Tablet Oral,4030200,,,,CPRD_GOLD
+41654,Tranylcypromine 10mg tablets (Advanz Pharma) Tranylcypromine sulfate 10mg Tablet Oral,4030200,,,,CPRD_GOLD
+10787,Parnate 10mg Tablet (Goldshield Pharmaceuticals Ltd) Tranylcypromine sulfate 10mg Tablet Oral,4030200,,,,CPRD_GOLD
+3349,Nardil 15mg tablets (Kyowa Kirin Ltd) Phenelzine sulfate 15mg Tablet Oral,4030200,,,,CPRD_GOLD
+12503,Marplan 10mg Tablet (Cambridge Laboratories Ltd) Isocarboxazid 10mg Tablet Oral,4030200,,,,CPRD_GOLD
+3356,Parstelin Tablet (GlaxoSmithKline Consumer Healthcare) Trifluoperazine Hydrochloride/Tranylcypromine Sulphate  Tablet Oral,4020100,4030200,,,CPRD_GOLD
+24890,Trifluoperazine with tranylcypromine 1mg + 10mg Tablet Trifluoperazine Hydrochloride/Tranylcypromine Sulphate 1mg + 10mg Tablet Oral,4020100,4030200,,,CPRD_GOLD
+82839,Phenelzine 15mg capsulesPhenelzine sulfate15mgCapsuleOral ,4030200,,,,CPRD_GOLD

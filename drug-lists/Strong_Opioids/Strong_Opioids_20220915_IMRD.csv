@@ -1,0 +1,882 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+17659978,Oxypro 60mg modified-release tablets,4070200,0,0,,IMRD
+17661978,Oxypro 15mg modified-release tablets,4070200,0,0,,IMRD
+17663978,Oxypro 30mg modified-release tablets,4070200,0,0,,IMRD
+17671978,Oxypro 5mg modified-release tablets,4070200,0,0,,IMRD
+17710978,Oxypro 80mg modified-release tablets,4070200,0,0,,IMRD
+17712978,Oxypro 40mg modified-release tablets,4070200,0,0,,IMRD
+17714978,Oxypro 20mg modified-release tablets,4070200,0,0,,IMRD
+17715978,Ixyldone 10mg modified-release tablets,4070200,0,0,,IMRD
+17716978,Oxypro 10mg modified-release tablets,4070200,0,0,,IMRD
+18669978,Morphine sulfate 2.5mg/5ml oral solution,0,0,0,,IMRD
+19045978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+19046978,Bunov 20micrograms/hour transdermal patches,4070200,0,0,,IMRD
+19047978,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+19106978,Renocontin 15mg modified-release tablets,4070200,0,0,,IMRD
+19119978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+19152978,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+21233978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+21234978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+21437978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+21438978,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+21439978,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+22980978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+22981978,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+22982978,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+24844978,Buprenorphine 70micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+24845978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+24846978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+24875978,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+24877978,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+25998978,Buprenorphine 15micrograms/hour transdermal patches,0,0,0,,IMRD
+26008978,Oxycodone 50mg/1ml solution for injection ampoules,0,0,0,,IMRD
+26106978,Oxycodone 10mg/1ml solution for injection ampoules,0,0,0,,IMRD
+26107978,Oxycodone 20mg/2ml solution for injection ampoules,0,0,0,,IMRD
+26126978,Oxycodone 10mg/ml oral solution sugar free,0,0,0,,IMRD
+26127978,Oxycodone 5mg/5ml oral solution sugar free,0,0,0,,IMRD
+28946978,Buprenorphine 8mg oral lyophilisates sugar free,0,0,0,,IMRD
+28947978,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+28948978,Buprenorphine 2mg oral lyophilisates sugar free,0,0,0,,IMRD
+28949978,Buprenorphine 2mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+29310978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+29311978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+29528978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+29530978,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+29532978,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+29733978,Buprenorphine 15micrograms/hour transdermal patches,0,0,0,,IMRD
+29947978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+29948978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+29949978,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+29950978,Buprenorphine 20micrograms/hour transdermal patches,0,0,0,,IMRD
+29951978,Buprenorphine 5micrograms/hour transdermal patches,0,0,0,,IMRD
+29952978,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+30064978,Buprenorphine 16mg / naloxone 4mg sublingual tablets sugar free,0,0,0,,IMRD
+30065978,Buprenorphine 16mg / naloxone 4mg sublingual tablets sugar free,0,0,0,,IMRD
+31603978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+33834978,Fentanyl 12micrograms/hour transdermal patches,0,0,0,,IMRD
+33914978,Buprenorphine 70micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+33915978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+33916978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+33917978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+37719978,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+37791978,Buprenorphine 15micrograms/hour transdermal patches,0,0,0,,IMRD
+37792978,Buprenorphine 15micrograms/hour transdermal patches,0,0,0,,IMRD
+38530978,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+38531978,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+38532978,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+39423978,Morphine sulfate 10mg/10ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+42508978,Oxycodone 60mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42509978,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42510978,Oxycodone 30mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42544978,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42681978,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42682978,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42683978,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42684978,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+42686978,Oxycodone 5mg/5ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+46162978,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+46271978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+46309978,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+46311978,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+46313978,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+46315978,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+46916978,Diamorphine 720micrograms/dose nasal spray,0,0,0,,IMRD
+46917978,Diamorphine 720micrograms/dose nasal spray,0,0,0,,IMRD
+46919978,Diamorphine 1.6mg/dose nasal spray,0,0,0,,IMRD
+46962978,Oxycodone 120mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+47110978,Oxycodone 60mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+47111978,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+47112978,Oxycodone 30mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+47891978,Methadone 50mg tablets,4070200,0,0,,IMRD
+50881978,Oxeltra 60mg modified-release tablets,4070200,0,0,,IMRD
+50882978,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+50883978,Oxycodone 30mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+50891978,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+50922978,Oxeltra 80mg modified-release tablets,4070200,0,0,,IMRD
+50923978,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+50924978,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+50925978,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+53094979,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+53095979,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+53096979,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+53316979,Morphine sulfate 50mg/5ml solution for injection ampoules,0,0,0,,IMRD
+53668979,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,,IMRD
+53700979,Morphine sulfate 10mg/10ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+53704979,Morphine hydrochloride 5mg/5ml solution for injection ampoules,0,0,0,,IMRD
+53708979,Morphine hydrochloride 1mg/1ml solution for injection ampoules,0,0,0,,IMRD
+53906979,Oxycodone 20mg / Naloxone 10mg modified-release tablets,4070200,15010700,4070200,N02AA55,IMRD
+55145978,Buprenorphine 6mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+55147978,Buprenorphine 4mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+55149978,Buprenorphine 1mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+55543979,Alfentanil 500micrograms/1ml solution for injection ampoules,0,0,0,,IMRD
+55720978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+55749978,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+56116979,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+56158979,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+56159979,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+56160979,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+56161979,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+57755979,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+57812979,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+57813979,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+57814979,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+57815979,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+59237978,Oxycodone 60mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+59238978,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+59239978,Oxycodone 30mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+60313979,Morphine 0.1% gel,0,0,0,,IMRD
+60499979,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+60502979,Buprenorphine 400microgram sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+61209979,Methadone 5mg capsules,0,0,0,,IMRD
+63187979,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+63189979,Diamorphine 500mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+63191979,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+63193979,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+63195979,Diamorphine 100mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+68091979,Morphine sulfate 5mg/5ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+68093979,Morphine sulfate 5mg/1ml solution for injection ampoules,0,0,0,,IMRD
+68095979,Morphine sulfate 5mg/10ml solution for injection ampoules,0,0,0,,IMRD
+68105979,Morphine sulfate 20mg/2ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+68107979,Morphine sulfate 2.5mg/5ml solution for injection ampoules,0,0,0,,IMRD
+68111979,Morphine sulfate 10mg/2ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+68297979,Morphine sulfate 500micrograms/5ml oral solution,0,0,0,,IMRD
+68320979,Methadone 100mg capsules,0,0,0,,IMRD
+68687979,Morphine sulfate 20mg/5ml oral solution,4070200,0,0,,IMRD
+68921979,Morphine sulfate 2mg/5ml oral solution,0,0,0,,IMRD
+68927979,Morphine sulfate 1.5mg/5ml oral solution,0,0,0,,IMRD
+68946979,Morphine sulfate 5mg/5ml oral solution,0,0,0,,IMRD
+68972979,Morphine hydrochloride 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+68973979,Morphine hydrochloride 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+68975979,Morphine hydrochloride 100mg/5ml oral solution,0,0,0,,IMRD
+69083979,Methadone 20mg/5ml oral solution,0,0,0,,IMRD
+69099979,Methadone 1mg/5ml oral suspension,4070200,4100300,0,N07BC02,IMRD
+69105979,Methadone 15mg/5ml oral solution,0,0,0,,IMRD
+70120979,Diamorphine 3mg/5ml oral solution,3090100,0,0,R05DA,IMRD
+70553979,Dihydrocodeine 30mg/5ml oral solution,0,0,0,,IMRD
+70555979,Dihydrocodeine 15mg/5ml oral solution,0,0,0,,IMRD
+70995979,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+74379978,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+74447978,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+74464978,Fentanyl 100micrograms/hour transdermal patches,0,0,0,,IMRD
+74465978,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+74466978,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+74467978,Fentanyl 25micrograms/hour transdermal patches,0,0,0,,IMRD
+74503978,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+74505978,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+74508978,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+74511978,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+74514978,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+75845978,Fentanyl 533microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+75847978,Fentanyl 267microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+75849978,Fentanyl 133microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+76364978,Morphine 0.2% in intrasite gel,0,0,0,,IMRD
+78211978,Oxycodone 20mg capsules,4070200,0,0,N02AA05,IMRD
+78212978,Oxycodone 10mg capsules,4070200,0,0,N02AA05,IMRD
+78213978,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+78243979,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+78349978,Fentanyl 37.5microgram/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+78350978,Fentanyl 37.5microgram/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+79308978,Fentanyl 800microgram buccal films sugar free,4070200,0,0,N02AB03,IMRD
+79310978,Fentanyl 400microgram buccal films sugar free,4070200,0,0,N02AB03,IMRD
+79311978,Fentanyl buccal film 200mcg sachets,4070200,0,0,N02AB03,IMRD
+79312978,Fentanyl 200microgram buccal films sugar free,4070200,0,0,N02AB03,IMRD
+79702978,Buprenorphine 70micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+79703978,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+79704978,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+79732978,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+79909978,Morphine 0.1% in intrasite gel,0,0,0,,IMRD
+79939978,Morphine sulfate 50mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+80216979,Dihydrocodeine 10mg/5ml oral suspension,0,0,0,,IMRD
+80901998,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+80902998,Buprenorphine 2mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+80904998,Buprenorphine 400microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+80905998,Buprenorphine 200microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+81062998,Co-dydramol (dihydrocodeine and paracetamol) 10mg with 500mg/5ml oral suspension,0,0,0,,IMRD
+81222998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+81223998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+81224998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+81225998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+81226998,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+81548998,Oxycodone 60mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81549998,Oxycodone 30mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81550998,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81551998,Oxycodone 60mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81552998,Oxycodone 30mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81553998,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81565998,Oxycodone 120mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81566998,Oxycodone 120mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+81878998,Fentanyl 400micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+81879998,Fentanyl 100micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+81880998,Fentanyl 400micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82210978,Buprenorphine 400mcg sublingual tablets,4100300,4070200,0,N07BC01,IMRD
+82606998,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+82613998,Fentanyl 200micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82614998,Fentanyl 100micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82615998,Fentanyl 50micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82616998,Fentanyl 200micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82617998,Fentanyl 100micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82618998,Fentanyl 50micrograms/dose nasal spray,4070200,0,0,N02AB03,IMRD
+82725998,Oxycodone 40mg / Naloxone 20mg modified-release tablets,4070200,15010700,4070200,N02AA55,IMRD
+82726998,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,4070200,4070200,15010700,N02AA55,IMRD
+82727998,Oxycodone 40mg / Naloxone 20mg modified-release tablets,4070200,4070200,15010700,N02AA55,IMRD
+82728998,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,4070200,15010700,4070200,N02AA55,IMRD
+82796998,Oxycodone 50mg/1ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+82797998,Oxycodone 50mg/1ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+82810998,Alfentanil 5mg/1ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+83001998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83002998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83003998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83004998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83015998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83016998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83017998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83018998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+83052998,Morphine sulfate 10mg/1ml suspension for injection vials,4070200,0,0,N02AA01,IMRD
+83121998,Oxycodone 20mg / Naloxone 10mg modified-release tablets,4070200,15010700,4070200,N02AA55,IMRD
+83122998,Oxycodone 10mg / Naloxone 5mg modified-release tablets,4070200,15010700,4070200,N02AA55,IMRD
+83123998,Oxycodone 20mg / Naloxone 10mg modified-release tablets,4070200,15010700,4070200,N02AA55,IMRD
+83124998,Oxycodone 10mg / Naloxone 5mg modified-release tablets,4070200,4070200,15010700,N02AA55,IMRD
+83189998,Fentanyl 800microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83190998,Fentanyl 600microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83191998,Fentanyl 400microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83192998,Fentanyl 200microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83193998,Fentanyl 100microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83194998,Fentanyl 800microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83195998,Fentanyl 600microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83196998,Fentanyl 400microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83197998,Fentanyl 200microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83198998,Fentanyl 100microgram buccal tablets sugar free,4070200,0,0,N02AB03,IMRD
+83223998,Fentanyl 800microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83224998,Fentanyl 600microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83225998,Fentanyl 400microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83226998,Fentanyl 300microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83227998,Fentanyl 200microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83228998,Fentanyl 100microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83229998,Fentanyl 800microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83230998,Fentanyl 600microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83231998,Fentanyl 400microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83232998,Fentanyl 300microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83233998,Fentanyl 200microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83234998,Fentanyl 100microgram sublingual tablets sugar free,4070200,0,0,N02AB03,IMRD
+83283978,Oxycodone 20mg capsules,4070200,0,0,N02AA05,IMRD
+83284978,Oxycodone 10mg capsules,4070200,0,0,N02AA05,IMRD
+83285978,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+83349998,Morphine 200mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83351998,Morphine 150mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83352998,Morphine 120mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83354998,Morphine 100mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83355998,Morphine 90mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83356998,Morphine 10mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83359998,Morphine 30mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83478998,Dihydrocodeine 40mg tablets,4070200,0,0,N02AA08,IMRD
+83624998,Morphine 60mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+83629978,Fentanyl 2.5mg/50ml solution for infusion vials,0,0,0,,IMRD
+83756978,Morphine sulfate 10mg/10ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+84068998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84069998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84070998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84071998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84078998,Diamorphine 15mg powder for solution for injection ampoules,23000000,0,0,,IMRD
+84136998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84137998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84138998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84139998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84140998,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84141998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84142998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84143998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84144998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+84154998,Fentanyl iontophoretic transdermal 40mcg/dose system,4070200,0,0,N02AB03,IMRD
+84156998,Fentanyl 40micrograms/dose transdermal system,4070200,0,0,N02AB03,IMRD
+84265978,Oxycodone 15mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+84301998,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+84319998,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+84334998,Oxycodone 5mg/5ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+84336998,Alfentanil 0.1% nasal spray,4070200,0,0,,IMRD
+84404978,Alfentanil 5mg/5ml buccal spray,0,0,0,,IMRD
+84424998,Methadone hydrochloride 25mg/5ml oral solution,4070200,4100300,0,N07BC02,IMRD
+84425998,Methadone 5mg/ml oral solution,4070200,4100300,0,N07BC02,IMRD
+84426998,Methadone 1mg/ml oral solution,4070200,4100300,0,N07BC02,IMRD
+84739979,Methadone 50mg/1ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85104998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+85106998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+85107998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+85108998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+85109998,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+85254998,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+85255998,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+85256998,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+85257998,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+85258998,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+85261998,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,4100300,4070200,15010700,N07BC51,IMRD
+85314998,Alfentanil 5mg/10ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+85315998,Alfentanil 1mg/2ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+85316998,Alfentanil 5mg/10ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+85317998,Alfentanil 1mg/2ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+85342998,Fentanyl 500micrograms/10ml solution for injection ampoules,15010403,0,0,N01AH01,IMRD
+85344998,Fentanyl 500micrograms/10ml solution for injection ampoules,15010403,0,0,N01AH01,IMRD
+85345998,Fentanyl 100micrograms/2ml solution for injection ampoules,15010403,0,0,N01AH01,IMRD
+85358998,Oxycodone 20mg/2ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+85359998,Oxycodone 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+85360998,Oxycodone 20mg/2ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+85361998,Oxycodone 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+85404998,Buprenorphine 300micrograms/1ml solution for injection ampoules,4070200,0,0,N02AE01,IMRD
+85405998,Buprenorphine 300micrograms/1ml solution for injection ampoules,4070200,0,0,N02AE01,IMRD
+85572998,Methadone 20mg/2ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85573998,Methadone 10mg/1ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85575998,Methadone 50mg/5ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85576998,Methadone 35mg/3.5ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85577998,Methadone 20mg/2ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85578998,Methadone 10mg/1ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+85680998,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+86000998,Pentazocine 60mg/2ml solution for injection ampoules,4070200,0,0,N02AD01,IMRD
+86001998,Pentazocine 30mg/1ml solution for injection ampoules,4070200,0,0,N02AD01,IMRD
+86103998,Morphine sulfate 60mg/2ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+86104998,Morphine sulfate 30mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+86200998,Morphine sulfate 50mg/50ml solution for infusion vials,4070200,0,0,N02AA01,IMRD
+86201998,Morphine sulfate 30mg/30ml solution for infusion vials,4070200,0,0,N02AA01,IMRD
+86202998,Morphine sulfate 1mg/ml prefilled syringes,4070200,0,0,N02AA01,IMRD
+86203998,Morphine sulfate 1mg/ml prefilled syringes,4070200,0,0,N02AA01,IMRD
+86455998,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86456998,Fentanyl 12micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86503998,Dihydrocodeine with paracetamol 7.46mg with 500mg effervescent tablets,4070200,4070200,4070100,N02AJ01,IMRD
+86540998,Paracetamol & dihydrocodeine tartrate 500mg+7.46mg effervescent tablets,4070100,4070100,4070200,N02AJ01,IMRD
+86541998,Paracetamol 500mg / dihydrocodeine 7.46mg effervescent tablets sugar free,4070200,4070200,4070100,N02AJ01,IMRD
+86590998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86591998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86592998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86593998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86612998,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+86613998,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+86614998,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+86615998,Buprenorphine 20micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+86616998,Buprenorphine 10micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+86617998,Buprenorphine 5micrograms/hour transdermal patches,4070200,0,0,N02AE01,IMRD
+86722979,Buprenorphine 70micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+86730979,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+86733979,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+86734979,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+86735979,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+86910998,Paracetamol with dihydrocodeine 500mg +10mg/5ml suspension sugar free,4070100,0,0,,IMRD
+86911998,Dihydrocodeine 10mg with paracetamol 500mg/5ml oral suspension sugar free,4070100,0,0,,IMRD
+86985998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86986998,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86987998,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+86988998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+87058998,Mgn-3 arabinoxylan 250mg tablet,23010000,0,0,,IMRD
+87160998,Methadone 50mg/2ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+87712998,Methadone 50mg/2ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+88038998,Methadone 1mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+88473997,Morphine 200mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+88473998,Morphine 100mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+88474996,Morphine 60mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+88474997,Morphine 30mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+88474998,Morphine 10mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+88476996,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+88476997,Buprenorphine 2mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+88476998,Buprenorphine 400microgram sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+88728998,Morphine sulfate 50mg modified release capsules,4070200,0,0,N02AA01,IMRD
+88749998,Methadone 1mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+88852998,Remifentanil 1mg powder for solution for injection vials,15010403,0,0,N01AH06,IMRD
+88975998,Buprenorphine 70micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+88976998,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+89195998,Morphine sulfate 20mg modified release capsules,4070200,0,0,N02AA01,IMRD
+89250979,Oxycodone 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+89251979,Oxycodone 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+89254979,Oxycodone 20mg/2ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+89287998,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+89304998,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+89350998,Oxycodone 20mg/2ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+89351998,Oxycodone 20mg/2ml solution for injection ampoules,4070200,0,0,N02AA05,IMRD
+89372979,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+89373979,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+89374979,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+89678996,Morphine 100mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+89678997,Morphine sulphate 12 50mg modified-release capsule,4070200,0,0,N02AA01,IMRD
+89678998,Morphine sulphate 12 20mg modified-release capsule,4070200,0,0,N02AA01,IMRD
+89679996,Morphine 100mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+89679997,Morphine sulfate 50mg modified release capsules,4070200,0,0,N02AA01,IMRD
+89679998,Morphine sulfate 20mg modified release capsules,4070200,0,0,N02AA01,IMRD
+89903998,Morphine 100mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+89904998,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+89905998,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+89955998,Morphine 60mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+90004998,Methadone diluent liquid,13010300,0,0,V07A,IMRD
+90005998,Generic Methadose diluent oral solution sugar free,13010300,0,0,V07A,IMRD
+90157997,Methadone 20mg/ml oral solution sugar free,4100000,4100300,0,N07BC02,IMRD
+90157998,Methadone 10mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+90195997,Methadone 20mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+90195998,Methadone 10mg/ml oral solution sugar free,4070200,4100300,0,N07BC02,IMRD
+90249998,Dihydrocodeine with paracetamol forte 30mg with 500mg effervescent tablets,4070100,4070100,4070200,N02AJ01,IMRD
+90258979,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+90260979,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+90261979,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+90306996,Fentanyl 1.6mg lozenges,4070200,0,0,N02AB03,IMRD
+90306997,Fentanyl 1.2mg lozenges,4070200,0,0,N02AB03,IMRD
+90306998,Fentanyl 800microgram lozenges,4070200,0,0,N02AB03,IMRD
+90307996,Fentanyl 600microgram lozenges,4070200,0,0,N02AB03,IMRD
+90307997,Fentanyl 400microgram lozenges,4070200,0,0,N02AB03,IMRD
+90307998,Fentanyl 200microgram lozenges,4070200,0,0,N02AB03,IMRD
+90327996,Morphine 200mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90327997,Morphine 150mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90327998,Morphine 120mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90352996,Morphine 90mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90352997,Morphine 60mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90352998,Morphine 30mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90353996,Morphine 200mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90353997,Morphine 150mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90353998,Morphine 120mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90354996,Morphine 90mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90354997,Morphine 60mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90354998,Morphine 30mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90661979,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+90669979,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+90671979,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+90674979,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+90675979,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+90737998,Morphine sulfate 35mg tampons,4070200,0,0,N02AA01,IMRD
+90759998,Morphine 100mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+90944998,Methadone hydrochloride 5mg/5ml mixture,4100300,0,0,N07BC02,IMRD
+90956996,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+90956997,Oxycodone 10mg/ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+90956998,Oxycodone 5mg/5ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+90957996,Oxycodone 20mg capsules,4070200,0,0,N02AA05,IMRD
+90957997,Oxycodone 10mg capsules,4070200,0,0,N02AA05,IMRD
+90957998,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+91006998,Fentanyl 1.6mg lozenges,4070200,0,0,N02AB03,IMRD
+91029998,Buprenorphine 35micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+91187997,Morphine 200mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+91187998,Morphine 100mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+91201996,Morphine 60mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+91201997,Morphine 30mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+91201998,Morphine 10mg modified-release capsules,4070200,0,0,N02AA01,IMRD
+91271998,Morphine sulfate 10mg modified release capsules,4070200,0,0,N02AA01,IMRD
+91424996,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+91424997,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+91424998,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+91522998,Buprenorphine 70micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+91544998,Methadone 50mg/1ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+91634996,Morphine sulfate 20mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+91634997,Morphine sulfate 100mg/50ml solution for infusion vials,4070200,0,0,N02AA01,IMRD
+91634998,Morphine sulfate 50mg/50ml solution for infusion vials,4070200,0,0,N02AA01,IMRD
+91721998,Buprenorphine 52.5micrograms/hour transdermal patches,4070200,0,0,N07BC01,IMRD
+91804990,Oxycodone 5mg/5ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+91855998,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+91856998,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+92195990,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+92196990,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+92207996,Fentanyl 1.2mg lozenges,4070200,0,0,N02AB03,IMRD
+92207997,Fentanyl 800microgram lozenges,4070200,0,0,N02AB03,IMRD
+92207998,Fentanyl 600microgram lozenges,4070200,0,0,N02AB03,IMRD
+92302997,Morphine sulfate 20mg/ml oral solution sugar free,4070200,0,0,N02AA01,IMRD
+92302998,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+92304998,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+92305996,Oxycodone 40mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+92305997,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+92305998,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+92306996,Oxycodone 10mg/ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+92306997,Oxycodone 5mg/5ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+92306998,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+92327990,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+92524998,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+92536998,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+92591998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92592996,Fentanyl 400microgram lozenges,4070200,0,0,N02AB03,IMRD
+92592997,Fentanyl 200microgram lozenges,4070200,0,0,N02AB03,IMRD
+92592998,Fentanyl 100micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92593996,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92593997,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92593998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92594996,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92594997,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92594998,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+92615990,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+92616990,Buprenorphine 2mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+92617990,Buprenorphine 400microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+92773996,Morphine 200mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+92773997,Morphine 100mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+92773998,Morphine 60mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+92774996,Morphine 200mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+92774997,Morphine 100mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+92774998,Morphine 60mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+92776990,Dihydrocodeine 30mg tablets,4070200,0,0,,IMRD
+92796998,Morphine sulfate 100mg modified release tablets,4070200,0,0,N02AA01,IMRD
+92800996,Morphine sulfate 60mg modified release tablets,4070200,0,0,N02AA01,IMRD
+92800997,Morphine sulfate 30mg modified release tablets,4070200,0,0,N02AA01,IMRD
+92800998,Morphine sulfate 10mg modified release tablets,4070200,0,0,N02AA01,IMRD
+92825998,Ipecacuanha and morphine mixture bp 1980,3090200,0,0,R05FA02,IMRD
+92936997,Diamorphine hydrochloride 500mg powder for injection solution,4070200,0,0,N02A,IMRD
+92936998,Diamorphine hydrochloride 100mg powder for injection solution,4070200,0,0,N02A,IMRD
+92937997,Diamorphine hydrochloride 10mg powder for injection solution,4070200,0,0,N02A,IMRD
+92937998,Diamorphine hydrochloride 5mg powder for injection solution,4070200,0,0,N02A,IMRD
+92993998,Morphine and Cocaine elixir,4070200,11070000,4070200,N02AA51,IMRD
+93041992,Morphine sulphate 50 mg cap,4070200,0,0,,IMRD
+93042992,Morphine sulphate 20 mg cap,4070200,0,0,,IMRD
+93051992,Morphine sulphate 100 mg cap,4070200,0,0,,IMRD
+93094992,Morphine sulphate 120 mg cap,4070200,0,0,,IMRD
+93095992,Morphine sulphate 90 mg cap,4070200,0,0,,IMRD
+93103992,Morphine sulphate 200 mg cap,4070200,0,0,,IMRD
+93104992,Morphine sulphate 150 mg cap,4070200,0,0,,IMRD
+93122998,"Morphine hcl light kaolin, belladonna and aluminium hydroxide chewable tablet",1040200,0,0,,IMRD
+93123998,Morphine 1mg/5ml / peppermint oil 1.5microlitres/5ml oral solution,1040200,0,0,,IMRD
+93183996,Morphine 50mg tablets,4070200,0,0,N02AA01,IMRD
+93183997,Morphine 20mg tablets,4070200,0,0,N02AA01,IMRD
+93183998,Morphine 10mg tablets,4070200,0,0,N02AA01,IMRD
+93184996,Morphine sulfate 10mg suppositories,4070200,0,0,N02AA01,IMRD
+93184997,Morphine 20mg tablets,4070200,0,0,N02AA01,IMRD
+93184998,Morphine 10mg tablets,4070200,0,0,N02AA01,IMRD
+93277997,Morphine 1mg/5ml / Peppermint oil 1.5microlitres/5ml oral solution,1040200,4070200,0,A07DA52,IMRD
+93280998,Pentazocine 50mg suppositories,4070200,0,0,N02AD01,IMRD
+93282998,Morphine hcl and light kaolin and calcium carbonate tablet,1040200,0,0,A07DA52,IMRD
+93291998,Morphine hcl and kaolin and belladonna tablet,1040200,0,0,,IMRD
+93312992,Diamorphine & terpoin lin,4070200,0,0,,IMRD
+93322996,Morphine 50mg tablets,4070200,0,0,N02AA01,IMRD
+93349992,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+93426998,Diamorphine hydrochloride 3mg/5ml oral solution,3090100,0,0,R05DA,IMRD
+93427996,Diamorphine 15mg/5ml oral solution,4070200,0,0,N02A,IMRD
+93427997,Diamorphine 10mg/5ml oral solution,4070200,0,0,N02A,IMRD
+93427998,Diamorphine 5mg/5ml oral solution,4070200,0,0,N02A,IMRD
+93431996,Diamorphine 15mg/5ml oral solution,4070200,0,0,N02A,IMRD
+93431997,Diamorphine 10mg/5ml oral solution,4070200,0,0,N02A,IMRD
+93431998,Diamorphine 5mg/5ml oral solution,4070200,0,0,N02A,IMRD
+93445990,Morphine sulfate 15mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+93447990,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+93448998,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+93450998,Oxycodone 5mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+93455997,Oxycodone 20mg capsules,4070200,0,0,N02AA05,IMRD
+93455998,Oxycodone 10mg capsules,4070200,0,0,N02AA05,IMRD
+93456998,Morphine sulphate 20mg/ml injection,4070200,0,0,N02AA01,IMRD
+93467998,Papaveretum 10mg tablets,4070200,0,0,N02AA10,IMRD
+93487996,Diamorphine hydrochloride 30mg powder for injection solution,4070200,0,0,N02A,IMRD
+93503997,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+93503998,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+93539990,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+93552990,Morphine sulfate 30mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+93586998,Diamorphine hydrochloride and cocaine oral solution,4070200,4070200,11070000,N02A,IMRD
+93609998,Morphine sulfate 20mg/ml oral solution sugar free,4070200,0,0,N02AA01,IMRD
+93671998,Dihydrocodeine 50mg/1ml solution for injection ampoules,4070200,0,0,N02AA08,IMRD
+93835990,Fentanyl 50micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+93844998,Morphine with ipecacuanha mixture,3090200,0,0,R05FA02,IMRD
+93845998,Ipecacuanha and morphine mixture,3090200,0,0,R05FA02,IMRD
+93846990,Fentanyl 75micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+93847990,Fentanyl 25micrograms/hour transdermal patches,4070200,0,0,N02AB03,IMRD
+93910998,Oxycodone hydrochloride 30mg suppositories,4070200,0,0,,IMRD
+93943998,Pentazocine 50mg capsules,4070200,0,0,N02AD01,IMRD
+94208996,Diamorphine 500mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+94208997,Diamorphine 100mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+94208998,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+94209996,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+94209997,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+94209998,Diamorphine 10mg tablets,4070200,0,0,N02A,IMRD
+94211997,Morphine sulfate 30mg suppositories,4070200,0,0,N02AA01,IMRD
+94211998,Morphine sulfate 15mg suppositories,4070200,0,0,N02AA01,IMRD
+94246998,Diamorphine 3mg/5ml oral solution,3090100,0,0,R05DA,IMRD
+94247998,Diamorphine hydrochloride bpc 1973 3mg/5ml oral solution,3090100,0,0,R05DA,IMRD
+94261998,Aspirin 500mg / papaveretum 7.71mg dispersible tablets sugar free,4070100,0,0,G04BE02,IMRD
+94262998,Aspirin 500mg with papaveretum 7.71mg dispersible tablets,4070100,0,0,G04BE02,IMRD
+94421998,Dihydrocodeine with paracetamol 7.46mg+500mg tablets,4070200,4070200,4070100,N02AJ01,IMRD
+94644996,Papaveretum 10mg tablet,4070200,0,0,N02AA10,IMRD
+94644997,Papaveretum 15.4mg/1ml solution for injection ampoules,4070200,0,0,N02AA10,IMRD
+94644998,Papaveretum 7.7mg/1ml solution for injection ampoules,4070200,0,0,N02AA10,IMRD
+94772996,Morphine sulfate 30mg/5ml oral solution unit dose vials sugar free,4070200,0,0,N02AA01,IMRD
+94772997,Morphine sulfate 10mg/5ml oral solution unit dose vials sugar free,4070200,0,0,N02AA01,IMRD
+94772998,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+94800998,Morphine sulfate 20mg/ml oral solution sugar free,4070200,0,0,N02AA01,IMRD
+94806996,Morphine sulfate 100mg/5ml unit dose vial,4070200,0,0,N02AA01,IMRD
+94806997,Morphine sulfate 30mg/5ml vials,4070200,0,0,N02AA01,IMRD
+94806998,Morphine sulfate 10mg/5ml oral solution unit dose vials sugar free,4070200,0,0,N02AA01,IMRD
+94807998,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+95064996,Alfentanil 5mg/1ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+95064997,Alfentanil 5mg/10ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+95065996,Alfentanil 5mg/1ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+95065997,Alfentanil 5mg/10ml solution for injection ampoules,15010403,0,0,N01AH02,IMRD
+95160997,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95160998,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95268990,Methadone 1mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+95421979,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95422979,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95440979,Oxycodone 20mg capsules,4070200,0,0,N02AA05,IMRD
+95423979,Oxycodone 80mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95430979,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95431979,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95432979,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95434979,Oxycodone 20mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95435979,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95436979,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95437979,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95439979,Oxycodone 10mg modified-release tablets,4070200,0,0,N02AA05,IMRD
+95440992,Physeptone 2 mg lin,3090100,4100300,0,N07BC02,IMRD
+95442979,OxyNorm 20mg capsules,4070200,0,0,,IMRD
+95445979,Oxycodone 10mg capsules,4070200,0,0,N02AA05,IMRD
+95445997,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+95445998,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+95446979,OxyNorm 10mg capsules,4070200,0,0,,IMRD
+95447979,Oxycodone 10mg capsules,4070200,0,0,N02AA05,IMRD
+95448979,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+95450979,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+95451979,Oxycodone 5mg capsules,4070200,0,0,N02AA05,IMRD
+95454979,Oxycodone 5mg/5ml oral solution sugar free,4070200,0,0,N02AA05,IMRD
+95458997,Paracetamol 500mg / dihydrocodeine 7.46mg tablets,4070200,4070200,4070100,N02AJ01,IMRD
+95459998,Paracetamol 500 mg+ pentazocine 15mg tablet,4070100,4070200,4070100,N02AD01,IMRD
+95563979,Diamorphine 500mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+95566979,Diamorphine 100mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+95571979,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+95573979,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+95575979,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+95578979,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+95580998,Pentazocine 15mg with paracetamol 500mg tablet,4070100,4070200,4070100,N02AD01,IMRD
+95581998,Pentazocine 25mg tablets,4070200,0,0,N02AD01,IMRD
+95582998,Pentazocine 30mg/ml injection,4070200,0,0,N02AD01,IMRD
+95614979,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+95626979,Buprenorphine 2mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+95631979,Buprenorphine 400microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+95646979,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+95648979,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+95663998,Morphine hcl and activated attapulgite and attapulgite tablet,1040200,0,0,,IMRD
+95788998,Morphine 8.4mg/ml injection,4070200,0,0,N02AA01,IMRD
+95789996,Morphine 5mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95789997,Morphine 200mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95789998,Morphine 100mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95790996,Morphine 60mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95790997,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95790998,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+95791998,Morphine 8.4mg/ml elixir,4070200,0,0,,IMRD
+95792998,Morphine 10mg/ml tincture,4070200,0,0,N02AA01,IMRD
+95878996,Methadone 1mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+95878997,Methadone 5mg tablets,4070200,4100300,0,N07BC02,IMRD
+95878998,Methadone 10mg/1ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+95879996,Methadone 35mg/ml injection,4070200,0,0,,IMRD
+95879997,Methadone 10mg/1ml solution for injection ampoules,4070200,4100300,0,N07BC02,IMRD
+95879998,Methadone 5mg tablets,4070200,4100300,0,N07BC02,IMRD
+95933996,Buprenorphine 400microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+95933997,Buprenorphine hcl 300micrograms injection,4070200,0,0,N02AE01,IMRD
+95933998,Buprenorphine 2mg sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+95959992,"Morphine,cocaine & chlorpromazine mix",4070200,0,0,N02A,IMRD
+96053992,Morphine sulphate susp c/r 30 mg,4070200,0,0,,IMRD
+96078990,Morphine sulfate 10mg/5ml oral solution,4070200,0,0,N02AA01,IMRD
+96078992,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96079992,Morphine sulfate 60mg/2ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+96095992,Morphine 100mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96188992,Diamorphine 75 mg sup,4070200,0,0,,IMRD
+96189992,Diamorphine 30 mg sup,4070200,0,0,,IMRD
+96190992,Diamorphine 25 mg sup,4070200,0,0,,IMRD
+96191992,Diamorphine hydrochloride 20 mg inj,4070200,0,0,,IMRD
+96192992,Diamorphine 3 gm inj,4070200,0,0,,IMRD
+96193992,Diamorphine 2.5 gm inj,4070200,0,0,,IMRD
+96194992,Diamorphine 64 mg inj,4070200,0,0,,IMRD
+96204992,Dipipanone 2 mg mix,4070200,0,0,,IMRD
+96240990,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+96327992,Methadone 15 mg sup,4070200,0,0,,IMRD
+96328992,Methadone 30 mg sup,4070200,0,0,,IMRD
+96343992,Morphine 200mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96344992,Morphine 100mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96345992,Morphine hcl 10 mg inj,4070200,0,0,N02AA01,IMRD
+96346992,Morphine anhydrous 8.4 mg inj,4070200,0,0,,IMRD
+96347992,Morphine 60 mg sup,4070200,0,0,,IMRD
+96347998,Dipipanone 10mg / Cyclizine 30mg tablets,4070200,4060000,4070200,R06AE53,IMRD
+96349992,Morphine sulphate epidural 2 mg inj,4070200,0,0,,IMRD
+96350992,Morphine sulphate 100 mg sup,4070200,0,0,,IMRD
+96375996,Dihydrocodeine 120mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96375997,Dihydrocodeine 90mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96375998,Dihydrocodeine 60mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96376997,Co-dydramol (dihydrocodeine and paracetamol) 7.46mg with 500mg tablets,4070200,4070200,4070100,N02AJ01,IMRD
+96377996,Dihydrocodeine 120mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96377997,Dihydrocodeine 90mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96377998,Dihydrocodeine 60mg modified-release tablets,4070200,0,0,N02AA08,IMRD
+96378992,Papaveretum 20 mg inj,4070200,0,0,N02AA10,IMRD
+96379996,Dihydrocodeine 40mg tablets,4070200,0,0,N02AA08,IMRD
+96379997,Dihydrocodeine 10mg/5ml oral solution,4070200,0,0,N02AA08,IMRD
+96379998,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+96550998,Fentanyl 500micrograms/10ml solution for injection ampoules,15010403,0,0,N01AH01,IMRD
+96551998,Fentanyl with droperidol 500microgramwith2.5mg/ml injection,15010403,15010403,4020100,N01AH51,IMRD
+96552998,Fentanyl 500micrograms/10ml solution for injection ampoules,15010403,0,0,N01AH01,IMRD
+96590997,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+96590998,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+96591998,Dipipanone 10mg / Cyclizine 30mg tablets,4070200,4060000,4070200,R06AE53,IMRD
+96635992,Diamorphine 2.5 mg lin,4070200,0,0,N02A,IMRD
+96636992,Diamorphine 1 gm sup,4070200,0,0,,IMRD
+96709992,Methadone 50 mg sup,4070200,0,0,,IMRD
+96716992,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+96730989,Dihydrocodeine 10mg/5ml oral solution,4070200,0,0,N02AA08,IMRD
+96784990,Morphine sulfate 20mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+96811990,Methadone 1mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+96837992,Morphine 200mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96838992,Morphine 60mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96839992,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96840992,Morphine 15mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96841992,Morphine 5mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+96848992,Morphine 30mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+96849992,Morphine 20mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+96853992,Morphine 30mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+96854992,Morphine 20mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+96915990,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+96942992,Ammonium chlor.& morphine double strengt mix,3090200,0,0,R05FA02,IMRD
+96947990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+96954990,Pentazocine 30mg/ml injection,4070200,0,0,N02AD01,IMRD
+97001990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+97002997,Diamorphine 500mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97002998,Diamorphine 100mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97003996,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97003997,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97003998,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97019996,Morphine sulfate 10mg suppositories,4070200,0,0,N02AA01,IMRD
+97019997,Morphine sulfate 30mg suppositories,4070200,0,0,N02AA01,IMRD
+97019998,Morphine sulfate 15mg suppositories,4070200,0,0,N02AA01,IMRD
+97044996,Morphine sulfate 30mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+97044997,Morphine sulfate 15mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+97044998,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+97257998,Papaveretum 15.4mg/1ml / hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA10,IMRD
+97265992,Dihydrocodeine tartrate 30mg tablets,4070200,0,0,N02AA08,IMRD
+97271992,Diamorphine 10 mg lin,4070200,0,0,N02A,IMRD
+97272992,Diamorphine 20 mg eli,4070200,0,0,,IMRD
+97273992,Diamorphine 15 mg inj,4070200,0,0,,IMRD
+97274992,Diamorphine 40 mg sup,4070200,0,0,,IMRD
+97275992,Diamorphine 60 mg sup,4070200,0,0,,IMRD
+97276992,Diamorphine 200 mg sup,4070200,0,0,,IMRD
+97277992,Diamorphine 20 mg sup,4070200,0,0,,IMRD
+97278992,Diamorphine 100 mg sup,4070200,0,0,,IMRD
+97279992,Diamorphine 10 mg sup,4070200,0,0,,IMRD
+97284992,Diamorphine hydrochloride 60 mg inj,4070200,0,0,,IMRD
+97285992,Diamorphine 4 gm inj,4070200,0,0,,IMRD
+97286992,Diamorphine 1.5 gm inj,4070200,0,0,,IMRD
+97287992,Diamorphine 1 mg inj,4070200,0,0,,IMRD
+97288992,Diamorphine 5 mg sup,4070200,0,0,,IMRD
+97289992,Diamorphine 50 mg sup,4070200,0,0,,IMRD
+97304998,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+97305992,Dihydrocodeine tartrate/aspirin 300 mg tab,4070100,0,0,,IMRD
+97305998,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,4070200,4060000,4070200,N02AA51,IMRD
+97416992,Fentanyl 500micrograms/10ml solution for injection ampoules,15010403,0,0,N01AH01,IMRD
+97487992,Pentazocine lactate 60mg/2ml injection,4070200,0,0,N02AD01,IMRD
+97608992,Ipecacuanha & morphine conc 1-4 mix,3090200,0,0,R05FA02,IMRD
+97631998,Morphine sulphate and atropine 10mg + 600microgram/ml injection,4070200,4070200,2030100,N02AA51,IMRD
+97667988,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97667989,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+97681998,Diamorphine 10mg tablets,4070200,0,0,N02A,IMRD
+97731992,Methadone 25 mg sup,4070200,0,0,,IMRD
+97732992,Methadone 40 mg sup,4070200,0,0,,IMRD
+97733992,Methadone 20 mg sup,4070200,0,0,,IMRD
+97734992,Methadone 5 mg/ml inj,4070200,0,0,,IMRD
+97761998,Morphine sulfate 20mg suppositories,4070200,0,0,N02AA01,IMRD
+97770992,Morphine hcl 30 mg inj,4070200,0,0,N02AA01,IMRD
+97771992,Morphine anhydrous 8.4 mg eli,4070200,0,0,N02AA01,IMRD
+97772992,Morphine sulphate 5 mg inj,4070200,0,0,,IMRD
+97775992,Morphine sulphate 60 mg sup,4070200,0,0,,IMRD
+97776992,Morphine sulphate sup,4070200,0,0,,IMRD
+97778992,Morphine sulphate 5 mg sup,4070200,0,0,,IMRD
+97779992,Morphine sulphate 4 mg inj,4070200,0,0,,IMRD
+97780992,Morphine sulphate 50 mg sup,4070200,0,0,,IMRD
+97791996,Morphine 30mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+97791997,Morphine 20mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+97791998,Morphine 15mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+97793996,Morphine 30mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+97793997,Morphine 20mg modified-release granules sachets sugar free,4070200,0,0,N02AA01,IMRD
+97793998,Morphine 15mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+97829992,Papaveretum 10mg/1ml injection,4070200,0,0,N02AA10,IMRD
+97830992,Papaveretum 20mg/1ml injection,4070200,0,0,N02AA10,IMRD
+97847990,Morphine sulfate 10mg suppositories,4070200,0,0,N02AA01,IMRD
+97918998,Aspirin & papaveretum 500mg+7.71mg dispersible tablets,4070100,0,0,N02AA51,IMRD
+98018996,Dihydrocodeine with paracetamol 20mg with 500mg effervescent tablets,4070100,4070200,4070100,N02AJ01,IMRD
+98049998,Kaolin and Morphine mixture,1040200,0,0,A07DA52,IMRD
+98059990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98080998,Methadone 2mg/5ml linctus,3090100,4100300,0,N07BC02,IMRD
+98081997,Morphine hydrochloride 30mg suppositories,4070200,0,0,N02AA01,IMRD
+98081998,Morphine hydrochloride 15mg suppositories,4070200,0,0,N02AA01,IMRD
+98083998,Diamorphine 10mg tablets,4070200,0,0,N02A,IMRD
+98174990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98311998,Dipipanone 10mg / Cyclizine 30mg tablets,4070200,4060000,4070200,R06AE03,IMRD
+98331989,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+98349990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98394990,Bismuth with morphine mixture,1040200,0,0,,IMRD
+98418998,Morphine sulfate 100mg/5ml oral solution unit dose vials sugar free,4070200,0,0,N02AA01,IMRD
+98443998,Morphine 100mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+98491990,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+98568990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+98648997,Pentazocine 25mg tablets,4070200,0,0,N02AD01,IMRD
+98648998,Pentazocine hydrochloride 50mg capsules,4070200,0,0,N02AD01,IMRD
+98733990,Methadone hydrochloride powder,99000000,0,0,,IMRD
+98782997,Buprenorphine 8mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+98782998,Buprenorphine 2mg sublingual tablets sugar free,4100300,4070200,0,N07BC01,IMRD
+98817989,Morphine hcl sugar free oral solution,99000000,0,0,,IMRD
+98817990,Morphine hydrochloride powder,4070200,0,0,N02AA01,IMRD
+98835989,Morphine sulfate 60mg/2ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+98835990,Morphine sulfate 60mg/2ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+98852990,Diamorphine hydrochloride powder,4070200,3090100,0,N02A,IMRD
+98874998,Dihydrocodeine tartrate 50mg/1ml injection,4070200,0,0,N02AA08,IMRD
+98875996,Dihydrocodeine 40mg tablets,4070200,0,0,N02AA08,IMRD
+98875997,Dihydrocodeine tartrate 10mg/5ml elixir,4070200,0,0,N02AA08,IMRD
+98875998,Dihydrocodeine tartrate 30mg tablets,4070200,0,0,N02AA08,IMRD
+99070996,Buprenorphine 400microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+99070997,Buprenorphine 200microgram sublingual tablets sugar free,4070200,0,0,N02AE01,IMRD
+99070998,Buprenorphine 300micrograms/1ml solution for injection ampoules,4070200,0,0,N02AE01,IMRD
+99146990,Morphine sulfate 30mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+99147989,Morphine sulfate 10mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+99148998,Morphine 60mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99236990,Diamorphine 100mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+99395996,Morphine 5mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99395997,Morphine 200mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99395998,Morphine 100mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99396996,Morphine 60mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99396997,Morphine 30mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99396998,Morphine 10mg modified-release tablets,4070200,0,0,N02AA01,IMRD
+99430989,Morphine sulfate 30mg/1ml solution for injection ampoules,4070200,0,0,N02AA01,IMRD
+99463990,Pentazocine 25mg tablets,4070200,0,0,,IMRD
+99488988,Morphine sulfate 15mg suppositories,4070200,0,0,N02AA01,IMRD
+99489989,Morphine hcl sugar free oral solution,4070200,0,0,N02AA01,IMRD
+99512988,Methadone 1mg/ml oral solution sugar free,4100300,0,0,N07BC02,IMRD
+99512989,Methadone 2mg/5ml linctus,3090100,4100300,0,N07BC02,IMRD
+99512990,Methadone 1mg/ml oral solution,4100300,0,0,N07BC02,IMRD
+99542990,Kaolin and Morphine mixture,1040200,0,0,A07DA52,IMRD
+99624990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99626990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99627990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99628990,Dihydrocodeine 30mg tablets,4070200,0,0,N02AA08,IMRD
+99629997,Pentazocine lactate 50mg suppositories,4070200,0,0,N02AD01,IMRD
+99629998,Pentazocine lactate 60mg/2ml injection,4070200,0,0,N02AD01,IMRD
+99630998,Paracetamol & pentazocine 500mg+15mg tablets,4070100,4070100,4070200,N02BE01,IMRD
+99636988,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+99636989,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+99646988,Diamorphine 30mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+99646989,Diamorphine 10mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+99646990,Diamorphine 5mg powder for solution for injection ampoules,4070200,0,0,N02A,IMRD
+99806989,Morphine sulfate 15mg suppositories,4070200,0,0,N02AA01,IMRD
+99945992,Morphine sulphate 15 mg tab,4070200,0,0,,IMRD
+4895978,Sevodyne 15micrograms/hour transdermal patches   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+5643978,Oxycodone 20mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+5752978,Oxycodone 10mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+6021978,Oxycodone 5mg tablets   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+9094978,Opiodur 50micrograms/hour transdermal patches   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+9095978,Opiodur 25micrograms/hour transdermal patches   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+9096978,Opiodur 100micrograms/hour transdermal patches   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+11409978,Matrifen 25micrograms/hour transdermal patches   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+13122978,Cynril 200microgram lozenges with integral oromucosal applicator   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14534978,Buvidal 96mg/0.27ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14536978,Buvidal 8mg/0.16ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14537978,Buprenorphine 8mg/0.16ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14538978,Buvidal 64mg/0.18ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14542978,Buvidal 24mg/0.48ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14543978,Buprenorphine 24mg/0.48ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14544978,Buvidal 16mg/0.32ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14545978,Buprenorphine 16mg/0.32ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+14546978,Buvidal 128mg/0.36ml prolonged-release solution for injection pre-filled syringes   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+17660978,Ixyldone 15mg modified-release tablets tablets 15 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+17662978,Ixyldone 30mg modified-release tablets tablets 30 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+17670978,Ixyldone 5mg modified-release tablets tablets 5 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+17711978,Ixyldone 40mg modified-release tablets tablets 40 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+17713978,Ixyldone 20mg modified-release tablets tablets 20 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+19107978,Renocontin 30mg modified-release tablets tablets 30 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+19116978,Renocontin 5mg modified-release tablets tablets 5 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+19118978,Carlosafine 52.5micrograms/hour transdermal patches patches 52.5 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+19150978,Renocontin 40mg modified-release tablets tablets 40 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+19151978,Renocontin 20mg modified-release tablets tablets 20 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+24874978,Onexila XL 80mg tablets tablets 80 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+24876978,Onexila XL 20mg tablets tablets 20 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+29309978,Buplast 70micrograms/hour transdermal patches patches 70 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+30020978,Morphine sulfate 10mg/5ml oral solution solution 2 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+46918978,Ayendi 1600micrograms/actuation nasal spray spray 1.6 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+68309979,Methadone 30mg capsules   ,00.00.00.00,00.00.00.00,00.00.00.00,,IMRD
+68965979,Morphine hydrochloride 5mg/5ml oral solution solution 1 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+78774978,Oxycodone 50mg/1ml solution for injection ampoules injection 50 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+79729978,Fentanyl 75micrograms/hour transdermal patches patches 75 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+84266978,Oxycodone 30mg modified-release tablets modified release tablets 30 mg,04.07.02.00,00.00.00.00,00.00.00.00,N02A A05,IMRD
+93845990,Fentanyl 100micrograms/hour transdermal patches patches 100 ,04.07.02.00,00.00.00.00,00.00.00.00,,IMRD
+95064998,Rapifen 100microgram/ml Paediatric injection injection 100 ,15.01.04.03,00.00.00.00,00.00.00.00,,IMRD

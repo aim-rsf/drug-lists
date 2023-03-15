@@ -1,0 +1,623 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+10796,Bupropion 150mg modified-release tablets,,,,,CEGEDIM
+10797,Zyban 150mg modified-release tablets (GlaxoSmithKline UK Ltd),,,,N06AX12,CEGEDIM
+10798,Zyban 150mg modified-release tablets (GlaxoSmithKline UK Ltd) 60 tablet6 x 10 tablets,,,,N06AX12,CEGEDIM
+10854,Venlafaxine 37.5mg tablets,,,,N06AX16,CEGEDIM
+10855,Efexor 37.5mg tablets (Wyeth Pharmaceuticals),,,,N06AX16,CEGEDIM
+10856,Efexor 37.5mg tablets (Wyeth Pharmaceuticals) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+10870,Venlafaxine 50mg tablets,,,,N06AX16,CEGEDIM
+10871,Efexor 50mg tablets (Wyeth Pharmaceuticals),,,,N06AX16,CEGEDIM
+10872,Efexor 50mg tablets (Wyeth Pharmaceuticals) 42 tablet2 x 21 tablets,,,,N06AX16,CEGEDIM
+10879,Venlafaxine 75mg tablets,,,,N06AX16,CEGEDIM
+10880,Efexor 75mg tablets (Wyeth Pharmaceuticals),,,,N06AX16,CEGEDIM
+10881,Efexor 75mg tablets (Wyeth Pharmaceuticals) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+10903,Venlafaxine 75mg modified-release capsules,,,,N06AX16,CEGEDIM
+10904,Efexor XL 75mg capsules (Upjohn UK Ltd),,,,N06AX16,CEGEDIM
+10905,Efexor XL 75mg capsules (Upjohn UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+10908,Venlafaxine 150mg modified-release capsules,,,,N06AX16,CEGEDIM
+10909,Efexor XL 150mg capsules (Upjohn UK Ltd),,,,N06AX16,CEGEDIM
+10910,Efexor XL 150mg capsules (Upjohn UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+34823,Efexor 37.5mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+34824,Efexor 37.5mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06AX16,CEGEDIM
+34827,Efexor 75mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+34828,Efexor 75mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06AX16,CEGEDIM
+34829,Efexor XL 75mg capsules (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+34830,Efexor XL 75mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06AX16,CEGEDIM
+34833,Efexor XL 75mg capsules (Waymade Healthcare Plc) 30 capsule,,,,N06AX16,CEGEDIM
+34834,Efexor XL 150mg capsules (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+34835,Efexor XL 150mg capsules (Waymade Healthcare Plc) 30 capsule,,,,N06AX16,CEGEDIM
+35428,Zyban 150mg modified-release tablets (Waymade Healthcare Plc),,,,N06AX12,CEGEDIM
+35429,Zyban 150mg modified-release tablets (Waymade Healthcare Plc) 60 tablet,,,,N06AX12,CEGEDIM
+35609,Venlafaxine 50mg tablets (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+35610,Venlafaxine 50mg tablets (Dowelhurst Ltd) 42 tablet,,,,N06AX16,CEGEDIM
+35937,Venlafaxine 37.5mg tablets (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+35938,Venlafaxine 37.5mg tablets (Dowelhurst Ltd) 60 tablet,,,,N06AX16,CEGEDIM
+35944,Venlafaxine 75mg tablets (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+35945,Venlafaxine 75mg tablets (Dowelhurst Ltd) 60 tablet,,,,N06AX16,CEGEDIM
+36141,Efexor XL 150mg capsules (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+36142,Efexor XL 150mg capsules (Dowelhurst Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+36143,Efexor XL 150mg capsules (Dowelhurst Ltd) 14 capsule,,,,N06AX16,CEGEDIM
+36144,Efexor XL 75mg capsules (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+36145,Efexor XL 75mg capsules (Dowelhurst Ltd) 14 capsule,,,,N06AX16,CEGEDIM
+36146,Efexor XL 75mg capsules (Dowelhurst Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+36149,Efexor 37.5mg tablets (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+36150,Efexor 37.5mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+36151,Efexor 37.5mg tablets (Dowelhurst Ltd) 60 tablet,,,,N06AX16,CEGEDIM
+36154,Efexor 50mg tablets (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+36155,Efexor 50mg tablets (Dowelhurst Ltd) 42 tablet,,,,N06AX16,CEGEDIM
+36156,Efexor 75mg tablets (Dowelhurst Ltd),,,,N06AX16,CEGEDIM
+36157,Efexor 75mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+36158,Efexor 75mg tablets (Dowelhurst Ltd) 60 tablet,,,,N06AX16,CEGEDIM
+36749,Zyban 150mg modified-release tablets (Dowelhurst Ltd),,,,N06AX12,CEGEDIM
+36750,Zyban 150mg modified-release tablets (Dowelhurst Ltd) 60 tablet,,,,N06AX12,CEGEDIM
+36753,Zyban 150mg modified-release tablets (Dowelhurst Ltd) 100 tablet,,,,N06AX12,CEGEDIM
+36808,Venlafaxine 37.5mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+36809,Venlafaxine 75mg tablets (Dowelhurst Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+58269,Duloxetine 20mg gastro-resistant capsules,,,,N06AX21,CEGEDIM
+58270,Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd),,,,N06AX21,CEGEDIM
+58271,Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd) 56 capsule4 x 14 capsules,,,,N06AX21,CEGEDIM
+58272,Duloxetine 40mg gastro-resistant capsules,,,,N06AX21,CEGEDIM
+58273,Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd),,,,N06AX21,CEGEDIM
+58274,Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd) 56 capsule4 x 14 capsules,,,,N06AX21,CEGEDIM
+63445,Venlafaxine 37.5mg/5ml oral suspension,,,,N06AX16,CEGEDIM
+63446,Venlafaxine 37.5mg/5ml oral suspension (Drug Tariff Special Order),,,,N06AX16,CEGEDIM
+63447,Venlafaxine 37.5mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N06AX16,CEGEDIM
+66100,Duloxetine 30mg gastro-resistant capsules,,,,N06AX21,CEGEDIM
+66101,Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd),,,,N06AX21,CEGEDIM
+66102,Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+66106,Duloxetine 60mg gastro-resistant capsules,,,,N06AX21,CEGEDIM
+66107,Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd),,,,N06AX21,CEGEDIM
+66108,Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+66109,Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd) 84 capsule6 x 14 capsules,,,,N06AX21,CEGEDIM
+70890,Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+77662,Efexor XL 150mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+77665,Efexor XL 75mg capsules (Dowelhurst Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+77742,Cymbalta 30mg gastro-resistant capsules (Waymade Healthcare Plc),,,,N06AX21,CEGEDIM
+77743,Cymbalta 30mg gastro-resistant capsules (Waymade Healthcare Plc) 28 capsule,,,,N06AX21,CEGEDIM
+79698,Venlafaxine 75mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+79699,Venlafaxine 75mg tablets (Waymade Healthcare Plc) 60 tablet,,,,N06AX16,CEGEDIM
+79834,Cymbalta 60mg gastro-resistant capsules (Waymade Healthcare Plc),,,,N06AX21,CEGEDIM
+79835,Cymbalta 60mg gastro-resistant capsules (Waymade Healthcare Plc) 28 capsule,,,,N06AX21,CEGEDIM
+79836,Duloxetine 20mg gastro-resistant capsules (Waymade Healthcare Plc),,,,N06AX21,CEGEDIM
+79837,Duloxetine 20mg gastro-resistant capsules (Waymade Healthcare Plc) 56 capsule,,,,N06AX21,CEGEDIM
+79838,Duloxetine 40mg gastro-resistant capsules (Waymade Healthcare Plc),,,,N06AX21,CEGEDIM
+79839,Duloxetine 40mg gastro-resistant capsules (Waymade Healthcare Plc) 56 capsule,,,,N06AX21,CEGEDIM
+85701,Efexor XL 75mg capsules (Upjohn UK Ltd) 14 capsule2 x 7 capsules,,,,N06AX16,CEGEDIM
+85702,Efexor XL 150mg capsules (Upjohn UK Ltd) 14 capsule2 x 7 capsules,,,,N06AX16,CEGEDIM
+85703,Efexor 37.5mg tablets (Wyeth Pharmaceuticals) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+85704,Efexor 75mg tablets (Wyeth Pharmaceuticals) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+86587,Venlafaxine 37.5mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+86588,Venlafaxine 37.5mg tablets (Waymade Healthcare Plc) 60 tablet,,,,N06AX16,CEGEDIM
+91360,Duloxetine 30mg gastro-resistant capsules (Waymade Healthcare Plc),,,,N06AX21,CEGEDIM
+91361,Duloxetine 30mg gastro-resistant capsules (Waymade Healthcare Plc) 28 capsule,,,,N06AX21,CEGEDIM
+91362,Duloxetine 60mg gastro-resistant capsules (Waymade Healthcare Plc),,,,N06AX21,CEGEDIM
+91363,Duloxetine 60mg gastro-resistant capsules (Waymade Healthcare Plc) 28 capsule,,,,N06AX21,CEGEDIM
+101373,Venlafaxine 150mg/5ml oral suspension,,,,N06AX16,CEGEDIM
+101374,Venlafaxine 150mg/5ml oral suspension (Special Order),,,,N06AX16,CEGEDIM
+101375,Venlafaxine 150mg/5ml oral suspension (Special Order) 1 ml,,,,N06AX16,CEGEDIM
+104866,Cymbalta 30mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+104867,Cymbalta 30mg gastro-resistant capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX21,CEGEDIM
+104868,Cymbalta 60mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+104869,Cymbalta 60mg gastro-resistant capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX21,CEGEDIM
+104955,Efexor 37.5mg tablets (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+104956,Efexor 37.5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06AX16,CEGEDIM
+104957,Efexor 37.5mg tablets (DE Pharmaceuticals) 60 tablet,,,,N06AX16,CEGEDIM
+104958,Efexor 75mg tablets (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+104959,Efexor 75mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06AX16,CEGEDIM
+104960,Efexor XL 75mg capsules (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+104961,Efexor XL 75mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX16,CEGEDIM
+104962,Efexor XL 75mg capsules (DE Pharmaceuticals) 30 capsule,,,,N06AX16,CEGEDIM
+104963,Efexor XL 150mg capsules (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+104964,Efexor XL 150mg capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX16,CEGEDIM
+104965,Efexor XL 150mg capsules (DE Pharmaceuticals) 30 capsule,,,,N06AX16,CEGEDIM
+106007,Venlafaxine 75mg/5ml oral solution,,,,N06AX16,CEGEDIM
+106008,Venlafaxine 75mg/5ml oral solution (Drug Tariff Special Order),,,,N06AX16,CEGEDIM
+106009,Venlafaxine 75mg/5ml oral solution (Drug Tariff Special Order) 1 ml,,,,N06AX16,CEGEDIM
+106010,Venlafaxine 75mg/5ml oral suspension,,,,N06AX16,CEGEDIM
+106011,Venlafaxine 75mg/5ml oral suspension (Drug Tariff Special Order),,,,N06AX16,CEGEDIM
+106012,Venlafaxine 75mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N06AX16,CEGEDIM
+106085,Venlafaxine 150mg/5ml oral solution,,,,N06AX16,CEGEDIM
+106086,Venlafaxine 150mg/5ml oral solution (Special Order),,,,N06AX16,CEGEDIM
+106087,Venlafaxine 150mg/5ml oral solution (Special Order) 1 ml,,,,N06AX16,CEGEDIM
+106088,Venlafaxine 37.5mg/5ml oral solution,,,,N06AX16,CEGEDIM
+106089,Venlafaxine 37.5mg/5ml oral solution (Drug Tariff Special Order),,,,N06AX16,CEGEDIM
+106090,Venlafaxine 37.5mg/5ml oral solution (Drug Tariff Special Order) 1 ml,,,,N06AX16,CEGEDIM
+106123,Zyban 150mg modified-release tablets (DE Pharmaceuticals),,,,N06AX12,CEGEDIM
+106124,Zyban 150mg modified-release tablets (DE Pharmaceuticals) 60 tablet,,,,N06AX12,CEGEDIM
+107880,Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+107881,Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals) 30 capsule,,,,N06AX16,CEGEDIM
+108049,Cymbalta 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc),,,,N06AX21,CEGEDIM
+108050,Cymbalta 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06AX21,CEGEDIM
+108051,Cymbalta 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc),,,,N06AX21,CEGEDIM
+108052,Cymbalta 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06AX21,CEGEDIM
+108053,Duloxetine 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc),,,,N06AX21,CEGEDIM
+108054,Duloxetine 30mg gastro-resistant capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06AX21,CEGEDIM
+108075,Efexor XL 150mg capsules (Sigma Pharmaceuticals Plc),,,,N06AX16,CEGEDIM
+108076,Efexor XL 150mg capsules (Sigma Pharmaceuticals Plc) 30 capsule,,,,N06AX16,CEGEDIM
+108077,Efexor XL 75mg capsules (Sigma Pharmaceuticals Plc),,,,N06AX16,CEGEDIM
+108078,Efexor XL 75mg capsules (Sigma Pharmaceuticals Plc) 30 capsule,,,,N06AX16,CEGEDIM
+108081,Efexor 75mg tablets (Sigma Pharmaceuticals Plc),,,,N06AX16,CEGEDIM
+108082,Efexor 75mg tablets (Sigma Pharmaceuticals Plc) 60 tablet,,,,N06AX16,CEGEDIM
+108083,Efexor XL 150mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06AX16,CEGEDIM
+108084,Efexor XL 75mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06AX16,CEGEDIM
+108153,Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc),,,,N06AX16,CEGEDIM
+108154,Efexor 37.5mg tablets (Sigma Pharmaceuticals Plc) 60 tablet,,,,N06AX16,CEGEDIM
+112901,Zyban 150mg modified-release tablets (Sigma Pharmaceuticals Plc),,,,N06AX12,CEGEDIM
+112902,Zyban 150mg modified-release tablets (Sigma Pharmaceuticals Plc) 60 tablet,,,,N06AX12,CEGEDIM
+112946,Venlafaxine 150mg modified-release capsules (Sigma Pharmaceuticals Plc),,,,N06AX16,CEGEDIM
+112947,Venlafaxine 150mg modified-release capsules (Sigma Pharmaceuticals Plc) 30 capsule,,,,N06AX16,CEGEDIM
+114604,Rodomel XL 75mg capsules (Teva UK Ltd),,,,N06AX16,CEGEDIM
+114605,Rodomel XL 75mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+114606,Rodomel XL 150mg capsules (Teva UK Ltd),,,,N06AX16,CEGEDIM
+114607,Rodomel XL 150mg capsules (Teva UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+114759,Trixat XL 75mg capsules (PLIVA Pharma Ltd),,,,N06AX16,CEGEDIM
+114760,Trixat XL 75mg capsules (PLIVA Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+114761,Trixat XL 150mg capsules (PLIVA Pharma Ltd),,,,N06AX16,CEGEDIM
+114762,Trixat XL 150mg capsules (PLIVA Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+114780,Winfex XL 75mg capsules (Zentiva),,,,N06AX16,CEGEDIM
+114781,Winfex XL 75mg capsules (Zentiva) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+114782,Winfex XL 150mg capsules (Zentiva),,,,N06AX16,CEGEDIM
+114783,Winfex XL 150mg capsules (Zentiva) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+114800,Venlafaxine 37.5mg tablets (Zentiva),,,,N06AX16,CEGEDIM
+114801,Venlafaxine 37.5mg tablets (Zentiva) 56 tablet8 x 7 tablets,,,,N06AX16,CEGEDIM
+114804,Venlafaxine 75mg tablets (Zentiva),,,,N06AX16,CEGEDIM
+114805,Venlafaxine 75mg tablets (Zentiva) 56 tablet8 x 7 tablets,,,,N06AX16,CEGEDIM
+114809,Venlafaxine 37.5mg tablets (Actavis UK Ltd),,,,N06AX16,CEGEDIM
+114810,Venlafaxine 37.5mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114811,Venlafaxine 37.5mg tablets (Teva UK Ltd),,,,N06AX16,CEGEDIM
+114812,Venlafaxine 37.5mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114813,Venlafaxine 75mg tablets (Actavis UK Ltd),,,,N06AX16,CEGEDIM
+114814,Venlafaxine 75mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114815,Venlafaxine 75mg tablets (Teva UK Ltd),,,,N06AX16,CEGEDIM
+114816,Venlafaxine 75mg tablets (Teva UK Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114882,Tardcaps XL 75mg capsules (IXL Pharma Ltd),,,,N06AX16,CEGEDIM
+114883,Tardcaps XL 75mg capsules (IXL Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+114884,Tardcaps XL 150mg capsules (IXL Pharma Ltd),,,,N06AX16,CEGEDIM
+114885,Tardcaps XL 150mg capsules (IXL Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+114896,Venlafaxine 37.5mg tablets (A A H Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+114897,Venlafaxine 37.5mg tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+114900,Venlafaxine 75mg tablets (A A H Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+114901,Venlafaxine 75mg tablets (A A H Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114936,Vexarin XL 150mg capsules (Mylan),,,,N06AX16,CEGEDIM
+114937,Vexarin XL 150mg capsules (Mylan) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+114938,Vexarin XL 75mg capsules (Mylan),,,,N06AX16,CEGEDIM
+114939,Vexarin XL 75mg capsules (Mylan) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+114940,Vexarin XL 75mg capsules (Mylan) 14 capsule2 x 7 capsules,,,,N06AX16,CEGEDIM
+114941,Vensir XL 75mg capsules (Morningside Healthcare Ltd),,,,N06AX16,CEGEDIM
+114942,Vensir XL 75mg capsules (Morningside Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+114943,Vensir XL 150mg capsules (Morningside Healthcare Ltd),,,,N06AX16,CEGEDIM
+114944,Vensir XL 150mg capsules (Morningside Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+114975,ViePax 37.5mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+114976,ViePax 37.5mg tablets (Dexcel-Pharma Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114977,ViePax 75mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+114978,ViePax 75mg tablets (Dexcel-Pharma Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+114994,Venlafaxine 75mg modified-release tablets,,,,N06AX16,CEGEDIM
+114995,ViePax XL 75mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+114996,ViePax XL 75mg tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+115000,Venlafaxine 150mg modified-release tablets,,,,N06AX16,CEGEDIM
+115001,ViePax XL 150mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+115002,ViePax XL 150mg tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+115003,Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+115004,Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115005,Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+115006,Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115262,Vaxalin XL 75mg capsules (Ratiopharm UK Ltd),,,,N06AX16,CEGEDIM
+115263,Vaxalin XL 75mg capsules (Ratiopharm UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115266,Vaxalin XL 150mg capsules (Ratiopharm UK Ltd),,,,N06AX16,CEGEDIM
+115267,Vaxalin XL 150mg capsules (Ratiopharm UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115354,Venlafaxine 37.5mg tablets (Kent Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+115355,Venlafaxine 37.5mg tablets (Kent Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+115364,Venlafaxine 75mg tablets (Kent Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+115365,Venlafaxine 75mg tablets (Kent Pharmaceuticals Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+115369,Venlafaxine 75mg modified-release capsules (Kent Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+115370,Venlafaxine 75mg modified-release capsules (Kent Pharmaceuticals Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115373,Venlafaxine 150mg modified-release capsules (Kent Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+115374,Venlafaxine 150mg modified-release capsules (Kent Pharmaceuticals Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115806,Venaxx XL 75mg capsules (Advanz Pharma),,,,N06AX16,CEGEDIM
+115807,Venaxx XL 75mg capsules (Advanz Pharma) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+115808,Venaxx XL 150mg capsules (Advanz Pharma),,,,N06AX16,CEGEDIM
+115809,Venaxx XL 150mg capsules (Advanz Pharma) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+116222,Politid XL 150mg capsules (Actavis UK Ltd),,,,N06AX16,CEGEDIM
+116223,Politid XL 150mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+116224,Politid XL 75mg capsules (Actavis UK Ltd),,,,N06AX16,CEGEDIM
+116225,Politid XL 75mg capsules (Actavis UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+116539,Venlafaxine 75mg modified-release capsules (Sandoz Ltd),,,,N06AX16,CEGEDIM
+116540,Venlafaxine 75mg modified-release capsules (Sandoz Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+116545,Venlafaxine 150mg modified-release capsules (Sandoz Ltd),,,,N06AX16,CEGEDIM
+116546,Venlafaxine 150mg modified-release capsules (Sandoz Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+118511,Venlalic XL 150mg tablets (Ethypharm UK Ltd),,,,N06AX16,CEGEDIM
+118512,Venlalic XL 150mg tablets (Ethypharm UK Ltd) 30 tablet3 x 10 tablets,,,,N06AX16,CEGEDIM
+118513,Venlalic XL 75mg tablets (Ethypharm UK Ltd),,,,N06AX16,CEGEDIM
+118514,Venlalic XL 75mg tablets (Ethypharm UK Ltd) 30 tablet3 x 10 tablets,,,,N06AX16,CEGEDIM
+118517,Venlafaxine 225mg modified-release tablets,,,,N06AX16,CEGEDIM
+118518,Venlalic XL 225mg tablets (Ethypharm UK Ltd),,,,N06AX16,CEGEDIM
+118519,Venlalic XL 225mg tablets (Ethypharm UK Ltd) 30 tablet3 x 10 tablets,,,,N06AX16,CEGEDIM
+118838,Foraven XL 150mg capsules (Forum Products Ltd),,,,N06AX16,CEGEDIM
+118839,Foraven XL 150mg capsules (Forum Products Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+118840,Foraven XL 75mg capsules (Forum Products Ltd),,,,N06AX16,CEGEDIM
+118841,Foraven XL 75mg capsules (Forum Products Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+119749,Venlafaxine 150mg oral powder sachets,,,,N06AX16,CEGEDIM
+119750,Venlafaxine 150mg oral powder sachets (Special Order),,,,N06AX16,CEGEDIM
+119751,Venlafaxine 150mg oral powder sachets (Special Order) 1 sachet,,,,N06AX16,CEGEDIM
+125249,Efexor 37.5mg tablets (Lexon (UK) Ltd),,,,N06AX16,CEGEDIM
+125250,Efexor 37.5mg tablets (Lexon (UK) Ltd) 60 tablet,,,,N06AX16,CEGEDIM
+125251,Efexor 75mg tablets (Lexon (UK) Ltd),,,,N06AX16,CEGEDIM
+125252,Efexor 75mg tablets (Lexon (UK) Ltd) 60 tablet,,,,N06AX16,CEGEDIM
+125253,Efexor XL 75mg capsules (Lexon (UK) Ltd),,,,N06AX16,CEGEDIM
+125254,Efexor XL 75mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+125255,Efexor XL 75mg capsules (Lexon (UK) Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+125659,Venlafaxine 37.5mg tablets (Ranbaxy (UK) Ltd),,,,N06AX16,CEGEDIM
+125660,Venlafaxine 37.5mg tablets (Ranbaxy (UK) Ltd) 28 tablet4 x 7 tablets,,,,N06AX16,CEGEDIM
+125661,Venlafaxine 37.5mg tablets (Ranbaxy (UK) Ltd) 56 tablet8 x 7 tablets,,,,N06AX16,CEGEDIM
+125662,Venlafaxine 75mg tablets (Ranbaxy (UK) Ltd),,,,N06AX16,CEGEDIM
+125663,Venlafaxine 75mg tablets (Ranbaxy (UK) Ltd) 56 tablet8 x 7 tablets,,,,N06AX16,CEGEDIM
+126173,Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd),,,,N06AX16,CEGEDIM
+126174,Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+126185,Ranfaxine XL 150mg capsules (Ranbaxy (UK) Ltd),,,,N06AX16,CEGEDIM
+126186,Ranfaxine XL 150mg capsules (Ranbaxy (UK) Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+127596,Venlablue XL 75mg capsules (Zentiva),,,,N06AX16,CEGEDIM
+127597,Venlablue XL 75mg capsules (Zentiva) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+127598,Venlablue XL 150mg capsules (Zentiva),,,,N06AX16,CEGEDIM
+127599,Venlablue XL 150mg capsules (Zentiva) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+127883,Zyban 150mg modified-release tablets (Lexon (UK) Ltd),,,,N06AX12,CEGEDIM
+127884,Zyban 150mg modified-release tablets (Lexon (UK) Ltd) 60 tablet,,,,N06AX12,CEGEDIM
+127897,Tonpular XL 75mg capsules (Wockhardt UK Ltd),,,,N06AX16,CEGEDIM
+127898,Tonpular XL 75mg capsules (Wockhardt UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+127899,Tonpular XL 150mg capsules (Wockhardt UK Ltd),,,,N06AX16,CEGEDIM
+127900,Tonpular XL 150mg capsules (Wockhardt UK Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+128247,Alventa XL 75mg capsules (Consilient Health Ltd),,,,N06AX16,CEGEDIM
+128248,Alventa XL 75mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+128249,Alventa XL 150mg capsules (Consilient Health Ltd),,,,N06AX16,CEGEDIM
+128250,Alventa XL 150mg capsules (Consilient Health Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+128889,Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+128890,Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+128919,Efexor XL 75mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+128920,Efexor XL 75mg capsules (Mawdsley-Brooks & Company Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+128921,Efexor XL 75mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+128922,Efexor XL 150mg capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+128923,Efexor XL 150mg capsules (Mawdsley-Brooks & Company Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+135673,Cymbalta 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+135674,Cymbalta 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+135675,Cymbalta 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+135676,Cymbalta 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+136917,Yentreve 20mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+136918,Yentreve 20mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+136921,Yentreve 40mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+136922,Yentreve 40mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+136970,Zyban 150mg modified-release tablets (Mawdsley-Brooks & Company Ltd),,,,N06AX12,CEGEDIM
+136971,Zyban 150mg modified-release tablets (Mawdsley-Brooks & Company Ltd) 60 tablet,,,,N06AX12,CEGEDIM
+138498,Mentaven XL 75mg capsules (Arrow Generics Ltd),,,,N06AX16,CEGEDIM
+138499,Mentaven XL 75mg capsules (Arrow Generics Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+138500,Mentaven XL 150mg capsules (Arrow Generics Ltd),,,,N06AX16,CEGEDIM
+138501,Mentaven XL 150mg capsules (Arrow Generics Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+139206,Depefex XL 150mg capsules (Chiesi Ltd),,,,N06AX16,CEGEDIM
+139207,Depefex XL 150mg capsules (Chiesi Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+139208,Depefex XL 75mg capsules (Chiesi Ltd),,,,N06AX16,CEGEDIM
+139209,Depefex XL 75mg capsules (Chiesi Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+140486,Venlafaxine 37.5mg tablets (Phoenix Healthcare Distribution Ltd),,,,N06AX16,CEGEDIM
+140487,Venlafaxine 37.5mg tablets (Phoenix Healthcare Distribution Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+140488,Venlafaxine 75mg tablets (Phoenix Healthcare Distribution Ltd),,,,N06AX16,CEGEDIM
+140489,Venlafaxine 75mg tablets (Phoenix Healthcare Distribution Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+140545,Duloxetine 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc),,,,N06AX21,CEGEDIM
+140546,Duloxetine 60mg gastro-resistant capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N06AX21,CEGEDIM
+142793,Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+142794,Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+142795,Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+142796,Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+143532,Cymbalta 30mg gastro-resistant capsules (Necessity Supplies Ltd),,,,N06AX21,CEGEDIM
+143533,Cymbalta 30mg gastro-resistant capsules (Necessity Supplies Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+143663,Cymbalta 60mg gastro-resistant capsules (Necessity Supplies Ltd),,,,N06AX21,CEGEDIM
+143664,Cymbalta 60mg gastro-resistant capsules (Necessity Supplies Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+143727,Efexor XL 150mg capsules (Necessity Supplies Ltd),,,,N06AX16,CEGEDIM
+143728,Efexor XL 150mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+143729,Efexor XL 150mg capsules (Necessity Supplies Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+143740,Efexor XL 75mg capsules (Necessity Supplies Ltd),,,,N06AX16,CEGEDIM
+143741,Efexor XL 75mg capsules (Necessity Supplies Ltd) 14 capsule,,,,N06AX16,CEGEDIM
+143742,Efexor XL 75mg capsules (Necessity Supplies Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+143743,Efexor XL 75mg capsules (Necessity Supplies Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+146498,Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+146499,Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX21,CEGEDIM
+148009,Venlafaxine 37.5mg modified-release tablets,,,,N06AX16,CEGEDIM
+148010,Venlalic XL 37.5mg tablets (Ethypharm UK Ltd),,,,N06AX16,CEGEDIM
+148011,Venlalic XL 37.5mg tablets (Ethypharm UK Ltd) 30 tablet3 x 10 tablets,,,,N06AX16,CEGEDIM
+149071,Venlafaxine 37.5mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06AX16,CEGEDIM
+149072,Venlafaxine 37.5mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+149073,Venlafaxine 75mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N06AX16,CEGEDIM
+149074,Venlafaxine 75mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+158204,Efexor XL 150mg capsules (Lexon (UK) Ltd),,,,N06AX16,CEGEDIM
+158205,Efexor XL 150mg capsules (Lexon (UK) Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+167342,Venlafaxine 37.5mg tablets (Bristol Laboratories Ltd),,,,N06AX16,CEGEDIM
+167343,Venlafaxine 37.5mg tablets (Bristol Laboratories Ltd) 28 tablet,,,,N06AX16,CEGEDIM
+167344,Venlafaxine 37.5mg tablets (Bristol Laboratories Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+167345,Venlafaxine 75mg tablets (Bristol Laboratories Ltd),,,,N06AX16,CEGEDIM
+167346,Venlafaxine 75mg tablets (Bristol Laboratories Ltd) 28 tablet,,,,N06AX16,CEGEDIM
+167347,Venlafaxine 75mg tablets (Bristol Laboratories Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+171068,Efexor XL 150mg capsules (Waymade Healthcare Plc) 28 capsule,,,,N06AX16,CEGEDIM
+174418,Venlafaxine 37.5mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+174419,Venlafaxine 37.5mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06AX16,CEGEDIM
+174420,Venlafaxine 75mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+174421,Venlafaxine 75mg tablets (Waymade Healthcare Plc) 56 tablet,,,,N06AX16,CEGEDIM
+174886,Sunveniz XL 75mg tablets (Sun Pharmaceutical Industries Europe B.V.),,,,N06AX16,CEGEDIM
+174887,Sunveniz XL 75mg tablets (Sun Pharmaceutical Industries Europe B.V.) 30 tablet3 x 10 tablets,,,,N06AX16,CEGEDIM
+175132,Sunveniz XL 150mg tablets (Sun Pharmaceutical Industries Europe B.V.),,,,N06AX16,CEGEDIM
+175133,Sunveniz XL 150mg tablets (Sun Pharmaceutical Industries Europe B.V.) 30 tablet3 x 10 tablets,,,,N06AX16,CEGEDIM
+175143,Bonilux XL 150mg capsules (Sandoz Ltd),,,,N06AX16,CEGEDIM
+175144,Bonilux XL 150mg capsules (Sandoz Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+175145,Bonilux XL 75mg capsules (Sandoz Ltd),,,,N06AX16,CEGEDIM
+175146,Bonilux XL 75mg capsules (Sandoz Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+177347,Venlafaxine 37.5mg/5ml oral solution (Drug Tariff Special Order) 150 ml,,,,N06AX16,CEGEDIM
+177348,Venlafaxine 37.5mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N06AX16,CEGEDIM
+186564,Venladex XL 150mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+186565,Venladex XL 150mg tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+186566,Venladex XL 75mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+186567,Venladex XL 75mg tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+187030,Venlafaxine 75mg/5ml oral solution (Drug Tariff Special Order) 150 ml,,,,N06AX16,CEGEDIM
+187031,Venlafaxine 75mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N06AX16,CEGEDIM
+187577,Venlafaxine 37.5mg modified-release capsules,,,,N06AX16,CEGEDIM
+187578,Venlablue XL 37.5mg capsules (Zentiva),,,,N06AX16,CEGEDIM
+187579,Venlablue XL 37.5mg capsules (Zentiva) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+198155,Amphero XL 75mg capsules (Mylan),,,,N06AX16,CEGEDIM
+198153,Amphero XL 150mg capsules (Mylan),,,,N06AX16,CEGEDIM
+198154,Amphero XL 150mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+198156,Amphero XL 75mg capsules (Mylan) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+238102,Venlalic XL 150mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+238103,Venlalic XL 150mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N06AX16,CEGEDIM
+238104,Venlalic XL 225mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+238105,Venlalic XL 225mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N06AX16,CEGEDIM
+238106,Venlalic XL 37.5mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+238107,Venlalic XL 37.5mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N06AX16,CEGEDIM
+240846,Duloxetine 20mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),,,,N06AX21,CEGEDIM
+240847,Duloxetine 20mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+240852,Duloxetine 30mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),,,,N06AX21,CEGEDIM
+240853,Duloxetine 30mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+240854,Duloxetine 40mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),,,,N06AX21,CEGEDIM
+240855,Duloxetine 40mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+241453,Duloxetine 20mg gastro-resistant capsules (Actavis UK Ltd),,,,N06AX21,CEGEDIM
+241454,Duloxetine 20mg gastro-resistant capsules (Actavis UK Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+241455,Duloxetine 30mg gastro-resistant capsules (Actavis UK Ltd),,,,N06AX21,CEGEDIM
+241456,Duloxetine 30mg gastro-resistant capsules (Actavis UK Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+241461,Duloxetine 40mg gastro-resistant capsules (Accord Healthcare Ltd),,,,N06AX21,CEGEDIM
+241462,Duloxetine 40mg gastro-resistant capsules (Accord Healthcare Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+241465,Duloxetine 60mg gastro-resistant capsules (Actavis UK Ltd),,,,N06AX21,CEGEDIM
+241466,Duloxetine 60mg gastro-resistant capsules (Actavis UK Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+241571,Duloxetine 60mg gastro-resistant capsules (A A H Pharmaceuticals Ltd),,,,N06AX21,CEGEDIM
+241572,Duloxetine 60mg gastro-resistant capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+242823,Duloxetine 30mg gastro-resistant capsules (Consilient Health Ltd),,,,N06AX21,CEGEDIM
+242824,Duloxetine 30mg gastro-resistant capsules (Consilient Health Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+242825,Duloxetine 60mg gastro-resistant capsules (Consilient Health Ltd),,,,N06AX21,CEGEDIM
+242826,Duloxetine 60mg gastro-resistant capsules (Consilient Health Ltd) 28 capsule4 x 7 capsule,,,,N06AX21,CEGEDIM
+245332,Venlalic XL 75mg tablets (Waymade Healthcare Plc),,,,N06AX16,CEGEDIM
+245333,Venlalic XL 75mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N06AX16,CEGEDIM
+246063,Duloxetine 30mg gastro-resistant capsules (Teva UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+246060,Duloxetine 20mg gastro-resistant capsules (Teva UK Ltd),,,,N06AX21,CEGEDIM
+246061,Duloxetine 20mg gastro-resistant capsules (Teva UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+246062,Duloxetine 30mg gastro-resistant capsules (Teva UK Ltd),,,,N06AX21,CEGEDIM
+246069,Duloxetine 60mg gastro-resistant capsules (Teva UK Ltd),,,,N06AX21,CEGEDIM
+246070,Duloxetine 60mg gastro-resistant capsules (Teva UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+246074,Duloxetine 40mg gastro-resistant capsules (Teva UK Ltd),,,,N06AX21,CEGEDIM
+246075,Duloxetine 40mg gastro-resistant capsules (Teva UK Ltd) 56 capsule8 x 7 capsules,,,,N06AX21,CEGEDIM
+247918,Duloxetine 20mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+247919,Duloxetine 20mg gastro-resistant capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX21,CEGEDIM
+247920,Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+247921,Duloxetine 30mg gastro-resistant capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX21,CEGEDIM
+247922,Duloxetine 40mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+247923,Duloxetine 40mg gastro-resistant capsules (DE Pharmaceuticals) 56 capsule,,,,N06AX21,CEGEDIM
+247924,Duloxetine 60mg gastro-resistant capsules (DE Pharmaceuticals),,,,N06AX21,CEGEDIM
+247925,Duloxetine 60mg gastro-resistant capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX21,CEGEDIM
+248225,Duloxetine 30mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06AX21,CEGEDIM
+248226,Duloxetine 30mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+248227,Duloxetine 60mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N06AX21,CEGEDIM
+248228,Duloxetine 60mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+248445,Venlafaxine 37.5mg tablets (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+248446,Venlafaxine 37.5mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06AX16,CEGEDIM
+248447,Venlafaxine 75mg tablets (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+248448,Venlafaxine 75mg tablets (DE Pharmaceuticals) 56 tablet,,,,N06AX16,CEGEDIM
+248449,Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+248450,Venlafaxine 75mg modified-release capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX16,CEGEDIM
+248451,Venlafaxine 150mg modified-release capsules (DE Pharmaceuticals),,,,N06AX16,CEGEDIM
+248452,Venlafaxine 150mg modified-release capsules (DE Pharmaceuticals) 28 capsule,,,,N06AX16,CEGEDIM
+248571,Duloxetine 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+248572,Duloxetine 60mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+256098,Venlafaxine 75mg modified-release capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+256099,Venlafaxine 75mg modified-release capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+256100,Venlafaxine 150mg modified-release capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+256101,Venlafaxine 150mg modified-release capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+256166,Duloxetine 30mg gastro-resistant capsules (Zentiva),,,,N06AX21,CEGEDIM
+256167,Duloxetine 30mg gastro-resistant capsules (Zentiva) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+256168,Duloxetine 60mg gastro-resistant capsules (Zentiva),,,,N06AX21,CEGEDIM
+256169,Duloxetine 60mg gastro-resistant capsules (Zentiva) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+256503,Duciltia 30mg gastro-resistant capsules (Aristo Pharma Ltd),,,,N06AX21,CEGEDIM
+256504,Duciltia 30mg gastro-resistant capsules (Aristo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+256505,Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd),,,,N06AX21,CEGEDIM
+256506,Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+256509,Venlafaxine 225mg modified-release capsules,,,,N06AX16,CEGEDIM
+256510,Efexor XL 225mg capsules (Upjohn UK Ltd),,,,N06AX16,CEGEDIM
+256511,Efexor XL 225mg capsules (Upjohn UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX16,CEGEDIM
+257202,Duloxetine 40mg gastro-resistant capsules (Zentiva),,,,N06AX21,CEGEDIM
+257203,Duloxetine 40mg gastro-resistant capsules (Zentiva) 56 capsule8 x 7 capsules,,,,N06AX21,CEGEDIM
+257211,Duloxetine 20mg gastro-resistant capsules (Zentiva),,,,N06AX21,CEGEDIM
+257212,Duloxetine 20mg gastro-resistant capsules (Zentiva) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+259838,Duloxetine 30mg gastro-resistant capsules (Creo Pharma Ltd),,,,N06AX21,CEGEDIM
+259839,Duloxetine 30mg gastro-resistant capsules (Creo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+259842,Duloxetine 60mg gastro-resistant capsules (Creo Pharma Ltd),,,,N06AX21,CEGEDIM
+259843,Duloxetine 60mg gastro-resistant capsules (Creo Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+264791,Duloxetine 20mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),,,,N06AX21,CEGEDIM
+264792,Duloxetine 20mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+264799,Duloxetine 30mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),,,,N06AX21,CEGEDIM
+264800,Duloxetine 30mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+264801,Duloxetine 40mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),,,,N06AX21,CEGEDIM
+264802,Duloxetine 40mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+264805,Duloxetine 60mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd),,,,N06AX21,CEGEDIM
+264806,Duloxetine 60mg gastro-resistant capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+269904,Duloxetine 30mg gastro-resistant capsules (Rivopharm (UK) Ltd),,,,N06AX21,CEGEDIM
+269905,Duloxetine 30mg gastro-resistant capsules (Rivopharm (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+269908,Duloxetine 60mg gastro-resistant capsules (Rivopharm (UK) Ltd),,,,N06AX21,CEGEDIM
+269909,Duloxetine 60mg gastro-resistant capsules (Rivopharm (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+273248,Vensir XL 225mg capsules (Morningside Healthcare Ltd),,,,N06AX16,CEGEDIM
+273249,Vensir XL 225mg capsules (Morningside Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+280357,Duloxetine 20mg gastro-resistant capsules (Consilient Health Ltd),,,,N06AX21,CEGEDIM
+280358,Duloxetine 20mg gastro-resistant capsules (Consilient Health Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+280362,Duloxetine 40mg gastro-resistant capsules (Consilient Health Ltd),,,,N06AX21,CEGEDIM
+280363,Duloxetine 40mg gastro-resistant capsules (Consilient Health Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+284732,Vencarm XL 225mg capsules (Aspire Pharma Ltd),,,,N06AX16,CEGEDIM
+284733,Vencarm XL 225mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+284734,Vencarm XL 150mg capsules (Aspire Pharma Ltd),,,,N06AX16,CEGEDIM
+284735,Vencarm XL 150mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+284736,Vencarm XL 75mg capsules (Aspire Pharma Ltd),,,,N06AX16,CEGEDIM
+284737,Vencarm XL 75mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+284738,Vencarm XL 37.5mg capsules (Aspire Pharma Ltd),,,,N06AX16,CEGEDIM
+284739,Vencarm XL 37.5mg capsules (Aspire Pharma Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+287495,Duloxetine 60mg gastro-resistant capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+287424,Duloxetine 30mg gastro-resistant capsules (HBS Healthcare Ltd),,,,N06AX21,CEGEDIM
+287425,Duloxetine 30mg gastro-resistant capsules (HBS Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+287430,Duloxetine 60mg gastro-resistant capsules (HBS Healthcare Ltd),,,,N06AX21,CEGEDIM
+287431,Duloxetine 60mg gastro-resistant capsules (HBS Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+287488,Duloxetine 20mg gastro-resistant capsules (Aspire Pharma Ltd),,,,N06AX21,CEGEDIM
+287489,Duloxetine 20mg gastro-resistant capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+287490,Duloxetine 30mg gastro-resistant capsules (Aspire Pharma Ltd),,,,N06AX21,CEGEDIM
+287491,Duloxetine 30mg gastro-resistant capsules (Aspire Pharma Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+287492,Duloxetine 40mg gastro-resistant capsules (Aspire Pharma Ltd),,,,N06AX21,CEGEDIM
+287493,Duloxetine 40mg gastro-resistant capsules (Aspire Pharma Ltd) 56 capsule8 x 7 capsules,,,,N06AX21,CEGEDIM
+287494,Duloxetine 60mg gastro-resistant capsules (Aspire Pharma Ltd),,,,N06AX21,CEGEDIM
+287921,Naltrexone 8mg / Bupropion 90mg modified-release tablets,,,,A08AA62,CEGEDIM
+289360,Venlasov XL 150mg capsules (Sovereign Medical Ltd),,,,N06AX16,CEGEDIM
+289361,Venlasov XL 150mg capsules (Sovereign Medical Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+289362,Venlasov XL 75mg capsules (Sovereign Medical Ltd),,,,N06AX16,CEGEDIM
+289363,Venlasov XL 75mg capsules (Sovereign Medical Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+289490,Duloxetine 20mg gastro-resistant capsules (Wockhardt UK Ltd),,,,N06AX21,CEGEDIM
+289491,Duloxetine 20mg gastro-resistant capsules (Wockhardt UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+289492,Duloxetine 30mg gastro-resistant capsules (Wockhardt UK Ltd),,,,N06AX21,CEGEDIM
+289493,Duloxetine 30mg gastro-resistant capsules (Wockhardt UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+289510,Duloxetine 40mg gastro-resistant capsules (Wockhardt UK Ltd),,,,N06AX21,CEGEDIM
+289511,Duloxetine 40mg gastro-resistant capsules (Wockhardt UK Ltd) 56 capsule8 x 7 capsules,,,,N06AX21,CEGEDIM
+289512,Duloxetine 60mg gastro-resistant capsules (Wockhardt UK Ltd),,,,N06AX21,CEGEDIM
+289513,Duloxetine 60mg gastro-resistant capsules (Wockhardt UK Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+290764,Duloxetine 30mg gastro-resistant capsules (Accord Healthcare Ltd),,,,N06AX21,CEGEDIM
+290765,Duloxetine 30mg gastro-resistant capsules (Accord Healthcare Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+290766,Duloxetine 60mg gastro-resistant capsules (Accord Healthcare Ltd),,,,N06AX21,CEGEDIM
+290767,Duloxetine 60mg gastro-resistant capsules (Accord Healthcare Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+290947,Venlafaxine 37.5mg tablets (Almus Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+290948,Venlafaxine 37.5mg tablets (Almus Pharmaceuticals Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+290949,Venlafaxine 75mg tablets (Almus Pharmaceuticals Ltd),,,,N06AX16,CEGEDIM
+290950,Venlafaxine 75mg tablets (Almus Pharmaceuticals Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+291404,Venlafaxine 225mg modified-release capsules (Teva UK Ltd),,,,N06AX16,CEGEDIM
+291405,Venlafaxine 225mg modified-release capsules (Teva UK Ltd) 30 capsule3 x 10 capsules,,,,N06AX16,CEGEDIM
+291533,Depalta 30mg gastro-resistant capsules (Disposable Medical Equipment Ltd),,,,N06AX21,CEGEDIM
+291534,Depalta 30mg gastro-resistant capsules (Disposable Medical Equipment Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+291539,Depalta 60mg gastro-resistant capsules (Disposable Medical Equipment Ltd),,,,N06AX21,CEGEDIM
+291540,Depalta 60mg gastro-resistant capsules (Disposable Medical Equipment Ltd) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+292318,Duloxetine 20mg gastro-resistant capsules (Milpharm Ltd),,,,N06AX21,CEGEDIM
+292319,Duloxetine 20mg gastro-resistant capsules (Milpharm Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+292320,Duloxetine 30mg gastro-resistant capsules (Milpharm Ltd),,,,N06AX21,CEGEDIM
+292321,Duloxetine 30mg gastro-resistant capsules (Milpharm Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+292322,Duloxetine 40mg gastro-resistant capsules (Milpharm Ltd),,,,N06AX21,CEGEDIM
+292323,Duloxetine 40mg gastro-resistant capsules (Milpharm Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+292324,Duloxetine 60mg gastro-resistant capsules (Milpharm Ltd),,,,N06AX21,CEGEDIM
+292325,Duloxetine 60mg gastro-resistant capsules (Milpharm Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+295554,Venlafaxine 225mg/5ml oral suspension,,,,N06AX16,CEGEDIM
+295555,Venlafaxine 225mg/5ml oral suspension (Special Order),,,,N06AX16,CEGEDIM
+295556,Venlafaxine 225mg/5ml oral suspension (Special Order) 1 ml,,,,N06AX16,CEGEDIM
+296253,Venladex XL 225mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+296254,Venladex XL 225mg tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+320684,Venlafaxine 75mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
+320688,Venlafaxine 150mg Modified-release capsule (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
+321210,Venlafaxine 75mg Modified-release capsule (Neo Laboratories Ltd),,,,,CEGEDIM
+321215,Venlafaxine 150mg Modified-release capsule (Neo Laboratories Ltd),,,,,CEGEDIM
+325786,Venlafaxine (roi) 37.5mg modified release capsules,,,,,CEGEDIM
+325921,Venlafaxine,,,,,CEGEDIM
+327469,Venzip XL 75mg capsules (Milpharm Ltd),,,,N06AX16,CEGEDIM
+327470,Venzip XL 150mg capsules (Milpharm Ltd),,,,N06AX16,CEGEDIM
+327883,Duloxetine 30mg gastro-resistant capsules (Tillomed Laboratories Ltd),,,,N06AX21,CEGEDIM
+328133,Duloxetine 30mg/5ml oral suspension,,,,N06AX21,CEGEDIM
+328134,Duloxetine 30mg/5ml oral suspension (Special Order),,,,N06AX21,CEGEDIM
+328135,Duloxetine 60mg/5ml oral suspension,,,,N06AX21,CEGEDIM
+328136,Duloxetine 60mg/5ml oral suspension (Special Order),,,,N06AX21,CEGEDIM
+328228,Bupropion 150mg modified-release tablets,,,,N06AX12,CEGEDIM
+328962,Venzip XL 150mg capsules (Milpharm Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+328965,Venzip XL 75mg capsules (Milpharm Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+329095,Duloxetine 60mg/5ml oral suspension (Special Order) 1 ml,,,,N06AX21,CEGEDIM
+329096,Duloxetine 30mg/5ml oral suspension (Special Order) 1 ml,,,,N06AX21,CEGEDIM
+329190,Duloxetine 30mg gastro-resistant capsules (Tillomed Laboratories Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+331305,Duloxetine 60mg gastro-resistant capsules (Tillomed Laboratories Ltd),,,,N06AX21,CEGEDIM
+331306,Duloxetine 60mg gastro-resistant capsules (Tillomed Laboratories Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+335431,Majoven XL 37.5mg capsules (Bristol Laboratories Ltd),,,,N06AX16,CEGEDIM
+335432,Majoven XL 37.5mg capsules (Bristol Laboratories Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+335433,Majoven XL 75mg capsules (Bristol Laboratories Ltd),,,,N06AX16,CEGEDIM
+335434,Majoven XL 75mg capsules (Bristol Laboratories Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+335435,Majoven XL 150mg capsules (Bristol Laboratories Ltd),,,,N06AX16,CEGEDIM
+335436,Majoven XL 150mg capsules (Bristol Laboratories Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+335581,ViePax XL 225mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+335582,ViePax XL 225mg tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+337490,Venlafaxine 37.5mg tablets (Torrent Pharma (UK) Ltd),,,,N06AX16,CEGEDIM
+337491,Venlafaxine 37.5mg tablets (Torrent Pharma (UK) Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+337492,Venlafaxine 75mg tablets (Torrent Pharma (UK) Ltd),,,,N06AX16,CEGEDIM
+337493,Venlafaxine 75mg tablets (Torrent Pharma (UK) Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+337528,Apclaven XL 37.5mg capsules (Torrent Pharma (UK) Ltd),,,,N06AX16,CEGEDIM
+337529,Apclaven XL 37.5mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+337530,Apclaven XL 75mg capsules (Torrent Pharma (UK) Ltd),,,,N06AX16,CEGEDIM
+337531,Apclaven XL 75mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+337535,Apclaven XL 150mg capsules (Torrent Pharma (UK) Ltd),,,,N06AX16,CEGEDIM
+337536,Apclaven XL 150mg capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+337688,Dutor 20mg gastro-resistant capsules (Torrent Pharma (UK) Ltd),,,,N06AX21,CEGEDIM
+337689,Dutor 20mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+337690,Dutor 30mg gastro-resistant capsules (Torrent Pharma (UK) Ltd),,,,N06AX21,CEGEDIM
+337691,Dutor 30mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+337692,Dutor 40mg gastro-resistant capsules (Torrent Pharma (UK) Ltd),,,,N06AX21,CEGEDIM
+337693,Dutor 40mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+337694,Dutor 60mg gastro-resistant capsules (Torrent Pharma (UK) Ltd),,,,N06AX21,CEGEDIM
+337695,Dutor 60mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+339564,Duloxetine 20mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+339565,Duloxetine 20mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+339566,Duloxetine 40mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+339567,Duloxetine 40mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+341179,Venlafaxine 37.5mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+341180,Venlafaxine 37.5mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+341181,Venlafaxine 75mg tablets (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+341182,Venlafaxine 75mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,N06AX16,CEGEDIM
+341183,Venlafaxine 225mg modified-release capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX16,CEGEDIM
+341184,Venlafaxine 225mg modified-release capsules (Mawdsley-Brooks & Company Ltd) 30 capsule,,,,N06AX16,CEGEDIM
+341377,Duloxetine 30mg gastro-resistant capsules (Mylan),,,,N06AX21,CEGEDIM
+341378,Duloxetine 30mg gastro-resistant capsules (Mylan) 28 capsule4 x 7 capsules,,,,N06AX21,CEGEDIM
+341466,Zyban 150mg modified-release tablets (CST Pharma Ltd),,,,N06AX12,CEGEDIM
+341467,Zyban 150mg modified-release tablets (CST Pharma Ltd) 60 tablet,,,,N06AX12,CEGEDIM
+342012,Cymbalta 60mg gastro-resistant capsules (CST Pharma Ltd),,,,N06AX21,CEGEDIM
+342013,Cymbalta 30mg gastro-resistant capsules (CST Pharma Ltd),,,,N06AX21,CEGEDIM
+342014,Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd),,,,N06AX21,CEGEDIM
+342968,Cymbalta 60mg gastro-resistant capsules (Pilsco Ltd),,,,N06AX21,CEGEDIM
+343178,Cymbalta 30mg gastro-resistant capsules (Pilsco Ltd),,,,N06AX21,CEGEDIM
+344099,Efexor XL 150mg capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX16,CEGEDIM
+344275,Cymbalta 30mg gastro-resistant capsules (CST Pharma Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+344276,Cymbalta 60mg gastro-resistant capsules (CST Pharma Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+344561,Duloxetine 30mg gastro-resistant capsules (Mawdsley-Brooks & Company Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+345076,Cymbalta 30mg gastro-resistant capsules (Pilsco Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+345077,Cymbalta 60mg gastro-resistant capsules (Pilsco Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+346264,Duloxetine 30mg gastro-resistant capsules (Somex Pharma),,,,N06AX21,CEGEDIM
+346265,Duloxetine 30mg gastro-resistant capsules (Somex Pharma) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+346266,Duloxetine 60mg gastro-resistant capsules (Somex Pharma),,,,N06AX21,CEGEDIM
+346267,Duloxetine 60mg gastro-resistant capsules (Somex Pharma) 28 capsule2 x 14 capsules,,,,N06AX21,CEGEDIM
+346537,Venlafaxine 37.5mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+346538,Venlafaxine 75mg tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+346892,Venlafaxine 37.5mg tablets (Dexcel-Pharma Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+346893,Venlafaxine 75mg tablets (Dexcel-Pharma Ltd) 56 tablet4 x 14 tablets,,,,N06AX16,CEGEDIM
+347403,Venlafaxine 300mg modified-release tablets,,,,N06AX16,CEGEDIM
+347404,Venlalic XL 300mg tablets (Ethypharm UK Ltd),,,,N06AX16,CEGEDIM
+347405,Venlalic XL 300mg tablets (Ethypharm UK Ltd) 30 tablet,,,,N06AX16,CEGEDIM
+347541,Venlalic XL 225mg tablets (Pilsco Ltd),,,,N06AX16,CEGEDIM
+347542,Venlalic XL 225mg tablets (Pilsco Ltd) 30 tablet,,,,N06AX16,CEGEDIM
+348893,Venlafaxine 37.5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N06AX16,CEGEDIM
+352464,Venlafaxine 150mg modified-release tablets (Dexcel-Pharma Ltd),,,,N06AX16,CEGEDIM
+352465,Venlafaxine 150mg modified-release tablets (Dexcel-Pharma Ltd) 28 tablet2 x 14 tablets,,,,N06AX16,CEGEDIM
+352815,Venlafaxine 75mg modified-release capsules,,,,N06AX16,CEGEDIM
+352816,Venlafaxine 150mg modified-release capsules,,,,N06AX16,CEGEDIM
+354191,Duloxetine 40mg gastro-resistant capsules (Medihealth (Northern) Ltd),,,,N06AX21,CEGEDIM
+354193,Duloxetine 60mg gastro-resistant capsules (Medihealth (Northern) Ltd),,,,N06AX21,CEGEDIM
+354269,Duloxetine 20mg gastro-resistant capsules (Medihealth (Northern) Ltd),,,,N06AX21,CEGEDIM
+354288,Duloxetine 30mg gastro-resistant capsules (Medihealth (Northern) Ltd),,,,N06AX21,CEGEDIM
+354780,Duloxetine 20mg gastro-resistant capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+354781,Duloxetine 30mg gastro-resistant capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+354782,Duloxetine 40mg gastro-resistant capsules (Medihealth (Northern) Ltd) 56 capsule,,,,N06AX21,CEGEDIM
+354783,Duloxetine 60mg gastro-resistant capsules (Medihealth (Northern) Ltd) 28 capsule,,,,N06AX21,CEGEDIM
+355159,Venlafaxine 225mg modified-release capsules (Morningside Healthcare Ltd),,,,N06AX16,CEGEDIM
+355160,Venlafaxine 225mg modified-release capsules (Morningside Healthcare Ltd) 28 capsule2 x 14 capsules,,,,N06AX16,CEGEDIM
+355393,Bupropion 150mg modified-release tablets (Imported),,,,N06AX12,CEGEDIM
+355394,Bupropion 150mg modified-release tablets (Imported) 60 tablet,,,,N06AX12,CEGEDIM
