@@ -5,7 +5,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 10176,Codipar 15mg/500mg tablets (Advanz Pharma) Codeine phosphate/Paracetamol 15mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 55309,Codeine 15mg tablets (Phoenix Healthcare Distribution Ltd) Codeine phosphate 15mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 40159,Dihydrocodeine 10mg/5ml oral solution (Martindale Pharmaceuticals Ltd) Dihydrocodeine tartrate 2mg/1ml Oral solution Oral,4070200,,,,CPRD_GOLD
-34373,Codeine Oral solution (Co-operative) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,4070200,,,CPRD_GOLD
 40663,Co-codamol 30mg/500mg effervescent tablets (Actavis UK Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 47003,Codeine 60mg tablets (Ranbaxy (UK) Ltd) Codeine phosphate 60mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 34264,Co-codamol 30mg/500mg tablets (IVAX Pharmaceuticals UK Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,,,,CPRD_GOLD
@@ -27,14 +26,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 73147,Dihydrocodeine 30mg tablets (Phoenix Healthcare Distribution Ltd) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 15649,SOLPAFLEX TAB    ,0,,,,CPRD_GOLD
 38528,Tramadol 50mg Capsule (Tillomed Laboratories Ltd) Tramadol hydrochloride 50mg Capsule Oral,4070200,,,,CPRD_GOLD
-9202,CODEINE PHOS/EPHEDRINE HYD/PROMETHAZINE LIN    ,0,,,,CPRD_GOLD
 59131,Co-codamol 8mg/500mg capsules (Bayer Plc) Codeine phosphate/Paracetamol 8mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
-4805,Codeine phosphate 15mg/5ml diabetic oral solution Codeine Phosphate 15mg/5ml Diabetic Linctus Oral,3090100,4070200,,,CPRD_GOLD
 7542,Codeine phosphate 8mg with paracetamol 500mg tablets Codeine Phosphate/Paracetamol 8mg + 500mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
 74830,Tramadol 200mg modified-release capsules (Alliance Healthcare (Distribution) Ltd) Tramadol hydrochloride 200mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 24996,Codeine phosphate 8mg with paracetamol 500mg with buclizine 6.25mg tablets Buclizine Hydrochloride/Codeine Phosphate/Paracetamol 8mg+500mg+6.25mg Tablets Oral,3040102,4070401,,,CPRD_GOLD
 36732,Tramadol 50mg modified-release tablets Tramadol hydrochloride 50mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-61049,Codeine 15mg/5ml linctus (Waymade Healthcare Plc) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 40061,Tramulief SR 150mg tablets (Advanz Pharma) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 8246,Codeine phosphate 8mg with paracetamol 500mg effervescent tablets Codeine Phosphate/Paracetamol 8mg + 500mg Effervescent Tablet Oral,4070100,4070200,,,CPRD_GOLD
 42332,Tramacet 37.5mg/325mg effervescent tablets (Grunenthal Ltd) Tramadol hydrochloride/Paracetamol 37.5mg + 325mg Effervescent tablet Oral,4070200,,,,CPRD_GOLD
@@ -63,7 +59,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 57865,Co-codamol 30mg/500mg caplets (Actavis UK Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 12709,Ibuprofen and codeine 200mg + 12.5mg Tablet Codeine Phosphate/Ibuprofen 200mg + 12.5mg Tablet Oral,4070200,10010100,,,CPRD_GOLD
 37904,Co-codamol 12.8mg/500mg tablets Paracetamol/Codeine phosphate 500mg + 12.8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-32510,CODEINE LINCTUS    ,0,,,,CPRD_GOLD
 22450,ASPIRIN & CODEINE 75 MG TAB    ,0,,,,CPRD_GOLD
 53702,Co-codamol 30mg/500mg tablets (Actavis UK Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 52856,Co-codaprin 8mg/400mg tablets Aspirin/Codeine phosphate 400mg + 8mg Tablet Oral,4070100,,,,CPRD_GOLD
@@ -73,7 +68,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 16271,Zydol XL 300mg tablets (Grunenthal Ltd) Tramadol hydrochloride 300mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 36846,Guaiacol 75mg/5ml / Codeine 7mg/5ml oral solution Codeine/Guaiacol 1.4mg/1ml + 15mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 40249,Maxitram SR 100mg capsules (Chiesi Ltd) Tramadol hydrochloride 100mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
-23977,Codeine 15mg/5ml linctus (Thornton & Ross Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 42791,Co-codamol 30mg/500mg tablets (Sandoz Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,,,,CPRD_GOLD
 50468,Codeine 15mg tablets (Alliance Healthcare (Distribution) Ltd) Codeine phosphate 15mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 687,Tramacet 37.5mg/325mg tablets (Grunenthal Ltd) Paracetamol/Tramadol hydrochloride 325mg + 37.5mg Tablet Oral,4070200,,,,CPRD_GOLD
@@ -82,7 +76,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 25529,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg tablet Caffeine/Codeine Phosphate/Paracetamol 500mg+8mg+30mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
 60040,Generic Migraleve Pink tablets Buclizine hydrochloride/Paracetamol/Codeine phosphate 6.25mg + 500mg + 8mg Tablet Oral,4070200,4070401,,,CPRD_GOLD
 34495,Co-codamol 8mg/500mg tablets (Mylan) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,,,,CPRD_GOLD
-8879,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus Menthol/Terpin hydrate/Codeine phosphate 2mg/1ml + 6.5mg/1ml + 3.2mg/1ml Oral solution Oral,3095000,,,,CPRD_GOLD
 79785,Co-codamol 30mg/500mg effervescent tablets (Kent Pharmaceuticals Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 47081,Paracetamol 500mg with codeine phosphate 12.8mg & caffeine 30mg effervescent tablet Caffeine/Codeine Phosphate/Paracetamol 500mg + 12.8mg + 30mg Effervescent Tablet Oral,4070100,4070200,,,CPRD_GOLD
 26585,SOLPADEINE FORTE TAB    ,0,,,,CPRD_GOLD
@@ -101,7 +94,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 77131,Codanin Tablet (Wyeth Consumer Healthcare) Codeine Phosphate/Paracetamol  Tablet ,4070100,4070200,,,CPRD_GOLD
 11807,Paracetamol 500mg with codeine 12.8mg tablet Codeine Phosphate/Paracetamol 500mg + 12.8mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
 53079,Co-dydramol 10mg/500mg tablets (Sigma Pharmaceuticals Plc) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-43904,Feminax Express 342mg tablets (Bayer Plc) Ibuprofen lysine 200mg Tablet Oral,4070100,10010100,,,CPRD_GOLD
 75931,Tramadol 150mg modified-release capsules (DE Pharmaceuticals) Tramadol hydrochloride 150mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 8500,CODEINE PHOSPHATE/PARACETAMOL/SODIUM CIT 8 MG CAP    ,0,,,,CPRD_GOLD
 4671,Codeine phosphate 30mg with Paracetamol 500mg capsules Codeine Phosphate/Paracetamol 30mg + 500mg Capsules Oral,4070100,4070200,,,CPRD_GOLD
@@ -109,7 +101,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 17808,CO-CODAMOL 30MG/500MG    ,0,,,,CPRD_GOLD
 213,Codeine 25mg/5ml oral solution Codeine phosphate 5mg/1ml Oral solution Oral,1040200,3090100,4070200,,CPRD_GOLD
 34422,Tramadol 50mg capsules (Actavis UK Ltd) Tramadol hydrochloride 50mg Capsule Oral,4070200,,,,CPRD_GOLD
-38511,Feminax Ultra 250mg gastro-resistant tablets (Bayer Plc) Naproxen 250mg Gastro-resistant tablet Oral,4070100,10010100,,,CPRD_GOLD
 56006,Co-codamol 8mg/500mg tablets (Bristol Laboratories Ltd) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 10602,Paracodol 8mg/500mg effervescent tablets (Bayer Plc) Codeine phosphate/Paracetamol 8mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 65092,Co-codamol 30mg/500mg caplets (Mawdsley-Brooks & Company Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -130,7 +121,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 16039,Solpadeine Capsule (GlaxoSmithKline Consumer Healthcare) Caffeine/Codeine Phosphate/Paracetamol  Capsule Oral,4070100,4070200,,,CPRD_GOLD
 50421,Codeine phosphate 15mg Tablet (Celltech Pharma Europe Ltd) Codeine phosphate 15mg Tablet Oral,1040200,4070200,,,CPRD_GOLD
 9562,Remedeine 30mg+500mg Effervescent tablet (Napp Pharmaceuticals Ltd) Dihydrocodeine Tartrate/Paracetamol 30mg+500mg Effervescent Tablet Oral,4070100,4070200,,,CPRD_GOLD
-8053,BROMPHENIRAMINE /CODEINE PHOSPHATE / 2 MG ELI    ,0,,,,CPRD_GOLD
 35438,Tramquel SR 100mg capsules (Mylan) Tramadol hydrochloride 100mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 19,Co-codamol 8mg/500mg tablets Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 37816,Cuprofen PLUS tablets (SSL International Plc) Ibuprofen/Codeine phosphate 200mg + 12.8mg Tablet Oral,10010100,,,,CPRD_GOLD
@@ -141,8 +131,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 2986,Co-codaprin 8mg/400mg dispersible tablets Codeine phosphate/Aspirin 8mg + 400mg Dispersible tablet Oral,4070100,,,,CPRD_GOLD
 71227,Syndol Headache Relief tablets (Sanofi) Paracetamol/Codeine phosphate/Caffeine 500mg + 8mg + 30mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 3653,Dihydrocodeine 50mg/1ml solution for injection ampoules Dihydrocodeine tartrate 50mg/1ml Solution for injection Intramuscular/Subcutaneous,4070200,,,,CPRD_GOLD
-34090,Codeine Oral solution (Berk Pharmaceuticals Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,4070200,,,CPRD_GOLD
-152,Codeine 15mg/5ml linctus Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 64496,Tramadol 100mg modified-release capsules (Ennogen Healthcare Ltd) Tramadol hydrochloride 100mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 53,Dihydrocodeine 30mg tablets Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 63547,Codeine 1mg suppositories Codeine phosphate 1mg Suppository Rectal,4070200,,,,CPRD_GOLD
@@ -167,10 +155,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 70552,Codeine 60mg/1ml solution for injection ampoules (Torbay Pharmaceuticals) Codeine phosphate 60mg/1ml Solution for injection Intramuscular,4070200,,,,CPRD_GOLD
 11549,Tramadol 75mg modified-release tablets Tramadol hydrochloride 75mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 2998,PARACETAM/DYHYDROCODEINE(500MG/30MG) MG TAB    ,0,,,,CPRD_GOLD
-22129,Terpoin Oral solution (Hough Hoseason & Co Ltd) Menthol/Codeine Phosphate  Oral Solution Oral,3090200,,,,CPRD_GOLD
 46587,Tramadol 100mg/ml oral drops Tramadol hydrochloride 100mg/1ml Oral drops Oral,4070200,,,,CPRD_GOLD
 69894,Zeridame SR 200mg tablets (Actavis UK Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-10548,Copholco Oral solution (Roche Consumer Health) Menthol/Cineole/Pholcodine/Terpin Hydrate  Oral Solution Oral,3090200,,,,CPRD_GOLD
 306,Aspirin with codeine phosphate and caffeine tablets Caffeine/Codeine Phosphate/Aspirin  Tablets Oral,4070100,4070200,,,CPRD_GOLD
 67310,Zydol SR 200mg tablets (Mawdsley-Brooks & Company Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 14785,Paracetamol500mg with codeine phosphate 15mg tablet Codeine Phosphate/Paracetamol 500mg + 15mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
@@ -183,7 +169,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 50532,Dihydrocodeine 30mg tablets (Bristol Laboratories Ltd) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 51644,Codeine 30mg tablets (Bristol Laboratories Ltd) Codeine phosphate 30mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 11961,Veganin Tablet (Pfizer Consumer Healthcare Ltd) Codeine Phosphate/Paracetamol/Aspirin  Tablet Oral,4070100,,,,CPRD_GOLD
-19622,Pseudoephedrine with brompheniramine & codeine phosphate paediatric oral solution Brompheniramine Maleate/Codeine Phosphate/Pseudoephedrine Hydrochloride/Alcohol  Paediatric Syrup Oral,3090100,3100000,,,CPRD_GOLD
 19317,Omnopon 10mg Tablet (Roche Products Ltd) Codeine Phosphate/Papaverine Hydrochloride/Morphine Hydrochloride 10mg Tablet Oral,4070200,,,,CPRD_GOLD
 28780,Co-dydramol 10mg/500mg tablets (A A H Pharmaceuticals Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 7989,DIHYDROCODEINE TARTRATE/ASPIRIN 300 MG TAB    ,0,,,,CPRD_GOLD
@@ -192,7 +177,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 3156,Solpadol 30mg/500mg caplets (Sanofi) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 72209,Dihydrocodeine 30mg tablets (DE Pharmaceuticals) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 9275,DHC Continus 120mg tablets (Napp Pharmaceuticals Ltd) Dihydrocodeine tartrate 120mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-34099,Codeine 15mg/5ml linctus sugar free (Pinewood Healthcare) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 158,Codeine 30mg tablets Codeine phosphate 30mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 23420,Codeine phosphate 60mg with paracetamol 1000mg effervescent powder sugar free Codeine Phosphate/Paracetamol 60mg + 1000mg Effervescent Oral Powder Sugar-Free Oral,4070100,4070200,,,CPRD_GOLD
 66121,Dihydrocodeine 10mg/5ml oral suspension Dihydrocodeine tartrate 2mg/1ml Oral suspension Oral,4070200,,,,CPRD_GOLD
@@ -260,7 +244,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 38874,Zamadol 100mg/2ml solution for injection ampoules (Mylan) Tramadol hydrochloride 50mg/1ml Solution for injection Subcutaneous/Intravenous/Intramuscular,4070200,,,,CPRD_GOLD
 42208,Df118 30mg Tablet (Martindale Pharmaceuticals Ltd) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 41599,Codeine 15mg tablets (Teva UK Ltd) Codeine phosphate 15mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
-24304,CODEINE PHOS/GUAIPHENESIN/PSEUDOEPHEDRIN 3 MG ELI    ,0,,,,CPRD_GOLD
 4556,Paramol tablets (SSL International Plc) Paracetamol/Dihydrocodeine tartrate 500mg + 7.46mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 67779,Co-dydramol 10mg/500mg tablets (Wockhardt UK Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 3029,CO-CODAMOL EFF 30MG/500MG TAB    ,0,,,,CPRD_GOLD
@@ -304,20 +287,17 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 2555,Dihydrocodeine with paracetamol 10mg+500mg tablets Dihydrocodeine Tartrate/Paracetamol 10mg + 500mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
 65269,Codeine 60mg tablets (DE Pharmaceuticals) Codeine phosphate 60mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 57381,Codeine 60mg tablets (Teva UK Ltd) Codeine phosphate 60mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
-2178,Phensedyl Oral solution (Rhone-Poulenc Rorer Ltd) Codeine Phosphate/Promethazine Hydrochloride  Oral Solution Oral,3090200,,,,CPRD_GOLD
 78761,Brimisol PR 100mg tablets (Bristol Laboratories Ltd) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 67106,Co-codamol 30mg/500mg caplets (Wockhardt UK Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 39505,Marol 100mg modified-release tablets (Morningside Healthcare Ltd) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 38085,Paracetamol 500mg with codeine phosphate 10mg capsule Codeine Phosphate/Paracetamol 500mg + 10mg Capsules Oral,4070100,4070200,,,CPRD_GOLD
 21797,Zamadol SR 200mg capsules (Mylan) Tramadol hydrochloride 200mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
-71987,"Codeine 15mg/5ml linctus (Bell,Sons & Co (Druggists) Ltd) Codeine phosphate 3mg/1ml Oral solution Oral",3090100,,,,CPRD_GOLD
 1708,Codafen Continus tablets (Napp Pharmaceuticals Ltd) Ibuprofen/Codeine phosphate 300mg + 20mg Modified-release tablet Oral,0,,,,CPRD_GOLD
 16112,Paramol soluble tablets (SSL International Plc) Dihydrocodeine tartrate/Paracetamol 7.46mg + 500mg Effervescent tablet Oral,4070100,,,,CPRD_GOLD
 3378,Tramadol 50mg soluble tablets sugar free Tramadol hydrochloride 50mg Soluble tablet Oral,4070200,,,,CPRD_GOLD
 74503,Codeine phosphate 30mg/ml Injection (Martindale Pharmaceuticals Ltd) Codeine phosphate 30mg/1ml Solution for injection Intramuscular,4070200,,,,CPRD_GOLD
 31894,Safapryn -Co Tablet (Pfizer Ltd) Codeine Phosphate/Paracetamol/Aspirin  Tablet Oral,4070100,,,,CPRD_GOLD
 77224,Co-dydramol 10mg/500mg tablets (Mawdsley-Brooks & Company Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-28756,Robitussin night-time Oral solution (Wyeth Consumer Healthcare) Brompheniramine Maleate/Codeine Phosphate/Pseudoephedrine Hydrochloride/Alcohol  Oral Solution Oral,3090100,3100000,,,CPRD_GOLD
 3272,PARACETAM/DYHYDROCODEINE(500MG/20MG) TAB    ,0,,,,CPRD_GOLD
 55465,Co-codamol 30mg/500mg capsules (Sigma Pharmaceuticals Plc) Codeine phosphate/Paracetamol 30mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 40422,Co-dydramol 10mg/500mg tablets (Zentiva) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -337,7 +317,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 73890,Tramadol 100mg modified-release tablets (AM Distributions (Yorkshire) Ltd) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 96,Co-codamol 30mg/500mg tablets Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 20565,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg capsule Caffeine/Codeine Phosphate/Paracetamol 500mg+8mg+30mg Capsules Oral,4070100,4070200,,,CPRD_GOLD
-41523,Codeine Oral solution (Family Health) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,4070200,,,CPRD_GOLD
 10582,Formulix Oral solution (Cilag Pharmaceuticals Ltd) Codeine Phosphate/Paracetamol  Oral Solution Oral,4070100,4070200,,,CPRD_GOLD
 43513,Tramadol 50mg capsules (Zentiva) Tramadol hydrochloride 50mg Capsule Oral,4070200,,,,CPRD_GOLD
 15831,Codeine phosphate 30mg with paracetamol 500mg effervescent powder sugar free Codeine Phosphate/Paracetamol 30mg + 500mg Effervescent Oral Powder Sugar-Free Oral,4070100,4070200,,,CPRD_GOLD
@@ -351,7 +330,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 10122,Dihydrocodeine 10mg with paracetamol 500mg/5ml oral suspension sugar free Dihydrocodeine Tartrate/Paracetamol 10mg + 500mg/5ml Suspension Sugar-Free Oral,4070100,4070200,,,CPRD_GOLD
 56461,Co-codamol 30mg/500mg tablets (Kent Pharmaceuticals Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 35792,Codeine 25mg/5ml oral solution (Thornton & Ross Ltd) Codeine phosphate 5mg/1ml Oral solution Oral,1040200,3090100,4070200,,CPRD_GOLD
-10701,Dimotane Co oral solution paediatric sugar free (Wyeth Consumer Healthcare) Brompheniramine maleate/Pseudoephedrine hydrochloride/Codeine phosphate 400microgram/1ml + 3mg/1ml + 600microgram/1ml Oral solution Oral,0,,,,CPRD_GOLD
 44371,Mabron 150mg modified-release tablets (Morningside Healthcare Ltd) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 1640,Kapake 30mg/500mg tablets (Galen Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 9163,Remedeine 20mg+500mg Effervescent tablet (Napp Pharmaceuticals Ltd) Dihydrocodeine Tartrate/Paracetamol 20mg+500mg Effervescent Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -394,7 +372,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 38521,Dihydrocodeine 30mg tablets (Teva UK Ltd) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 61698,Co-dydramol 10mg/500mg/5ml oral solution Dihydrocodeine tartrate/Paracetamol 2mg/1ml + 100mg/1ml Oral solution Oral,4070100,4070200,,,CPRD_GOLD
 41276,Co-codamol 8mg/500mg tablets (Almus Pharmaceuticals Ltd) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-48964,Codeine 3mg/5ml linctus paediatric Codeine phosphate 600microgram/1ml Oral solution Oral,0,,,,CPRD_GOLD
 9785,Remedeine 30mg+500mg Tablet (Napp Pharmaceuticals Ltd) Dihydrocodeine tartrate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 14964,Solpadeine Plus soluble tablets (Omega Pharma Ltd) Codeine phosphate/Paracetamol/Caffeine 8mg + 500mg + 30mg Soluble tablet Oral,4070100,4070200,,,CPRD_GOLD
 74498,Tramadol 100mg modified-release tablets (Sigma Pharmaceuticals Plc) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
@@ -407,7 +384,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 2846,Paracetamol 500mg with codeine phosphate 30mg effervescent tablet Codeine Phosphate/Paracetamol 500mg + 30mg Effervescent Tablet Oral,4070100,4070200,,,CPRD_GOLD
 17719,SOLPADOL    ,0,,,,CPRD_GOLD
 39842,Meptid 200mg tablets (Almirall Ltd) Meptazinol hydrochloride 200mg Tablet Oral,4070200,,,,CPRD_GOLD
-7534,Benylin with Codeine oral solution (Pfizer Consumer Healthcare Ltd) Diphenhydramine hydrochloride/Codeine phosphate/Levomenthol 2.8mg/1ml + 1.14mg/1ml + 220microgram/1ml Oral solution Oral,0,,,,CPRD_GOLD
 56549,Co-codamol 8mg/500mg effervescent tablets (Waymade Healthcare Plc) Codeine phosphate/Paracetamol 8mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 34639,Tramadol 50mg capsules (Genus Pharmaceuticals Ltd) Tramadol hydrochloride 50mg Capsule Oral,4070200,,,,CPRD_GOLD
 38970,DF 118 Forte 40mg tablets (Martindale Pharmaceuticals Ltd) Dihydrocodeine tartrate 40mg Tablet Oral,4070200,,,,CPRD_GOLD
@@ -418,7 +394,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 64079,Dihydrocodeine 10mg/5ml oral solution (Waymade Healthcare Plc) Dihydrocodeine tartrate 2mg/1ml Oral solution Oral,4070200,,,,CPRD_GOLD
 56817,Codeine 15mg tablets (Almus Pharmaceuticals Ltd) Codeine phosphate 15mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 52889,Codeine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd) Codeine phosphate 5mg/1ml Oral solution Oral,1040200,3090100,4070200,,CPRD_GOLD
-32436,Codeine 3mg/5ml linctus paediatric (Thornton & Ross Ltd) Codeine phosphate 600microgram/1ml Oral solution Oral,0,,,,CPRD_GOLD
 1527,Migraleve tablets (McNeil Products Ltd)   Not applicable Route of administration not applicable,4070200,4070401,,,CPRD_GOLD
 48136,Codeine 15mg tablets (Almus Pharmaceuticals Ltd) Codeine phosphate 15mg Tablet Oral,0,,,,CPRD_GOLD
 4114,Tramadol 100mg modified-release capsules Tramadol hydrochloride 100mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
@@ -437,12 +412,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 65954,Tramadol 50mg modified-release capsules (Cubic Pharmaceuticals Ltd) Tramadol hydrochloride 50mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 34518,Co-codamol 8mg/500mg tablets (A A H Pharmaceuticals Ltd) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 62169,Co-codamol 8mg/500mg tablets (Vantage) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,,,,CPRD_GOLD
-13992,Pseudoephedrine with brompheniramine & codeine phosphate oral solution Brompheniramine Maleate/Codeine Phosphate/Pseudoephedrine Hydrochloride/Alcohol  Elixir Oral,3090100,3100000,,,CPRD_GOLD
 59978,Dihydrocodeine 30mg tablets (Waymade Healthcare Plc) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 23981,Zamadol SR 150mg capsules (Mylan) Tramadol hydrochloride 150mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 767,Solpadol 30mg/500mg capsules (Sanofi) Codeine phosphate/Paracetamol 30mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 74887,Invodol SR 200mg tablets (Ennogen Healthcare Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-34168,Codeine 15mg/5ml linctus sugar free (Thornton & Ross Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 7499,Calpol extra Tablet (Warner Lambert UK Ltd) Caffeine/Codeine Phosphate/Paracetamol  Tablet Oral,4070100,4070200,,,CPRD_GOLD
 58636,Co-codamol 8mg/500mg effervescent tablets (Teva UK Ltd) Codeine phosphate/Paracetamol 8mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 9855,Co-dydramol 20mg/500mg tablets Dihydrocodeine tartrate/Paracetamol 20mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -451,7 +424,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 32450,Zamadol 24hr 400mg modified-release tablets (Mylan) Tramadol hydrochloride 400mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 41535,Codeine 30mg tablets (Teva UK Ltd) Codeine phosphate 30mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 14676,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg effervescent tablet Caffeine/Codeine Phosphate/Paracetamol 500mg+8mg+30mg Effervescent Tablet Oral,4070100,4070200,,,CPRD_GOLD
-58131,Codeine 15mg/5ml linctus sugar free (DE Pharmaceuticals) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 10178,Solpadeine Plus capsules (Omega Pharma Ltd) Paracetamol/Codeine phosphate/Caffeine 500mg + 8mg + 30mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 8335,Paracodol 8mg/500mg capsules (Bayer Plc) Codeine phosphate/Paracetamol 8mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 3713,Medocodene Tablet (Manufacturer unknown) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -459,7 +431,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 65035,Co-dydramol 10mg/500mg tablets (Almus Pharmaceuticals Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 75286,Tramadol 150mg modified-release tablets (Ethigen Ltd) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 8835,CODEINE PHOS /DIPHENHYDRAMINE HYD. /MENT 5.7 MG ELI    ,0,,,,CPRD_GOLD
-25485,Codeine phosphate with other ingredient pastilles Codeine Phosphate  Pastille Oromucosal,3090100,,,,CPRD_GOLD
 60121,Tramadol 50mg modified-release capsules (Waymade Healthcare Plc) Tramadol hydrochloride 50mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 57097,Co-codamol 30mg/500mg capsules (Alliance Healthcare (Distribution) Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 68562,Generic Syndol caplets Caffeine/Paracetamol/Codeine phosphate/Doxylamine succinate 30mg + 450mg + 10mg + 5mg Tablet Oral,0,,,,CPRD_GOLD
@@ -489,13 +460,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 28784,Codeine phosphate 8mg with aspirin 400mg tablets Codeine Phosphate/Aspirin 8mg+400mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
 5169,Zydol SR 200mg tablets (Grunenthal Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 73606,Co-codamol 8mg/500mg caplets (A A H Pharmaceuticals Ltd) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-12171,Dimotane Co oral solution sugar free (Wyeth Consumer Healthcare) Brompheniramine maleate/Pseudoephedrine hydrochloride/Codeine phosphate 400microgram/1ml + 6mg/1ml + 2mg/1ml Oral solution Oral,0,,,,CPRD_GOLD
 63683,Aspirin with codeine Dispersible tablet (Actavis UK Ltd) Codeine phosphate/Aspirin 8mg + 400mg Dispersible tablet Oral,4070100,4070200,,,CPRD_GOLD
 9313,Dihydrocodeine 90mg modified-release tablets Dihydrocodeine tartrate 90mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 59705,Co-codamol 8mg/500mg capsules (DE Pharmaceuticals) Codeine phosphate/Paracetamol 8mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
-42405,Migraleve Ultra 50mg tablets (McNeil Products Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRD_GOLD
 47854,Tramadol (roi) Tablet Tramadol Hydrochloride 50mg Tablet Oral,4070200,,,,CPRD_GOLD
-69066,Codeine 5mg/5ml oral suspension Codeine phosphate 1mg/1ml Oral suspension Oral,1040200,3090100,4070200,,CPRD_GOLD
 77505,Paracetamol 500mg / Dihydrocodeine 20mg tablets (Icarus Pharmaceuticals Ltd) Dihydrocodeine tartrate/Paracetamol 20mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 64751,Codeine 60mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) Codeine phosphate 60mg/1ml Solution for injection Intramuscular,4070200,,,,CPRD_GOLD
 800,Co-codamol 30mg/500mg capsules Codeine phosphate/Paracetamol 30mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
@@ -517,7 +485,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 72282,Co-dydramol 20mg/500mg tablets (Alliance Healthcare (Distribution) Ltd) Dihydrocodeine tartrate/Paracetamol 20mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 78049,Codeine 60mg tablets (Crescent Pharma Ltd) Codeine phosphate 60mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 57929,Co-codamol 8mg/500mg capsules (Waymade Healthcare Plc) Codeine phosphate/Paracetamol 8mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
-24124,Codeine 15mg/5ml linctus (A A H Pharmaceuticals Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 5028,Tramadol 24 Modified-release tablet Tramadol Hydrochloride 200mg Modified-Release Tablet Oral,4070200,,,,CPRD_GOLD
 24498,ASPIRIN/CODEINE PHOSPHATE/PARACETAMOL 300 MG TAB    ,0,,,,CPRD_GOLD
 2917,Paracetamol 500mg with codeine phosphate 30 mg tablet Codeine Phosphate/Paracetamol 500mg + 30mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
@@ -527,17 +494,14 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 34257,Co-codamol 8mg/500mg effervescent tablets (Mylan) Codeine phosphate/Paracetamol 8mg + 500mg Effervescent tablet Oral,4070100,,,,CPRD_GOLD
 15198,Co-dydramol 10mg+500mg Tablet (C P Pharmaceuticals Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 6558,Tramadol 37.5mg / Paracetamol 325mg tablets Paracetamol/Tramadol hydrochloride 325mg + 37.5mg Tablet Oral,4070200,,,,CPRD_GOLD
-17707,CODEINE PHOS/GUAIPHENESIN/PSEUDOEPHEDRIN 7.5 MG ELI    ,0,,,,CPRD_GOLD
 14378,Feminax tablets (Bayer Plc) Paracetamol/Codeine phosphate/Hyoscine hydrobromide/Caffeine hydrate 500mg + 8mg + 100microgram + 54.64mg Tablet Oral,0,,,,CPRD_GOLD
 40385,Co-codamol 8mg/500mg effervescent tablets (Almus Pharmaceuticals Ltd) Codeine phosphate/Paracetamol 8mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 46279,Tramadol 200mg modified-release capsules (A A H Pharmaceuticals Ltd) Tramadol hydrochloride 200mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 7104,Kapake 30mg/500mg effervescent tablets (Galen Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Effervescent tablet Oral,4070100,,,,CPRD_GOLD
 2047,Co-codaprin 8mg with 400mg tablets Codeine Phosphate/Aspirin 8mg+400mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
-5572,Galcodine 15mg/5ml linctus (Thornton & Ross Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 64545,Co-codamol 8mg/500mg tablets (Aspar Pharmaceuticals Ltd) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 701,Tramadol 50mg modified-release capsules Tramadol hydrochloride 50mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 38196,Larapam SR 200mg tablets (Sandoz Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-76493,Linctifed expectorant (Wellcome Medical Division) Codeine Phosphate/Guaifenesin/Pseudoephedrine Hydrochloride/Triprolidine Hydrochloride  Oral Solution ,3090200,,,,CPRD_GOLD
 21397,Zydol XL 400mg tablets (Grunenthal Ltd) Tramadol hydrochloride 400mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 60517,Co-codamol 30mg/500mg effervescent tablets (Almus Pharmaceuticals Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 78150,Tramadol 100mg modified-release tablets (Waymade Healthcare Plc) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
@@ -552,10 +516,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 37831,Mabron 100mg modified-release tablets (Morningside Healthcare Ltd) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 37291,Co-dydramol 10mg/500mg tablets (Ranbaxy (UK) Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,,,,CPRD_GOLD
 21256,Tramake Insts 50mg sachets (Galen Ltd) Tramadol hydrochloride 50mg Effervescent powder Oral,0,,,,CPRD_GOLD
-58909,Codeine 15mg/5ml linctus sugar free (Kent Pharmaceuticals Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 65245,Codeine 30mg tablets (Mawdsley-Brooks & Company Ltd) Codeine phosphate 30mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 7518,Aspirin 400mg with Codeine 8mg dispersible tablets Codeine Phosphate/Aspirin 400mg + 8mg Dispersible Tablet Oral,4070100,4070200,,,CPRD_GOLD
-1617,Codeine 15mg/5ml linctus sugar free Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 66553,Co-codamol 30mg/500mg effervescent tablets (Advanz Pharma) Codeine phosphate/Paracetamol 30mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 61647,Co-codamol 15mg/500mg tablets (Alliance Healthcare (Distribution) Ltd) Codeine phosphate/Paracetamol 15mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 35347,Tramadol 24 Modified-release tablet Tramadol Hydrochloride 100mg Modified-Release Tablet Oral,4070200,,,,CPRD_GOLD
@@ -572,7 +534,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 55530,Co-dydramol 10mg/500mg tablets (Phoenix Healthcare Distribution Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 635,Codeine 30mg/1ml solution for injection ampoules Codeine phosphate 30mg/1ml Solution for injection Intramuscular,4070200,,,,CPRD_GOLD
 80464,Maneo 150mg modified-release tablets (Mylan) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-16096,Codeine 6.75mg/5ml oral solution Codeine phosphate 1.35mg/1ml Oral solution Oral,1040200,3090100,4070200,,CPRD_GOLD
 71006,Co-dydramol 10mg/500mg oral powder sachets (Special Order) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Powder Oral,4070100,4070200,,,CPRD_GOLD
 29373,Pardale 400mg+9mg+10mg Tablet (Martindale Pharmaceuticals Ltd) Caffeine/Codeine Phosphate/Paracetamol 400mg+9mg+10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 56491,Zamadol SR 200mg capsules (Lexon (UK) Ltd) Tramadol hydrochloride 200mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
@@ -596,7 +557,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 73076,Zytram SR 100mg tablets (Qdem Pharmaceuticals Ltd) Tramadol hydrochloride 100mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 73336,Tramadol 150mg modified-release capsules (CST Pharma Ltd) Tramadol hydrochloride 150mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 36013,Pulmo Bailly oral solution (Dendron Ltd) Codeine/Guaiacol 1.4mg/1ml + 15mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
-27778,Solpaflex 2.50% Gel (GlaxoSmithKline Consumer Healthcare) Ketoprofen 25mg/1gram Gel Transdermal,10030250,,,,CPRD_GOLD
 72265,Dihydrocodeine 15mg/5ml oral solution Dihydrocodeine tartrate 3mg/1ml Oral solution Oral,4070200,,,,CPRD_GOLD
 21777,Dromadol SR 200mg tablets (Teva UK Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 58848,Dypracet 30mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) Dihydrocodeine tartrate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -609,7 +569,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 72111,Co-dydramol 20mg/500mg tablets (A A H Pharmaceuticals Ltd) Dihydrocodeine tartrate/Paracetamol 20mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 37867,Tramadol (roi) Tablet Tramadol Hydrochloride 100mg Tablet Oral,4070200,,,,CPRD_GOLD
 31734,Dromadol XL 400mg tablets (IVAX Pharmaceuticals UK Ltd) Tramadol hydrochloride 400mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-2764,Codeine 3mg/5ml linctus paediatric sugar free Codeine phosphate 600microgram/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 187,Zydol 50mg capsules (Grunenthal Ltd) Tramadol hydrochloride 50mg Capsule Oral,4070200,,,,CPRD_GOLD
 26986,Zamadol 24hr 200mg modified-release tablets (Mylan) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 2211,Solpadol 30mg/500mg effervescent tablets (Sanofi) Codeine phosphate/Paracetamol 30mg + 500mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -621,7 +580,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 75958,Invodol SR 150mg tablets (Ennogen Healthcare Ltd) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 34662,Dihydrocodeine 30mg tablets (Mylan) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 74968,Co-codamol 8mg/500mg tablets (Waymade Healthcare Plc) Paracetamol/Codeine phosphate 500mg + 8mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-15937,"Diphenhydramine with codeine phosphate, sodium citrate and menthol 14mg with 5.7mg with 57mg with 1.1mg/5ml oral solution Menthol/Codeine Phosphate/Diphenhydramine Hydrochloride 14mg + 5.7mg + 57mg + 1.1mg/5ml Syrup Oral",3090200,,,,CPRD_GOLD
 74354,Co-codamol 30mg/500mg capsules (Phoenix Healthcare Distribution Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 241,CODEINE CO TAB    ,0,,,,CPRD_GOLD
 10519,CODEINE PHOS/IBUPROFEN SR (20MG/300MG) TAB    ,0,,,,CPRD_GOLD
@@ -639,7 +597,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 18221,Codeine phosphate 15mg with paracetamol 500mg tablets Codeine Phosphate/Paracetamol 15mg + 500mg Tablets Oral,4070100,4070200,,,CPRD_GOLD
 31577,Co-codamol 30mg/500mg capsules (A A H Pharmaceuticals Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Capsule Oral,4070100,4070200,,,CPRD_GOLD
 48090,Tramadol 200mg modified-release tablets (A A H Pharmaceuticals Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-38987,Galcodine 3mg/5ml linctus paediatric (Thornton & Ross Ltd) Codeine phosphate 600microgram/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 64108,Codeine 15mg tablets (Crescent Pharma Ltd) Codeine phosphate 15mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 44924,Co-codamol 30mg/500mg tablets (Teva UK Ltd) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 72110,Co-dydramol 30mg/500mg tablets (A A H Pharmaceuticals Ltd) Dihydrocodeine tartrate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
@@ -668,17 +625,13 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 54713,Dypracet 20mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) Dihydrocodeine tartrate/Paracetamol 20mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 34440,Dihydrocodeine 30mg tablets (A A H Pharmaceuticals Ltd) Dihydrocodeine tartrate 30mg Tablet Oral,4070200,,,,CPRD_GOLD
 25330,Solpaflex tablets (GlaxoSmithKline Consumer Healthcare) Ibuprofen/Codeine phosphate 200mg + 12.8mg Tablet Oral,4070200,10010100,,,CPRD_GOLD
-25910,Copholcoids Pastille (Roche Consumer Health) Menthol/Cineole/Pholcodine/Terpin Hydrate  Pastille Oromucosal,3090200,,,,CPRD_GOLD
 46511,Co-codamol 15mg/500mg effervescent tablets sugar free Paracetamol/Codeine phosphate 500mg + 15mg Effervescent tablet Oral,4070100,4070200,,,CPRD_GOLD
 11665,Zapain 30mg/500mg tablets (Advanz Pharma) Codeine phosphate/Paracetamol 30mg + 500mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 16818,Paracetamol 500mg with codeine phosphate 30mg effervescent powder sugar free Codeine Phosphate/Paracetamol 500mg + 30mg Effervescent Oral Powder Sugar-Free Oral,4070100,4070200,,,CPRD_GOLD
-4369,Galcodine 3mg/5ml Oral solution (Thornton & Ross Ltd) Codeine phosphate 600microgram/1ml Oral solution Oral,3090100,4070200,,,CPRD_GOLD
 19206,Co-dydramol 7.46mg/500mg tablets Paracetamol/Dihydrocodeine tartrate 500mg + 7.46mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 73306,Zytram SR 150mg tablets (Qdem Pharmaceuticals Ltd) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 40805,Tramquel SR 150mg capsules (Mylan) Tramadol hydrochloride 150mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
-8233,Kaolin light 1.5g/5ml / Codeine 5mg/5ml oral suspension sugar free Codeine phosphate/Kaolin light 1mg/1ml + 300mg/1ml Oral suspension Oral,0,,,,CPRD_GOLD
 23625,Dromadol SR 150mg tablets (Teva UK Ltd) Tramadol hydrochloride 150mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
-33528,Codeine 15mg/5ml linctus sugar free (A A H Pharmaceuticals Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,,,,CPRD_GOLD
 38430,Co-dydramol 10mg+500mg Tablet (Merck Generics (UK) Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 72438,Codeine 15mg tablets (Sun Pharmaceutical Industries Europe B.V.) Codeine phosphate 15mg Tablet Oral,1040200,3090100,4070200,,CPRD_GOLD
 30021,Paracetamol 500mg with codeine phosphate 13.5mg tablet Codeine Phosphate/Paracetamol 500mg + 13.5mg Tablets Oral,4070100,,,,CPRD_GOLD
@@ -690,9 +643,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 75864,Tramadol 200mg modified-release capsules (Colorama Pharmaceuticals Ltd) Tramadol hydrochloride 200mg Modified-release capsule Oral,4070200,,,,CPRD_GOLD
 34920,Co-dydramol 10mg+500mg Tablet (Berk Pharmaceuticals Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
 8447,Meptid 200mg Tablet (Shire Pharmaceuticals Ltd) Meptazinol hydrochloride 200mg Tablet Oral,4070200,,,,CPRD_GOLD
-913,Kaodene oral suspension (Sovereign Medical Ltd) Codeine phosphate/Kaolin light 1mg/1ml + 300mg/1ml Oral suspension Oral,0,,,,CPRD_GOLD
 43441,Co-dydramol 10mg+500mg Tablet (Celltech Pharma Europe Ltd) Paracetamol/Dihydrocodeine tartrate 500mg + 10mg Tablet Oral,4070100,4070200,,,CPRD_GOLD
-77328,Chloroxylenol with terpineol solution Terpineol/Chloroxylenol   ,13110500,,,,CPRD_GOLD
 42792,Codeine 15mg/5ml Oral solution (Actavis UK Ltd) Codeine phosphate 3mg/1ml Oral solution Oral,3090100,4070200,,,CPRD_GOLD
 36873,Zydol SR 50mg tablets (Grunenthal Ltd) Tramadol hydrochloride 50mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
 50862,Marol 200mg modified-release tablets (Teva UK Ltd) Tramadol hydrochloride 200mg Modified-release tablet Oral,4070200,,,,CPRD_GOLD
@@ -749,7 +700,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 81609,Galake 10mg/500mg tablets (Galen Ltd)Paracetamol/Dihydrocodeine tartrate500mg + 10mgTabletOral ,4070100,,,,CPRD_GOLD
 81683,Tramadol 75mg / Paracetamol 650mg tabletsTramadol hydrochloride/Paracetamol75mg + 650mgTabletOral ,4070200,,,,CPRD_GOLD
 81842,Co-codamol 8mg/500mg tablets (Lloyds Pharmacy Ltd)Paracetamol/Codeine phosphate500mg + 8mgTabletOral ,4070100,4070200,,,CPRD_GOLD
-82165,Codeine 15mg/5ml linctus (Alliance Healthcare (Distribution) Ltd)Codeine phosphate3mg/1mlOral solutionOral ,3090100,,,,CPRD_GOLD
 82307,Tramadol 37.5mg / Paracetamol 325mg tablets (Teva UK Ltd)Paracetamol/Tramadol hydrochloride325mg + 37.5mgTabletOral ,4070200,,,,CPRD_GOLD
 82535,Zydol 50mg capsules (Dowelhurst Ltd)Tramadol hydrochloride50mgCapsuleOral ,4070200,,,,CPRD_GOLD
 82648,Mabron 100mg modified-release tablets (Teva UK Ltd)Tramadol hydrochloride100mgModified-release tabletOral ,4070200,,,,CPRD_GOLD

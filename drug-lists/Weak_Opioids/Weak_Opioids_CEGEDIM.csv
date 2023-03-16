@@ -1,4 +1,6 @@
 DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+1680,Galake 10mg/500mg tablets (Galen Ltd),,,,N02AJ01,CEGEDIM
+1681,Galake 10mg/500mg tablets (Galen Ltd) 100 tablet,,,,N02AJ01,CEGEDIM
 2449,Dihydrocodeine 30mg tablets,,,,N02AA08,CEGEDIM
 2450,Dihydrocodeine 30mg tablets (A A H Pharmaceuticals Ltd),,,,N02AA08,CEGEDIM
 2451,Dihydrocodeine 30mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N02AA08,CEGEDIM
@@ -300,22 +302,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 13137,Tramadol 200mg modified-release capsules,,,,N02AX02,CEGEDIM
 13138,Zamadol SR 200mg capsules (Mylan),,,,N02AX02,CEGEDIM
 13139,Zamadol SR 200mg capsules (Mylan) 60 capsule6 x 10 capsules,,,,N02AX02,CEGEDIM
-16080,Codeine 15mg/5ml linctus,,,,R05DA04,CEGEDIM
 15962,Meptid 200mg tablets (Almirall Ltd),,,,N02AX05,CEGEDIM
 15963,Meptid 200mg tablets (Almirall Ltd) 112 tablet8 x 14 tablets,,,,N02AX05,CEGEDIM
-16081,Codeine 15mg/5ml linctus (A A H Pharmaceuticals Ltd),,,,R05DA04,CEGEDIM
-16082,Codeine 15mg/5ml linctus (A A H Pharmaceuticals Ltd) 200 ml,,,,R05DA04,CEGEDIM
-16083,Codeine 15mg/5ml linctus (A A H Pharmaceuticals Ltd) 500 ml,,,,R05DA04,CEGEDIM
-16084,Codeine 15mg/5ml linctus (A A H Pharmaceuticals Ltd) 100 ml,,,,R05DA04,CEGEDIM
-16085,Codeine 15mg/5ml linctus (The Boots Company Plc),,,,R05DA04,CEGEDIM
-16086,Codeine 15mg/5ml linctus (The Boots Company Plc) 2000 ml,,,,R05DA04,CEGEDIM
-16087,Codeine 15mg/5ml linctus (Thornton & Ross Ltd),,,,R05DA04,CEGEDIM
-16088,Codeine 15mg/5ml linctus (Thornton & Ross Ltd) 100 ml,,,,R05DA04,CEGEDIM
-16092,Codeine 15mg/5ml linctus (Thornton & Ross Ltd) 200 ml,,,,R05DA04,CEGEDIM
-16093,Codeine 15mg/5ml linctus (Thornton & Ross Ltd) 500 ml,,,,R05DA04,CEGEDIM
-16098,Codeine 15mg/5ml linctus (Thornton & Ross Ltd) 2000 ml,,,,R05DA04,CEGEDIM
-16099,Codeine 15mg/5ml linctus (Alliance Healthcare (Distribution) Ltd),,,,R05DA04,CEGEDIM
-16100,Codeine 15mg/5ml linctus (Alliance Healthcare (Distribution) Ltd) 2000 ml,,,,R05DA04,CEGEDIM
 16148,Codeine 25mg/5ml oral solution,,,,R05DA04,CEGEDIM
 16149,Codeine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd),,,,R05DA04,CEGEDIM
 16150,Codeine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd) 500 ml,,,,R05DA04,CEGEDIM
@@ -337,9 +325,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 16738,Codeine 60mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) 10 ampoule,,,,R05DA04,CEGEDIM
 17279,Meptid 100mg/1ml solution for injection ampoules (Almirall Ltd),,,,N02AX05,CEGEDIM
 17280,Meptid 100mg/1ml solution for injection ampoules (Almirall Ltd) 10 ampoule,,,,N02AX05,CEGEDIM
-18568,Codeine 3mg/5ml linctus paediatric sugar free,,,,R05DA04,CEGEDIM
-18569,Galcodine 3mg/5ml linctus paediatric (Thornton & Ross Ltd),,,,R05DA04,CEGEDIM
-18570,Galcodine 3mg/5ml linctus paediatric (Thornton & Ross Ltd) 2000 ml,,,,R05DA04,CEGEDIM
 18970,Dihydrocodeine 60mg modified-release tablets,,,,N02AA08,CEGEDIM
 18971,DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd),,,,N02AA08,CEGEDIM
 18972,DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd) 56 tablet,,,,N02AA08,CEGEDIM
@@ -396,24 +381,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 21272,Codafen Continus tablets (Napp Pharmaceuticals Ltd),,,,N02AJ08,CEGEDIM
 21273,Codafen Continus tablets (Napp Pharmaceuticals Ltd) 56 tablet,,,,N02AJ08,CEGEDIM
 21274,Codafen Continus tablets (Napp Pharmaceuticals Ltd) 112 tablet,,,,N02AJ08,CEGEDIM
-21289,Codeine 15mg/5ml linctus sugar free,,,,R05DA04,CEGEDIM
-21290,Codeine 15mg/5ml linctus sugar free (A A H Pharmaceuticals Ltd),,,,R05DA04,CEGEDIM
-21291,Codeine 15mg/5ml linctus sugar free (A A H Pharmaceuticals Ltd) 2000 ml,,,,R05DA04,CEGEDIM
-21293,Codeine 15mg/5ml linctus sugar free (A A H Pharmaceuticals Ltd) 200 ml,,,,R05DA04,CEGEDIM
-21294,Codeine 15mg/5ml linctus sugar free (A A H Pharmaceuticals Ltd) 500 ml,,,,R05DA04,CEGEDIM
-21295,Codeine 15mg/5ml linctus sugar free (Vantage),,,,R05DA04,CEGEDIM
-21296,Codeine 15mg/5ml linctus sugar free (Vantage) 200 ml,,,,R05DA04,CEGEDIM
-21297,Galcodine 15mg/5ml linctus (Thornton & Ross Ltd),,,,R05DA04,CEGEDIM
-21298,Galcodine 15mg/5ml linctus (Thornton & Ross Ltd) 2000 ml,,,,R05DA04,CEGEDIM
-21299,Codeine 15mg/5ml linctus sugar free (Kent Pharmaceuticals Ltd),,,,R05DA04,CEGEDIM
-21300,Codeine 15mg/5ml linctus sugar free (Kent Pharmaceuticals Ltd) 2000 ml,,,,R05DA04,CEGEDIM
-21301,Codeine 15mg/5ml linctus sugar free (Kent Pharmaceuticals Ltd) 200 ml,,,,R05DA04,CEGEDIM
-21307,Codeine 15mg/5ml linctus sugar free (Alliance Healthcare (Distribution) Ltd),,,,R05DA04,CEGEDIM
-21308,Codeine 15mg/5ml linctus sugar free (Alliance Healthcare (Distribution) Ltd) 2000 ml,,,,R05DA04,CEGEDIM
-21311,Codeine 15mg/5ml linctus sugar free (Thornton & Ross Ltd),,,,R05DA04,CEGEDIM
-21312,Codeine 15mg/5ml linctus sugar free (Thornton & Ross Ltd) 500 ml,,,,R05DA04,CEGEDIM
 22408,Co-codamol 8mg/500mg effervescent tablets (Alliance Healthcare (Distribution) Ltd) 24 tablet,,,,N02AJ06,CEGEDIM
-22412,Codeine 15mg/5ml linctus (Alliance Healthcare (Distribution) Ltd) 200 ml,,,,R05DA04,CEGEDIM
 23239,Co-codamol 15mg/500mg tablets,,,,N02AJ06,CEGEDIM
 23240,Codipar 15mg/500mg tablets (Advanz Pharma),,,,N02AJ06,CEGEDIM
 23241,Codipar 15mg/500mg tablets (Advanz Pharma) 100 tablet10 x 10 tablets,,,,N02AJ06,CEGEDIM
@@ -433,17 +401,27 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 24724,Dihydrocodeine 50mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) 10 ampoule,,,,N02AA08,CEGEDIM
 24870,Co-codamol 30mg/500mg capsules (Kent Pharmaceuticals Ltd),,,,N02AJ06,CEGEDIM
 24871,Co-codamol 30mg/500mg capsules (Kent Pharmaceuticals Ltd) 100 capsule10 x 10 capsules,,,,N02AJ06,CEGEDIM
-30021,Kaolin light 1.5g/5ml / Codeine 5mg/5ml oral suspension sugar free,,,,A07BC30,CEGEDIM
-30022,Kaodene oral suspension (Sovereign Medical Ltd),,,,A07BC30,CEGEDIM
-30023,Kaodene oral suspension (Sovereign Medical Ltd) 250 ml,,,,A07BC30,CEGEDIM
+27858,Generic Syndol caplets,,,,,CEGEDIM
+27859,Painex caplets (Sandoz Ltd),,,,,CEGEDIM
+27860,Painex caplets (Sandoz Ltd) 32 tablet,,,,,CEGEDIM
+27863,Syndol caplets (SSL International Plc),,,,,CEGEDIM
+27864,Syndol caplets (SSL International Plc) 10 tablet,,,,,CEGEDIM
+27865,Syndol caplets (SSL International Plc) 20 tablet,,,,,CEGEDIM
+27869,Syndol caplets (SSL International Plc) 30 tablet,,,,,CEGEDIM
+29558,Paramol tablets (SSL International Plc),,,,N02AJ01,CEGEDIM
+29559,Paramol tablets (SSL International Plc) 12 tablet,,,,N02AJ01,CEGEDIM
+29560,Paramol tablets (SSL International Plc) 24 tablet2 x 12 tablets,,,,N02AJ01,CEGEDIM
+29561,Paramol tablets (SSL International Plc) 32 tablet4 x 8 tablets,,,,N02AJ01,CEGEDIM
+29597,Generic Veganin tablets,,,,,CEGEDIM
+29598,Veganin tablets (Pfizer Consumer Healthcare Ltd),,,,,CEGEDIM
+29599,Veganin tablets (Pfizer Consumer Healthcare Ltd) 10 tablet,,,,,CEGEDIM
+29600,Veganin tablets (Pfizer Consumer Healthcare Ltd) 30 tablet,,,,,CEGEDIM
 30039,Codeine 30mg tablets (IVAX Pharmaceuticals UK Ltd) 28 tablet,,,,R05DA04,CEGEDIM
 30761,Tramadol 50mg capsules (Genus Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
 30762,Tramadol 50mg capsules (Genus Pharmaceuticals Ltd) 100 capsule,,,,N02AX02,CEGEDIM
 31156,Co-codamol 30mg/500mg tablets (IVAX Pharmaceuticals UK Ltd),,,,N02AJ06,CEGEDIM
 31157,Co-codamol 30mg/500mg tablets (IVAX Pharmaceuticals UK Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
 31548,Generic Feminax tablets,,,,N02BE51,CEGEDIM
-31549,Feminax tablets (Bayer Plc),,,,N02BE51,CEGEDIM
-31550,Feminax tablets (Bayer Plc) 20 tablet,,,,N02BE51,CEGEDIM
 31578,Generic Solpadeine Plus tablets,,,,N02BE71,CEGEDIM
 31579,Solpadeine Plus tablets (Omega Pharma Ltd),,,,N02BE71,CEGEDIM
 31580,Solpadeine Plus tablets (Omega Pharma Ltd) 12 tablet,,,,N02BE71,CEGEDIM
@@ -454,11 +432,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 31585,Solpadeine Plus capsules (Omega Pharma Ltd) 12 capsule,,,,N02BE71,CEGEDIM
 31586,Solpadeine Plus capsules (Omega Pharma Ltd) 24 capsule,,,,N02BE71,CEGEDIM
 31587,Solpadeine Plus capsules (Omega Pharma Ltd) 32 capsule,,,,N02BE71,CEGEDIM
-31682,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus,,,,R05DA20,CEGEDIM
-31683,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus (A A H Pharmaceuticals Ltd),,,,R05DA20,CEGEDIM
-31684,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus (A A H Pharmaceuticals Ltd) 200 ml,,,,R05DA20,CEGEDIM
-31685,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus (Thornton & Ross Ltd),,,,R05DA20,CEGEDIM
-31686,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus (Thornton & Ross Ltd) 200 ml,,,,R05DA20,CEGEDIM
 31765,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free,,,,N02BA71,CEGEDIM
 32301,Co-codamol 8mg/500mg tablets (Vantage),,,,N02AJ06,CEGEDIM
 32302,Co-codamol 8mg/500mg tablets (Vantage) 32 tablet,,,,N02AJ06,CEGEDIM
@@ -472,9 +445,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 33614,Tramadol 50mg orodispersible tablets sugar free,,,,N02AX02,CEGEDIM
 33615,Zamadol Melt 50mg tablets (Mylan),,,,N02AX02,CEGEDIM
 33616,Zamadol Melt 50mg tablets (Mylan) 100 tablet10 x 10 tablets,,,,N02AX02,CEGEDIM
-33793,Codeine 3mg/5ml linctus paediatric,,,,R05DA04,CEGEDIM
-33794,Codeine 3mg/5ml linctus paediatric (Thornton & Ross Ltd),,,,R05DA04,CEGEDIM
-33795,Codeine 3mg/5ml linctus paediatric (Thornton & Ross Ltd) 100 ml,,,,R05DA04,CEGEDIM
 35408,Zydol SR 100mg tablets (Waymade Healthcare Plc),,,,N02AX02,CEGEDIM
 35409,Zydol SR 100mg tablets (Waymade Healthcare Plc) 60 tablet,,,,N02AX02,CEGEDIM
 35412,Zydol SR 150mg tablets (Waymade Healthcare Plc),,,,N02AX02,CEGEDIM
@@ -505,7 +475,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 53404,Tramadol 37.5mg / Paracetamol 325mg tablets,,,,N02AJ13,CEGEDIM
 53405,Tramacet 37.5mg/325mg tablets (Grunenthal Ltd),,,,N02AJ13,CEGEDIM
 53406,Tramacet 37.5mg/325mg tablets (Grunenthal Ltd) 60 tablet6 x 10 tablets,,,,N02AJ13,CEGEDIM
-53411,Codeine 15mg/5ml linctus sugar free (Thornton & Ross Ltd) 200 ml,,,,R05DA04,CEGEDIM
 53414,Co-codamol 30mg/500mg effervescent tablets (A A H Pharmaceuticals Ltd),,,,N02AJ06,CEGEDIM
 53415,Co-codamol 30mg/500mg effervescent tablets (A A H Pharmaceuticals Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
 53538,Codeine 30mg tablets (Alliance Healthcare (Distribution) Ltd) 30 tablet,,,,R05DA04,CEGEDIM
@@ -528,7 +497,15 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 54934,Paracodol 8mg/500mg effervescent tablets (Roche Consumer Health) 24 tablet,,,,,CEGEDIM
 57427,Co-codamol 8mg/500mg tablets (Lloyds Pharmacy Ltd),,,,N02AJ06,CEGEDIM
 57428,Co-codamol 8mg/500mg tablets (Lloyds Pharmacy Ltd) 32 tablet,,,,N02AJ06,CEGEDIM
-58530,Codeine 6.75mg/5ml oral solution,,,,R05DA04,CEGEDIM
+57588,Veganin tablets (Omega Pharma Ltd),,,,N02BE71,CEGEDIM
+57589,Veganin tablets (Omega Pharma Ltd) 10 tablet,,,,N02BE71,CEGEDIM
+57590,Veganin tablets (Omega Pharma Ltd) 30 tablet,,,,N02BE71,CEGEDIM
+57609,Syndol caplets (Sanofi),,,,N02BE73,CEGEDIM
+57610,Syndol caplets (Sanofi) 10 tablet,,,,N02BE73,CEGEDIM
+57611,Syndol caplets (Sanofi) 20 tablet2 x 10 tablets,,,,N02BE73,CEGEDIM
+57612,Syndol caplets (Sanofi) 30 tablet3 x 10 tablets,,,,N02BE73,CEGEDIM
+57613,Painex caplets (Sandoz Ltd),,,,N02BE73,CEGEDIM
+57614,Painex caplets (Sandoz Ltd) 32 tablet,,,,N02BE73,CEGEDIM
 58569,Cuprofen PLUS tablets (SSL International Plc),,,,M01AE51,CEGEDIM
 58570,Cuprofen PLUS tablets (SSL International Plc) 12 tablet,,,,M01AE51,CEGEDIM
 58571,Cuprofen PLUS tablets (SSL International Plc) 24 tablet4 x 6 tablets,,,,M01AE51,CEGEDIM
@@ -538,15 +515,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 61045,Codeine 10mg/5ml oral solution,,,,R05DA04,CEGEDIM
 61046,Codeine 10mg/5ml oral solution (Special Order),,,,R05DA04,CEGEDIM
 61047,Codeine 10mg/5ml oral solution (Special Order) 1 ml,,,,R05DA04,CEGEDIM
-61048,Codeine 5mg/5ml oral solution,,,,R05DA04,CEGEDIM
-61049,Codeine 5mg/5ml oral solution (Special Order),,,,R05DA04,CEGEDIM
-61050,Codeine 5mg/5ml oral solution (Special Order) 1 ml,,,,R05DA04,CEGEDIM
 61051,Codeine 10mg/5ml oral suspension,,,,R05DA04,CEGEDIM
 61052,Codeine 10mg/5ml oral suspension (Special Order),,,,R05DA04,CEGEDIM
 61053,Codeine 10mg/5ml oral suspension (Special Order) 1 ml,,,,R05DA04,CEGEDIM
-61054,Codeine 5mg/5ml oral suspension,,,,R05DA04,CEGEDIM
-61055,Codeine 5mg/5ml oral suspension (Special Order),,,,R05DA04,CEGEDIM
-61056,Codeine 5mg/5ml oral suspension (Special Order) 1 ml,,,,R05DA04,CEGEDIM
 61332,Dihydrocodeine 10mg/5ml oral suspension,,,,N02AA08,CEGEDIM
 61333,Dihydrocodeine 10mg/5ml oral suspension (Special Order),,,,N02AA08,CEGEDIM
 61334,Dihydrocodeine 10mg/5ml oral suspension (Special Order) 1 ml,,,,N02AA08,CEGEDIM
@@ -569,10 +540,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 66577,Larapam SR 150mg tablets (Sandoz Ltd) 60 tablet6 x 10 tablets,,,,N02AX02,CEGEDIM
 66578,Larapam SR 200mg tablets (Sandoz Ltd),,,,N02AX02,CEGEDIM
 66579,Larapam SR 200mg tablets (Sandoz Ltd) 60 tablet6 x 10 tablets,,,,N02AX02,CEGEDIM
-66614,Generic Benylin with Codeine oral solution,,,,R05DA20,CEGEDIM
-66615,Benylin with Codeine oral solution (Pfizer Consumer Healthcare Ltd),,,,R05DA20,CEGEDIM
-66616,Benylin with Codeine oral solution (Pfizer Consumer Healthcare Ltd) 300 ml,,,,R05DA20,CEGEDIM
-67028,Codeine 15mg/5ml linctus sugar free (Alliance Healthcare (Distribution) Ltd) 200 ml,,,,R05DA04,CEGEDIM
 67195,Co-codamol 8mg/500mg tablets (Lloyds Pharmacy Ltd) 32 tablet4 x 8 tablets,,,,N02AJ06,CEGEDIM
 67706,Tramadol 100mg modified-release tablets (A A H Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
 67707,Tramadol 100mg modified-release tablets (A A H Pharmaceuticals Ltd) 60 tablet,,,,N02AX02,CEGEDIM
@@ -604,6 +571,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69929,Zamadol 24hr 300mg modified-release tablets (Mylan) 28 tablet4 x 7 tablets,,,,N02AX02,CEGEDIM
 69930,Zamadol 24hr 400mg modified-release tablets (Mylan),,,,N02AX02,CEGEDIM
 69931,Zamadol 24hr 400mg modified-release tablets (Mylan) 28 tablet4 x 7 tablets,,,,N02AX02,CEGEDIM
+70023,Paramol soluble tablets (SSL International Plc),,,,N02AJ01,CEGEDIM
+70024,Paramol soluble tablets (SSL International Plc) 12 tablet,,,,N02AJ01,CEGEDIM
+70025,Paramol soluble tablets (SSL International Plc) 24 tablet2 x 12 tablets,,,,N02AJ01,CEGEDIM
 70091,Co-codamol 30mg/500mg effervescent tablets (Mylan),,,,N02AJ06,CEGEDIM
 70092,Co-codamol 30mg/500mg effervescent tablets (Mylan) 100 tablet,,,,N02AJ06,CEGEDIM
 70516,Co-codamol 30mg/500mg tablets (Actavis UK Ltd),,,,N02AJ06,CEGEDIM
@@ -621,8 +591,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 72068,Co-codamol 30mg/500mg tablets (Almus Pharmaceuticals Ltd) 100 tablet10 x 10 tablets,,,,N02AJ06,CEGEDIM
 72188,Tramadol 50mg capsules (Almus Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
 72189,Tramadol 50mg capsules (Almus Pharmaceuticals Ltd) 100 capsule5 x 20 capsules,,,,N02AX02,CEGEDIM
-72385,Codeine 15mg/5ml linctus (Lloyds Pharmacy Ltd),,,,R05DA04,CEGEDIM
-72386,Codeine 15mg/5ml linctus (Lloyds Pharmacy Ltd) 200 ml,,,,R05DA04,CEGEDIM
 72738,Zydol 50mg capsules (Grunenthal Ltd) 30 capsule3 x 10 capsules,,,,N02AX02,CEGEDIM
 73997,Nurofen Plus tablets (Reckitt Benckiser Healthcare (UK) Ltd) 32 tablet4 x 8 tablets,,,,M01AE51,CEGEDIM
 74009,Tramadol 100mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
@@ -815,6 +783,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 105127,Co-codamol 8mg/500mg/5ml oral solution (Special Order),,,,N02AJ06,CEGEDIM
 105128,Co-codamol 8mg/500mg/5ml oral solution (Special Order) 1 ml,,,,N02AJ06,CEGEDIM
 105598,Nurofen Plus tablets (Reckitt Benckiser Healthcare (UK) Ltd) 16 tablet,,,,M01AE51,CEGEDIM
+105770,Syndol caplets (DE Pharmaceuticals),,,,N02BE73,CEGEDIM
+105771,Syndol caplets (DE Pharmaceuticals) 20 tablet,,,,N02BE73,CEGEDIM
+105772,Syndol caplets (DE Pharmaceuticals) 30 tablet,,,,N02BE73,CEGEDIM
 106128,Zydol SR 100mg tablets (DE Pharmaceuticals),,,,N02AX02,CEGEDIM
 106129,Zydol SR 100mg tablets (DE Pharmaceuticals) 60 tablet,,,,N02AX02,CEGEDIM
 106132,Zydol SR 150mg tablets (DE Pharmaceuticals),,,,N02AX02,CEGEDIM
@@ -832,8 +803,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 111666,Tylex 30mg/500mg effervescent tablets (UCB Pharma Ltd) 100 tablet10 x 10 tablets,,,,N02AJ06,CEGEDIM
 113118,Codeine 15mg tablets (Wockhardt UK Ltd) 28 tablet2 x 14 tablets,,,,R05DA04,CEGEDIM
 113119,Codeine 30mg tablets (Wockhardt UK Ltd) 28 tablet2 x 14 tablets,,,,R05DA04,CEGEDIM
-113175,"Codeine 15mg/5ml linctus (Bell,Sons & Co (Druggists) Ltd)",,,,R05DA04,CEGEDIM
-113176,"Codeine 15mg/5ml linctus (Bell,Sons & Co (Druggists) Ltd) 200 ml",,,,R05DA04,CEGEDIM
 113384,Co-codamol 8mg/500mg tablets (Boston Healthcare Ltd),,,,N02AJ06,CEGEDIM
 113385,Co-codamol 8mg/500mg tablets (Boston Healthcare Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
 114774,Marol 100mg modified-release tablets (Morningside Healthcare Ltd),,,,N02AX02,CEGEDIM
@@ -885,20 +854,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 117093,Co-codamol 8mg/500mg tablets (Sigma Pharmaceuticals Plc),,,,N02AJ06,CEGEDIM
 117094,Co-codamol 8mg/500mg tablets (Sigma Pharmaceuticals Plc) 100 tablet,,,,N02AJ06,CEGEDIM
 117098,Co-codamol 8mg/500mg tablets (Sigma Pharmaceuticals Plc) 500 tablet,,,,N02AJ06,CEGEDIM
-117099,Codeine 15mg/5ml linctus (Sigma Pharmaceuticals Plc),,,,R05DA04,CEGEDIM
-117100,Codeine 15mg/5ml linctus (Sigma Pharmaceuticals Plc) 200 ml,,,,R05DA04,CEGEDIM
-117101,Codeine 15mg/5ml linctus sugar free (Sigma Pharmaceuticals Plc),,,,R05DA04,CEGEDIM
-117102,Codeine 15mg/5ml linctus sugar free (Sigma Pharmaceuticals Plc) 200 ml,,,,R05DA04,CEGEDIM
-117163,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus (Sigma Pharmaceuticals Plc),,,,R05DA20,CEGEDIM
-117164,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus (Sigma Pharmaceuticals Plc) 200 ml,,,,R05DA20,CEGEDIM
 117299,Codeine phosphate powder (Alliance Healthcare (Distribution) Ltd),,,,,CEGEDIM
 117300,Codeine phosphate powder (Alliance Healthcare (Distribution) Ltd) 25 gram,,,,,CEGEDIM
 118445,Co-codamol 8mg/500mg tablets (Numark Ltd),,,,N02AJ06,CEGEDIM
 118446,Co-codamol 8mg/500mg tablets (Numark Ltd) 32 tablet4 x 8 tablets,,,,N02AJ06,CEGEDIM
 119088,Co-codamol 30mg/500mg effervescent tablets (Actavis UK Ltd),,,,N02AJ06,CEGEDIM
 119089,Co-codamol 30mg/500mg effervescent tablets (Actavis UK Ltd) 100 tablet10 x 10 tablets,,,,N02AJ06,CEGEDIM
-119595,Feminax Ultra 250mg gastro-resistant tablets (Bayer Plc),,,,M01AE02,CEGEDIM
-119596,Feminax Ultra 250mg gastro-resistant tablets (Bayer Plc) 9 tablet,,,,M01AE02,CEGEDIM
 120433,Tramadol 150mg modified-release capsules (A A H Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
 120434,Tramadol 150mg modified-release capsules (A A H Pharmaceuticals Ltd) 60 capsule,,,,N02AX02,CEGEDIM
 120435,Tramadol 200mg modified-release capsules (A A H Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
@@ -907,8 +868,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 120445,Co-codamol 8mg/500mg capsules (Bayer Plc) 100 capsule,,,,N02AJ06,CEGEDIM
 121585,Co-codamol 8mg/500mg effervescent tablets (Actavis UK Ltd),,,,N02AJ06,CEGEDIM
 121586,Co-codamol 8mg/500mg effervescent tablets (Actavis UK Ltd) 100 tablet10 x 10 tablets,,,,N02AJ06,CEGEDIM
-122853,Migraleve Ultra 50mg tablets (McNeil Products Ltd),,,,N02CC01,CEGEDIM
-122854,Migraleve Ultra 50mg tablets (McNeil Products Ltd) 2 tablet,,,,N02CC01,CEGEDIM
 123261,Tramadol 50mg modified-release capsules (A A H Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
 123262,Tramadol 50mg modified-release capsules (A A H Pharmaceuticals Ltd) 60 capsule,,,,N02AX02,CEGEDIM
 123507,Co-codamol 30mg/500mg effervescent tablets (Zanza Specials International Ltd),,,,N02AJ06,CEGEDIM
@@ -963,9 +922,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 136975,Zydol SR 150mg tablets (Mawdsley-Brooks & Company Ltd) 60 tablet,,,,N02AX02,CEGEDIM
 136976,Zydol SR 200mg tablets (Mawdsley-Brooks & Company Ltd),,,,N02AX02,CEGEDIM
 136977,Zydol SR 200mg tablets (Mawdsley-Brooks & Company Ltd) 60 tablet,,,,N02AX02,CEGEDIM
-137450,Feminax Express 342mg tablets (Bayer Plc),,,,M01AE01,CEGEDIM
-137451,Feminax Express 342mg tablets (Bayer Plc) 8 tablet,,,,M01AE01,CEGEDIM
-137452,Feminax Express 342mg tablets (Bayer Plc) 16 tablet2 x 8 tablets,,,,M01AE01,CEGEDIM
 137736,Kapake 15mg/500mg tablets (Galen Ltd),,,,N02AJ06,CEGEDIM
 137737,Kapake 15mg/500mg tablets (Galen Ltd) 100 tablet10 x 10 tablets,,,,N02AJ06,CEGEDIM
 137991,Zydol SR 100mg tablets (Sigma Pharmaceuticals Plc),,,,N02AX02,CEGEDIM
@@ -1044,9 +1000,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 152195,Tramadol 100mg/ml oral drops (Advanz Pharma) 10 ml,,,,N02AX02,CEGEDIM
 149113,Co-codamol 8mg/500mg effervescent tablets (Vantage),,,,N02AJ06,CEGEDIM
 149114,Co-codamol 8mg/500mg effervescent tablets (Vantage) 32 tablet,,,,N02AJ06,CEGEDIM
-149918,Codeine 15mg/5ml linctus sugar free (Pinewood Healthcare),,,,R05DA04,CEGEDIM
-149919,Codeine 15mg/5ml linctus sugar free (Pinewood Healthcare) 200 ml,,,,R05DA04,CEGEDIM
-149920,Codeine 15mg/5ml linctus sugar free (Pinewood Healthcare) 2000 ml,,,,R05DA04,CEGEDIM
 152193,Tramadol 100mg/ml oral drops,,,,N02AX02,CEGEDIM
 152221,Co-codamol 15mg/500mg capsules,,,,N02AJ06,CEGEDIM
 152222,Codipar 15mg/500mg capsules (Advanz Pharma),,,,N02AJ06,CEGEDIM
@@ -1086,6 +1039,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 161985,Codeine 30mg suppositories,,,,R05DA04,CEGEDIM
 161986,Codeine 30mg suppositories (Special Order),,,,R05DA04,CEGEDIM
 161987,Codeine 30mg suppositories (Special Order) 1 suppository,,,,R05DA04,CEGEDIM
+162340,Dypracet 20mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd),,,,N02AJ01,CEGEDIM
+162341,Dypracet 20mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) 56 tablet4 x 14 tablets,,,,N02AJ01,CEGEDIM
+162342,Dypracet 20mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) 112 tablet8 x 14 tablets,,,,N02AJ01,CEGEDIM
+162343,Dypracet 30mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd),,,,N02AJ01,CEGEDIM
+162344,Dypracet 30mg/500mg tablets (Auden McKenzie (Pharma Division) Ltd) 56 tablet4 x 14 tablets,,,,N02AJ01,CEGEDIM
 162346,Mabron 100mg modified-release tablets (Teva UK Ltd),,,,N02AX02,CEGEDIM
 162347,Mabron 100mg modified-release tablets (Teva UK Ltd) 60 tablet6 x 10 tablets,,,,N02AX02,CEGEDIM
 162348,Mabron 150mg modified-release tablets (Teva UK Ltd),,,,N02AX02,CEGEDIM
@@ -1192,9 +1150,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 175532,Co-codamol 30mg/500mg tablets (Waymade Healthcare Plc),,,,N02AJ06,CEGEDIM
 175533,Co-codamol 30mg/500mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N02AJ06,CEGEDIM
 175534,Co-codamol 30mg/500mg tablets (Waymade Healthcare Plc) 100 tablet,,,,N02AJ06,CEGEDIM
-175948,Codeine 15mg/5ml linctus (Waymade Healthcare Plc),,,,R05DA04,CEGEDIM
-175949,Codeine 15mg/5ml linctus (Waymade Healthcare Plc) 200 ml,,,,R05DA04,CEGEDIM
-175950,Codeine 15mg/5ml linctus (Waymade Healthcare Plc) 2000 ml,,,,R05DA04,CEGEDIM
 178065,Co-codamol 8mg/500mg effervescent tablets (Almus Pharmaceuticals Ltd) 32 tablet,,,,N02AJ06,CEGEDIM
 178117,Codeine 15mg suppositories (Special Order) 12 suppository,,,,R05DA04,CEGEDIM
 178118,Codeine 15mg suppositories (Special Order) 20 suppository,,,,R05DA04,CEGEDIM
@@ -1274,8 +1229,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 180297,Co-codamol 8mg/500mg tablets (DE Pharmaceuticals) 100 tablet,,,,N02AJ06,CEGEDIM
 180298,Co-codamol 8mg/500mg tablets (DE Pharmaceuticals) 500 tablet,,,,N02AJ06,CEGEDIM
 180299,Co-codamol 8mg/500mg tablets (DE Pharmaceuticals) 32 tablet,,,,N02AJ06,CEGEDIM
-180314,Codeine 15mg/5ml linctus sugar free (DE Pharmaceuticals),,,,R05DA04,CEGEDIM
-180315,Codeine 15mg/5ml linctus sugar free (DE Pharmaceuticals) 2000 ml,,,,R05DA04,CEGEDIM
 180556,Co-codamol 8mg/500mg capsules (Alliance Healthcare (Distribution) Ltd) 32 capsule,,,,N02AJ06,CEGEDIM
 180733,Tramadol 100mg modified-release tablets (Ennogen Healthcare Ltd),,,,N02AX02,CEGEDIM
 180734,Tramadol 100mg modified-release tablets (Ennogen Healthcare Ltd) 60 tablet,,,,N02AX02,CEGEDIM
@@ -1320,8 +1273,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 189192,Co-codamol 8mg/500mg effervescent tablets (Phoenix Healthcare Distribution Ltd),,,,N02AJ06,CEGEDIM
 189193,Co-codamol 8mg/500mg effervescent tablets (Phoenix Healthcare Distribution Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
 189194,Co-codamol 30mg/500mg effervescent tablets (Phoenix Healthcare Distribution Ltd) 32 tablet,,,,N02AJ06,CEGEDIM
-189195,Codeine 15mg/5ml linctus sugar free (Phoenix Healthcare Distribution Ltd),,,,R05DA04,CEGEDIM
-189196,Codeine 15mg/5ml linctus sugar free (Phoenix Healthcare Distribution Ltd) 2000 ml,,,,R05DA04,CEGEDIM
 190892,Dihydrocodeine 30mg tablets (Phoenix Healthcare Distribution Ltd) 30 tablet,,,,N02AA08,CEGEDIM
 191098,Codeine 15mg tablets (DE Pharmaceuticals),,,,R05DA04,CEGEDIM
 191099,Codeine 15mg tablets (DE Pharmaceuticals) 28 tablet,,,,R05DA04,CEGEDIM
@@ -1622,6 +1573,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 287786,Zytram SR 100mg tablets (Qdem Pharmaceuticals Ltd) 60 tablet,,,,N02AX02,CEGEDIM
 287789,Zytram SR 200mg tablets (Qdem Pharmaceuticals Ltd),,,,N02AX02,CEGEDIM
 287790,Zytram SR 200mg tablets (Qdem Pharmaceuticals Ltd) 60 tablet,,,,N02AX02,CEGEDIM
+288087,Eroset 500mg/10mg tablets (M & A Pharmachem Ltd),,,,N02AJ01,CEGEDIM
+288088,Eroset 500mg/10mg tablets (M & A Pharmachem Ltd) 30 tablet3 x 10 tablets,,,,N02AJ01,CEGEDIM
+288089,Eroset 500mg/10mg tablets (M & A Pharmachem Ltd) 100 tablet10 x 10 tablets,,,,N02AJ01,CEGEDIM
 288354,Co-codamol 15mg/500mg capsules (Galen Ltd) 100 capsule5 x 20 capsules,,,,N02AJ06,CEGEDIM
 288353,Co-codamol 15mg/500mg capsules (Galen Ltd),,,,N02AJ06,CEGEDIM
 288390,Co-codamol 60mg/1000mg tablets,,,,N02AJ06,CEGEDIM
@@ -1645,6 +1599,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 289509,Codeine 30mg tablets (Sun Pharmaceutical Industries Europe B.V.) 500 tablet,,,,R05DA04,CEGEDIM
 289669,Co-codamol 60mg/1000mg tablets (A A H Pharmaceuticals Ltd),,,,N02AJ06,CEGEDIM
 289670,Co-codamol 60mg/1000mg tablets (A A H Pharmaceuticals Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
+289722,Syndol Headache Relief tablets (Sanofi),,,,N02BE71,CEGEDIM
+289723,Syndol Headache Relief tablets (Sanofi) 10 tablet,,,,N02BE71,CEGEDIM
+289724,Syndol Headache Relief tablets (Sanofi) 30 tablet,,,,N02BE71,CEGEDIM
 291497,Tramadol 75mg / Dexketoprofen 25mg tablets,,,,N02AJ14,CEGEDIM
 292678,Tramadol 50mg capsules (Milpharm Ltd),,,,N02AX02,CEGEDIM
 292679,Tramadol 50mg capsules (Milpharm Ltd) 30 capsule,,,,N02AX02,CEGEDIM
@@ -1668,12 +1625,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 300407,CAFFEINE/CODEINE PHOS./DIPHENHYDRAMINE H 50 MG TAB,,,,,CEGEDIM
 300411,CAFFEINE CITRATE/CODEINE PHOSPHATE/PARAC 15 MG TAB,,,,,CEGEDIM
 300443,BUCLIZINE HYD/CODEINE PHOS/PARACET / COD 6.25 MG TAB,,,,,CEGEDIM
-300450,BROMPHENIRAMINE /CODEINE PHOSPHATE / 2 MG ELI,,,,,CEGEDIM
 300614,PARACETAM/DYHYDROCODEINE(500MG/20MG) TAB,,,,,CEGEDIM
 300920,PARACETAMOL 450MG/CODEINE 8.1MG TAB,,,,,CEGEDIM
 301158,CAFFEINE HYDRATE /CODEINE PHOSPHATE /PAR 10 MG TAB,,,,,CEGEDIM
 301178,ASPIRIN & CODEINE 500 MG TAB,,,,,CEGEDIM
-301947,CODEINE PHOS/GUAIPHENESIN/PSEUDOEPHEDRIN 3 MG ELI,,,,,CEGEDIM
 301949,CODEINE PHOS /DIPHENHYDRAMINE HYD. /MENT 5.7 MG ELI,,,,,CEGEDIM
 301950,CODEINE PHOSPHATE / MAGNESIUM CHLORIDE MG MIX,,,,,CEGEDIM
 302016,CAFFEINE /CODEINE PHOS./DOXYLAMINE SUCCI 30 MG TAB,,,,,CEGEDIM
@@ -1693,17 +1648,14 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 305377,CODEINE & PARACETAMOL TAB,,,,,CEGEDIM
 305629,PARACETAMOL/CODEINE PHOSPHATE 500 MG TAB,,,,,CEGEDIM
 305861,CO-CODAMOL EFF 30MG/500MG TAB,,,,,CEGEDIM
-305887,CODEINE PHOS/GUAIPHENESIN/PSEUDOEPHEDRIN 7.5 MG ELI,,,,,CEGEDIM
 305888,CODEINE PHOSPHATE 15 MG ELI,,,,,CEGEDIM
 305889,CODEINE & PARACETAMOL 8 MG TAB,,,,,CEGEDIM
-305890,CODEINE PHOS/EPHEDRINE HYD/PROMETHAZINE LIN,,,,,CEGEDIM
 305900,PARACETAMOL 500MG/CODEINE 10MG MG TAB,,,,,CEGEDIM
 305922,ASPIRIN / CAFFEINE CIT./ CODEINE PHOS./ 200 MG TAB,,,,,CEGEDIM
 306101,SOLPAFLEX TAB,,,,,CEGEDIM
 307948,Aspirin with codeine Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
 308262,Co-codamol 8mg+500mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
 308266,Co-codamol 8mg+500mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308318,Codeine Oral solution (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
 308333,Codeine 15mg/5ml Oral solution (Celltech Pharma Europe Ltd),,,,,CEGEDIM
 308335,Codeine phosphate Oral solution (William Ransom),,,,,CEGEDIM
 308355,Dihydrocodeine 30mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
@@ -1719,19 +1671,19 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 309212,Aspirin with codeine Tablet (Actavis UK Ltd),,,,,CEGEDIM
 309213,Aspirin with codeine Dispersible tablet (Actavis UK Ltd),,,,,CEGEDIM
 309215,Aspirin with codeine Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-309301,Codeine Oral solution (C P Pharmaceuticals Ltd),,,,,CEGEDIM
 309322,Dihydrocodeine 30mg Tablet (Napp Pharmaceuticals Ltd),,,,,CEGEDIM
 309323,Dihydrocodeine 50mg/ml Injection (Napp Pharmaceuticals Ltd),,,,,CEGEDIM
-309340,Codeine Oral solution (Family Health),,,,,CEGEDIM
+309654,Syndol Tablet (SSL International Plc),,,,,CEGEDIM
 310256,Meptid 200mg Tablet (Shire Pharmaceuticals Ltd),,,,,CEGEDIM
 310387,Codeine phosphate 30mg/ml Injection (Martindale Pharmaceuticals Ltd),,,,,CEGEDIM
+310544,Parahypon Tablet (Wellcome Consumer),,,,,CEGEDIM
 310653,Aspirin with codeine Tablet (Family Health),,,,,CEGEDIM
 310655,Aspirin with codeine Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
 310691,Codeine phosphate 30mg Tablet (Numark Management Ltd),,,,,CEGEDIM
 310693,Codeine phosphate 15mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
 310741,Codeine phosphate 60mg with paracetamol 1000mg effervescent powder sugar free,,,,,CEGEDIM
 310742,Codeine phosphate 30mg with paracetamol 500mg effervescent powder sugar free,,,,,CEGEDIM
-310822,Codeine Oral solution (Co-operative),,,,,CEGEDIM
+310917,Panadeine Tablet (GlaxoSmithKline UK Ltd),,,,,CEGEDIM
 310938,Solpadeine Soluble tablet (GlaxoSmithKline Consumer Healthcare),,,,,CEGEDIM
 310939,Solpadeine Capsule (GlaxoSmithKline Consumer Healthcare),,,,,CEGEDIM
 310940,Solpadeine Tablet (GlaxoSmithKline Consumer Healthcare),,,,,CEGEDIM
@@ -1785,7 +1737,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 316774,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg tablet,,,,,CEGEDIM
 316775,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg effervescent tablet,,,,,CEGEDIM
 316783,Paracetamol 500mg with dihydrocodeine 10mg tablet,,,,,CEGEDIM
+316792,Veganin Tablet (Pfizer Consumer Healthcare Ltd),,,,,CEGEDIM
 316794,Medocodene Tablet (Manufacturer unknown),,,,,CEGEDIM
+316796,Parake Tablet (Galen Ltd),,,,,CEGEDIM
+316798,Panadeine Effervescent tablet (Sanofi-Synthelabo Ltd),,,,,CEGEDIM
+316799,Panadeine forte Tablet (Sanofi-Synthelabo Ltd),,,,,CEGEDIM
 316873,Tramadol 50mg Capsule (Tillomed Laboratories Ltd),,,,,CEGEDIM
 316908,Co-codamol 8mg+500mg Tablet (Nucare Plc),,,,,CEGEDIM
 316914,Dihydrocodeine 30mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
@@ -1794,7 +1750,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 317144,Codeine phosphate 60mg Tablet (Neo Laboratories Ltd),,,,,CEGEDIM
 317185,Codeine 15mg/5ml Oral solution (Nucare Plc),,,,,CEGEDIM
 317198,Codeine 15mg/5ml Oral solution (Thornton & Ross Ltd),,,,,CEGEDIM
-317340,Brompheniramine maleate and codeine oral solution,,,,,CEGEDIM
 317897,Paracetamol 500mg with codeine phosphate 30mg capsule,,,,,CEGEDIM
 317898,Paracetamol 500mg with codeine phosphate 30 mg tablet,,,,,CEGEDIM
 317899,Paracetamol 500mg with codeine phosphate 13.5mg tablet,,,,,CEGEDIM
@@ -1803,32 +1758,27 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 318309,Dihydrocodeine with paracetamol 7.46mg+500mg tablets,,,,,CEGEDIM
 318386,Aspirin with codeine phosphate and caffeine dispersible tablets,,,,,CEGEDIM
 318387,Aspirin with codeine phosphate and caffeine tablets,,,,,CEGEDIM
-318456,Pholcodine with menthol & terpin hydrate linctus,,,,,CEGEDIM
-318465,Pseudoephedrine with brompheniramine & codeine phosphate oral solution,,,,,CEGEDIM
-318466,Pseudoephedrine with brompheniramine & codeine phosphate paediatric oral solution,,,,,CEGEDIM
-318502,"Diphenhydramine with codeine phosphate, sodium citrate and menthol 14mg with 5.7mg with 57mg with 1.1mg/5ml oral solution",,,,,CEGEDIM
 318509,Co-codamol 30mg+500mg Effervescent tablet (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
 318516,Paracetamol with diphenhydramine with codeine with phenylephrine with caffeine & vitamin c tablet,,,,,CEGEDIM
 318524,Codeine phosphate with diphenhydramine with paracetamol with phenylephrine with caffeine with vitamin c tablets,,,,,CEGEDIM
-318536,Codeine phosphate with menthol 15mg/5ml oral solution,,,,,CEGEDIM
 318546,"Phenylephrine with diphenhydramine, paracetamol, codeine, caffeine & vitamin c tablet",,,,,CEGEDIM
-318575,Galcodine 3mg/5ml Oral solution (Thornton & Ross Ltd),,,,,CEGEDIM
 318800,Codeine phosphate with dicycloverine with salts liquid,,,,,CEGEDIM
-318846,Chloroxylenol with terpineol solution,,,,,CEGEDIM
 318979,Codeine phosphate 8mg with paracetamol 500mg with buclizine 6.25mg tablets,,,,,CEGEDIM
 318981,Paracetamol 500mg with codeine phosphate 8mg & buclizine 6.25mg,,,,,CEGEDIM
+319086,Hypon Tablet (Wellcome Medical Division),,,,,CEGEDIM
 319119,Paracetamol 400mg with codeine phosphate 10mg with diphenhydramine 5mg & caffeine 50mg tablet,,,,,CEGEDIM
 319121,Paracetamol 450mg with codeine phosphate 10mg with doxylamine 5mg & caffeine 30mg tablet,,,,,CEGEDIM
 319131,Codeine phosphate 40mg with paracetamol with diphenhydramine with caffeine 400mg+10mg+5mg+50mg tablets,,,,,CEGEDIM
 319133,"Codeine phosphate with paracetamol, doxylamine and caffeine 10mg with 450mg with 5mg with 30mg tablets",,,,,CEGEDIM
-319158,Codeine phosphate 9mg with promethazine 3.6mg/5mHCl l oral solution,,,,,CEGEDIM
+319441,Formulix Oral solution (Cilag Pharmaceuticals Ltd),,,,,CEGEDIM
 319442,Paracetamol with codeine phosphate peadiatric elixir,,,,,CEGEDIM
+319545,Omnopon 10mg Tablet (Roche Products Ltd),,,,,CEGEDIM
+319728,Codanin Tablet (Wyeth Consumer Healthcare),,,,,CEGEDIM
 319732,Paracetamol with codeine with hyoscine & caffeine tablet,,,,,CEGEDIM
 319733,Paracetamol 500mg with codeine phosphate 8mg & caffeine 30mg capsule,,,,,CEGEDIM
 319734,Paracetamol 500mg with codeine phosphate 5mg & caffeine 10mg tablet,,,,,CEGEDIM
 319735,Paracetamol 450mg with codeine phosphate 8.1mg & caffeine 15mg tablet,,,,,CEGEDIM
 319744,Codeine phosphate 1.9mg with creosote 16.75mg oral solution,,,,,CEGEDIM
-319936,Pholcodine with menthol & terpin hydrate paste,,,,,CEGEDIM
 320754,Codeine phosphate 15mg Tablet (Wockhardt UK Ltd),,,,,CEGEDIM
 320756,Codeine phosphate 30mg Tablet (Wockhardt UK Ltd),,,,,CEGEDIM
 320876,Tramadol sr 100mg Capsule (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
@@ -1847,22 +1797,17 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 321892,Paracetamol 500mg with codeine phosphate 30mg effervescent powder sugar free,,,,,CEGEDIM
 321949,Tramadol 12 Modified-release tablet,,,,,CEGEDIM
 321950,Tramadol 12 Modified-release tablet,,,,,CEGEDIM
-322267,Guaifenesin with triprolidine codeine and pseudoephedrine Liquid,,,,,CEGEDIM
-322268,Guaifenesin with triprolidine codeine and pseudoephedrine Liquid,,,,,CEGEDIM
 322286,Codeine phosphate 8mg with Paracetamol 500mg capsules,,,,,CEGEDIM
 322344,Paracetamol 500mg with codeine phosphate 10mg tablet,,,,,CEGEDIM
 322345,Paracetamol 500mg with codeine phosphate 10mg capsule,,,,,CEGEDIM
 322346,Paracetamol 450mg with codeine phosphate 8.1mg tablet,,,,,CEGEDIM
-322376,Dextromethorphan with Terpin hydrate 11.5mg with 11.5mg oral solution,,,,,CEGEDIM
-322377,Dextromethorphan with Terpin hydrate 15mg with 6mg oral solution sugar free,,,,,CEGEDIM
 322655,Tramadol 24 Modified-release tablet,,,,,CEGEDIM
 322656,Tramadol 24 Modified-release tablet,,,,,CEGEDIM
 322783,Codeine 8mg with aspirin 500mg soluble tablets,,,,,CEGEDIM
 322873,Codeine phosphate 8mg with aspirin 400mg tablets,,,,,CEGEDIM
-322899,Solpaflex 2.50% Gel (GlaxoSmithKline Consumer Healthcare),,,,,CEGEDIM
 323391,Codeine phosphate 15mg with paracetamol 500mg tablets,,,,,CEGEDIM
 323530,Codeine phosphate 30mg with paracetamol 500mg effervescent tablets,,,,,CEGEDIM
-323998,Codeine phosphate with other ingredient pastilles,,,,,CEGEDIM
+323581,Syndol easy to swallow Tablet (SSL International Plc),,,,,CEGEDIM
 324146,Paracetamol with codeine & buclizine tablet,,,,,CEGEDIM
 324287,Paracetamol 500mg with codeine 12.8mg tablet,,,,,CEGEDIM
 324452,Paracetamol 325mg with tramadol 37.5 mg tablet,,,,,CEGEDIM
@@ -1878,7 +1823,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 325812,Codeine phosphate 12.8mg with paracetamol 500mg tablets,,,,,CEGEDIM
 326718,Paracetamol 500mg with codeine phosphate 12.8mg & caffeine 30mg effervescent tablet,,,,,CEGEDIM
 327109,Dihydrocodeine 10mg tablets,,,,,CEGEDIM
-327288,Codeine 3mg/5ml linctus paediatric,,,,,CEGEDIM
 327975,Tramadol 37.5mg / Paracetamol 325mg tablets (Accord Healthcare Ltd),,,,N02AJ13,CEGEDIM
 328236,Tramadol 200mg modified-release tablets,,,,N02AX02,CEGEDIM
 328237,Tramadol 400mg modified-release tablets,,,,N02AX02,CEGEDIM
@@ -1967,9 +1911,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 352490,Tramadol 50mg capsules (Brown & Burk UK Ltd) 100 capsule,,,,N02AX02,CEGEDIM
 353442,Co-codamol 8mg/500mg effervescent tablets sugar free (A A H Pharmaceuticals Ltd),,,,N02AJ06,CEGEDIM
 353443,Co-codamol 8mg/500mg effervescent tablets sugar free (A A H Pharmaceuticals Ltd) 100 tablet5 x 20 tablets,,,,N02AJ06,CEGEDIM
-353718,Codeine 15mg/5ml linctus sugar free,,,,R05DA04,CEGEDIM
 353847,Co-codamol 30mg/500mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N02AJ06,CEGEDIM
-353864,Codeine 15mg/5ml linctus sugar free (Medihealth (Northern) Ltd),,,,R05DA04,CEGEDIM
 353886,Co-codamol 15mg/500mg tablets (Medihealth (Northern) Ltd),,,,N02AJ06,CEGEDIM
 354098,Co-codamol 8mg/500mg tablets (Medihealth (Northern) Ltd),,,,N02AJ06,CEGEDIM
 354099,Co-codamol 30mg/500mg capsules (Medihealth (Northern) Ltd),,,,N02AJ06,CEGEDIM
@@ -1995,7 +1937,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 354698,Co-codamol 15mg/500mg capsules (Medihealth (Northern) Ltd) 100 capsule,,,,N02AJ06,CEGEDIM
 354701,Co-codamol 30mg/500mg effervescent tablets (Medihealth (Northern) Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
 354703,Co-codamol 30mg/500mg capsules (Medihealth (Northern) Ltd) 100 capsule,,,,N02AJ06,CEGEDIM
-354704,Codeine 15mg/5ml linctus sugar free (Medihealth (Northern) Ltd) 2000 ml,,,,R05DA04,CEGEDIM
 354705,Co-codamol 8mg/500mg effervescent tablets (Medihealth (Northern) Ltd) 100 tablet,,,,N02AJ06,CEGEDIM
 354716,Codeine 30mg tablets (Medihealth (Northern) Ltd) 100 tablet,,,,R05DA04,CEGEDIM
 354757,Dihydrocodeine 30mg tablets (Medihealth (Northern) Ltd) 100 tablet,,,,N02AA08,CEGEDIM

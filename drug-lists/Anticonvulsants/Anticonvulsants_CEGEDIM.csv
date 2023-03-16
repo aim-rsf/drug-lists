@@ -1,99 +1,4 @@
 DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-1870,Diazepam 5mg tablets,,,,N05BA01,CEGEDIM
-1871,Diazepam 5mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-1872,Diazepam 5mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1875,Diazepam 5mg tablets (A A H Pharmaceuticals Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1876,Diazepam 5mg tablets (Actavis UK Ltd),,,,N05BA01,CEGEDIM
-1877,Diazepam 5mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1878,Diazepam 5mg tablets (Teva UK Ltd),,,,N05BA01,CEGEDIM
-1879,Diazepam 5mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1880,Diazepam 5mg tablets (Mylan),,,,N05BA01,CEGEDIM
-1881,Diazepam 5mg tablets (Mylan) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1882,Diazepam 10mg tablets,,,,N05BA01,CEGEDIM
-1883,Diazepam 10mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-1884,Diazepam 10mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1888,Diazepam 5mg tablets (IVAX Pharmaceuticals UK Ltd),,,,N05BA01,CEGEDIM
-1889,Diazepam 5mg tablets (IVAX Pharmaceuticals UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1890,Diazepam 10mg tablets (A A H Pharmaceuticals Ltd) 500 tablet,,,,N05BA01,CEGEDIM
-1893,Diazepam 5mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-1894,Diazepam 5mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-1895,Diazepam 5mg tablets (Kent Pharmaceuticals Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1898,Diazepam 10mg tablets (Actavis UK Ltd),,,,N05BA01,CEGEDIM
-1899,Diazepam 10mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1900,Diazepam 5mg tablets (Ranbaxy (UK) Ltd),,,,N05BA01,CEGEDIM
-1901,Diazepam 5mg tablets (Ranbaxy (UK) Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-1902,Diazepam 5mg tablets (Ranbaxy (UK) Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1908,Diazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
-1909,Diazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1910,Diazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1916,Diazepam 5mg tablets (Sandoz Ltd),,,,N05BA01,CEGEDIM
-1917,Diazepam 5mg tablets (Sandoz Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1918,Diazepam 10mg tablets (Teva UK Ltd),,,,N05BA01,CEGEDIM
-1919,Diazepam 10mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1925,Diazepam 10mg tablets (IVAX Pharmaceuticals UK Ltd),,,,N05BA01,CEGEDIM
-1926,Diazepam 10mg tablets (IVAX Pharmaceuticals UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1937,Diazepam 10mg tablets (Mylan),,,,N05BA01,CEGEDIM
-1938,Diazepam 10mg tablets (Mylan) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1939,Diazepam 10mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-1940,Diazepam 10mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1953,Diazepam 10mg tablets (Kent Pharmaceuticals Ltd) 500 tablet,,,,N05BA01,CEGEDIM
-1954,Diazepam 2mg tablets,,,,N05BA01,CEGEDIM
-1955,Diazepam 2mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-1956,Diazepam 2mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1957,Diazepam 2mg tablets (A A H Pharmaceuticals Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1958,Diazepam 2mg tablets (Actavis UK Ltd),,,,N05BA01,CEGEDIM
-1959,Diazepam 2mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1960,Diazepam 2mg tablets (Teva UK Ltd),,,,N05BA01,CEGEDIM
-1961,Diazepam 2mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1962,Diazepam 2mg tablets (The Boots Company Plc),,,,N05BA01,CEGEDIM
-1963,Diazepam 2mg tablets (The Boots Company Plc) 1000 tablet,,,,N05BA01,CEGEDIM
-1964,Diazepam 2mg tablets (Mylan),,,,N05BA01,CEGEDIM
-1965,Diazepam 2mg tablets (Mylan) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1966,Diazepam 2mg tablets (IVAX Pharmaceuticals UK Ltd),,,,N05BA01,CEGEDIM
-1967,Diazepam 2mg tablets (IVAX Pharmaceuticals UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1968,Diazepam 2mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-1969,Diazepam 2mg tablets (Kent Pharmaceuticals Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1970,Diazepam 2mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1971,Diazepam 2mg tablets (Sandoz Ltd),,,,N05BA01,CEGEDIM
-1972,Diazepam 2mg tablets (Sandoz Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-1973,Diazepam 2mg tablets (Ranbaxy (UK) Ltd),,,,N05BA01,CEGEDIM
-1974,Diazepam 2mg tablets (Ranbaxy (UK) Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1978,Diazepam 2mg tablets (Ranbaxy (UK) Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-1979,Diazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
-1980,Diazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-1981,Diazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-2307,Nitrazepam 5mg tablets,,,,N05CD02,CEGEDIM
-2308,Nitrazepam 5mg tablets (A A H Pharmaceuticals Ltd),,,,N05CD02,CEGEDIM
-2309,Nitrazepam 5mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
-2312,Diazepam 10mg tablets (Ranbaxy (UK) Ltd),,,,N05BA01,CEGEDIM
-2313,Diazepam 10mg tablets (Ranbaxy (UK) Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-2319,Nitrazepam 5mg tablets (A A H Pharmaceuticals Ltd) 500 tablet,,,,N05CD02,CEGEDIM
-2320,Diazepam 10mg tablets (Ranbaxy (UK) Ltd) 500 tablet,,,,N05BA01,CEGEDIM
-2321,Nitrazepam 5mg tablets (Actavis UK Ltd),,,,N05CD02,CEGEDIM
-2322,Nitrazepam 5mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
-2323,Diazepam 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
-2324,Diazepam 10mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-2325,Diazepam 10mg tablets (Alliance Healthcare (Distribution) Ltd) 500 tablet,,,,N05BA01,CEGEDIM
-2329,Nitrazepam 5mg tablets (Teva UK Ltd),,,,N05CD02,CEGEDIM
-2330,Nitrazepam 5mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
-2351,Nitrazepam 5mg tablets (Wockhardt UK Ltd),,,,N05CD02,CEGEDIM
-2352,Nitrazepam 5mg tablets (Wockhardt UK Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
-2359,Nitrazepam 5mg tablets (Kent Pharmaceuticals Ltd),,,,N05CD02,CEGEDIM
-2360,Nitrazepam 5mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
-2409,Nitrazepam 5mg tablets (Kent Pharmaceuticals Ltd) 500 tablet,,,,N05CD02,CEGEDIM
-2416,Nitrazepam 5mg tablets (Ranbaxy (UK) Ltd),,,,N05CD02,CEGEDIM
-2417,Nitrazepam 5mg tablets (Ranbaxy (UK) Ltd) 500 tablet,,,,N05CD02,CEGEDIM
-2425,Nitrazepam 5mg tablets (Ranbaxy (UK) Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-2432,Nitrazepam 5mg tablets (Sussex Pharmaceutical Ltd),,,,N05CD02,CEGEDIM
-2433,Nitrazepam 5mg tablets (Sussex Pharmaceutical Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-2436,Nitrazepam 5mg tablets (Sussex Pharmaceutical Ltd) 500 tablet,,,,N05CD02,CEGEDIM
-2463,Nitrazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05CD02,CEGEDIM
-2464,Nitrazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
-2469,Nitrazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd) 500 tablet,,,,N05CD02,CEGEDIM
-2480,Nitrazepam 5mg tablets (Mylan),,,,N05CD02,CEGEDIM
-2481,Nitrazepam 5mg tablets (Mylan) 28 tablet,,,,N05CD02,CEGEDIM
-2497,Nitrazepam 5mg tablets (IVAX Pharmaceuticals UK Ltd),,,,N05CD02,CEGEDIM
-2498,Nitrazepam 5mg tablets (IVAX Pharmaceuticals UK Ltd) 28 tablet,,,,N05CD02,CEGEDIM
 4476,Carbamazepine 100mg tablets,,,,N03AF01,CEGEDIM
 4477,Carbamazepine 100mg tablets (A A H Pharmaceuticals Ltd),,,,N03AF01,CEGEDIM
 4478,Carbamazepine 100mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N03AF01,CEGEDIM
@@ -155,30 +60,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 4698,Carbamazepine 400mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AF01,CEGEDIM
 4699,Carbamazepine 400mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N03AF01,CEGEDIM
 5211,Carbamazepine 400mg tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N03AF01,CEGEDIM
-5820,Mogadon 5mg tablets (Mylan),,,,N05CD02,CEGEDIM
-5821,Mogadon 5mg tablets (Mylan) 30 tablet,,,,N05CD02,CEGEDIM
-9800,Lorazepam 1mg tablets,,,,N05BA06,CEGEDIM
-9801,Lorazepam 1mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-9802,Lorazepam 1mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-9817,Lorazepam 1mg tablets (Genus Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-9818,Lorazepam 1mg tablets (Genus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-9821,Lorazepam 1mg tablets (Teva UK Ltd),,,,N05BA06,CEGEDIM
-9822,Lorazepam 1mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-9828,Lorazepam 1mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-9829,Lorazepam 1mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-9835,Lorazepam 1mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA06,CEGEDIM
-9836,Lorazepam 1mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-9853,Lorazepam 2.5mg tablets,,,,N05BA06,CEGEDIM
-9854,Lorazepam 2.5mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-9855,Lorazepam 2.5mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-9856,Lorazepam 2.5mg tablets (Genus Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-9857,Lorazepam 2.5mg tablets (Genus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-9861,Lorazepam 2.5mg tablets (Teva UK Ltd),,,,N05BA06,CEGEDIM
-9862,Lorazepam 2.5mg tablets (Teva UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-9867,Lorazepam 2.5mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-9868,Lorazepam 2.5mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-9875,Lorazepam 2.5mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA06,CEGEDIM
-9876,Lorazepam 2.5mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 10707,Phenytoin 30mg/5ml oral suspension,,,,N03AB02,CEGEDIM
 10708,Epanutin 30mg/5ml oral suspension (Upjohn UK Ltd),,,,N03AB02,CEGEDIM
 10709,Epanutin 30mg/5ml oral suspension (Upjohn UK Ltd) 500 ml,,,,N03AB02,CEGEDIM
@@ -215,28 +96,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 10896,Phenytoin sodium 100mg tablets (Kent Pharmaceuticals Ltd) 28 tablet,,,,N03AB02,CEGEDIM
 10897,Phenytoin sodium 100mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AB02,CEGEDIM
 10898,Phenytoin sodium 100mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N03AB02,CEGEDIM
-10939,Oxazepam 10mg tablets,,,,N05BA04,CEGEDIM
-10940,Oxazepam 10mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-10941,Oxazepam 10mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10942,Oxazepam 10mg tablets (Actavis UK Ltd),,,,N05BA04,CEGEDIM
-10943,Oxazepam 10mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10944,Oxazepam 10mg tablets (Genus Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-10945,Oxazepam 10mg tablets (Genus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10946,Oxazepam 10mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-10947,Oxazepam 10mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10948,Oxazepam 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA04,CEGEDIM
-10949,Oxazepam 10mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N05BA04,CEGEDIM
-10950,Oxazepam 15mg tablets,,,,N05BA04,CEGEDIM
-10951,Oxazepam 15mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-10952,Oxazepam 15mg tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10953,Oxazepam 15mg tablets (Actavis UK Ltd),,,,N05BA04,CEGEDIM
-10954,Oxazepam 15mg tablets (Actavis UK Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10955,Oxazepam 15mg tablets (Genus Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-10956,Oxazepam 15mg tablets (Genus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10957,Oxazepam 15mg tablets (Kent Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-10958,Oxazepam 15mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA04,CEGEDIM
-10959,Oxazepam 15mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA04,CEGEDIM
-10960,Oxazepam 15mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N05BA04,CEGEDIM
 11428,Primidone 250mg tablets,,,,N03AA03,CEGEDIM
 11429,Mysoline 250mg tablets (SERB),,,,N03AA03,CEGEDIM
 11430,Mysoline 250mg tablets (SERB) 100 tablet,,,,N03AA03,CEGEDIM
@@ -400,66 +259,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 12908,Epilim Chrono 500 tablets (Sanofi) 100 tablet10 x 10 tablets,,,,N03AG01,CEGEDIM
 12915,Orlept SF 200mg/5ml liquid (Wockhardt UK Ltd),,,,N03AG01,CEGEDIM
 12916,Orlept SF 200mg/5ml liquid (Wockhardt UK Ltd) 300 ml,,,,N03AG01,CEGEDIM
-13021,Chlordiazepoxide 10mg capsules,,,,N05BA02,CEGEDIM
-13022,Chlordiazepoxide 10mg capsules (A A H Pharmaceuticals Ltd),,,,N05BA02,CEGEDIM
-13023,Chlordiazepoxide 10mg capsules (A A H Pharmaceuticals Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13024,Chlordiazepoxide 10mg capsules (Actavis UK Ltd),,,,N05BA02,CEGEDIM
-13025,Chlordiazepoxide 10mg capsules (Actavis UK Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13026,Librium 10mg capsules (Mylan),,,,N05BA02,CEGEDIM
-13027,Librium 10mg capsules (Mylan) 100 capsule,,,,N05BA02,CEGEDIM
-13028,Chlordiazepoxide 10mg capsules (Kent Pharmaceuticals Ltd),,,,N05BA02,CEGEDIM
-13029,Chlordiazepoxide 10mg capsules (Kent Pharmaceuticals Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13033,Chlordiazepoxide 10mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N05BA02,CEGEDIM
-13034,Chlordiazepoxide 10mg capsules (Alliance Healthcare (Distribution) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-13035,Chlordiazepoxide 10mg capsules (Alliance Healthcare (Distribution) Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13036,Chlordiazepoxide 5mg capsules,,,,N05BA02,CEGEDIM
-13037,Chlordiazepoxide 5mg capsules (A A H Pharmaceuticals Ltd),,,,N05BA02,CEGEDIM
-13038,Chlordiazepoxide 5mg capsules (A A H Pharmaceuticals Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13042,Chlordiazepoxide 5mg capsules (Actavis UK Ltd),,,,N05BA02,CEGEDIM
-13043,Chlordiazepoxide 5mg capsules (Actavis UK Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13044,Librium 5mg capsules (Mylan),,,,N05BA02,CEGEDIM
-13045,Librium 5mg capsules (Mylan) 100 capsule,,,,N05BA02,CEGEDIM
-13049,Chlordiazepoxide 5mg capsules (Kent Pharmaceuticals Ltd),,,,N05BA02,CEGEDIM
-13050,Chlordiazepoxide 5mg capsules (Kent Pharmaceuticals Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13051,Chlordiazepoxide 5mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N05BA02,CEGEDIM
-13052,Chlordiazepoxide 5mg capsules (Alliance Healthcare (Distribution) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-13053,Chlordiazepoxide 5mg capsules (Alliance Healthcare (Distribution) Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-13420,Clomethiazole 192mg capsules,,,,N05CM02,CEGEDIM
-13421,Heminevrin 192mg capsules (AstraZeneca UK Ltd),,,,N05CM02,CEGEDIM
-13422,Heminevrin 192mg capsules (AstraZeneca UK Ltd) 60 capsule,,,,N05CM02,CEGEDIM
-13423,Clomethiazole 157.5mg/5ml oral solution sugar free,,,,N05CM02,CEGEDIM
-13424,Heminevrin 250mg/5ml syrup (AstraZeneca UK Ltd),,,,N05CM02,CEGEDIM
-13425,Heminevrin 250mg/5ml syrup (AstraZeneca UK Ltd) 300 ml,,,,N05CM02,CEGEDIM
 13461,Teril Retard 400mg tablets (Taro Pharmaceuticals (UK) Ltd),,,,N03AF01,CEGEDIM
 13462,Teril Retard 400mg tablets (Taro Pharmaceuticals (UK) Ltd) 56 tablet,,,,N03AF01,CEGEDIM
-13643,Lormetazepam 500microgram tablets,,,,N05CD06,CEGEDIM
-13644,Lormetazepam 500microgram tablets (A A H Pharmaceuticals Ltd),,,,N05CD06,CEGEDIM
-13645,Lormetazepam 500microgram tablets (A A H Pharmaceuticals Ltd) 30 tablet,,,,N05CD06,CEGEDIM
-13646,Lormetazepam 500microgram tablets (Mylan),,,,N05CD06,CEGEDIM
-13647,Lormetazepam 500microgram tablets (Mylan) 30 tablet,,,,N05CD06,CEGEDIM
-13648,Lormetazepam 500microgram tablets (Mylan) 100 tablet,,,,N05CD06,CEGEDIM
-13649,Lormetazepam 500microgram tablets (Thornton & Ross Ltd),,,,N05CD06,CEGEDIM
-13650,Lormetazepam 500microgram tablets (Thornton & Ross Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13651,Lormetazepam 500microgram tablets (Kent Pharmaceuticals Ltd),,,,N05CD06,CEGEDIM
-13652,Lormetazepam 500microgram tablets (Kent Pharmaceuticals Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13653,Lormetazepam 500microgram tablets (Kent Pharmaceuticals Ltd) 100 tablet,,,,N05CD06,CEGEDIM
-13654,Lormetazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd),,,,N05CD06,CEGEDIM
-13655,Lormetazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13656,Lormetazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N05CD06,CEGEDIM
-13657,Lormetazepam 1mg tablets,,,,N05CD06,CEGEDIM
-13658,Lormetazepam 1mg tablets (A A H Pharmaceuticals Ltd),,,,N05CD06,CEGEDIM
-13659,Lormetazepam 1mg tablets (A A H Pharmaceuticals Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13660,Lormetazepam 1mg tablets (Mylan),,,,N05CD06,CEGEDIM
-13661,Lormetazepam 1mg tablets (Mylan) 30 tablet,,,,N05CD06,CEGEDIM
-13662,Lormetazepam 1mg tablets (Mylan) 100 tablet,,,,N05CD06,CEGEDIM
-13663,Lormetazepam 1mg tablets (Thornton & Ross Ltd),,,,N05CD06,CEGEDIM
-13664,Lormetazepam 1mg tablets (Thornton & Ross Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13665,Lormetazepam 1mg tablets (Kent Pharmaceuticals Ltd),,,,N05CD06,CEGEDIM
-13666,Lormetazepam 1mg tablets (Kent Pharmaceuticals Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13667,Lormetazepam 1mg tablets (Kent Pharmaceuticals Ltd) 100 tablet,,,,N05CD06,CEGEDIM
-13668,Lormetazepam 1mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05CD06,CEGEDIM
-13669,Lormetazepam 1mg tablets (Alliance Healthcare (Distribution) Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-13670,Lormetazepam 1mg tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N05CD06,CEGEDIM
 15740,Diazepam 5mg/2.5ml rectal solution tube,,,,N05BA01,CEGEDIM
 14283,Phenobarbital 15mg tablets,,,,N03AA02,CEGEDIM
 14284,Phenobarbital 15mg tablets (A A H Pharmaceuticals Ltd),,,,N03AA02,CEGEDIM
@@ -494,19 +295,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 14315,Phenobarbital 60mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N03AA02,CEGEDIM
 14316,Phenobarbital 60mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AA02,CEGEDIM
 14317,Phenobarbital 60mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N03AA02,CEGEDIM
-14512,Chlordiazepoxide 10mg tablets,,,,N05BA02,CEGEDIM
-14513,Chlordiazepoxide 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA02,CEGEDIM
-14514,Chlordiazepoxide 10mg tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-14515,Chlordiazepoxide 10mg tablets (Alliance Healthcare (Distribution) Ltd) 500 tablet,,,,N05BA02,CEGEDIM
-14522,Chlordiazepoxide 5mg tablets,,,,N05BA02,CEGEDIM
-14529,Chlordiazepoxide 5mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA02,CEGEDIM
-14530,Chlordiazepoxide 5mg tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-14532,Chlordiazepoxide 5mg tablets (Alliance Healthcare (Distribution) Ltd) 500 tablet,,,,N05BA02,CEGEDIM
-15329,Loprazolam 1mg tablets,,,,N05CD11,CEGEDIM
-15330,Loprazolam 1mg tablets (Zentiva),,,,N05CD11,CEGEDIM
-15331,Loprazolam 1mg tablets (Zentiva) 28 tablet2 x 14 tablets,,,,N05CD11,CEGEDIM
-15340,Loprazolam 1mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05CD11,CEGEDIM
-15341,Loprazolam 1mg tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet2 x 14 tablets,,,,N05CD11,CEGEDIM
 15704,Diazepam 10mg/2.5ml rectal solution tube,,,,N05BA01,CEGEDIM
 15705,Diazepam 10mg/2.5ml rectal solution tube (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
 15706,Diazepam 10mg/2.5ml rectal solution tube (A A H Pharmaceuticals Ltd) 5 tube,,,,N05BA01,CEGEDIM
@@ -515,16 +303,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 15709,Diazepam 10mg RecTubes (Wockhardt UK Ltd),,,,N05BA01,CEGEDIM
 15710,Diazepam 10mg RecTubes (Wockhardt UK Ltd) 5 tube,,,,N05BA01,CEGEDIM
 15711,Diazepam 10mg/2.5ml rectal solution tube (Sandoz Ltd),,,,N05BA01,CEGEDIM
-15712,Diazepam 10mg/2.5ml rectal solution tube (Sandoz Ltd) 5 tube,,,,N05BA01,CEGEDIM
 15713,Diazepam 10mg/2.5ml rectal solution tube (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
 15714,Diazepam 10mg/2.5ml rectal solution tube (Alliance Healthcare (Distribution) Ltd) 5 tube,,,,N05BA01,CEGEDIM
-15724,Diazepam 2mg/5ml oral solution,,,,N05BA01,CEGEDIM
-15725,Diazepam 2mg/5ml oral solution (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-15726,Diazepam 2mg/5ml oral solution (A A H Pharmaceuticals Ltd) 100 ml,,,,N05BA01,CEGEDIM
-15727,Diazepam 2mg/5ml oral solution (A A H Pharmaceuticals Ltd) 500 ml,,,,N05BA01,CEGEDIM
-15728,Diazepam 2mg/5ml oral solution (Sandoz Ltd),,,,N05BA01,CEGEDIM
-15729,Diazepam 2mg/5ml oral solution (Sandoz Ltd) 100 ml,,,,N05BA01,CEGEDIM
-15730,Diazepam 2mg/5ml oral solution (Sandoz Ltd) 500 ml,,,,N05BA01,CEGEDIM
 15741,Diazepam 5mg/2.5ml rectal solution tube (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
 15742,Diazepam 5mg/2.5ml rectal solution tube (A A H Pharmaceuticals Ltd) 5 tube,,,,N05BA01,CEGEDIM
 15743,Stesolid 5mg rectal tube (Accord Healthcare Ltd),,,,N05BA01,CEGEDIM
@@ -538,18 +318,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 15754,Diazepam 5mg/2.5ml rectal solution tube (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
 15755,Diazepam 5mg/2.5ml rectal solution tube (Alliance Healthcare (Distribution) Ltd) 5 tube,,,,N05BA01,CEGEDIM
 15803,Diazepam 2.5mg/1.25ml rectal solution tube,,,,N05BA01,CEGEDIM
-15804,Diazepam 2.5mg RecTubes (Wockhardt UK Ltd),,,,N05BA01,CEGEDIM
 15805,Diazepam 2.5mg RecTubes (Wockhardt UK Ltd) 5 tube,,,,N05BA01,CEGEDIM
-15810,Diazepam 5mg/5ml oral solution,,,,N05BA01,CEGEDIM
-15811,Diazepam 5mg/5ml oral solution (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-15812,Diazepam 5mg/5ml oral solution (A A H Pharmaceuticals Ltd) 100 ml,,,,N05BA01,CEGEDIM
-15813,Diazepam 5mg/5ml oral solution (Sandoz Ltd),,,,N05BA01,CEGEDIM
-15814,Diazepam 5mg/5ml oral solution (Sandoz Ltd) 100 ml,,,,N05BA01,CEGEDIM
-15818,Diazepam 2mg/5ml oral solution sugar- free,,,,,CEGEDIM
-15819,Diazepam 2mg/5ml oral solution sugar-free (A A H Pharmaceuticals Ltd),,,,,CEGEDIM
-15820,Diazepam 2mg/5ml oral solution sugar-free (A A H Pharmaceuticals Ltd) 100 ml,,,,,CEGEDIM
-15821,Diazepam 2mg/5ml oral solution sugar-free (Actavis UK Ltd),,,,,CEGEDIM
-15822,Diazepam 2mg/5ml oral solution sugar-free (Actavis UK Ltd) 100 ml,,,,,CEGEDIM
 16405,Phenobarbital 200mg/1ml solution for injection ampoules,,,,N03AA02,CEGEDIM
 16406,Phenobarbital 200mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),,,,N03AA02,CEGEDIM
 16407,Phenobarbital 200mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd) 10 ampoule,,,,N03AA02,CEGEDIM
@@ -592,9 +361,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 19670,Carbamazepine 200mg chewable tablets sugar free,,,,N03AF01,CEGEDIM
 19671,Tegretol 200mg Chewtabs (Novartis Pharmaceuticals UK Ltd),,,,N03AF01,CEGEDIM
 19672,Tegretol 200mg Chewtabs (Novartis Pharmaceuticals UK Ltd) 56 tablet4 x 14 tablets,,,,N03AF01,CEGEDIM
-19718,Nitrazepam 2.5mg/5ml oral suspension,,,,N05CD02,CEGEDIM
-19719,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd),,,,N05CD02,CEGEDIM
-19720,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd) 150 ml,,,,N05CD02,CEGEDIM
 21104,Midazolam 10mg/2ml solution for injection ampoules,,,,N05CD08,CEGEDIM
 21105,Midazolam 10mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),,,,N05CD08,CEGEDIM
 21106,Midazolam 10mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd) 10 ampoule,,,,N05CD08,CEGEDIM
@@ -610,12 +376,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 22155,Oxcarbazepine 300mg tablets,,,,N03AF02,CEGEDIM
 22156,Trileptal 300mg tablets (Novartis Pharmaceuticals UK Ltd),,,,N03AF02,CEGEDIM
 22157,Trileptal 300mg tablets (Novartis Pharmaceuticals UK Ltd) 50 tablet5 x 10 tablets,,,,N03AF02,CEGEDIM
-22354,Chlordiazepoxide 5mg capsules (Ranbaxy (UK) Ltd),,,,N05BA02,CEGEDIM
-22355,Chlordiazepoxide 5mg capsules (Ranbaxy (UK) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-22356,Chlordiazepoxide 5mg capsules (Ranbaxy (UK) Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-22357,Chlordiazepoxide 10mg capsules (Ranbaxy (UK) Ltd),,,,N05BA02,CEGEDIM
-22358,Chlordiazepoxide 10mg capsules (Ranbaxy (UK) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-22359,Chlordiazepoxide 10mg capsules (Ranbaxy (UK) Ltd) 500 capsule,,,,N05BA02,CEGEDIM
 22438,Phenobarbital 60mg tablets (Alliance Healthcare (Distribution) Ltd) 250 tablet,,,,N03AA02,CEGEDIM
 22491,Vigabatrin 500mg oral powder sachets sugar free,,,,N03AG04,CEGEDIM
 22492,Sabril 500mg oral powder sachets (Sanofi),,,,N03AG04,CEGEDIM
@@ -682,16 +442,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 24191,Carbamazepine 250mg suppositories,,,,N03AF01,CEGEDIM
 24192,Tegretol 250mg suppositories (Essential Pharma Ltd),,,,N03AF01,CEGEDIM
 24193,Tegretol 250mg suppositories (Essential Pharma Ltd) 5 suppository,,,,N03AF01,CEGEDIM
-24208,Lorazepam 4mg/1ml solution for injection ampoules,,,,N05BA06,CEGEDIM
 24209,Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd),,,,N05BA06,CEGEDIM
 24210,Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd) 10 ampoule,,,,N05BA06,CEGEDIM
-24280,Orimeten 250mg tablets (Novartis Pharmaceuticals UK Ltd),,,,L02BG01,CEGEDIM
-24281,Orimeten 250mg tablets (Novartis Pharmaceuticals UK Ltd) 56 tablet4 x 14 tablets,,,,L02BG01,CEGEDIM
 24567,Diazepam 10mg/2ml emulsion for injection ampoules,,,,N05BA01,CEGEDIM
 24568,Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd),,,,N05BA01,CEGEDIM
 24569,Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd) 10 ampoule,,,,N05BA01,CEGEDIM
-24775,Lormetazepam 500microgram tablets (A A H Pharmaceuticals Ltd) 100 tablet,,,,N05CD06,CEGEDIM
-24780,Lormetazepam 1mg tablets (A A H Pharmaceuticals Ltd) 100 tablet,,,,N05CD06,CEGEDIM
 24977,Lamotrigine 2mg dispersible tablets sugar free,,,,N03AX09,CEGEDIM
 24978,Lamictal 2mg dispersible tablets (GlaxoSmithKline UK Ltd),,,,N03AX09,CEGEDIM
 24979,Lamictal 2mg dispersible tablets (GlaxoSmithKline UK Ltd) 30 tablet,,,,N03AX09,CEGEDIM
@@ -731,8 +486,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 26988,Phenobarbital sodium powder (A A H Pharmaceuticals Ltd),,,,,CEGEDIM
 26989,Phenobarbital sodium powder (A A H Pharmaceuticals Ltd) 25 gram,,,,,CEGEDIM
 27122,Carbamazepine 100mg tablets (Kent Pharmaceuticals Ltd) 500 tablet,,,,N03AF01,CEGEDIM
-27155,Chlordiazepoxide 5mg capsules (Kent Pharmaceuticals Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-27156,Chlordiazepoxide 10mg capsules (Kent Pharmaceuticals Ltd) 100 capsule,,,,N05BA02,CEGEDIM
 27348,Sodium valproate 400mg powder and solvent for solution for injection vials,,,,N03AG01,CEGEDIM
 27349,Epilim Intravenous 400mg powder and solvent for solution for injection vials (Sanofi),,,,N03AG01,CEGEDIM
 27350,Epilim Intravenous 400mg powder and solvent for solution for injection vials (Sanofi) 1 vial,,,,N03AG01,CEGEDIM
@@ -794,18 +547,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 28937,Carbamazepine 200mg modified-release tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,N03AF01,CEGEDIM
 28938,Carbamazepine 400mg modified-release tablets (A A H Pharmaceuticals Ltd),,,,N03AF01,CEGEDIM
 28939,Carbamazepine 400mg modified-release tablets (A A H Pharmaceuticals Ltd) 56 tablet,,,,N03AF01,CEGEDIM
-29041,Lorazepam 2.5mg tablets (Kent Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 29456,Celontin 300mg Kapseals (Warner-Pd),,,,N03AD03,CEGEDIM
 29457,Celontin 300mg Kapseals (Warner-Pd) 100 capsule,,,,N03AD03,CEGEDIM
-29569,Dalmane 15mg capsules (Mylan),,,,N05CD01,CEGEDIM
-29570,Dalmane 15mg capsules (Mylan) 30 capsule,,,,N05CD01,CEGEDIM
-29572,Dalmane 30mg capsules (Mylan),,,,N05CD01,CEGEDIM
-29573,Dalmane 30mg capsules (Mylan) 30 capsule,,,,N05CD01,CEGEDIM
-29578,Xanax 250microgram tablets (Upjohn UK Ltd),,,,N05BA12,CEGEDIM
-29579,Xanax 250microgram tablets (Upjohn UK Ltd) 60 tablet,,,,N05BA12,CEGEDIM
-29586,Xanax 500microgram tablets (Upjohn UK Ltd),,,,N05BA12,CEGEDIM
-29587,Xanax 500microgram tablets (Upjohn UK Ltd) 60 tablet,,,,N05BA12,CEGEDIM
-29594,Flunitrazepam 1mg tablets,,,,N05CD03,CEGEDIM
 29595,Rohypnol 1mg tablets (Roche Products Ltd),,,,N05CD03,CEGEDIM
 29596,Rohypnol 1mg tablets (Roche Products Ltd) 30 tablet,,,,N05CD03,CEGEDIM
 30157,Carbamazepine 400mg tablets (Kent Pharmaceuticals Ltd) 100 tablet,,,,N03AF01,CEGEDIM
@@ -821,12 +564,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 30313,Epival CR 300mg tablets (Healthcare Pharma Ltd) 100 tablet,,,,N03AG01,CEGEDIM
 30314,Epival CR 500mg tablets (Healthcare Pharma Ltd),,,,N03AG01,CEGEDIM
 30315,Epival CR 500mg tablets (Healthcare Pharma Ltd) 100 tablet,,,,N03AG01,CEGEDIM
-31417,Tranxene 7.5mg capsules (Boehringer Ingelheim Ltd),,,,N05BA05,CEGEDIM
-31418,Tranxene 7.5mg capsules (Boehringer Ingelheim Ltd) 100 capsule,,,,N05BA05,CEGEDIM
-31419,Tranxene 7.5mg capsules (Boehringer Ingelheim Ltd) 20 capsule,,,,N05BA05,CEGEDIM
-31421,Tranxene 15mg capsules (Boehringer Ingelheim Ltd),,,,N05BA05,CEGEDIM
-31422,Tranxene 15mg capsules (Boehringer Ingelheim Ltd) 100 capsule,,,,N05BA05,CEGEDIM
-31423,Tranxene 15mg capsules (Boehringer Ingelheim Ltd) 20 capsule,,,,N05BA05,CEGEDIM
 31941,Phenobarbital 60mg/1ml solution for injection ampoules,,,,N03AA02,CEGEDIM
 31942,Phenobarbital 60mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd),,,,N03AA02,CEGEDIM
 31943,Phenobarbital 60mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd) 10 ampoule,,,,N03AA02,CEGEDIM
@@ -1040,10 +777,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 52901,Oxcarbazepine 60mg/ml oral suspension sugar free,,,,N03AF02,CEGEDIM
 52902,Trileptal 60mg/ml oral suspension (Novartis Pharmaceuticals UK Ltd),,,,N03AF02,CEGEDIM
 52903,Trileptal 60mg/ml oral suspension (Novartis Pharmaceuticals UK Ltd) 250 ml,,,,N03AF02,CEGEDIM
-54334,Chlordiazepoxide 5mg capsules (Sandoz Ltd),,,,N05BA02,CEGEDIM
-54335,Chlordiazepoxide 5mg capsules (Sandoz Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-54339,Chlordiazepoxide 10mg capsules (Sandoz Ltd),,,,N05BA02,CEGEDIM
-54340,Chlordiazepoxide 10mg capsules (Sandoz Ltd) 500 capsule,,,,N05BA02,CEGEDIM
 55029,Phenobarbital 15mg/5ml elixir sugar free,,,,,CEGEDIM
 55030,Phenobarbital 15mg/5ml elixir sugar free (Thornton & Ross Ltd),,,,,CEGEDIM
 55031,Phenobarbital 15mg/5ml elixir sugar free (Thornton & Ross Ltd) 500 ml,,,,,CEGEDIM
@@ -1104,9 +837,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 60512,Carbamazepine 500mg/5ml oral suspension,,,,N03AF01,CEGEDIM
 60513,Carbamazepine 500mg/5ml oral suspension (Special Order),,,,N03AF01,CEGEDIM
 60514,Carbamazepine 500mg/5ml oral suspension (Special Order) 1 ml,,,,N03AF01,CEGEDIM
-60614,Chlordiazepoxide 5mg/5ml oral suspension,,,,N05BA02,CEGEDIM
-60615,Chlordiazepoxide 5mg/5ml oral suspension (Special Order),,,,N05BA02,CEGEDIM
-60616,Chlordiazepoxide 5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA02,CEGEDIM
 60685,Clobazam 12.5mg/5ml oral solution,,,,N05BA09,CEGEDIM
 60686,Clobazam 12.5mg/5ml oral solution (Special Order),,,,N05BA09,CEGEDIM
 60687,Clobazam 12.5mg/5ml oral solution (Special Order) 1 ml,,,,N05BA09,CEGEDIM
@@ -1293,14 +1023,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 60958,Clonazepam 625micrograms/5ml oral suspension,,,,N03AE01,CEGEDIM
 60959,Clonazepam 625micrograms/5ml oral suspension (Special Order),,,,N03AE01,CEGEDIM
 60960,Clonazepam 625micrograms/5ml oral suspension (Special Order) 1 ml,,,,N03AE01,CEGEDIM
-61238,Chlordiazepoxide 5mg capsules (A A H Pharmaceuticals Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-61239,Chlordiazepoxide 10mg capsules (A A H Pharmaceuticals Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-61240,Chlordiazepoxide 5mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA02,CEGEDIM
-61241,Chlordiazepoxide 5mg tablets (A A H Pharmaceuticals Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-61242,Chlordiazepoxide 5mg tablets (A A H Pharmaceuticals Ltd) 500 tablet,,,,N05BA02,CEGEDIM
-61243,Chlordiazepoxide 10mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA02,CEGEDIM
-61244,Chlordiazepoxide 10mg tablets (A A H Pharmaceuticals Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-61245,Chlordiazepoxide 10mg tablets (A A H Pharmaceuticals Ltd) 500 tablet,,,,N05BA02,CEGEDIM
 61713,Gabapentin 100mg/5ml oral solution,,,,N03AX12,CEGEDIM
 61714,Gabapentin 100mg/5ml oral solution (Special Order),,,,N03AX12,CEGEDIM
 61715,Gabapentin 100mg/5ml oral solution (Special Order) 1 ml,,,,N03AX12,CEGEDIM
@@ -1343,42 +1065,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 62226,Levetiracetam 300mg/5ml oral suspension,,,,N03AX14,CEGEDIM
 62227,Levetiracetam 300mg/5ml oral suspension (Special Order),,,,N03AX14,CEGEDIM
 62228,Levetiracetam 300mg/5ml oral suspension (Special Order) 1 ml,,,,N03AX14,CEGEDIM
-62434,Lorazepam 1mg/5ml oral solution,,,,N05BA06,CEGEDIM
-62435,Lorazepam 1mg/5ml oral solution (Drug Tariff Special Order),,,,N05BA06,CEGEDIM
-62436,Lorazepam 1mg/5ml oral solution (Drug Tariff Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62440,Lorazepam 1mg/5ml oral suspension,,,,N05BA06,CEGEDIM
-62441,Lorazepam 1mg/5ml oral suspension (Drug Tariff Special Order),,,,N05BA06,CEGEDIM
-62442,Lorazepam 1mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62443,Lorazepam 250micrograms/5ml oral solution,,,,N05BA06,CEGEDIM
-62444,Lorazepam 250micrograms/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-62445,Lorazepam 250micrograms/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62446,Lorazepam 2mg/5ml oral solution,,,,N05BA06,CEGEDIM
-62447,Lorazepam 2mg/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-62448,Lorazepam 2mg/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62449,Lorazepam 250micrograms/5ml oral suspension,,,,N05BA06,CEGEDIM
-62450,Lorazepam 250micrograms/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-62451,Lorazepam 250micrograms/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62452,Lorazepam 2mg/5ml oral suspension,,,,N05BA06,CEGEDIM
-62453,Lorazepam 2mg/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-62454,Lorazepam 2mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62459,Lorazepam 500micrograms/5ml oral solution,,,,N05BA06,CEGEDIM
-62460,Lorazepam 500micrograms/5ml oral solution (Drug Tariff Special Order),,,,N05BA06,CEGEDIM
-62461,Lorazepam 500micrograms/5ml oral solution (Drug Tariff Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62462,Lorazepam 5mg/5ml oral solution,,,,N05BA06,CEGEDIM
-62463,Lorazepam 5mg/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-62464,Lorazepam 5mg/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62467,Lorazepam 500micrograms/5ml oral suspension,,,,N05BA06,CEGEDIM
-62468,Lorazepam 500micrograms/5ml oral suspension (Drug Tariff Special Order),,,,N05BA06,CEGEDIM
-62469,Lorazepam 500micrograms/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62470,Lorazepam 5mg/5ml oral suspension,,,,N05BA06,CEGEDIM
-62471,Lorazepam 5mg/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-62472,Lorazepam 5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-62473,Lormetazepam 1mg/5ml oral suspension,,,,N05CD06,CEGEDIM
-62474,Lormetazepam 1mg/5ml oral suspension (Special Order),,,,N05CD06,CEGEDIM
-62475,Lormetazepam 1mg/5ml oral suspension (Special Order) 1 ml,,,,N05CD06,CEGEDIM
-62863,Nitrazepam 5mg/5ml oral suspension,,,,N05CD02,CEGEDIM
-62864,Nitrazepam 5mg/5ml oral suspension (Drug Tariff Special Order),,,,N05CD02,CEGEDIM
-62865,Nitrazepam 5mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N05CD02,CEGEDIM
 63436,Topiramate 25mg/5ml oral suspension,,,,N03AX11,CEGEDIM
 63437,Topiramate 25mg/5ml oral suspension (Drug Tariff Special Order),,,,N03AX11,CEGEDIM
 63438,Topiramate 25mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N03AX11,CEGEDIM
@@ -1394,18 +1080,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 63846,Primidone 50mg capsules,,,,N03AA03,CEGEDIM
 63847,Primidone 50mg capsules (Special Order),,,,N03AA03,CEGEDIM
 63848,Primidone 50mg capsules (Special Order) 1 capsule,,,,N03AA03,CEGEDIM
-63963,Diazepam 2.5mg/5ml oral solution,,,,N05BA01,CEGEDIM
-63964,Diazepam 2.5mg/5ml oral solution (Special Order),,,,N05BA01,CEGEDIM
-63965,Diazepam 2.5mg/5ml oral solution (Special Order) 1 ml,,,,N05BA01,CEGEDIM
-63966,Diazepam 25mg/5ml oral solution,,,,N05BA01,CEGEDIM
-63967,Diazepam 25mg/5ml oral solution (Special Order),,,,N05BA01,CEGEDIM
-63968,Diazepam 25mg/5ml oral solution (Special Order) 1 ml,,,,N05BA01,CEGEDIM
-63969,Diazepam 10mg/5ml oral solution,,,,N05BA01,CEGEDIM
-63970,Diazepam 10mg/5ml oral solution (Special Order),,,,N05BA01,CEGEDIM
-63971,Diazepam 10mg/5ml oral solution (Special Order) 1 ml,,,,N05BA01,CEGEDIM
-63972,Diazepam 1mg/5ml oral solution,,,,N05BA01,CEGEDIM
-63973,Diazepam 1mg/5ml oral solution (Special Order),,,,N05BA01,CEGEDIM
-63974,Diazepam 1mg/5ml oral solution (Special Order) 1 ml,,,,N05BA01,CEGEDIM
 64047,Phenobarbital 50mg/5ml oral solution,,,,N03AA02,CEGEDIM
 64048,Phenobarbital 50mg/5ml oral solution (Special Order),,,,N03AA02,CEGEDIM
 64049,Phenobarbital 50mg/5ml oral solution (Special Order) 1 ml,,,,N03AA02,CEGEDIM
@@ -1433,9 +1107,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 64169,Phenytoin 90mg/5ml oral suspension sugar free,,,,,CEGEDIM
 64170,Phenytoin 90mg/5ml oral suspension sugar free (Special Order),,,,,CEGEDIM
 64171,Phenytoin 90mg/5ml oral suspension sugar free (Special Order) 1 ml,,,,,CEGEDIM
-64242,Diazepam 5mg tablets (Sandoz Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-64839,Diazepam 2mg/5ml oral solution (Actavis UK Ltd),,,,N05BA01,CEGEDIM
-64840,Diazepam 2mg/5ml oral solution (Actavis UK Ltd) 100 ml,,,,N05BA01,CEGEDIM
 65073,Gabapentin 100mg capsules (Mylan),,,,N03AX12,CEGEDIM
 65074,Gabapentin 100mg capsules (Mylan) 100 capsule,,,,N03AX12,CEGEDIM
 65077,Gabapentin 300mg capsules (Mylan),,,,N03AX12,CEGEDIM
@@ -1570,10 +1241,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69449,Lamotrigine 100mg tablets (Sandoz Ltd) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
 69450,Lamotrigine 200mg tablets (Sandoz Ltd),,,,N03AX09,CEGEDIM
 69451,Lamotrigine 200mg tablets (Sandoz Ltd) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
-69507,Lorazepam 1mg tablets (Mylan),,,,N05BA06,CEGEDIM
-69508,Lorazepam 1mg tablets (Mylan) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-69511,Lorazepam 2.5mg tablets (Mylan),,,,N05BA06,CEGEDIM
-69512,Lorazepam 2.5mg tablets (Mylan) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 69522,Nootropil 1200mg tablets (UCB Pharma Ltd) 60 tablet,,,,N06BX03,CEGEDIM
 70122,Gabapentin 100mg capsules (Zentiva),,,,N03AX12,CEGEDIM
 70123,Gabapentin 100mg capsules (Zentiva) 100 capsule,,,,N03AX12,CEGEDIM
@@ -1599,20 +1266,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 71761,Lamotrigine 100mg dispersible tablets sugar free (Somex Pharma) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
 71819,Phenobarbital 200mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),,,,N03AA02,CEGEDIM
 71820,Phenobarbital 200mg/1ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) 10 ampoule,,,,N03AA02,CEGEDIM
-71840,Diazepam 2mg/5ml oral solution sugar free,,,,N05BA01,CEGEDIM
-71841,Diazepam 2mg/5ml oral solution sugar free (Actavis UK Ltd),,,,N05BA01,CEGEDIM
-71842,Diazepam 2mg/5ml oral solution sugar free (Actavis UK Ltd) 100 ml,,,,N05BA01,CEGEDIM
 72006,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml pre-filled syringes,,,,B05XA05,CEGEDIM
 72007,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml Minijet pre-filled syringes (UCB Pharma Ltd),,,,B05XA05,CEGEDIM
 72008,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml Minijet pre-filled syringes (UCB Pharma Ltd) 1 pre-filled disposable injection,,,,B05XA05,CEGEDIM
-72086,Diazepam 2mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-72087,Diazepam 2mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-72088,Diazepam 5mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-72089,Diazepam 5mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-72090,Diazepam 10mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-72091,Diazepam 10mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-72170,Nitrazepam 5mg tablets (Almus Pharmaceuticals Ltd),,,,N05CD02,CEGEDIM
-72171,Nitrazepam 5mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05CD02,CEGEDIM
 72585,Sativex oromucosal spray (Bayer Plc) 204 dose4 x 51 doses,,,,N02BG10,CEGEDIM
 72621,Lamotrigine 25mg dispersible tablets sugar free (Zentiva),,,,N03AX09,CEGEDIM
 72622,Lamotrigine 25mg dispersible tablets sugar free (Zentiva) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
@@ -1650,9 +1306,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 75753,Lamotrigine 100mg tablets (Consilient Health Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 75756,Lamotrigine 200mg tablets (Consilient Health Ltd),,,,N03AX09,CEGEDIM
 75757,Lamotrigine 200mg tablets (Consilient Health Ltd) 56 tablet,,,,N03AX09,CEGEDIM
-75758,Diazepam 5mg tablets (Relonchem Ltd),,,,N05BA01,CEGEDIM
-75759,Diazepam 5mg tablets (Relonchem Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-75760,Diazepam 5mg tablets (Relonchem Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
 75763,Lamotrigine 25mg tablets (Consilient Health Ltd),,,,N03AX09,CEGEDIM
 75764,Lamotrigine 25mg tablets (Consilient Health Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 75769,Lamotrigine 50mg tablets (Consilient Health Ltd),,,,N03AX09,CEGEDIM
@@ -1681,21 +1334,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 76101,Lamotrigine 25mg dispersible tablets sugar free (Focus Pharmaceuticals Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 76325,Clobazam 10mg tablets (A A H Pharmaceuticals Ltd),,,,N05BA09,CEGEDIM
 76326,Clobazam 10mg tablets (A A H Pharmaceuticals Ltd) 30 tablet3 x 10 tablets,,,,N05BA09,CEGEDIM
-76567,Lorazepam 1mg tablets (Arrow Generics Ltd),,,,N05BA06,CEGEDIM
-76568,Lorazepam 1mg tablets (Arrow Generics Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-76586,Lorazepam 2.5mg tablets (Arrow Generics Ltd),,,,N05BA06,CEGEDIM
-76587,Lorazepam 2.5mg tablets (Arrow Generics Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-76672,Nitrazepam 5mg tablets (Arrow Generics Ltd),,,,N05CD02,CEGEDIM
-76673,Nitrazepam 5mg tablets (Arrow Generics Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-76694,Diazepam 2mg tablets (Arrow Generics Ltd),,,,N05BA01,CEGEDIM
-76695,Diazepam 2mg tablets (Arrow Generics Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-76696,Diazepam 2mg tablets (Arrow Generics Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-76697,Diazepam 5mg tablets (Arrow Generics Ltd),,,,N05BA01,CEGEDIM
-76698,Diazepam 5mg tablets (Arrow Generics Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-76699,Diazepam 5mg tablets (Arrow Generics Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-76700,Diazepam 10mg tablets (Arrow Generics Ltd),,,,N05BA01,CEGEDIM
-76701,Diazepam 10mg tablets (Arrow Generics Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-76702,Diazepam 10mg tablets (Arrow Generics Ltd) 500 tablet,,,,N05BA01,CEGEDIM
 76834,Sodium valproate 200mg gastro-resistant tablets (Arrow Generics Ltd),,,,N03AG01,CEGEDIM
 76835,Sodium valproate 200mg gastro-resistant tablets (Arrow Generics Ltd) 100 tablet,,,,N03AG01,CEGEDIM
 76836,Sodium valproate 500mg gastro-resistant tablets (Arrow Generics Ltd),,,,N03AG01,CEGEDIM
@@ -1753,18 +1391,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 77719,Midazolam 10mg/ml oral solution (Special Order) 1 ml,,,,N05CD08,CEGEDIM
 77757,Depakote 500mg gastro-resistant tablets (Waymade Healthcare Plc),,,,N03AG01,CEGEDIM
 77758,Depakote 500mg gastro-resistant tablets (Waymade Healthcare Plc) 90 tablet,,,,N03AG01,CEGEDIM
-77942,Heminevrin 192mg capsules (Waymade Healthcare Plc),,,,N05CM02,CEGEDIM
-77943,Heminevrin 192mg capsules (Waymade Healthcare Plc) 60 capsule,,,,N05CM02,CEGEDIM
 77958,Lyrica 75mg capsules (Waymade Healthcare Plc),,,,N03AX16,CEGEDIM
 77959,Lyrica 75mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N03AX16,CEGEDIM
 77960,Lyrica 25mg capsules (Waymade Healthcare Plc),,,,N03AX16,CEGEDIM
 77961,Lyrica 25mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N03AX16,CEGEDIM
 77962,Lyrica 150mg capsules (Waymade Healthcare Plc),,,,N03AX16,CEGEDIM
 77963,Lyrica 150mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N03AX16,CEGEDIM
-77974,Lorazepam 1mg tablets (Waymade Healthcare Plc),,,,N05BA06,CEGEDIM
-77975,Lorazepam 1mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N05BA06,CEGEDIM
-77983,Loprazolam 1mg tablets (Waymade Healthcare Plc),,,,N05CD11,CEGEDIM
-77984,Loprazolam 1mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N05CD11,CEGEDIM
 77993,Keppra 1g tablets (Waymade Healthcare Plc),,,,N03AX14,CEGEDIM
 77994,Keppra 1g tablets (Waymade Healthcare Plc) 60 tablet,,,,N03AX14,CEGEDIM
 77997,Keppra 250mg tablets (Waymade Healthcare Plc),,,,N03AX14,CEGEDIM
@@ -1822,22 +1454,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 80380,Epilim 200mg/5ml liquid (Waymade Healthcare Plc),,,,N03AG01,CEGEDIM
 80381,Epilim 200mg/5ml liquid (Waymade Healthcare Plc) 300 ml,,,,N03AG01,CEGEDIM
 80882,Lyrica 25mg capsules (Waymade Healthcare Plc) 100 capsule,,,,N03AX16,CEGEDIM
-81669,Chlordiazepoxide 5mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA02,CEGEDIM
-81670,Chlordiazepoxide 5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-81673,Chlordiazepoxide 5mg capsules (Dr Reddy's Laboratories (UK) Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-81680,Chlordiazepoxide 10mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA02,CEGEDIM
-81681,Chlordiazepoxide 10mg capsules (Dr Reddy's Laboratories (UK) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-81682,Chlordiazepoxide 10mg capsules (Dr Reddy's Laboratories (UK) Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-81685,Chlordiazepoxide 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA02,CEGEDIM
-81686,Chlordiazepoxide 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-81689,Chlordiazepoxide 10mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA02,CEGEDIM
-81690,Chlordiazepoxide 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-81739,Diazepam 2mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA01,CEGEDIM
-81740,Diazepam 2mg tablets (Dr Reddy's Laboratories (UK) Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-81741,Diazepam 5mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA01,CEGEDIM
-81742,Diazepam 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-81743,Diazepam 10mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N05BA01,CEGEDIM
-81744,Diazepam 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) 500 tablet,,,,N05BA01,CEGEDIM
 82064,Midazolam 2mg/2ml solution for injection ampoules (hameln pharma Ltd),,,,N05CD08,CEGEDIM
 82065,Midazolam 2mg/2ml solution for injection ampoules (hameln pharma Ltd) 10 ampoule,,,,N05CD08,CEGEDIM
 82066,Midazolam 5mg/5ml solution for injection ampoules (hameln pharma Ltd),,,,N05CD08,CEGEDIM
@@ -1850,8 +1466,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 82867,Valproic acid 125mg gastro-resistant capsules,,,,N03AG01,CEGEDIM
 82868,Depakote 125mg sprinkle gastro-resistant capsules (Imported (United States)),,,,N03AG01,CEGEDIM
 82869,Depakote 125mg sprinkle gastro-resistant capsules (Imported (United States)) 100 capsule,,,,N03AG01,CEGEDIM
-83800,Diazepam 2mg/5ml oral solution (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
-83801,Diazepam 2mg/5ml oral solution (Alliance Healthcare (Distribution) Ltd) 100 ml,,,,N05BA01,CEGEDIM
 83909,Keppra 1g tablets (Waymade Healthcare Plc) 30 tablet,,,,N03AX14,CEGEDIM
 85005,Primidone 125mg/5ml oral suspension,,,,N03AA03,CEGEDIM
 85006,Liskantin Saft 125mg/5ml oral suspension (Imported (Germany)),,,,N03AA03,CEGEDIM
@@ -1904,21 +1518,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 86719,Clonazepam 2mg/5ml oral solution sugar-free,,,,,CEGEDIM
 86720,Clonazepam 2mg/5ml oral solution sugar-free (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
 86721,Clonazepam 2mg/5ml oral solution sugar-free (Rosemont Pharmaceuticals Ltd) 150 ml,,,,,CEGEDIM
-86728,Diazepam 2.5mg / 5ml oral suspension,,,,,CEGEDIM
-86729,Diazepam 2.5mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
-86730,Diazepam 2.5mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd) 500 ml,,,,,CEGEDIM
-86731,Diazepam 10mg / 5ml oral suspension,,,,,CEGEDIM
-86732,Diazepam 10mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
-86733,Diazepam 10mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd) 200 ml,,,,,CEGEDIM
 86762,Clonazepam 500micrograms/5ml oral solution sugar-free (Special Order),,,,,CEGEDIM
 86763,Clonazepam 500micrograms/5ml oral solution sugar-free (Special Order) 1 ml,,,,,CEGEDIM
 86764,Clonazepam 2mg/5ml oral solution sugar-free (Special Order),,,,,CEGEDIM
 86765,Clonazepam 2mg/5ml oral solution sugar-free (Special Order) 1 ml,,,,,CEGEDIM
-86770,Diazepam 2.5mg/5ml oral suspension (Special Order),,,,,CEGEDIM
-86771,Diazepam 2.5mg/5ml oral suspension (Special Order) 1 ml,,,,,CEGEDIM
-86772,Diazepam 10mg/5ml oral suspension (Special Order),,,,,CEGEDIM
-86773,Diazepam 10mg/5ml oral suspension (Special Order) 1 ml,,,,,CEGEDIM
-87984,Loprazolam 1mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05CD11,CEGEDIM
 87985,Lyrica 25mg capsules (Waymade Healthcare Plc) 84 capsule,,,,N03AX16,CEGEDIM
 89439,Clonazepam 120micrograms/5ml oral suspension,,,,N03AE01,CEGEDIM
 89538,Clonazepam 80micrograms/5ml oral solution,,,,N03AE01,CEGEDIM
@@ -2159,33 +1762,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 90486,Gabapentin 500mg/5ml oral solution (Special Order),,,,N03AX12,CEGEDIM
 90487,Gabapentin 500mg/5ml oral solution (Special Order) 1 ml,,,,N03AX12,CEGEDIM
 91152,Phenobarbital 247.5mg/5ml oral solution,,,,N03AA02,CEGEDIM
-90909,Oxazepam 2mg/5ml oral suspension,,,,N05BA04,CEGEDIM
-90910,Oxazepam 2mg/5ml oral suspension (Special Order),,,,N05BA04,CEGEDIM
-90911,Oxazepam 2mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA04,CEGEDIM
-90912,Oxazepam 2.5mg/5ml oral suspension,,,,N05BA04,CEGEDIM
-90913,Oxazepam 2.5mg/5ml oral suspension (Special Order),,,,N05BA04,CEGEDIM
-90914,Oxazepam 2.5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA04,CEGEDIM
-90915,Oxazepam 12.5mg/5ml oral suspension,,,,N05BA04,CEGEDIM
-90916,Oxazepam 12.5mg/5ml oral suspension (Special Order),,,,N05BA04,CEGEDIM
-90917,Oxazepam 12.5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA04,CEGEDIM
-90921,Oxazepam 10mg/5ml oral suspension,,,,N05BA04,CEGEDIM
-90922,Oxazepam 10mg/5ml oral suspension (Special Order),,,,N05BA04,CEGEDIM
-90923,Oxazepam 10mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA04,CEGEDIM
-90924,Nitrazepam 6mg/5ml oral suspension,,,,N05CD02,CEGEDIM
-90925,Nitrazepam 6mg/5ml oral suspension (Special Order),,,,N05CD02,CEGEDIM
-90926,Nitrazepam 6mg/5ml oral suspension (Special Order) 1 ml,,,,N05CD02,CEGEDIM
-90929,Nitrazepam 4mg/5ml oral suspension,,,,N05CD02,CEGEDIM
-90930,Nitrazepam 4mg/5ml oral suspension (Special Order),,,,N05CD02,CEGEDIM
-90931,Nitrazepam 4mg/5ml oral suspension (Special Order) 1 ml,,,,N05CD02,CEGEDIM
-90932,Nitrazepam 450micrograms/5ml oral suspension,,,,N05CD02,CEGEDIM
-90933,Nitrazepam 450micrograms/5ml oral suspension (Special Order),,,,N05CD02,CEGEDIM
-90934,Nitrazepam 450micrograms/5ml oral suspension (Special Order) 1 ml,,,,N05CD02,CEGEDIM
-90935,Nitrazepam 2mg/5ml oral suspension,,,,N05CD02,CEGEDIM
-90936,Nitrazepam 2mg/5ml oral suspension (Special Order),,,,N05CD02,CEGEDIM
-90937,Nitrazepam 2mg/5ml oral suspension (Special Order) 1 ml,,,,N05CD02,CEGEDIM
-90938,Nitrazepam 10mg/5ml oral suspension,,,,N05CD02,CEGEDIM
-90939,Nitrazepam 10mg/5ml oral suspension (Special Order),,,,N05CD02,CEGEDIM
-90940,Nitrazepam 10mg/5ml oral suspension (Special Order) 1 ml,,,,N05CD02,CEGEDIM
 90995,Phenobarbital sodium 100mg/5ml oral suspension,,,,N03AA02,CEGEDIM
 90996,Phenobarbital sodium 100mg/5ml oral suspension (Special Order),,,,N03AA02,CEGEDIM
 90997,Phenobarbital sodium 100mg/5ml oral suspension (Special Order) 1 ml,,,,N03AA02,CEGEDIM
@@ -2602,22 +2178,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 92591,Phenobarbital 60mg capsules,,,,N03AA02,CEGEDIM
 92592,Phenobarbital 60mg capsules (Special Order),,,,N03AA02,CEGEDIM
 92593,Phenobarbital 60mg capsules (Special Order) 1 capsule,,,,N03AA02,CEGEDIM
-92865,Chlordiazepoxide 10mg/5ml oral suspension,,,,N05BA02,CEGEDIM
-92866,Chlordiazepoxide 10mg/5ml oral suspension (Special Order),,,,N05BA02,CEGEDIM
-92867,Chlordiazepoxide 10mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA02,CEGEDIM
-92880,Chlordiazepoxide 10mg/5ml oral solution,,,,N05BA02,CEGEDIM
-92881,Chlordiazepoxide 10mg/5ml oral solution (Special Order),,,,N05BA02,CEGEDIM
-92882,Chlordiazepoxide 10mg/5ml oral solution (Special Order) 1 ml,,,,N05BA02,CEGEDIM
-92897,Chlordiazepoxide 4mg/5ml oral suspension,,,,N05BA02,CEGEDIM
-92898,Chlordiazepoxide 4mg/5ml oral suspension (Special Order),,,,N05BA02,CEGEDIM
-92899,Chlordiazepoxide 4mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA02,CEGEDIM
-92908,Chlordiazepoxide 4mg/5ml oral solution,,,,N05BA02,CEGEDIM
-92909,Chlordiazepoxide 4mg/5ml oral solution (Special Order),,,,N05BA02,CEGEDIM
-92910,Chlordiazepoxide 4mg/5ml oral solution (Special Order) 1 ml,,,,N05BA02,CEGEDIM
-94036,Lorazepam 1mg tablets (Sandoz Ltd),,,,N05BA06,CEGEDIM
-94037,Lorazepam 1mg tablets (Sandoz Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-94038,Lorazepam 2.5mg tablets (Sandoz Ltd),,,,N05BA06,CEGEDIM
-94039,Lorazepam 2.5mg tablets (Sandoz Ltd) 28 tablet,,,,N05BA06,CEGEDIM
 94240,Frisium 10mg tablets (Waymade Healthcare Plc) 60 tablet,,,,N05BA09,CEGEDIM
 94555,Lamotrigine 1.5mg/5ml oral suspension,,,,N03AX09,CEGEDIM
 94556,Lamotrigine 1.5mg/5ml oral suspension (Special Order),,,,N03AX09,CEGEDIM
@@ -2667,36 +2227,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 94687,Levetiracetam 400mg/5ml oral solution,,,,N03AX14,CEGEDIM
 94688,Levetiracetam 400mg/5ml oral solution (Special Order),,,,N03AX14,CEGEDIM
 94689,Levetiracetam 400mg/5ml oral solution (Special Order) 1 ml,,,,N03AX14,CEGEDIM
-96221,Lorazepam 1.125mg/5ml oral suspension,,,,N05BA06,CEGEDIM
-96222,Lorazepam 1.125mg/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-96223,Lorazepam 1.125mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96224,Lorazepam 1.125mg/5ml oral solution,,,,N05BA06,CEGEDIM
-96225,Lorazepam 1.125mg/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-96226,Lorazepam 1.125mg/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96239,Lorazepam 3.75mg/5ml oral suspension,,,,N05BA06,CEGEDIM
-96240,Lorazepam 3.75mg/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-96241,Lorazepam 3.75mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96248,Lorazepam 3.75mg/5ml oral solution,,,,N05BA06,CEGEDIM
-96249,Lorazepam 3.75mg/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-96250,Lorazepam 3.75mg/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96253,Lorazepam 400micrograms/5ml oral suspension,,,,N05BA06,CEGEDIM
-96254,Lorazepam 400micrograms/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-96255,Lorazepam 400micrograms/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96258,Lorazepam 400micrograms/5ml oral solution,,,,N05BA06,CEGEDIM
-96259,Lorazepam 400micrograms/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-96260,Lorazepam 400micrograms/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96261,Lorazepam 4mg/5ml oral suspension,,,,N05BA06,CEGEDIM
-96262,Lorazepam 4mg/5ml oral suspension (Special Order),,,,N05BA06,CEGEDIM
-96263,Lorazepam 4mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96264,Lorazepam 4mg/5ml oral solution,,,,N05BA06,CEGEDIM
-96265,Lorazepam 4mg/5ml oral solution (Special Order),,,,N05BA06,CEGEDIM
-96266,Lorazepam 4mg/5ml oral solution (Special Order) 1 ml,,,,N05BA06,CEGEDIM
-96269,Lormetazepam 2mg/5ml oral suspension,,,,N05CD06,CEGEDIM
-96270,Lormetazepam 2mg/5ml oral suspension (Special Order),,,,N05CD06,CEGEDIM
-96271,Lormetazepam 2mg/5ml oral suspension (Special Order) 1 ml,,,,N05CD06,CEGEDIM
-96272,Lormetazepam 500micrograms/5ml oral suspension,,,,N05CD06,CEGEDIM
-96273,Lormetazepam 500micrograms/5ml oral suspension (Special Order),,,,N05CD06,CEGEDIM
-96274,Lormetazepam 500micrograms/5ml oral suspension (Special Order) 1 ml,,,,N05CD06,CEGEDIM
 96698,Rufinamide 100mg tablets,,,,N03AF03,CEGEDIM
 96699,Inovelon 100mg tablets (Eisai Ltd),,,,N03AF03,CEGEDIM
 96700,Inovelon 100mg tablets (Eisai Ltd) 10 tablet,,,,N03AF03,CEGEDIM
@@ -2805,8 +2335,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 98985,Frisium 10mg tablets (Dowelhurst Ltd) 30 tablet,,,,N05BA09,CEGEDIM
 99025,Keppra 500mg tablets (Dowelhurst Ltd),,,,N03AX14,CEGEDIM
 99026,Keppra 500mg tablets (Dowelhurst Ltd) 60 tablet,,,,N03AX14,CEGEDIM
-99063,Loprazolam 1mg tablets (Dowelhurst Ltd),,,,N05CD11,CEGEDIM
-99064,Loprazolam 1mg tablets (Dowelhurst Ltd) 30 tablet,,,,N05CD11,CEGEDIM
 99072,Lyrica 25mg capsules (Dowelhurst Ltd),,,,N03AX16,CEGEDIM
 99073,Lyrica 25mg capsules (Dowelhurst Ltd) 56 capsule,,,,N03AX16,CEGEDIM
 99074,Lyrica 25mg capsules (Dowelhurst Ltd) 100 capsule,,,,N03AX16,CEGEDIM
@@ -2829,10 +2357,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 99372,Topamax 200mg tablets (Dowelhurst Ltd) 60 tablet,,,,N03AX11,CEGEDIM
 99375,Trileptal 150mg tablets (Dowelhurst Ltd),,,,N03AF02,CEGEDIM
 99376,Trileptal 150mg tablets (Dowelhurst Ltd) 50 tablet,,,,N03AF02,CEGEDIM
-99421,Chlordiazepoxide 10mg capsules (Dowelhurst Ltd),,,,N05BA02,CEGEDIM
-99422,Chlordiazepoxide 10mg capsules (Dowelhurst Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-99423,Chlordiazepoxide 5mg capsules (Dowelhurst Ltd),,,,N05BA02,CEGEDIM
-99424,Chlordiazepoxide 5mg capsules (Dowelhurst Ltd) 500 capsule,,,,N05BA02,CEGEDIM
 99480,Zonegran 25mg capsules (Dowelhurst Ltd),,,,N03AX15,CEGEDIM
 99481,Zonegran 25mg capsules (Dowelhurst Ltd) 14 capsule,,,,N03AX15,CEGEDIM
 99482,Zonegran 50mg capsules (Dowelhurst Ltd),,,,N03AX15,CEGEDIM
@@ -2947,13 +2471,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 100915,Stiripentol 250mg oral powder sachets,,,,N03AX17,CEGEDIM
 100916,Diacomit 250mg oral powder sachets (Alan Pharmaceuticals),,,,N03AX17,CEGEDIM
 100917,Diacomit 250mg oral powder sachets (Alan Pharmaceuticals) 60 sachet,,,,N03AX17,CEGEDIM
-100918,Lorazepam 2.5mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-100919,Lorazepam 2.5mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 100920,Stiripentol 500mg capsules,,,,N03AX17,CEGEDIM
 100921,Diacomit 500mg capsules (Alan Pharmaceuticals),,,,N03AX17,CEGEDIM
 100922,Diacomit 500mg capsules (Alan Pharmaceuticals) 60 capsule,,,,N03AX17,CEGEDIM
-100923,Lorazepam 1mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-100924,Lorazepam 1mg tablets (Almus Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 100925,Stiripentol 500mg oral powder sachets,,,,N03AX17,CEGEDIM
 100926,Diacomit 500mg oral powder sachets (Alan Pharmaceuticals),,,,N03AX17,CEGEDIM
 100927,Diacomit 500mg oral powder sachets (Alan Pharmaceuticals) 60 sachet,,,,N03AX17,CEGEDIM
@@ -2984,10 +2504,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 102326,Lyrica 50mg capsules (Waymade Healthcare Plc) 56 capsule,,,,N03AX16,CEGEDIM
 102327,Zonegran 25mg capsules (Waymade Healthcare Plc),,,,N03AX15,CEGEDIM
 102328,Zonegran 25mg capsules (Waymade Healthcare Plc) 14 capsule,,,,N03AX15,CEGEDIM
-102403,Diazepam 2mg tablets (DE Pharmaceuticals),,,,N05BA01,CEGEDIM
-102404,Diazepam 2mg tablets (DE Pharmaceuticals) 1000 tablet,,,,N05BA01,CEGEDIM
-102405,Diazepam 5mg tablets (DE Pharmaceuticals),,,,N05BA01,CEGEDIM
-102406,Diazepam 5mg tablets (DE Pharmaceuticals) 1000 tablet,,,,N05BA01,CEGEDIM
 103001,Phenytoin sodium 250mg/5ml solution for injection ampoules (Alliance Pharmaceuticals Ltd),,,,N03AB02,CEGEDIM
 103002,Phenytoin sodium 250mg/5ml solution for injection ampoules (Alliance Pharmaceuticals Ltd) 1 ampoule,,,,N03AB02,CEGEDIM
 103050,Oxcarbazepine 600mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AF02,CEGEDIM
@@ -3039,19 +2555,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 104061,Lamotrigine 25mg tablets (Apotex UK Ltd) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
 104062,Lamotrigine 50mg tablets (Apotex UK Ltd),,,,N03AX09,CEGEDIM
 104063,Lamotrigine 50mg tablets (Apotex UK Ltd) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
-104143,Loprazolam 1mg tablets (A A H Pharmaceuticals Ltd),,,,N05CD11,CEGEDIM
-104144,Loprazolam 1mg tablets (A A H Pharmaceuticals Ltd) 30 tablet,,,,N05CD11,CEGEDIM
 105072,Frisium 10mg tablets (DE Pharmaceuticals),,,,N05BA09,CEGEDIM
 105073,Frisium 10mg tablets (DE Pharmaceuticals) 30 tablet,,,,N05BA09,CEGEDIM
-105096,Diazepam 10mg/5ml oral suspension,,,,N05BA01,CEGEDIM
-105097,Diazepam 10mg/5ml oral suspension (Special Order),,,,N05BA01,CEGEDIM
-105098,Diazepam 10mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA01,CEGEDIM
 105169,Phenytoin 90mg/5ml oral solution,,,,N03AB02,CEGEDIM
 105170,Phenytoin 90mg/5ml oral solution (Special Order),,,,N03AB02,CEGEDIM
 105171,Phenytoin 90mg/5ml oral solution (Special Order) 1 ml,,,,N03AB02,CEGEDIM
-105172,Diazepam 2.5mg/5ml oral suspension,,,,N05BA01,CEGEDIM
-105173,Diazepam 2.5mg/5ml oral suspension (Special Order),,,,N05BA01,CEGEDIM
-105174,Diazepam 2.5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA01,CEGEDIM
 105371,Keppra 250mg tablets (DE Pharmaceuticals),,,,N03AX14,CEGEDIM
 105372,Keppra 250mg tablets (DE Pharmaceuticals) 60 tablet,,,,N03AX14,CEGEDIM
 105373,Keppra 500mg tablets (DE Pharmaceuticals),,,,N03AX14,CEGEDIM
@@ -3064,10 +2572,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 105382,Lamictal 100mg tablets (DE Pharmaceuticals) 30 tablet,,,,N03AX09,CEGEDIM
 105383,Lamictal 200mg tablets (DE Pharmaceuticals),,,,N03AX09,CEGEDIM
 105384,Lamictal 200mg tablets (DE Pharmaceuticals) 30 tablet,,,,N03AX09,CEGEDIM
-105451,Loprazolam 1mg tablets (DE Pharmaceuticals),,,,N05CD11,CEGEDIM
-105452,Loprazolam 1mg tablets (DE Pharmaceuticals) 30 tablet,,,,N05CD11,CEGEDIM
-105453,Lormetazepam 1mg tablets (Teva UK Ltd),,,,N05CD06,CEGEDIM
-105454,Lormetazepam 1mg tablets (Teva UK Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
 105469,Lyrica 25mg capsules (DE Pharmaceuticals),,,,N03AX16,CEGEDIM
 105470,Lyrica 25mg capsules (DE Pharmaceuticals) 56 capsule,,,,N03AX16,CEGEDIM
 105471,Lyrica 25mg capsules (DE Pharmaceuticals) 84 capsule,,,,N03AX16,CEGEDIM
@@ -3086,12 +2590,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 105517,Clonazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N03AE01,CEGEDIM
 105518,Clonazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AE01,CEGEDIM
 105519,Clonazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd) 100 tablet,,,,N03AE01,CEGEDIM
-105568,Diazepam 2mg tablets (Wockhardt UK Ltd),,,,N05BA01,CEGEDIM
-105569,Diazepam 2mg tablets (Wockhardt UK Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-105570,Diazepam 5mg tablets (Wockhardt UK Ltd),,,,N05BA01,CEGEDIM
-105571,Diazepam 5mg tablets (Wockhardt UK Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-105572,Diazepam 10mg tablets (Wockhardt UK Ltd),,,,N05BA01,CEGEDIM
-105573,Diazepam 10mg tablets (Wockhardt UK Ltd) 28 tablet,,,,N05BA01,CEGEDIM
 105861,Gabapentin 400mg/5ml oral suspension,,,,N03AX12,CEGEDIM
 105862,Gabapentin 400mg/5ml oral suspension (Drug Tariff Special Order),,,,N03AX12,CEGEDIM
 105863,Gabapentin 400mg/5ml oral suspension (Drug Tariff Special Order) 1 ml,,,,N03AX12,CEGEDIM
@@ -3203,9 +2701,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 109021,Lacosamide 15mg/ml oral solution sugar free,,,,N03AX18,CEGEDIM
 109022,Vimpat 15mg/ml syrup (UCB Pharma Ltd),,,,N03AX18,CEGEDIM
 109023,Vimpat 15mg/ml syrup (UCB Pharma Ltd) 200 ml,,,,N03AX18,CEGEDIM
-109167,Loprazolam 1mg tablets (Sigma Pharmaceuticals Plc),,,,N05CD11,CEGEDIM
-109168,Loprazolam 1mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05CD11,CEGEDIM
-109169,Loprazolam 1mg tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N05CD11,CEGEDIM
 109630,Lyrica 25mg capsules (Sigma Pharmaceuticals Plc) 56 capsule,,,,N03AX16,CEGEDIM
 109631,Lyrica 25mg capsules (Sigma Pharmaceuticals Plc) 100 capsule,,,,N03AX16,CEGEDIM
 109337,Clobazam 1.25mg/5ml oral solution,,,,N05BA09,CEGEDIM
@@ -3297,9 +2792,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 113017,Lamotrigine 100mg dispersible tablets sugar free (Sigma Pharmaceuticals Plc) 56 tablet,,,,N03AX09,CEGEDIM
 113127,Phenytoin sodium 100mg tablets (Wockhardt UK Ltd),,,,N03AB02,CEGEDIM
 113128,Phenytoin sodium 100mg tablets (Wockhardt UK Ltd) 100 tablet,,,,N03AB02,CEGEDIM
-113267,Lormetazepam 125micrograms/5ml oral suspension,,,,N05CD06,CEGEDIM
-113268,Lormetazepam 125micrograms/5ml oral suspension (Special Order),,,,N05CD06,CEGEDIM
-113269,Lormetazepam 125micrograms/5ml oral suspension (Special Order) 1 ml,,,,N05CD06,CEGEDIM
 113337,Carbamazepine 400mg tablets (Actavis UK Ltd) 56 tablet4 x 14 tablets,,,,N03AF01,CEGEDIM
 114678,Ethosuximide 250mg capsules (Essential Generics Ltd),,,,N03AD01,CEGEDIM
 114679,Ethosuximide 250mg capsules (Essential Generics Ltd) 56 capsule,,,,N03AD01,CEGEDIM
@@ -3312,18 +2804,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 115154,Midazolam maleate 10mg/ml oromucosal solution,,,,,CEGEDIM
 115155,Midazolam maleate 10mg/ml oromucosal solution (Drug Tariff Special Order),,,,,CEGEDIM
 115156,Midazolam maleate 10mg/ml oromucosal solution (Drug Tariff Special Order) 1 ml,,,,,CEGEDIM
-115608,Lormetazepam 1mg tablets (Waymade Healthcare Plc),,,,N05CD06,CEGEDIM
-115609,Lormetazepam 1mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N05CD06,CEGEDIM
 115611,Mysoline 250mg tablets (Waymade Healthcare Plc),,,,N03AA03,CEGEDIM
 115612,Mysoline 250mg tablets (Waymade Healthcare Plc) 100 tablet,,,,N03AA03,CEGEDIM
 115688,Lamotrigine 100mg tablets (Sigma Pharmaceuticals Plc),,,,N03AX09,CEGEDIM
 115689,Lamotrigine 100mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N03AX09,CEGEDIM
 115834,Carbamazepine 400mg modified-release tablets (Sigma Pharmaceuticals Plc),,,,N03AF01,CEGEDIM
 115835,Carbamazepine 400mg modified-release tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N03AF01,CEGEDIM
-115867,Chlordiazepoxide 10mg capsules (Sigma Pharmaceuticals Plc),,,,N05BA02,CEGEDIM
-115868,Chlordiazepoxide 10mg capsules (Sigma Pharmaceuticals Plc) 100 capsule,,,,N05BA02,CEGEDIM
-115869,Chlordiazepoxide 5mg capsules (Sigma Pharmaceuticals Plc),,,,N05BA02,CEGEDIM
-115870,Chlordiazepoxide 5mg capsules (Sigma Pharmaceuticals Plc) 100 capsule,,,,N05BA02,CEGEDIM
 115875,Carbamazepine 400mg tablets (Sigma Pharmaceuticals Plc),,,,N03AF01,CEGEDIM
 115876,Carbamazepine 400mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N03AF01,CEGEDIM
 115877,Carbamazepine 100mg tablets (Sigma Pharmaceuticals Plc),,,,N03AF01,CEGEDIM
@@ -3334,10 +2820,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 115884,Carbamazepine 200mg modified-release tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N03AF01,CEGEDIM
 115889,Clonazepam 2mg tablets (Sigma Pharmaceuticals Plc),,,,N03AE01,CEGEDIM
 115890,Clonazepam 2mg tablets (Sigma Pharmaceuticals Plc) 100 tablet,,,,N03AE01,CEGEDIM
-115929,Diazepam 2mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA01,CEGEDIM
-115930,Diazepam 2mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA01,CEGEDIM
-115931,Diazepam 5mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA01,CEGEDIM
-115932,Diazepam 5mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA01,CEGEDIM
 116001,Gabapentin 100mg capsules (Sigma Pharmaceuticals Plc),,,,N03AX12,CEGEDIM
 116002,Gabapentin 100mg capsules (Sigma Pharmaceuticals Plc) 100 capsule,,,,N03AX12,CEGEDIM
 116003,Gabapentin 300mg capsules (Sigma Pharmaceuticals Plc),,,,N03AX12,CEGEDIM
@@ -3360,10 +2842,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 116120,Lamotrigine 50mg tablets (Sigma Pharmaceuticals Plc) 56 tablet,,,,N03AX09,CEGEDIM
 116123,Lamotrigine 5mg dispersible tablets sugar free (Sigma Pharmaceuticals Plc),,,,N03AX09,CEGEDIM
 116124,Lamotrigine 5mg dispersible tablets sugar free (Sigma Pharmaceuticals Plc) 28 tablet,,,,N03AX09,CEGEDIM
-116129,Diazepam 2mg/5ml oral solution (Sigma Pharmaceuticals Plc),,,,N05BA01,CEGEDIM
-116130,Diazepam 2mg/5ml oral solution (Sigma Pharmaceuticals Plc) 500 ml,,,,N05BA01,CEGEDIM
-116151,Lorazepam 2.5mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA06,CEGEDIM
-116152,Lorazepam 2.5mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA06,CEGEDIM
 116196,Oxcarbazepine 150mg tablets (Sigma Pharmaceuticals Plc),,,,N03AF02,CEGEDIM
 116197,Oxcarbazepine 150mg tablets (Sigma Pharmaceuticals Plc) 50 tablet,,,,N03AF02,CEGEDIM
 116198,Oxcarbazepine 300mg tablets (Sigma Pharmaceuticals Plc),,,,N03AF02,CEGEDIM
@@ -3390,8 +2868,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 116625,Oxcarbazepine 600mg tablets (Actavis UK Ltd) 50 tablet5 x 10 tablets,,,,N03AF02,CEGEDIM
 116626,Oxcarbazepine 300mg tablets (Actavis UK Ltd),,,,N03AF02,CEGEDIM
 116627,Oxcarbazepine 300mg tablets (Actavis UK Ltd) 50 tablet5 x 10 tablets,,,,N03AF02,CEGEDIM
-116664,Lorazepam 1mg tablets (Waymade Healthcare Plc) 50 tablet,,,,N05BA06,CEGEDIM
-116665,Lorazepam 1mg tablets (Waymade Healthcare Plc) 100 tablet,,,,N05BA06,CEGEDIM
 116668,Phenytoin sodium 100mg tablets (Sigma Pharmaceuticals Plc),,,,N03AB02,CEGEDIM
 116669,Phenytoin sodium 100mg tablets (Sigma Pharmaceuticals Plc) 100 tablet,,,,N03AB02,CEGEDIM
 116709,Sodium valproate 300mg modified-release tablets (Sigma Pharmaceuticals Plc),,,,N03AG01,CEGEDIM
@@ -3426,20 +2902,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 118918,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules,,,,B05XA05,CEGEDIM
 118919,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules (Martindale Pharmaceuticals Ltd),,,,B05XA05,CEGEDIM
 118920,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules (Martindale Pharmaceuticals Ltd) 5 ampoule,,,,B05XA05,CEGEDIM
-118999,Lorazepam 1mg tablets (Actavis UK Ltd),,,,N05BA06,CEGEDIM
-119000,Lorazepam 1mg tablets (Actavis UK Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-119001,Lorazepam 2.5mg tablets (Actavis UK Ltd),,,,N05BA06,CEGEDIM
-119002,Lorazepam 2.5mg tablets (Actavis UK Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-119003,Lormetazepam 500microgram tablets (Actavis UK Ltd),,,,N05CD06,CEGEDIM
-119004,Lormetazepam 500microgram tablets (Actavis UK Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-119005,Lormetazepam 1mg tablets (Actavis UK Ltd),,,,N05CD06,CEGEDIM
-119006,Lormetazepam 1mg tablets (Actavis UK Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
 119019,Epilim Chronosphere MR 1000mg granules sachets (Sanofi),,,,N03AG01,CEGEDIM
 119020,Epilim Chronosphere MR 1000mg granules sachets (Sanofi) 30 sachet,,,,N03AG01,CEGEDIM
 119093,Primidone 100mg/5ml oral suspension,,,,N03AA03,CEGEDIM
 119094,Primidone 100mg/5ml oral suspension (Special Order),,,,N03AA03,CEGEDIM
 119095,Primidone 100mg/5ml oral suspension (Special Order) 1 ml,,,,N03AA03,CEGEDIM
-119259,Lorazepam 1mg tablets (Alliance Healthcare (Distribution) Ltd) 1000 tablet,,,,N05BA06,CEGEDIM
 119714,Pregabalin 75mg oral powder sachets,,,,N03AX16,CEGEDIM
 119715,Pregabalin 75mg oral powder sachets (Special Order),,,,N03AX16,CEGEDIM
 119716,Pregabalin 75mg oral powder sachets (Special Order) 1 sachet,,,,N03AX16,CEGEDIM
@@ -3539,12 +3006,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 124642,Valproic acid 500mg/5ml oral suspension,,,,N03AG01,CEGEDIM
 124643,Valproic acid 500mg/5ml oral suspension (Special Order),,,,N03AG01,CEGEDIM
 124644,Valproic acid 500mg/5ml oral suspension (Special Order) 1 ml,,,,N03AG01,CEGEDIM
-124919,Chlordiazepoxide 2.5mg/5ml oral solution,,,,N05BA02,CEGEDIM
-124920,Chlordiazepoxide 2.5mg/5ml oral solution (Special Order),,,,N05BA02,CEGEDIM
-124921,Chlordiazepoxide 2.5mg/5ml oral solution (Special Order) 1 ml,,,,N05BA02,CEGEDIM
-124926,Chlordiazepoxide 2.5mg/5ml oral suspension,,,,N05BA02,CEGEDIM
-124927,Chlordiazepoxide 2.5mg/5ml oral suspension (Special Order),,,,N05BA02,CEGEDIM
-124928,Chlordiazepoxide 2.5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA02,CEGEDIM
 125219,Topiramate 25mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX11,CEGEDIM
 125220,Topiramate 25mg tablets (Alliance Healthcare (Distribution) Ltd) 60 tablet6 x 10 tablets,,,,N03AX11,CEGEDIM
 125222,Topiramate 50mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX11,CEGEDIM
@@ -3628,9 +3089,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 125488,Lamictal 100mg dispersible tablets (Lexon (UK) Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 125532,Lamictal 25mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N03AX09,CEGEDIM
 125533,Lamictal 50mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N03AX09,CEGEDIM
-125536,Loprazolam 1mg tablets (Lexon (UK) Ltd),,,,N05CD11,CEGEDIM
-125537,Loprazolam 1mg tablets (Lexon (UK) Ltd) 28 tablet,,,,N05CD11,CEGEDIM
-125538,Loprazolam 1mg tablets (Lexon (UK) Ltd) 30 tablet,,,,N05CD11,CEGEDIM
 125539,Lyrica 150mg capsules (Waymade Healthcare Plc) 14 capsule,,,,N03AX16,CEGEDIM
 125561,Lyrica 25mg capsules (Lexon (UK) Ltd),,,,N03AX16,CEGEDIM
 125562,Lyrica 25mg capsules (Lexon (UK) Ltd) 56 capsule,,,,N03AX16,CEGEDIM
@@ -3678,9 +3136,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 126234,Trileptal 300mg tablets (Lexon (UK) Ltd) 50 tablet,,,,N03AF02,CEGEDIM
 126235,Trileptal 600mg tablets (Lexon (UK) Ltd),,,,N03AF02,CEGEDIM
 126236,Trileptal 600mg tablets (Lexon (UK) Ltd) 50 tablet,,,,N03AF02,CEGEDIM
-127681,Diazepam 2mg tablets (Wockhardt UK Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-127682,Diazepam 5mg tablets (Wockhardt UK Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-127683,Diazepam 10mg tablets (Wockhardt UK Ltd) 500 tablet,,,,N05BA01,CEGEDIM
 127686,Phenytoin sodium 100mg tablets (Wockhardt UK Ltd) 28 tablet,,,,N03AB02,CEGEDIM
 127867,Zonegran 25mg capsules (Lexon (UK) Ltd),,,,N03AX15,CEGEDIM
 127868,Zonegran 25mg capsules (Lexon (UK) Ltd) 14 capsule,,,,N03AX15,CEGEDIM
@@ -3689,10 +3144,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 127871,Zonegran 50mg capsules (Lexon (UK) Ltd) 56 capsule,,,,N03AX15,CEGEDIM
 127872,Zonegran 100mg capsules (Lexon (UK) Ltd),,,,N03AX15,CEGEDIM
 127873,Zonegran 100mg capsules (Lexon (UK) Ltd) 65 capsule,,,,N03AX15,CEGEDIM
-128416,Loprazolam 1mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05CD11,CEGEDIM
-128417,Loprazolam 1mg tablets (Mawdsley-Brooks & Company Ltd) 30 tablet,,,,N05CD11,CEGEDIM
-128420,Lormetazepam 1mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05CD06,CEGEDIM
-128421,Lormetazepam 1mg tablets (Mawdsley-Brooks & Company Ltd) 30 tablet,,,,N05CD06,CEGEDIM
 128462,Lyrica 25mg capsules (Mawdsley-Brooks & Company Ltd),,,,N03AX16,CEGEDIM
 128463,Lyrica 25mg capsules (Mawdsley-Brooks & Company Ltd) 56 capsule,,,,N03AX16,CEGEDIM
 128468,Lyrica 25mg capsules (Mawdsley-Brooks & Company Ltd) 100 capsule,,,,N03AX16,CEGEDIM
@@ -3730,8 +3181,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 128769,Lamictal 5mg dispersible tablets (Stephar (U.K.) Ltd),,,,N03AX09,CEGEDIM
 128770,Lamictal 5mg dispersible tablets (Stephar (U.K.) Ltd) 28 tablet,,,,N03AX09,CEGEDIM
 128771,Lamictal 5mg dispersible tablets (Stephar (U.K.) Ltd) 56 tablet,,,,N03AX09,CEGEDIM
-128780,Loprazolam 1mg tablets (Stephar (U.K.) Ltd),,,,N05CD11,CEGEDIM
-128781,Loprazolam 1mg tablets (Stephar (U.K.) Ltd) 30 tablet,,,,N05CD11,CEGEDIM
 128827,Mysoline 250mg tablets (Mawdsley-Brooks & Company Ltd),,,,N03AA03,CEGEDIM
 128828,Mysoline 250mg tablets (Mawdsley-Brooks & Company Ltd) 60 tablet,,,,N03AA03,CEGEDIM
 128829,Mysoline 250mg tablets (Mawdsley-Brooks & Company Ltd) 100 tablet,,,,N03AA03,CEGEDIM
@@ -3768,7 +3217,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 129412,Topiramate 50mg tablets (Mylan),,,,N03AX11,CEGEDIM
 129506,Clobazam 10mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA09,CEGEDIM
 129507,Clobazam 10mg tablets (Alliance Healthcare (Distribution) Ltd) 30 tablet3 x 10 tablets,,,,N05BA09,CEGEDIM
-129567,Loprazolam 1mg tablets (A A H Pharmaceuticals Ltd) 28 tablet,,,,N05CD11,CEGEDIM
 129772,Tegretol Prolonged Release 400mg tablets (Stephar (U.K.) Ltd),,,,N03AF01,CEGEDIM
 129773,Tegretol Prolonged Release 400mg tablets (Stephar (U.K.) Ltd) 30 tablet,,,,N03AF01,CEGEDIM
 129780,Topamax 200mg tablets (Stephar (U.K.) Ltd),,,,N03AX11,CEGEDIM
@@ -3797,15 +3245,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 134284,Felbamate 600mg tablets,,,,N03AX10,CEGEDIM
 134285,Felbatol 600mg tablets (Imported (United States)),,,,N03AX10,CEGEDIM
 134286,Felbatol 600mg tablets (Imported (United States)) 100 tablet,,,,N03AX10,CEGEDIM
-134476,Diazepam 2mg tablets (Sovereign Medical Ltd),,,,N05BA01,CEGEDIM
-134477,Diazepam 2mg tablets (Sovereign Medical Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-134478,Diazepam 2mg tablets (Sovereign Medical Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-134479,Diazepam 5mg tablets (Sovereign Medical Ltd),,,,N05BA01,CEGEDIM
-134480,Diazepam 5mg tablets (Sovereign Medical Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-134481,Diazepam 5mg tablets (Sovereign Medical Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-134482,Diazepam 10mg tablets (Sovereign Medical Ltd),,,,N05BA01,CEGEDIM
-134483,Diazepam 10mg tablets (Sovereign Medical Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-134484,Diazepam 10mg tablets (Sovereign Medical Ltd) 500 tablet,,,,N05BA01,CEGEDIM
 135385,Rivotril 500microgram tablets (Waymade Healthcare Plc),,,,N03AE01,CEGEDIM
 135386,Rivotril 500microgram tablets (Waymade Healthcare Plc) 60 tablet,,,,N03AE01,CEGEDIM
 136319,Carbamazepine 100mg tablets (Mylan) 56 tablet2 x 28 tablets,,,,N03AF01,CEGEDIM
@@ -3851,26 +3290,18 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 137284,Neurontin 100mg capsules (Mawdsley-Brooks & Company Ltd) 100 capsule,,,,N03AX12,CEGEDIM
 137285,Neurontin 300mg capsules (Mawdsley-Brooks & Company Ltd),,,,N03AX12,CEGEDIM
 137286,Neurontin 300mg capsules (Mawdsley-Brooks & Company Ltd) 100 capsule,,,,N03AX12,CEGEDIM
-137353,Lormetazepam 500microgram tablets (Teva UK Ltd),,,,N05CD06,CEGEDIM
-137354,Lormetazepam 500microgram tablets (Teva UK Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
 137478,Paraldehyde 5g/5ml solution for injection vials,,,,N05CC05,CEGEDIM
 137479,Paraldehyde 5g/5ml solution for injection vials (Special Order),,,,N05CC05,CEGEDIM
 137480,Paraldehyde 5g/5ml solution for injection vials (Special Order) 1 vial,,,,N05CC05,CEGEDIM
 137631,Epilim 200mg/5ml syrup (Sigma Pharmaceuticals Plc),,,,N03AG01,CEGEDIM
 137632,Epilim 200mg/5ml syrup (Sigma Pharmaceuticals Plc) 300 ml,,,,N03AG01,CEGEDIM
 137688,Keppra 1g tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N03AX14,CEGEDIM
-137698,Lorazepam 1mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA06,CEGEDIM
-137699,Lorazepam 1mg tablets (Sigma Pharmaceuticals Plc) 50 tablet,,,,N05BA06,CEGEDIM
-137700,Lormetazepam 1mg tablets (Sigma Pharmaceuticals Plc),,,,N05CD06,CEGEDIM
-137701,Lormetazepam 1mg tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N05CD06,CEGEDIM
 137703,Lyrica 200mg capsules (Sigma Pharmaceuticals Plc),,,,N03AX16,CEGEDIM
 137704,Lyrica 200mg capsules (Sigma Pharmaceuticals Plc) 84 capsule,,,,N03AX16,CEGEDIM
 137705,Lyrica 300mg capsules (Sigma Pharmaceuticals Plc),,,,N03AX16,CEGEDIM
 137706,Lyrica 300mg capsules (Sigma Pharmaceuticals Plc) 56 capsule,,,,N03AX16,CEGEDIM
 137721,Mysoline 250mg tablets (Sigma Pharmaceuticals Plc),,,,N03AA03,CEGEDIM
 137722,Mysoline 250mg tablets (Sigma Pharmaceuticals Plc) 100 tablet,,,,N03AA03,CEGEDIM
-137732,Lormetazepam 1mg tablets (Necessity Supplies Ltd),,,,N05CD06,CEGEDIM
-137733,Lormetazepam 1mg tablets (Necessity Supplies Ltd) 30 tablet,,,,N05CD06,CEGEDIM
 137750,Lyrica 100mg capsules (Necessity Supplies Ltd),,,,N03AX16,CEGEDIM
 137751,Lyrica 100mg capsules (Necessity Supplies Ltd) 84 capsule,,,,N03AX16,CEGEDIM
 137752,Lyrica 150mg capsules (Necessity Supplies Ltd),,,,N03AX16,CEGEDIM
@@ -3924,7 +3355,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 138121,Neurontin 600mg tablets (Necessity Supplies Ltd) 100 tablet,,,,N03AX12,CEGEDIM
 138122,Neurontin 800mg tablets (Necessity Supplies Ltd),,,,N03AX12,CEGEDIM
 138123,Neurontin 800mg tablets (Necessity Supplies Ltd) 100 tablet,,,,N03AX12,CEGEDIM
-138289,Chlordiazepoxide 5mg / Clidinium bromide 2.5mg capsules,,,,A03CA02,CEGEDIM
 138304,Primidone 250mg tablets (Sigma Pharmaceuticals Plc),,,,N03AA03,CEGEDIM
 138305,Primidone 250mg tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N03AA03,CEGEDIM
 138310,Primidone 250mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N03AA03,CEGEDIM
@@ -3955,16 +3385,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 140067,Carbamazepine 400mg tablets (Phoenix Healthcare Distribution Ltd) 56 tablet,,,,N03AF01,CEGEDIM
 140070,Topiramate 200mg tablets (Phoenix Healthcare Distribution Ltd),,,,N03AX11,CEGEDIM
 140071,Topiramate 200mg tablets (Phoenix Healthcare Distribution Ltd) 60 tablet,,,,N03AX11,CEGEDIM
-140300,Chlordiazepoxide 5mg capsules (Phoenix Healthcare Distribution Ltd),,,,N05BA02,CEGEDIM
-140301,Chlordiazepoxide 5mg capsules (Phoenix Healthcare Distribution Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-140302,Chlordiazepoxide 5mg capsules (Phoenix Healthcare Distribution Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-140303,Chlordiazepoxide 10mg capsules (Phoenix Healthcare Distribution Ltd),,,,N05BA02,CEGEDIM
-140304,Chlordiazepoxide 10mg capsules (Phoenix Healthcare Distribution Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-140305,Chlordiazepoxide 10mg capsules (Phoenix Healthcare Distribution Ltd) 500 capsule,,,,N05BA02,CEGEDIM
-140306,Chlordiazepoxide 5mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA02,CEGEDIM
-140307,Chlordiazepoxide 5mg tablets (Phoenix Healthcare Distribution Ltd) 100 tablet,,,,N05BA02,CEGEDIM
-140308,Chlordiazepoxide 10mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA02,CEGEDIM
-140309,Chlordiazepoxide 10mg tablets (Phoenix Healthcare Distribution Ltd) 100 tablet,,,,N05BA02,CEGEDIM
 140352,Clobazam 10mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA09,CEGEDIM
 140353,Clobazam 10mg tablets (Phoenix Healthcare Distribution Ltd) 30 tablet,,,,N05BA09,CEGEDIM
 140360,Clonazepam 500microgram tablets (Phoenix Healthcare Distribution Ltd),,,,N03AE01,CEGEDIM
@@ -3990,20 +3410,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 140989,Lamotrigine 50mg tablets (Phoenix Healthcare Distribution Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 140990,Lamotrigine 200mg tablets (Phoenix Healthcare Distribution Ltd),,,,N03AX09,CEGEDIM
 140991,Lamotrigine 200mg tablets (Phoenix Healthcare Distribution Ltd) 56 tablet,,,,N03AX09,CEGEDIM
-141072,Lorazepam 1mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA06,CEGEDIM
-141073,Lorazepam 1mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-141074,Lorazepam 2.5mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA06,CEGEDIM
-141075,Lorazepam 2.5mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-141076,Lormetazepam 500microgram tablets (Phoenix Healthcare Distribution Ltd),,,,N05CD06,CEGEDIM
-141077,Lormetazepam 500microgram tablets (Phoenix Healthcare Distribution Ltd) 30 tablet,,,,N05CD06,CEGEDIM
-141078,Lormetazepam 1mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05CD06,CEGEDIM
-141079,Lormetazepam 1mg tablets (Phoenix Healthcare Distribution Ltd) 30 tablet,,,,N05CD06,CEGEDIM
-141152,Nitrazepam 5mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05CD02,CEGEDIM
-141153,Nitrazepam 5mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-141186,Oxazepam 10mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA04,CEGEDIM
-141187,Oxazepam 10mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA04,CEGEDIM
-141188,Oxazepam 15mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA04,CEGEDIM
-141189,Oxazepam 15mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA04,CEGEDIM
 141258,Lyrica 50mg capsules (Waymade Healthcare Plc) 21 capsule,,,,N03AX16,CEGEDIM
 141309,Phenobarbital 30mg tablets (Almus Pharmaceuticals Ltd),,,,N03AA02,CEGEDIM
 141310,Phenobarbital 30mg tablets (Almus Pharmaceuticals Ltd) 28 tablet,,,,N03AA02,CEGEDIM
@@ -4041,12 +3447,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 142218,Lamotrigine 100mg tablets (Fannin UK Ltd) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
 142219,Lamotrigine 200mg tablets (Fannin UK Ltd),,,,N03AX09,CEGEDIM
 142220,Lamotrigine 200mg tablets (Fannin UK Ltd) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
-142460,Diazepam 2mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA01,CEGEDIM
-142461,Diazepam 2mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-142462,Diazepam 5mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA01,CEGEDIM
-142463,Diazepam 5mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-142464,Diazepam 10mg tablets (Phoenix Healthcare Distribution Ltd),,,,N05BA01,CEGEDIM
-142465,Diazepam 10mg tablets (Phoenix Healthcare Distribution Ltd) 28 tablet,,,,N05BA01,CEGEDIM
 142473,Gabapentin 600mg tablets (Phoenix Healthcare Distribution Ltd),,,,N03AX12,CEGEDIM
 142474,Gabapentin 600mg tablets (Phoenix Healthcare Distribution Ltd) 100 tablet,,,,N03AX12,CEGEDIM
 142670,Lamotrigine 5mg dispersible tablets sugar free (Phoenix Healthcare Distribution Ltd),,,,N03AX09,CEGEDIM
@@ -4142,9 +3542,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 145766,Lamotrigine 200mg tablets (Dr Reddy's Laboratories (UK) Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 145889,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules (A A H Pharmaceuticals Ltd),,,,B05XA05,CEGEDIM
 145890,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules (A A H Pharmaceuticals Ltd) 5 ampoule,,,,B05XA05,CEGEDIM
-145910,Bromazepam 3mg tablets,,,,N05BA08,CEGEDIM
-145911,Bromazepam 3mg tablets (Special Order),,,,N05BA08,CEGEDIM
-145912,Bromazepam 3mg tablets (Special Order) 1 tablet,,,,N05BA08,CEGEDIM
 146007,Phenytoin sodium 54mg/5ml oral suspension,,,,N03AB02,CEGEDIM
 146008,Phenytoin sodium 54mg/5ml oral suspension (Special Order),,,,N03AB02,CEGEDIM
 146009,Phenytoin sodium 54mg/5ml oral suspension (Special Order) 1 ml,,,,N03AB02,CEGEDIM
@@ -4166,18 +3563,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 146621,Lamictal 100mg dispersible tablets (DE Pharmaceuticals) 56 tablet,,,,N03AX09,CEGEDIM
 146622,Lamictal 25mg dispersible tablets (DE Pharmaceuticals),,,,N03AX09,CEGEDIM
 146623,Lamictal 25mg dispersible tablets (DE Pharmaceuticals) 56 tablet,,,,N03AX09,CEGEDIM
-146637,Lorazepam 1mg tablets (DE Pharmaceuticals),,,,N05BA06,CEGEDIM
-146638,Lorazepam 1mg tablets (DE Pharmaceuticals) 50 tablet,,,,N05BA06,CEGEDIM
 146644,Lyrica 100mg capsules (DE Pharmaceuticals) 21 capsule,,,,N03AX16,CEGEDIM
 146645,Lyrica 150mg capsules (DE Pharmaceuticals) 14 capsule,,,,N03AX16,CEGEDIM
 146652,Lyrica 50mg capsules (DE Pharmaceuticals) 21 capsule,,,,N03AX16,CEGEDIM
 146653,Lyrica 75mg capsules (DE Pharmaceuticals) 14 capsule,,,,N03AX16,CEGEDIM
 146701,Midazolam 7.5mg tablets,,,,N05CD08,CEGEDIM
-146702,Dormicum 7.5mg tablets (Imported (Netherlands)),,,,N05CD08,CEGEDIM
-146703,Dormicum 7.5mg tablets (Imported (Netherlands)) 30 tablet,,,,N05CD08,CEGEDIM
 146704,Midazolam 15mg tablets,,,,N05CD08,CEGEDIM
-146705,Dormicum 15mg tablets (Imported (Netherlands)),,,,N05CD08,CEGEDIM
-146706,Dormicum 15mg tablets (Imported (Netherlands)) 30 tablet,,,,N05CD08,CEGEDIM
 146770,Primidone 250mg tablets (DE Pharmaceuticals),,,,N03AA03,CEGEDIM
 146771,Primidone 250mg tablets (DE Pharmaceuticals) 30 tablet,,,,N03AA03,CEGEDIM
 146805,Rivotril 500microgram tablets (DE Pharmaceuticals),,,,N03AE01,CEGEDIM
@@ -4228,8 +3619,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 152828,Midazolam hydrochoride 10mg/ml oromucosal solution,,,,,CEGEDIM
 152829,Midazolam hydrochoride 10mg/ml oromucosal solution (Drug Tariff Special Order),,,,,CEGEDIM
 152830,Midazolam hydrochoride 10mg/ml oromucosal solution (Drug Tariff Special Order) 1 ml,,,,,CEGEDIM
-153215,Clomethiazole 192mg capsules (Cheplapharm Arzneimittel GmbH),,,,N05CM02,CEGEDIM
-153216,Clomethiazole 192mg capsules (Cheplapharm Arzneimittel GmbH) 60 capsule,,,,N05CM02,CEGEDIM
 153776,Keppra 250mg tablets (Waymade Healthcare Plc) 50 tablet,,,,N03AX14,CEGEDIM
 153777,Lyrica 100mg capsules (Waymade Healthcare Plc) 21 capsule,,,,N03AX16,CEGEDIM
 154213,Levetiracetam 250mg tablets (Consilient Health Ltd),,,,N03AX14,CEGEDIM
@@ -4242,8 +3631,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 154220,Levetiracetam 1g tablets (Consilient Health Ltd) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
 154221,Levetiracetam 100mg/ml oral solution sugar free (Consilient Health Ltd),,,,N03AX14,CEGEDIM
 154222,Levetiracetam 100mg/ml oral solution sugar free (Consilient Health Ltd) 300 ml,,,,N03AX14,CEGEDIM
-154439,Clomethiazole 192mg capsules (A A H Pharmaceuticals Ltd),,,,N05CM02,CEGEDIM
-154440,Clomethiazole 192mg capsules (A A H Pharmaceuticals Ltd) 60 capsule,,,,N05CM02,CEGEDIM
 154443,Levetiracetam 100mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N03AX14,CEGEDIM
 154444,Levetiracetam 100mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 300 ml,,,,N03AX14,CEGEDIM
 154445,Levetiracetam 1g tablets (A A H Pharmaceuticals Ltd),,,,N03AX14,CEGEDIM
@@ -4262,8 +3649,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 154538,Levetiracetam 750mg tablets (Teva UK Ltd) 60 tablet2 x 30 tablets,,,,N03AX14,CEGEDIM
 154539,Levetiracetam 1g tablets (Teva UK Ltd),,,,N03AX14,CEGEDIM
 154540,Levetiracetam 1g tablets (Teva UK Ltd) 60 tablet5 x 12 tablets,,,,N03AX14,CEGEDIM
-154571,Clomethiazole 192mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N05CM02,CEGEDIM
-154572,Clomethiazole 192mg capsules (Alliance Healthcare (Distribution) Ltd) 60 capsule,,,,N05CM02,CEGEDIM
 154573,Levetiracetam 100mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N03AX14,CEGEDIM
 154574,Levetiracetam 100mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 300 ml,,,,N03AX14,CEGEDIM
 154575,Levetiracetam 250mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX14,CEGEDIM
@@ -4290,8 +3675,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 154858,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) 4 unit dose,,,,N05CD08,CEGEDIM
 155157,Carbamazepine 100mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),,,,N03AF01,CEGEDIM
 155158,Carbamazepine 100mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) 300 ml,,,,N03AF01,CEGEDIM
-155163,Diazepam 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-155164,Diazepam 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) 100 ml,,,,N05BA01,CEGEDIM
 155330,Levetiracetam 250mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N03AX14,CEGEDIM
 155331,Levetiracetam 250mg tablets (Dr Reddy's Laboratories (UK) Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 155332,Levetiracetam 500mg tablets (Dr Reddy's Laboratories (UK) Ltd),,,,N03AX14,CEGEDIM
@@ -4305,11 +3688,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 155370,Clobazam 10mg/5ml oral suspension (Special Order) 50 ml,,,,N05BA09,CEGEDIM
 155373,Clobazam 5mg/5ml oral suspension (Special Order) 100 ml,,,,N05BA09,CEGEDIM
 155376,Clonazepam 500micrograms/5ml oral solution (Special Order) 150 ml,,,,N03AE01,CEGEDIM
-155377,Lorazepam 1mg/5ml oral solution (Drug Tariff Special Order) 150 ml,,,,N05BA06,CEGEDIM
 155378,Clonazepam 500micrograms/5ml oral suspension (Special Order) 100 ml,,,,N03AE01,CEGEDIM
-155381,Lorazepam 1mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N05BA06,CEGEDIM
-155383,Lorazepam 500micrograms/5ml oral solution (Drug Tariff Special Order) 150 ml,,,,N05BA06,CEGEDIM
-155385,Lorazepam 500micrograms/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N05BA06,CEGEDIM
 155386,Gabapentin 250mg/5ml oral solution (Special Order) 150 ml,,,,N03AX12,CEGEDIM
 155387,Gabapentin 250mg/5ml oral suspension (Special Order) 100 ml,,,,N03AX12,CEGEDIM
 155393,Topiramate 25mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N03AX11,CEGEDIM
@@ -4343,9 +3722,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 155934,Sodium valproate 500mg gastro-resistant tablets (Wockhardt UK Ltd) 100 tablet10 x 10 tablets,,,,N03AG01,CEGEDIM
 155935,Sodium valproate 200mg gastro-resistant tablets (Wockhardt UK Ltd),,,,N03AG01,CEGEDIM
 155936,Sodium valproate 200mg gastro-resistant tablets (Wockhardt UK Ltd) 100 tablet10 x 10 tablets,,,,N03AG01,CEGEDIM
-156023,Diazepam 2mg/5ml oral suspension,,,,N05BA01,CEGEDIM
-156024,Diazepam 2mg/5ml oral suspension (Special Order),,,,N05BA01,CEGEDIM
-156025,Diazepam 2mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA01,CEGEDIM
 156308,Midazolam 10mg/5ml solution for injection ampoules (Actavis UK Ltd),,,,N05CD08,CEGEDIM
 156309,Midazolam 10mg/5ml solution for injection ampoules (Actavis UK Ltd) 10 ampoule,,,,N05CD08,CEGEDIM
 156310,Midazolam 10mg/2ml solution for injection ampoules (Actavis UK Ltd),,,,N05CD08,CEGEDIM
@@ -4373,10 +3749,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 157225,Carbamazepine 200mg tablets (Almus Pharmaceuticals Ltd) 28 tablet,,,,N03AF01,CEGEDIM
 157226,Carbamazepine 400mg tablets (Almus Pharmaceuticals Ltd),,,,N03AF01,CEGEDIM
 157227,Carbamazepine 400mg tablets (Almus Pharmaceuticals Ltd) 56 tablet,,,,N03AF01,CEGEDIM
-157241,Oxazepam 10mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-157242,Oxazepam 10mg tablets (Almus Pharmaceuticals Ltd) 28 tablet,,,,N05BA04,CEGEDIM
-157243,Oxazepam 15mg tablets (Almus Pharmaceuticals Ltd),,,,N05BA04,CEGEDIM
-157244,Oxazepam 15mg tablets (Almus Pharmaceuticals Ltd) 28 tablet,,,,N05BA04,CEGEDIM
 157303,Midazolam 10mg/2ml solution for injection ampoules (Special Order),,,,N05CD08,CEGEDIM
 157304,Midazolam 10mg/2ml solution for injection ampoules (Special Order) 1 ampoule,,,,N05CD08,CEGEDIM
 157409,Levetiracetam 100mg/ml oral solution sugar free (Actavis UK Ltd),,,,N03AX14,CEGEDIM
@@ -4425,7 +3797,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 158640,Clonazepam 2mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) 150 ml,,,,N03AE01,CEGEDIM
 158702,Topamax 50mg sprinkle capsules (Lexon (UK) Ltd),,,,N03AX11,CEGEDIM
 158703,Topamax 50mg sprinkle capsules (Lexon (UK) Ltd) 60 capsule,,,,N03AX11,CEGEDIM
-159703,Chlordiazepoxide 2.5mg/5ml oral suspension (Special Order) 50 ml,,,,N05BA02,CEGEDIM
 159744,Tegretol Prolonged Release 200mg tablets (DE Pharmaceuticals) 60 tablet,,,,N03AF01,CEGEDIM
 159766,Lamotrigine 25mg tablets (Accord Healthcare Ltd),,,,N03AX09,CEGEDIM
 159767,Lamotrigine 25mg tablets (Accord Healthcare Ltd) 56 tablet,,,,N03AX09,CEGEDIM
@@ -4468,10 +3839,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 161035,Levetiracetam 1g tablets (Sandoz Ltd),,,,N03AX14,CEGEDIM
 161036,Levetiracetam 1g tablets (Sandoz Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 161054,Tegretol Prolonged Release 200mg tablets (Waymade Healthcare Plc) 60 tablet,,,,N03AF01,CEGEDIM
-161179,Lorazepam 1mg tablets (Genesis Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-161180,Lorazepam 1mg tablets (Genesis Pharmaceuticals Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-161181,Lorazepam 2.5mg tablets (Genesis Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-161182,Lorazepam 2.5mg tablets (Genesis Pharmaceuticals Ltd) 28 tablet,,,,N05BA06,CEGEDIM
 161358,Rufinamide 40mg/ml oral suspension sugar free,,,,N03AF03,CEGEDIM
 161359,Inovelon 40mg/ml oral suspension (Eisai Ltd),,,,N03AF03,CEGEDIM
 161360,Inovelon 40mg/ml oral suspension (Eisai Ltd) 460 ml,,,,N03AF03,CEGEDIM
@@ -4485,25 +3852,15 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 161494,Levetiracetam 100mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml1 x 1ml syringe,,,,N03AX14,CEGEDIM
 161589,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules (Martindale Pharmaceuticals Ltd) 10 ampoule,,,,B05XA05,CEGEDIM
 161617,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules (A A H Pharmaceuticals Ltd) 10 ampoule,,,,B05XA05,CEGEDIM
-162031,Clomethiazole 250mg/5ml oral solution,,,,N05CM02,CEGEDIM
-162032,Clomethiazole 250mg/5ml oral solution (Special Order),,,,N05CM02,CEGEDIM
-162033,Clomethiazole 250mg/5ml oral solution (Special Order) 1 ml,,,,N05CM02,CEGEDIM
 162055,Gabapentin 400mg/5ml oral solution (Special Order) 200 ml,,,,N03AX12,CEGEDIM
 162056,Gabapentin 400mg/5ml oral suspension (Drug Tariff Special Order) 200 ml,,,,N03AX12,CEGEDIM
 162070,Topiramate 50mg/5ml oral suspension (Special Order) 100 ml,,,,N03AX11,CEGEDIM
-162151,Diazepam 10mg/5ml oral solution (Special Order) 100 ml,,,,N05BA01,CEGEDIM
 162189,Phenobarbital 50mg/5ml oral solution (Special Order) 150 ml,,,,N03AA02,CEGEDIM
 162190,Phenobarbital 50mg/5ml oral suspension (Special Order) 100 ml,,,,N03AA02,CEGEDIM
 162196,Vimpat 50mg tablets (Waymade Healthcare Plc),,,,N03AX18,CEGEDIM
 162197,Vimpat 50mg tablets (Waymade Healthcare Plc) 14 tablet,,,,N03AX18,CEGEDIM
 162235,Clonazepam 100micrograms/5ml oral suspension (Special Order) 100 ml,,,,N03AE01,CEGEDIM
 162236,Clonazepam 250micrograms/5ml oral suspension (Special Order) 100 ml,,,,N03AE01,CEGEDIM
-162372,Nitrazepam 5mg tablets (Pharmvit Ltd),,,,N05CD02,CEGEDIM
-162373,Nitrazepam 5mg tablets (Pharmvit Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-162803,Lormetazepam 500microgram tablets (Almus Pharmaceuticals Ltd),,,,N05CD06,CEGEDIM
-162804,Lormetazepam 500microgram tablets (Almus Pharmaceuticals Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-162805,Lormetazepam 1mg tablets (Almus Pharmaceuticals Ltd),,,,N05CD06,CEGEDIM
-162806,Lormetazepam 1mg tablets (Almus Pharmaceuticals Ltd) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
 162874,Topiramate 250mg/5ml oral suspension,,,,N03AX11,CEGEDIM
 162875,Topiramate 250mg/5ml oral suspension (Special Order),,,,N03AX11,CEGEDIM
 162876,Topiramate 250mg/5ml oral suspension (Special Order) 1 ml,,,,N03AX11,CEGEDIM
@@ -4542,8 +3899,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 166310,Topiramate 25mg capsules (Sandoz Ltd) 60 capsule,,,,N03AX11,CEGEDIM
 166311,Topiramate 50mg capsules (Sandoz Ltd),,,,N03AX11,CEGEDIM
 166312,Topiramate 50mg capsules (Sandoz Ltd) 60 capsule,,,,N03AX11,CEGEDIM
-167217,Clomethiazole 192mg capsules (Waymade Healthcare Plc),,,,N05CM02,CEGEDIM
-167218,Clomethiazole 192mg capsules (Waymade Healthcare Plc) 60 capsule,,,,N05CM02,CEGEDIM
 167236,Phenytoin sodium 100mg tablets (Milpharm Ltd),,,,N03AB02,CEGEDIM
 167237,Phenytoin sodium 100mg tablets (Milpharm Ltd) 28 tablet2 x 14 tablets,,,,N03AB02,CEGEDIM
 167249,Levetiracetam 250mg tablets (Arrow Generics Ltd),,,,N03AX14,CEGEDIM
@@ -4602,7 +3957,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 169267,Gabapentin 600mg tablets (Accord Healthcare Ltd) 100 tablet10 x 10 tablets,,,,N03AX12,CEGEDIM
 169276,Gabapentin 800mg tablets (Accord Healthcare Ltd),,,,N03AX12,CEGEDIM
 169277,Gabapentin 800mg tablets (Accord Healthcare Ltd) 100 tablet10 x 10 tablets,,,,N03AX12,CEGEDIM
-169444,Diazepam 10mg/5ml oral suspension (Special Order) 200 ml,,,,N05BA01,CEGEDIM
 169459,Primidone 62.5mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N03AA03,CEGEDIM
 169978,Phenytoin sodium 25mg capsules (A A H Pharmaceuticals Ltd),,,,N03AB02,CEGEDIM
 169749,Phenytoin sodium 25mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N03AB02,CEGEDIM
@@ -4655,10 +4009,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 172838,Desitrend 1000mg granules sachets (Desitin Pharma Ltd) 60 sachet,,,,N03AX14,CEGEDIM
 172847,Gabapentin 50mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N03AX12,CEGEDIM
 172848,Gabapentin 50mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,N03AX12,CEGEDIM
-173340,Lormetazepam 500microgram tablets (Waymade Healthcare Plc),,,,N05CD06,CEGEDIM
-173341,Lormetazepam 500microgram tablets (Waymade Healthcare Plc) 30 tablet,,,,N05CD06,CEGEDIM
-173342,Lormetazepam 1mg tablets (Waymade Healthcare Plc),,,,N05CD06,CEGEDIM
-173343,Lormetazepam 1mg tablets (Waymade Healthcare Plc) 30 tablet,,,,N05CD06,CEGEDIM
 173476,Clobazam 5mg/5ml oral suspension sugar free,,,,N05BA09,CEGEDIM
 173477,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd),,,,N05BA09,CEGEDIM
 173478,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) 150 ml,,,,N05BA09,CEGEDIM
@@ -4669,22 +4019,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 173606,Carbamazepine 100mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N03AF01,CEGEDIM
 173609,Carbamazepine 200mg tablets (Waymade Healthcare Plc),,,,N03AF01,CEGEDIM
 173610,Carbamazepine 200mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N03AF01,CEGEDIM
-173636,Nitrazepam 5mg tablets (Waymade Healthcare Plc),,,,N05CD02,CEGEDIM
-173637,Nitrazepam 5mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05CD02,CEGEDIM
-173640,Nitrazepam 5mg tablets (Waymade Healthcare Plc) 500 tablet,,,,N05CD02,CEGEDIM
-173716,Oxazepam 10mg tablets (Waymade Healthcare Plc),,,,N05BA04,CEGEDIM
-173717,Oxazepam 10mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA04,CEGEDIM
-173718,Oxazepam 15mg tablets (Waymade Healthcare Plc),,,,N05BA04,CEGEDIM
-173719,Oxazepam 15mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA04,CEGEDIM
-173768,Chlordiazepoxide 5mg capsules (Waymade Healthcare Plc),,,,N05BA02,CEGEDIM
-173769,Chlordiazepoxide 5mg capsules (Waymade Healthcare Plc) 100 capsule,,,,N05BA02,CEGEDIM
-173788,Chlordiazepoxide 10mg capsules (Waymade Healthcare Plc),,,,N05BA02,CEGEDIM
-173789,Chlordiazepoxide 10mg capsules (Waymade Healthcare Plc) 100 capsule,,,,N05BA02,CEGEDIM
-173791,Chlordiazepoxide 5mg tablets (Waymade Healthcare Plc),,,,N05BA02,CEGEDIM
-173792,Chlordiazepoxide 5mg tablets (Waymade Healthcare Plc) 100 tablet,,,,N05BA02,CEGEDIM
-173797,Chlordiazepoxide 10mg tablets (Waymade Healthcare Plc),,,,N05BA02,CEGEDIM
-173798,Chlordiazepoxide 10mg tablets (Waymade Healthcare Plc) 100 tablet,,,,N05BA02,CEGEDIM
-173799,Chlordiazepoxide 10mg tablets (Waymade Healthcare Plc) 500 tablet,,,,N05BA02,CEGEDIM
 173881,Phenobarbital 30mg tablets (Waymade Healthcare Plc),,,,N03AA02,CEGEDIM
 173882,Phenobarbital 30mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N03AA02,CEGEDIM
 173883,Phenobarbital 60mg tablets (Waymade Healthcare Plc),,,,N03AA02,CEGEDIM
@@ -4715,12 +4049,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 174525,Clonazepam 500microgram tablets (Waymade Healthcare Plc) 100 tablet,,,,N03AE01,CEGEDIM
 174526,Clonazepam 2mg tablets (Waymade Healthcare Plc),,,,N03AE01,CEGEDIM
 174527,Clonazepam 2mg tablets (Waymade Healthcare Plc) 100 tablet,,,,N03AE01,CEGEDIM
-174551,Diazepam 2mg tablets (Waymade Healthcare Plc),,,,N05BA01,CEGEDIM
-174552,Diazepam 2mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA01,CEGEDIM
-174553,Diazepam 5mg tablets (Waymade Healthcare Plc),,,,N05BA01,CEGEDIM
-174554,Diazepam 5mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA01,CEGEDIM
-174555,Diazepam 10mg tablets (Waymade Healthcare Plc),,,,N05BA01,CEGEDIM
-174556,Diazepam 10mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA01,CEGEDIM
 175392,Gabapentin 100mg capsules (Waymade Healthcare Plc),,,,N03AX12,CEGEDIM
 175393,Gabapentin 100mg capsules (Waymade Healthcare Plc) 100 capsule,,,,N03AX12,CEGEDIM
 175394,Gabapentin 300mg capsules (Waymade Healthcare Plc),,,,N03AX12,CEGEDIM
@@ -4757,12 +4085,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 175807,Levetiracetam 750mg tablets (Waymade Healthcare Plc) 60 tablet,,,,N03AX14,CEGEDIM
 175808,Levetiracetam 1g tablets (Waymade Healthcare Plc),,,,N03AX14,CEGEDIM
 175809,Levetiracetam 1g tablets (Waymade Healthcare Plc) 60 tablet,,,,N03AX14,CEGEDIM
-175874,Loprazolam 1mg tablets (Waymade Healthcare Plc),,,,N05CD11,CEGEDIM
-175875,Loprazolam 1mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05CD11,CEGEDIM
-175878,Lorazepam 1mg tablets (Waymade Healthcare Plc),,,,N05BA06,CEGEDIM
-175879,Lorazepam 1mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA06,CEGEDIM
-175880,Lorazepam 2.5mg tablets (Waymade Healthcare Plc),,,,N05BA06,CEGEDIM
-175881,Lorazepam 2.5mg tablets (Waymade Healthcare Plc) 28 tablet,,,,N05BA06,CEGEDIM
 175944,Clonazepam 500micrograms/5ml oral solution sugar free (Waymade Healthcare Plc),,,,N03AE01,CEGEDIM
 175945,Clonazepam 500micrograms/5ml oral solution sugar free (Waymade Healthcare Plc) 150 ml,,,,N03AE01,CEGEDIM
 175946,Clonazepam 2mg/5ml oral solution sugar free (Waymade Healthcare Plc),,,,N03AE01,CEGEDIM
@@ -4775,10 +4097,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 176963,Diazepam 10mg/2.5ml rectal solution tube (Desitin Pharma Ltd),,,,N05BA01,CEGEDIM
 176964,Diazepam 10mg/2.5ml rectal solution tube (Desitin Pharma Ltd) 5 tube,,,,N05BA01,CEGEDIM
 177340,Pregabalin 75mg/5ml oral suspension (Special Order) 100 ml,,,,N03AX16,CEGEDIM
-177986,Diazepam 5mg/5ml oral solution (AM Distributions (Yorkshire) Ltd),,,,N05BA01,CEGEDIM
-177987,Diazepam 5mg/5ml oral solution (AM Distributions (Yorkshire) Ltd) 100 ml,,,,N05BA01,CEGEDIM
-178000,Diazepam 10mg/5ml oral solution (AM Distributions (Yorkshire) Ltd),,,,N05BA01,CEGEDIM
-178001,Diazepam 10mg/5ml oral solution (AM Distributions (Yorkshire) Ltd) 200 ml,,,,N05BA01,CEGEDIM
 178074,Levetiracetam 250mg tablets (Pfizer Ltd),,,,N03AX14,CEGEDIM
 178075,Levetiracetam 250mg tablets (Pfizer Ltd) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
 178076,Levetiracetam 500mg tablets (Pfizer Ltd),,,,N03AX14,CEGEDIM
@@ -4791,18 +4109,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 178144,Gabapentin 600mg tablets (Aurobindo Pharma Ltd) 100 tablet10 x 10 tablets,,,,N03AX12,CEGEDIM
 178145,Gabapentin 800mg tablets (Aurobindo Pharma Ltd),,,,N03AX12,CEGEDIM
 178146,Gabapentin 800mg tablets (Aurobindo Pharma Ltd) 100 tablet10 x 10 tablets,,,,N03AX12,CEGEDIM
-178305,Diazepam 15mg/5ml oral solution,,,,N05BA01,CEGEDIM
-178306,Diazepam 15mg/5ml oral solution (Special Order),,,,N05BA01,CEGEDIM
-178307,Diazepam 15mg/5ml oral solution (Special Order) 1 ml,,,,N05BA01,CEGEDIM
-178308,Diazepam 15mg/5ml oral solution (Special Order) 100 ml,,,,N05BA01,CEGEDIM
-179017,Clomethiazole 31.5mg/ml oral solution sugar free (Cheplapharm Arzneimittel GmbH),,,,N05CM02,CEGEDIM
-179018,Clomethiazole 31.5mg/ml oral solution sugar free (Cheplapharm Arzneimittel GmbH) 300 ml,,,,N05CM02,CEGEDIM
-179827,Clomethiazole 31.5mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N05CM02,CEGEDIM
-179828,Clomethiazole 31.5mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 300 ml,,,,N05CM02,CEGEDIM
-179833,Clomethiazole 31.5mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N05CM02,CEGEDIM
-179834,Clomethiazole 31.5mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 300 ml,,,,N05CM02,CEGEDIM
-179965,Nitrazepam 5mg tablets (Healthcare Pharma Ltd),,,,N05CD02,CEGEDIM
-179966,Nitrazepam 5mg tablets (Healthcare Pharma Ltd) 500 tablet,,,,N05CD02,CEGEDIM
 179988,Gabapentin 600mg tablets (Creo Pharma Ltd),,,,N03AX12,CEGEDIM
 179989,Gabapentin 600mg tablets (Creo Pharma Ltd) 100 tablet,,,,N03AX12,CEGEDIM
 179990,Gabapentin 800mg tablets (Creo Pharma Ltd),,,,N03AX12,CEGEDIM
@@ -4842,10 +4148,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 180834,Midazolam 150mg/30ml solution for infusion pre-filled syringes,,,,N05CD08,CEGEDIM
 180835,Midazolam 150mg/30ml solution for infusion pre-filled syringes (Special Order),,,,N05CD08,CEGEDIM
 180836,Midazolam 150mg/30ml solution for infusion pre-filled syringes (Special Order) 1 pre-filled disposable injection,,,,N05CD08,CEGEDIM
-181572,Lormetazepam 500microgram tablets (Zentiva),,,,N05CD06,CEGEDIM
-181573,Lormetazepam 500microgram tablets (Zentiva) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
-181605,Lormetazepam 1mg tablets (Zentiva),,,,N05CD06,CEGEDIM
-181606,Lormetazepam 1mg tablets (Zentiva) 30 tablet3 x 10 tablets,,,,N05CD06,CEGEDIM
 183613,Phenytoin sodium 250mg/5ml solution for injection ampoules (Kent Pharmaceuticals Ltd),,,,N03AB02,CEGEDIM
 183614,Phenytoin sodium 250mg/5ml solution for injection ampoules (Kent Pharmaceuticals Ltd) 5 ampoule,,,,N03AB02,CEGEDIM
 185022,Desitrend 100mg/ml oral solution (Desitin Pharma Ltd),,,,N03AX14,CEGEDIM
@@ -4864,10 +4166,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 186241,Primidone 250mg tablets (SERB) 100 tablet,,,,N03AA03,CEGEDIM
 186242,Primidone 50mg tablets (SERB),,,,N03AA03,CEGEDIM
 186243,Primidone 50mg tablets (SERB) 100 tablet,,,,N03AA03,CEGEDIM
-186323,Chlordiazepoxide 7.5mg/5ml oral suspension,,,,N05BA02,CEGEDIM
-186324,Chlordiazepoxide 7.5mg/5ml oral suspension (Special Order),,,,N05BA02,CEGEDIM
-186325,Chlordiazepoxide 7.5mg/5ml oral suspension (Special Order) 1 ml,,,,N05BA02,CEGEDIM
-186326,Chlordiazepoxide 7.5mg/5ml oral suspension (Special Order) 100 ml,,,,N05BA02,CEGEDIM
 187056,Clonazepam 2.5mg/ml drops,,,,N03AE01,CEGEDIM
 187057,Clonazepam 2.5mg/ml drops (Drug Tariff Special Order),,,,N03AE01,CEGEDIM
 187058,Clonazepam 2.5mg/ml drops (Drug Tariff Special Order) 10 ml,,,,N03AE01,CEGEDIM
@@ -4902,9 +4200,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 188655,Levetiracetam 750mg tablets (Bristol Laboratories Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 188657,Levetiracetam 1g tablets (Bristol Laboratories Ltd),,,,N03AX14,CEGEDIM
 188658,Levetiracetam 1g tablets (Bristol Laboratories Ltd) 60 tablet,,,,N03AX14,CEGEDIM
-188683,Diazepam 2mg tablets (Waymade Healthcare Plc) 1000 tablet,,,,N05BA01,CEGEDIM
-188684,Diazepam 5mg tablets (Waymade Healthcare Plc) 1000 tablet,,,,N05BA01,CEGEDIM
-188685,Diazepam 10mg tablets (Waymade Healthcare Plc) 500 tablet,,,,N05BA01,CEGEDIM
 188722,Phenytoin sodium 100mg capsules (Actavis UK Ltd),,,,N03AB02,CEGEDIM
 188723,Phenytoin sodium 100mg capsules (Actavis UK Ltd) 84 capsule,,,,N03AB02,CEGEDIM
 188773,Primidone 250mg tablets (Waymade Healthcare Plc),,,,N03AA03,CEGEDIM
@@ -4921,23 +4216,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 189101,Carbamazepine 400mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet,,,,N03AF01,CEGEDIM
 189123,Phenytoin sodium 100mg capsules (Ennogen Healthcare Ltd),,,,N03AB02,CEGEDIM
 189124,Phenytoin sodium 100mg capsules (Ennogen Healthcare Ltd) 84 capsule,,,,N03AB02,CEGEDIM
-189208,Diazepam 2mg tablets (Phoenix Healthcare Distribution Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
-189209,Diazepam 5mg tablets (Phoenix Healthcare Distribution Ltd) 1000 tablet,,,,N05BA01,CEGEDIM
 189270,Sodium valproate 300mg modified-release tablets (Cubic Pharmaceuticals Ltd),,,,N03AG01,CEGEDIM
 189271,Sodium valproate 300mg modified-release tablets (Cubic Pharmaceuticals Ltd) 100 tablet,,,,N03AG01,CEGEDIM
 189335,Lorazepam 2mg/1ml solution for injection ampoules,,,,N05BA06,CEGEDIM
 189336,Lorazepam 2mg/1ml solution for injection ampoules (Special Order),,,,N05BA06,CEGEDIM
 189337,Lorazepam 2mg/1ml solution for injection ampoules (Special Order) 1 ampoule,,,,N05BA06,CEGEDIM
-190716,Chlordiazepoxide 10mg capsules (DE Pharmaceuticals),,,,N05BA02,CEGEDIM
-190717,Chlordiazepoxide 10mg capsules (DE Pharmaceuticals) 100 capsule,,,,N05BA02,CEGEDIM
-190728,Chlordiazepoxide 5mg capsules (DE Pharmaceuticals),,,,N05BA02,CEGEDIM
-190729,Chlordiazepoxide 5mg capsules (DE Pharmaceuticals) 100 capsule,,,,N05BA02,CEGEDIM
-190736,Chlordiazepoxide 10mg tablets (DE Pharmaceuticals),,,,N05BA02,CEGEDIM
-190737,Chlordiazepoxide 10mg tablets (DE Pharmaceuticals) 100 tablet,,,,N05BA02,CEGEDIM
-191164,Diazepam 10mg tablets (DE Pharmaceuticals),,,,N05BA01,CEGEDIM
-191165,Diazepam 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA01,CEGEDIM
-191169,Diazepam 2mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA01,CEGEDIM
-191174,Diazepam 5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA01,CEGEDIM
 193373,Carbagen 100mg tablets (Mylan) 28 tablet,,,,N03AF01,CEGEDIM
 193374,Carbagen 100mg tablets (Mylan) 56 tablet,,,,N03AF01,CEGEDIM
 191914,Midazolam 2mg/2ml solution for injection ampoules (Niche Pharma Ltd),,,,N05CD08,CEGEDIM
@@ -4981,19 +4264,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 193589,Gabapentin 600mg tablets (Morningside Healthcare Ltd) 100 tablet,,,,N03AX12,CEGEDIM
 193592,Gabapentin 800mg tablets (Morningside Healthcare Ltd),,,,N03AX12,CEGEDIM
 193593,Gabapentin 800mg tablets (Morningside Healthcare Ltd) 100 tablet,,,,N03AX12,CEGEDIM
-193600,Lorazepam 1mg tablets (Morningside Healthcare Ltd),,,,N05BA06,CEGEDIM
-193601,Lorazepam 1mg tablets (Morningside Healthcare Ltd) 30 tablet,,,,N05BA06,CEGEDIM
-193606,Lorazepam 2.5mg tablets (Morningside Healthcare Ltd),,,,N05BA06,CEGEDIM
-193607,Lorazepam 2.5mg tablets (Morningside Healthcare Ltd) 30 tablet,,,,N05BA06,CEGEDIM
-195820,Lorazepam 2.5mg tablets (DE Pharmaceuticals),,,,N05BA06,CEGEDIM
-195821,Lorazepam 2.5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA06,CEGEDIM
-195822,Lormetazepam 500microgram tablets (DE Pharmaceuticals),,,,N05CD06,CEGEDIM
-195823,Lormetazepam 500microgram tablets (DE Pharmaceuticals) 30 tablet,,,,N05CD06,CEGEDIM
-195824,Lormetazepam 1mg tablets (DE Pharmaceuticals),,,,N05CD06,CEGEDIM
-195825,Lormetazepam 1mg tablets (DE Pharmaceuticals) 30 tablet,,,,N05CD06,CEGEDIM
-195420,Nitrazepam 2.5mg/5ml oral suspension (Essential Pharma Ltd),,,,N05CD02,CEGEDIM
-195421,Nitrazepam 2.5mg/5ml oral suspension (Essential Pharma Ltd) 150 ml,,,,N05CD02,CEGEDIM
-195819,Lorazepam 1mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA06,CEGEDIM
 195659,Lamotrigine 100mg tablets (DE Pharmaceuticals),,,,N03AX09,CEGEDIM
 195660,Lamotrigine 100mg tablets (DE Pharmaceuticals) 56 tablet,,,,N03AX09,CEGEDIM
 195661,Lamotrigine 200mg tablets (DE Pharmaceuticals),,,,N03AX09,CEGEDIM
@@ -5012,7 +4282,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 195771,Levetiracetam 500mg tablets (DE Pharmaceuticals) 60 tablet,,,,N03AX14,CEGEDIM
 195772,Levetiracetam 750mg tablets (DE Pharmaceuticals),,,,N03AX14,CEGEDIM
 195773,Levetiracetam 750mg tablets (DE Pharmaceuticals) 60 tablet,,,,N03AX14,CEGEDIM
-195818,Lorazepam 1mg tablets (DE Pharmaceuticals),,,,N05BA06,CEGEDIM
 196158,Sodium valproate 300mg modified-release tablets (DE Pharmaceuticals),,,,N03AG01,CEGEDIM
 196159,Sodium valproate 300mg modified-release tablets (DE Pharmaceuticals) 100 tablet,,,,N03AG01,CEGEDIM
 196185,Sodium valproate 300mg modified-release tablets (CST Pharma Ltd),,,,N03AG01,CEGEDIM
@@ -5061,10 +4330,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 211017,Magnesium sulfate 5% (magnesium 0.2mmol/ml) infusion 100ml bags (Special Order) 30 bag,,,,B05XA05,CEGEDIM
 228620,Topiramate 100mg/5ml oral solution (Special Order) 200 ml,,,,N03AX11,CEGEDIM
 229630,Levetiracetam 100mg/ml oral solution sugar free (Teva UK Ltd),,,,N03AX14,CEGEDIM
-213051,Magnesium sulfate 1.23% cutaneous solution,,,,D11AX05,CEGEDIM
-213052,Magnesium sulfate 1.23% cutaneous solution (Special Order),,,,D11AX05,CEGEDIM
-213053,Magnesium sulfate 1.23% cutaneous solution (Special Order) 1 ml,,,,D11AX05,CEGEDIM
-213064,Magnesium sulfate 1.23% cutaneous solution (Special Order) 100 ml,,,,D11AX05,CEGEDIM
 213085,Magnesium sulfate 8% (magnesium 0.32mmol/ml) infusion 50ml bags,,,,B05XA05,CEGEDIM
 213086,Magnesium sulfate 8% (magnesium 0.32mmol/ml) infusion 50ml bags (Special Order),,,,B05XA05,CEGEDIM
 213087,Magnesium sulfate 8% (magnesium 0.32mmol/ml) infusion 50ml bags (Special Order) 1 bag,,,,B05XA05,CEGEDIM
@@ -5113,8 +4378,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 229946,Sodium valproate 300mg modified-release capsules (Ennogen Healthcare Ltd) 100 capsule,,,,N03AG01,CEGEDIM
 229947,Sodium valproate 300mg modified-release tablets (Ennogen Healthcare Ltd),,,,N03AG01,CEGEDIM
 229948,Sodium valproate 300mg modified-release tablets (Ennogen Healthcare Ltd) 100 tablet,,,,N03AG01,CEGEDIM
-229976,Nitrazepam 2.5mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),,,,N05CD02,CEGEDIM
-229977,Nitrazepam 2.5mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd) 150 ml,,,,N05CD02,CEGEDIM
 230030,Sodium valproate 500mg modified-release tablets (DE Pharmaceuticals),,,,N03AG01,CEGEDIM
 230031,Sodium valproate 500mg modified-release tablets (DE Pharmaceuticals) 100 tablet,,,,N03AG01,CEGEDIM
 232103,Sodium valproate 200mg modified-release tablets (Colorama Pharmaceuticals Ltd),,,,N03AG01,CEGEDIM
@@ -5154,9 +4417,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 236066,Levetiracetam 750mg tablets (Rivopharm (UK) Ltd) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
 236069,Levetiracetam 1g tablets (Rivopharm (UK) Ltd),,,,N03AX14,CEGEDIM
 236070,Levetiracetam 1g tablets (Rivopharm (UK) Ltd) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
-236220,Nitrazepam 2.5mg/5ml oral suspension sugar free,,,,N05CD02,CEGEDIM
-236221,Nitrazepam 2.5mg/5ml oral suspension sugar free (Special Order),,,,N05CD02,CEGEDIM
-236222,Nitrazepam 2.5mg/5ml oral suspension sugar free (Special Order) 1 ml,,,,N05CD02,CEGEDIM
 236437,Rewisca 100mg capsules (Consilient Health Ltd),,,,N03AX16,CEGEDIM
 236438,Rewisca 100mg capsules (Consilient Health Ltd) 84 capsule6 x 14 capsules,,,,N03AX16,CEGEDIM
 236441,Rewisca 25mg capsules (Consilient Health Ltd),,,,N03AX16,CEGEDIM
@@ -5178,10 +4438,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 236986,Midazolam 50mg/50ml solution for infusion vials (hameln pharma Ltd),,,,N05CD08,CEGEDIM
 236987,Midazolam 50mg/50ml solution for infusion vials (hameln pharma Ltd) 1 vial,,,,N05CD08,CEGEDIM
 249495,Pregabalin 225mg capsules (Sandoz Ltd) 56 capsule8 x 7 capsules,,,,N03AX16,CEGEDIM
-237711,Chlordiazepoxide 5mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N05BA02,CEGEDIM
-237712,Chlordiazepoxide 10mg capsules (Alliance Healthcare (Distribution) Ltd) 28 capsule,,,,N05BA02,CEGEDIM
-237723,Chlordiazepoxide 5mg tablets (Ennogen Healthcare Ltd),,,,N05BA02,CEGEDIM
-237724,Chlordiazepoxide 5mg tablets (Ennogen Healthcare Ltd) 100 tablet,,,,N05BA02,CEGEDIM
 249496,Pregabalin 75mg capsules (Sandoz Ltd),,,,N03AX16,CEGEDIM
 237953,Lecaent 25mg capsules (Accord Healthcare Ltd),,,,N03AX16,CEGEDIM
 237954,Lecaent 25mg capsules (Accord Healthcare Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
@@ -5200,21 +4456,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 237967,Lecaent 225mg capsules (Accord Healthcare Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
 237968,Lecaent 300mg capsules (Actavis UK Ltd),,,,N03AX16,CEGEDIM
 237969,Lecaent 300mg capsules (Actavis UK Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
-238053,Dalmane 15mg capsules (Waymade Healthcare Plc),,,,N05CD01,CEGEDIM
-238054,Dalmane 15mg capsules (Waymade Healthcare Plc) 30 capsule,,,,N05CD01,CEGEDIM
-238064,Diazepam 5mg tablets (Crescent Pharma Ltd),,,,N05BA01,CEGEDIM
-238065,Diazepam 5mg tablets (Crescent Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-238066,Diazepam 2mg tablets (Crescent Pharma Ltd),,,,N05BA01,CEGEDIM
-238067,Diazepam 2mg tablets (Crescent Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-238068,Diazepam 10mg tablets (Crescent Pharma Ltd),,,,N05BA01,CEGEDIM
-238069,Diazepam 10mg tablets (Crescent Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA01,CEGEDIM
-238076,Chlordiazepoxide 5mg capsules (Crescent Pharma Ltd),,,,N05BA02,CEGEDIM
-238077,Chlordiazepoxide 5mg capsules (Crescent Pharma Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-238078,Chlordiazepoxide 10mg capsules (Crescent Pharma Ltd),,,,N05BA02,CEGEDIM
-238079,Chlordiazepoxide 10mg capsules (Crescent Pharma Ltd) 100 capsule,,,,N05BA02,CEGEDIM
 249497,Pregabalin 75mg capsules (Sandoz Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
-238395,Chlordiazepoxide 5mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N05BA02,CEGEDIM
-238396,Chlordiazepoxide 10mg capsules (A A H Pharmaceuticals Ltd) 28 capsule,,,,N05BA02,CEGEDIM
 238409,Pregabalin 25mg capsules (A A H Pharmaceuticals Ltd),,,,N03AX16,CEGEDIM
 238410,Pregabalin 25mg capsules (A A H Pharmaceuticals Ltd) 56 capsule8 x 7 capsules,,,,N03AX16,CEGEDIM
 238413,Pregabalin 25mg capsules (A A H Pharmaceuticals Ltd) 84 capsule,,,,N03AX16,CEGEDIM
@@ -5232,12 +4474,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 238427,Pregabalin 225mg capsules (A A H Pharmaceuticals Ltd) 56 capsule8 x 7 capsules,,,,N03AX16,CEGEDIM
 238428,Pregabalin 300mg capsules (A A H Pharmaceuticals Ltd),,,,N03AX16,CEGEDIM
 238429,Pregabalin 300mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
-238489,Diazepam 2mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
-238490,Diazepam 2mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 100 ml,,,,N05BA01,CEGEDIM
 249498,Pregabalin 200mg capsules (Sandoz Ltd),,,,N03AX16,CEGEDIM
 249499,Pregabalin 200mg capsules (Sandoz Ltd) 84 capsule12 x 7 capsules,,,,N03AX16,CEGEDIM
-238659,Chlordiazepoxide 5mg capsules (Kent Pharmaceuticals Ltd) 28 capsule,,,,N05BA02,CEGEDIM
-238660,Chlordiazepoxide 10mg capsules (Kent Pharmaceuticals Ltd) 28 capsule,,,,N05BA02,CEGEDIM
 238693,Alzain 25mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N03AX16,CEGEDIM
 238694,Alzain 25mg capsules (Dr Reddy's Laboratories (UK) Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
 238695,Alzain 50mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N03AX16,CEGEDIM
@@ -5281,12 +4519,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 245655,Carbamazepine 100mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc),,,,N03AF01,CEGEDIM
 245656,Carbamazepine 100mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc) 300 ml,,,,N03AF01,CEGEDIM
 245657,Carbamazepine 200mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N03AF01,CEGEDIM
-245710,Chlordiazepoxide 10mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N05BA02,CEGEDIM
-245711,Chlordiazepoxide 5mg capsules (Sigma Pharmaceuticals Plc) 28 capsule,,,,N05BA02,CEGEDIM
 245744,Clobazam 10mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA09,CEGEDIM
 245745,Clobazam 10mg tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N05BA09,CEGEDIM
-245746,Clomethiazole 192mg capsules (Sigma Pharmaceuticals Plc),,,,N05CM02,CEGEDIM
-245747,Clomethiazole 192mg capsules (Sigma Pharmaceuticals Plc) 60 capsule,,,,N05CM02,CEGEDIM
 245754,Clonazepam 500micrograms/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),,,,N03AE01,CEGEDIM
 245755,Clonazepam 500micrograms/5ml oral solution sugar free (Sigma Pharmaceuticals Plc) 150 ml,,,,N03AE01,CEGEDIM
 245756,Clonazepam 2mg/5ml oral solution sugar free (Sigma Pharmaceuticals Plc),,,,N03AE01,CEGEDIM
@@ -5297,8 +4531,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 245790,Perizam 1mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) 150 ml,,,,N05BA09,CEGEDIM
 245791,Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd),,,,N05BA09,CEGEDIM
 245792,Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) 150 ml,,,,N05BA09,CEGEDIM
-245879,Diazepam 10mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA01,CEGEDIM
-245880,Diazepam 10mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA01,CEGEDIM
 245883,Diazepam 10mg/2.5ml rectal solution tube (Sigma Pharmaceuticals Plc),,,,N05BA01,CEGEDIM
 245884,Diazepam 10mg/2.5ml rectal solution tube (Sigma Pharmaceuticals Plc) 5 tube,,,,N05BA01,CEGEDIM
 245885,Diazepam 5mg/2.5ml rectal solution tube (Sigma Pharmaceuticals Plc),,,,N05BA01,CEGEDIM
@@ -5321,19 +4553,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 246617,Gabapentin 300mg capsules (Wockhardt UK Ltd) 100 capsule10 x 10 capsules,,,,N03AX12,CEGEDIM
 246618,Gabapentin 400mg capsules (Wockhardt UK Ltd),,,,N03AX12,CEGEDIM
 246619,Gabapentin 400mg capsules (Wockhardt UK Ltd) 100 capsule10 x 10 capsules,,,,N03AX12,CEGEDIM
-246661,Lorazepam 1mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA06,CEGEDIM
-246662,Lorazepam 1mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA06,CEGEDIM
-246666,Lormetazepam 500microgram tablets (Sigma Pharmaceuticals Plc),,,,N05CD06,CEGEDIM
-246667,Lormetazepam 500microgram tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N05CD06,CEGEDIM
-246668,Lormetazepam 1mg tablets (Sigma Pharmaceuticals Plc),,,,N05CD06,CEGEDIM
-246669,Lormetazepam 1mg tablets (Sigma Pharmaceuticals Plc) 30 tablet,,,,N05CD06,CEGEDIM
 246804,Piracetam 333.3mg/ml oral solution sugar free (Colorama Pharmaceuticals Ltd),,,,N06BX03,CEGEDIM
 246805,Piracetam 333.3mg/ml oral solution sugar free (Colorama Pharmaceuticals Ltd) 300 ml,,,,N06BX03,CEGEDIM
 246806,Pregabalin 20mg/ml oral solution sugar free (Colorama Pharmaceuticals Ltd),,,,N03AX16,CEGEDIM
 246807,Pregabalin 20mg/ml oral solution sugar free (Colorama Pharmaceuticals Ltd) 473 ml,,,,N03AX16,CEGEDIM
-246924,Nitrazepam 5mg tablets (Sigma Pharmaceuticals Plc),,,,N05CD02,CEGEDIM
-246925,Nitrazepam 5mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05CD02,CEGEDIM
-246926,Nitrazepam 5mg tablets (Sigma Pharmaceuticals Plc) 500 tablet,,,,N05CD02,CEGEDIM
 246955,Clobazam 5mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),,,,N05BA09,CEGEDIM
 246956,Clobazam 5mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,N05BA09,CEGEDIM
 246957,Clobazam 10mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),,,,N05BA09,CEGEDIM
@@ -5359,10 +4582,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 246992,Pregabalin 25mg capsules (Teva UK Ltd) 56 capsule8 x 7 capsules,,,,N03AX16,CEGEDIM
 247005,Topiramate 100mg/5ml oral suspension (Special Order) 200 ml,,,,N03AX11,CEGEDIM
 247045,Celontin 150mg capsules (Imported (United States)) 100 capsule,,,,N03AD03,CEGEDIM
-247286,Oxazepam 10mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA04,CEGEDIM
-247287,Oxazepam 10mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA04,CEGEDIM
-247288,Oxazepam 15mg tablets (Sigma Pharmaceuticals Plc),,,,N05BA04,CEGEDIM
-247289,Oxazepam 15mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N05BA04,CEGEDIM
 247378,Phenobarbital 15mg tablets (Sigma Pharmaceuticals Plc),,,,N03AA02,CEGEDIM
 247379,Phenobarbital 15mg tablets (Sigma Pharmaceuticals Plc) 28 tablet,,,,N03AA02,CEGEDIM
 247380,Phenobarbital 30mg tablets (Sigma Pharmaceuticals Plc),,,,N03AA02,CEGEDIM
@@ -5376,18 +4595,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 247579,Carbamazepine 200mg tablets (Mawdsley-Brooks & Company Ltd),,,,N03AF01,CEGEDIM
 247580,Carbamazepine 200mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N03AF01,CEGEDIM
 247581,Carbamazepine 200mg tablets (Mawdsley-Brooks & Company Ltd) 84 tablet,,,,N03AF01,CEGEDIM
-247631,Chlordiazepoxide 10mg capsules (Mawdsley-Brooks & Company Ltd),,,,N05BA02,CEGEDIM
-247632,Chlordiazepoxide 10mg capsules (Mawdsley-Brooks & Company Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-247714,Diazepam 2mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05BA01,CEGEDIM
-247715,Diazepam 2mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-247718,Diazepam 5mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05BA01,CEGEDIM
-247719,Diazepam 5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N05BA01,CEGEDIM
 247764,Carbamazepine 200mg modified-release tablets (DE Pharmaceuticals),,,,N03AF01,CEGEDIM
 247765,Carbamazepine 200mg modified-release tablets (DE Pharmaceuticals) 56 tablet,,,,N03AF01,CEGEDIM
 247766,Carbamazepine 400mg modified-release tablets (DE Pharmaceuticals),,,,N03AF01,CEGEDIM
 247767,Carbamazepine 400mg modified-release tablets (DE Pharmaceuticals) 56 tablet,,,,N03AF01,CEGEDIM
-247772,Chlordiazepoxide 5mg capsules (DE Pharmaceuticals) 28 capsule,,,,N05BA02,CEGEDIM
-247773,Chlordiazepoxide 10mg capsules (DE Pharmaceuticals) 28 capsule,,,,N05BA02,CEGEDIM
 247858,Clobazam 10mg tablets (DE Pharmaceuticals),,,,N05BA09,CEGEDIM
 247859,Clobazam 10mg tablets (DE Pharmaceuticals) 30 tablet,,,,N05BA09,CEGEDIM
 247992,Lamotrigine 5mg dispersible tablets sugar free (DE Pharmaceuticals),,,,N03AX09,CEGEDIM
@@ -5396,13 +4607,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 247995,Lamotrigine 25mg dispersible tablets sugar free (DE Pharmaceuticals) 56 tablet,,,,N03AX09,CEGEDIM
 247996,Lamotrigine 100mg dispersible tablets sugar free (DE Pharmaceuticals),,,,N03AX09,CEGEDIM
 247997,Lamotrigine 100mg dispersible tablets sugar free (DE Pharmaceuticals) 56 tablet,,,,N03AX09,CEGEDIM
-248027,Nitrazepam 5mg tablets (DE Pharmaceuticals),,,,N05CD02,CEGEDIM
-248028,Nitrazepam 5mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05CD02,CEGEDIM
-248029,Nitrazepam 5mg tablets (DE Pharmaceuticals) 500 tablet,,,,N05CD02,CEGEDIM
-248070,Oxazepam 10mg tablets (DE Pharmaceuticals),,,,N05BA04,CEGEDIM
-248071,Oxazepam 10mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA04,CEGEDIM
-248072,Oxazepam 15mg tablets (DE Pharmaceuticals),,,,N05BA04,CEGEDIM
-248073,Oxazepam 15mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05BA04,CEGEDIM
 248074,Oxcarbazepine 150mg tablets (DE Pharmaceuticals),,,,N03AF02,CEGEDIM
 248075,Oxcarbazepine 150mg tablets (DE Pharmaceuticals) 50 tablet,,,,N03AF02,CEGEDIM
 248076,Oxcarbazepine 300mg tablets (DE Pharmaceuticals),,,,N03AF02,CEGEDIM
@@ -5484,8 +4688,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 254761,Pregabalin 25mg capsules (Zentiva),,,,N03AX16,CEGEDIM
 254762,Pregabalin 25mg capsules (Zentiva) 56 capsule8 x 7 capsules,,,,N03AX16,CEGEDIM
 254801,Pregabalin 300mg capsules (Accord Healthcare Ltd) 56 capsule,,,,N03AX16,CEGEDIM
-254597,Diazepam 2mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-254598,Diazepam 2mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd) 100 ml,,,,N05BA01,CEGEDIM
 254618,Phenytoin sodium 100mg tablets (Almus Pharmaceuticals Ltd),,,,N03AB02,CEGEDIM
 254619,Phenytoin sodium 100mg tablets (Almus Pharmaceuticals Ltd) 28 tablet,,,,N03AB02,CEGEDIM
 254647,Levetiracetam 100mg/ml oral solution sugar free (Creo Pharma Ltd),,,,N03AX14,CEGEDIM
@@ -5526,11 +4728,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 255272,Phenytoin sodium 100mg capsules (DE Pharmaceuticals) 84 capsule,,,,N03AB02,CEGEDIM
 255273,Phenytoin sodium 100mg tablets (DE Pharmaceuticals),,,,N03AB02,CEGEDIM
 255274,Phenytoin sodium 100mg tablets (DE Pharmaceuticals) 28 tablet,,,,N03AB02,CEGEDIM
-255314,Diazepam 2mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd),,,,N05BA01,CEGEDIM
-255315,Diazepam 2mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd) 100 ml,,,,N05BA01,CEGEDIM
-255316,Nitrazepam 5mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05CD02,CEGEDIM
-255317,Nitrazepam 5mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-255318,Nitrazepam 5mg tablets (Mawdsley-Brooks & Company Ltd) 500 tablet,,,,N05CD02,CEGEDIM
 255344,Primidone 50mg tablets (Teva UK Ltd),,,,N03AA03,CEGEDIM
 255345,Primidone 50mg tablets (Teva UK Ltd) 100 tablet,,,,N03AA03,CEGEDIM
 255346,Primidone 250mg tablets (Teva UK Ltd),,,,N03AA03,CEGEDIM
@@ -5553,7 +4750,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 255952,Topiramate 200mg tablets (Mawdsley-Brooks & Company Ltd) 60 tablet,,,,N03AX11,CEGEDIM
 255964,Tapclob 10mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) 250 ml,,,,N05BA09,CEGEDIM
 255965,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) 250 ml,,,,N05BA09,CEGEDIM
-256049,Nitrazepam 2.5mg/5ml oral suspension (Essential Pharma Ltd) 70 ml,,,,N05CD02,CEGEDIM
 256493,Zonisamide 50mg capsules (A A H Pharmaceuticals Ltd) 56 capsule4 x 14 capsules,,,,N03AX15,CEGEDIM
 256164,Sodium valproate 200mg modified-release tablets (DE Pharmaceuticals),,,,N03AG01,CEGEDIM
 256165,Sodium valproate 200mg modified-release tablets (DE Pharmaceuticals) 100 tablet,,,,N03AG01,CEGEDIM
@@ -5572,9 +4768,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 256497,Levetiracetam 100mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 150 ml1 x 3ml syringe,,,,N03AX14,CEGEDIM
 257091,Clobazam 5mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) 250 ml,,,,N05BA09,CEGEDIM
 257092,Clobazam 10mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) 250 ml,,,,N05BA09,CEGEDIM
-257102,Nitrazepam 2.5mg/5ml oral suspension (A A H Pharmaceuticals Ltd),,,,N05CD02,CEGEDIM
-257103,Nitrazepam 2.5mg/5ml oral suspension (A A H Pharmaceuticals Ltd) 70 ml,,,,N05CD02,CEGEDIM
-257126,Nitrazepam 2.5mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd) 70 ml,,,,N05CD02,CEGEDIM
 257127,Pregabalin 20mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 257128,Pregabalin 20mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 473 ml,,,,N03AX16,CEGEDIM
 259929,Diazepam 2.5mg/1.25ml rectal solution tube (J M McGill Ltd),,,,N05BA01,CEGEDIM
@@ -5600,10 +4793,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 261097,Briviact 10mg/ml oral solution (UCB Pharma Ltd) 300 ml,,,,N03AX23,CEGEDIM
 261133,Sodium valproate 300mg modified-release capsules (J M McGill Ltd),,,,N03AG01,CEGEDIM
 261134,Sodium valproate 300mg modified-release capsules (J M McGill Ltd) 100 capsule,,,,N03AG01,CEGEDIM
-262779,Magnesium sulfate 185mg/3ml nebuliser liquid bottles,,,,R03BX,CEGEDIM
-262780,Magnesium sulfate 185mg/3ml nebuliser liquid bottles (Special Order),,,,R03BX,CEGEDIM
-262781,Magnesium sulfate 185mg/3ml nebuliser liquid bottles (Special Order) 1 bottle,,,,R03BX,CEGEDIM
-262782,Magnesium sulfate 185mg/3ml nebuliser liquid bottles (Special Order) 10 bottle,,,,R03BX,CEGEDIM
 264855,Pregabalin 100mg capsules (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 264856,Pregabalin 100mg capsules (Alliance Healthcare (Distribution) Ltd) 84 capsule,,,,N03AX16,CEGEDIM
 265106,Briviact 50mg/5ml solution for injection vials (UCB Pharma Ltd) 10 vial,,,,N03AX23,CEGEDIM
@@ -5728,11 +4917,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 271555,Topiramate 62.5mg/5ml oral suspension,,,,N03AX11,CEGEDIM
 271556,Topiramate 62.5mg/5ml oral suspension (Special Order),,,,N03AX11,CEGEDIM
 271557,Topiramate 62.5mg/5ml oral suspension (Special Order) 1 ml,,,,N03AX11,CEGEDIM
-271658,Diazepam 2mg/5ml oral suspension (Sandoz Ltd),,,,N05BA01,CEGEDIM
-271659,Diazepam 2mg/5ml oral suspension (Sandoz Ltd) 100 ml,,,,N05BA01,CEGEDIM
-271662,Diazepam 5mg/5ml oral suspension,,,,N05BA01,CEGEDIM
-271663,Diazepam 5mg/5ml oral suspension (Sandoz Ltd),,,,N05BA01,CEGEDIM
-271664,Diazepam 5mg/5ml oral suspension (Sandoz Ltd) 100 ml,,,,N05BA01,CEGEDIM
 271669,Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)),,,,N03AE01,CEGEDIM
 271670,Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)) 5 ampoule,,,,N03AE01,CEGEDIM
 272277,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Pfizer Ltd),,,,N03AX14,CEGEDIM
@@ -5758,8 +4942,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 272750,Zonisamide 50mg capsules (Flynn Pharma Ltd) 56 capsule4 x 14 capsules,,,,N03AX15,CEGEDIM
 272751,Zonisamide 100mg capsules (Flynn Pharma Ltd),,,,N03AX15,CEGEDIM
 272752,Zonisamide 100mg capsules (Flynn Pharma Ltd) 56 capsule4 x 14 capsules,,,,N03AX15,CEGEDIM
-272805,Diazepam 2mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),,,,N05BA01,CEGEDIM
-272806,Diazepam 2mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd) 100 ml,,,,N05BA01,CEGEDIM
 272849,Zonisamide 25mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N03AX15,CEGEDIM
 272850,Zonisamide 25mg capsules (Dr Reddy's Laboratories (UK) Ltd) 14 capsule,,,,N03AX15,CEGEDIM
 272851,Zonisamide 50mg capsules (Dr Reddy's Laboratories (UK) Ltd),,,,N03AX15,CEGEDIM
@@ -5783,17 +4965,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 273531,Pregabalin 50mg/5ml oral suspension,,,,N03AX16,CEGEDIM
 273532,Pregabalin 50mg/5ml oral suspension (Special Order),,,,N03AX16,CEGEDIM
 273533,Pregabalin 50mg/5ml oral suspension (Special Order) 1 ml,,,,N03AX16,CEGEDIM
-273703,Diazepam 2mg/5ml oral suspension (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-273704,Diazepam 2mg/5ml oral suspension (A A H Pharmaceuticals Ltd) 100 ml,,,,N05BA01,CEGEDIM
-273705,Diazepam 5mg/5ml oral suspension (A A H Pharmaceuticals Ltd),,,,N05BA01,CEGEDIM
-273706,Diazepam 5mg/5ml oral suspension (A A H Pharmaceuticals Ltd) 100 ml,,,,N05BA01,CEGEDIM
 274412,Sultiame 100mg tablets,,,,N03AX03,CEGEDIM
 274413,Sultiame 100mg tablets (Special Order),,,,N03AX03,CEGEDIM
 274414,Sultiame 100mg tablets (Special Order) 1 tablet,,,,N03AX03,CEGEDIM
-274981,Potassium chloride 0.075% (potassium 5mmol/500ml) / Glucose 10% / Calcium gluconate 0.21% / Sodium chloride 0.029% / Magnesium sulfate 0.025% (magnesium 0.5mmol/500ml) solution for infusion 500ml bottles,,,,B05BB02,CEGEDIM
-274982,Potassium chloride 0.075% (potassium 5mmol/500ml) / Glucose 10% / Calcium gluconate 0.21% / Sodium chloride 0.029% / Magnesium sulfate 0.025% (magnesium 0.5mmol/500ml) solution for infusion 500ml bottles (Special Order),,,,B05BB02,CEGEDIM
-274983,Potassium chloride 0.075% (potassium 5mmol/500ml) / Glucose 10% / Calcium gluconate 0.21% / Sodium chloride 0.029% / Magnesium sulfate 0.025% (magnesium 0.5mmol/500ml) solution for infusion 500ml bottles (Special Order) 1 bottle,,,,B05BB02,CEGEDIM
-274984,Potassium chloride 0.075% (potassium 5mmol/500ml) / Glucose 10% / Calcium gluconate 0.21% / Sodium chloride 0.029% / Magnesium sulfate 0.025% (magnesium 0.5mmol/500ml) solution for infusion 500ml bottles (Special Order) 10 bottle,,,,B05BB02,CEGEDIM
 278473,Zonisamide 100mg capsules (Zentiva),,,,N03AX15,CEGEDIM
 278474,Zonisamide 100mg capsules (Zentiva) 56 capsule4 x 14 capsules,,,,N03AX15,CEGEDIM
 279043,Ethosuximide 250mg/5ml syrup (Essential Pharma Ltd),,,,N03AD01,CEGEDIM
@@ -5887,9 +5061,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 288326,Carbamazepine 50mg/5ml oral solution,,,,N03AF01,CEGEDIM
 288327,Carbamazepine 50mg/5ml oral solution (Special Order),,,,N03AF01,CEGEDIM
 288328,Carbamazepine 50mg/5ml oral solution (Special Order) 1 ml,,,,N03AF01,CEGEDIM
-288363,Lorazepam 1mg/ml oral solution sugar free,,,,N05BA06,CEGEDIM
-288364,Lorazepam 1mg/ml oral solution sugar free (Thame Laboratories Ltd),,,,N05BA06,CEGEDIM
-288365,Lorazepam 1mg/ml oral solution sugar free (Thame Laboratories Ltd) 150 ml,,,,N05BA06,CEGEDIM
 288829,Zonisamide 25mg capsules (Aristo Pharma Ltd),,,,N03AX15,CEGEDIM
 288830,Zonisamide 25mg capsules (Aristo Pharma Ltd) 14 capsule,,,,N03AX15,CEGEDIM
 288831,Zonisamide 50mg capsules (Aristo Pharma Ltd),,,,N03AX15,CEGEDIM
@@ -5909,7 +5080,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 289495,Carbamazepine 100mg/5ml oral suspension sugar free (Sun Pharmaceutical Industries Europe B.V.) 300 ml,,,,N03AF01,CEGEDIM
 289811,Midazolam 2mg/ml oral solution sugar free (Special Order),,,,N05CD08,CEGEDIM
 289812,Midazolam 2mg/ml oral solution sugar free (Special Order) 1 ml,,,,N05CD08,CEGEDIM
-290226,Nitrazepam 5mg/5ml oral suspension (Drug Tariff Special Order) 100 ml,,,,N05CD02,CEGEDIM
 290399,Clonazepam 500micrograms/5ml oral solution sugar free (Thame Laboratories Ltd),,,,N03AE01,CEGEDIM
 290400,Clonazepam 500micrograms/5ml oral solution sugar free (Thame Laboratories Ltd) 150 ml,,,,N03AE01,CEGEDIM
 290401,Clonazepam 2mg/5ml oral solution sugar free (Thame Laboratories Ltd),,,,N03AE01,CEGEDIM
@@ -5921,22 +5091,15 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 290779,Gabapentin 100mg capsules (Accord Healthcare Ltd),,,,N03AX12,CEGEDIM
 290780,Gabapentin 100mg capsules (Accord Healthcare Ltd) 100 capsule,,,,N03AX12,CEGEDIM
 291036,Pregabalin 20mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 500 ml2 x 250ml bottles,,,,N03AX16,CEGEDIM
-291132,Lorazepam 1mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),,,,N05BA06,CEGEDIM
-291133,Lorazepam 1mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 150 ml,,,,N05BA06,CEGEDIM
 291137,Pregabalin 20mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) 500 ml2 x 250ml bottles,,,,N03AX16,CEGEDIM
 291459,Cannabidiol 200mg/ml oral solution,,,,N03AX24,CEGEDIM
 291460,Cannabidiol 200mg/ml oral solution (Special Order),,,,N03AX24,CEGEDIM
 291461,Cannabidiol 200mg/ml oral solution (Special Order) 1 ml,,,,N03AX24,CEGEDIM
 291462,Cannabidiol 200mg/ml oral solution (Special Order) 30 ml,,,,N03AX24,CEGEDIM
-291473,Potassium chloride 0.15% (potassium 20mmol/1litre) / Magnesium sulfate 0.2% (magnesium 8mmol/1litre) / Sodium chloride 0.9% infusion 1litre bags,,,,B05BB01,CEGEDIM
-291474,Potassium chloride 0.15% (potassium 20mmol/1litre) / Magnesium sulfate 0.2% (magnesium 8mmol/1litre) / Sodium chloride 0.9% infusion 1litre bags (Special Order),,,,B05BB01,CEGEDIM
-291475,Potassium chloride 0.15% (potassium 20mmol/1litre) / Magnesium sulfate 0.2% (magnesium 8mmol/1litre) / Sodium chloride 0.9% infusion 1litre bags (Special Order) 1 bag,,,,B05BB01,CEGEDIM
 291911,Pregabalin 20mg/ml oral solution sugar free (Aspire Pharma Ltd),,,,N03AX16,CEGEDIM
 291912,Pregabalin 20mg/ml oral solution sugar free (Aspire Pharma Ltd) 473 ml,,,,N03AX16,CEGEDIM
 291919,Topiramate 200mg tablets (Glenmark Pharmaceuticals Europe Ltd),,,,N03AX11,CEGEDIM
 291920,Topiramate 200mg tablets (Glenmark Pharmaceuticals Europe Ltd) 60 tablet,,,,N03AX11,CEGEDIM
-292049,Lorazepam 1mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
-292050,Lorazepam 1mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,N05BA06,CEGEDIM
 292450,Gabapentin 100mg capsules (Aurobindo Pharma Ltd),,,,N03AX12,CEGEDIM
 292451,Gabapentin 100mg capsules (Aurobindo Pharma Ltd) 100 capsule,,,,N03AX12,CEGEDIM
 292452,Gabapentin 300mg capsules (Aurobindo Pharma Ltd),,,,N03AX12,CEGEDIM
@@ -6029,16 +5192,13 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 296432,Pregabalin 225mg capsules (Tillomed Laboratories Ltd),,,,N03AX16,CEGEDIM
 296433,Pregabalin 225mg capsules (Tillomed Laboratories Ltd) 56 capsule,,,,N03AX16,CEGEDIM
 296435,Pregabalin 300mg capsules (Tillomed Laboratories Ltd) 56 capsule,,,,N03AX16,CEGEDIM
-299132,SARDIAZEPAM 2 MG TAB,,,,,CEGEDIM
 299193,PRIMIDONE/PHENYTOIN SODIUM TAB,,,,,CEGEDIM
 299205,PRIMIDONE 200 MG TAB,,,,,CEGEDIM
 299260,PHENYTOIN 30 MG TAB,,,,,CEGEDIM
 299261,PHENYTOIN SODIUM/ PHENOBARBITONE CAP,,,,,CEGEDIM
 299272,PHENOBARBITONE & PHENYTOIN 60 MG CAP,,,,,CEGEDIM
 299273,PHENOBARBITONE 50MG & PHENYTOIN 100MG MG CAP,,,,,CEGEDIM
-299584,LORAZEPAM 1 MG SUS,,,,,CEGEDIM
 299926,ETHOSUXIMIDE POW,,,,,CEGEDIM
-300066,DIAZEPAM S/R 10 MG CAP,,,,,CEGEDIM
 300068,DIAZEPAM RECTAL 2 MG/ML SOL,,,,,CEGEDIM
 300070,DIAZEPAM RECTAL 4 MG SOL,,,,,CEGEDIM
 300072,DIAZEPAM 20 MG INJ,,,,,CEGEDIM
@@ -6048,13 +5208,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 300215,CLOBAZAM 2.5 MG CAP,,,,,CEGEDIM
 300216,CLOBAZAM 1 MG SUS,,,,,CEGEDIM
 300697,NOOTROPIL 400 MG CAP,,,,,CEGEDIM
-300902,Lorazepam 1mg tablets (Almus Pharmaceuticals Ltd),,,,,CEGEDIM
-300916,Lorazepam 2.5mg tablets (Almus Pharmaceuticals Ltd),,,,,CEGEDIM
 300918,PARALDEHYDE 10 ML INJ,,,,,CEGEDIM
 301057,FENFLURAMINE HCl 40 MG TAB,,,,,CEGEDIM
 301357,TEGRETOL liq 100 MG/5ML LIQ,,,,,CEGEDIM
 301524,PHENOBARBITONE 60MG & PHENYTOIN 100MG MG TAB,,,,,CEGEDIM
-301544,OXAZEPAM 15 MG CAP,,,,,CEGEDIM
 301819,FENFLURAMINE HCl 20 MG TAB,,,,,CEGEDIM
 301895,DIAZEPAM 10 MG INJ,,,,,CEGEDIM
 301958,CLOBAZAM 5 MG TAB,,,,,CEGEDIM
@@ -6067,8 +5224,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 304751,STESOLID (2ML) 5 MG/ML INJ,,,,,CEGEDIM
 304836,PHENYTOIN 150 MG SUS,,,,,CEGEDIM
 304880,OSPOLOT 200 MG TAB,,,,,CEGEDIM
-304919,LORAZEPAM .5 MG TAB,,,,,CEGEDIM
-304920,LORAZEPAM 5 MG TAB,,,,,CEGEDIM
 305148,OSPOLOT 50 MG SUS,,,,,CEGEDIM
 305753,LAMICTAL NON-VALPROATE ADD-ON START PACK TAB 25 mg,,,,,CEGEDIM
 307049,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes,,,,,CEGEDIM
@@ -6090,41 +5245,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 308067,Carbamazepine 100mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
 308068,Carbamazepine 200mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
 308069,Carbamazepine 400mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308145,Nitrazepam 5mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308146,Nitrazepam 5mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308147,Oxazepam 30mg Tablet (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
-308151,Oxazepam 10mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308152,Oxazepam 15mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308153,Oxazepam 30mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308156,Oxazepam 10mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308157,Oxazepam 15mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308158,Oxazepam 30mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
 308202,Emeside 250mg Capsule (Laboratories For Applied Biology Ltd),,,,,CEGEDIM
 308203,Emeside 250mg/5ml Oral solution (Laboratories For Applied Biology Ltd),,,,,CEGEDIM
 308210,Epanutin with phenobarbital Capsule (Parke-davis Research Laboratories),,,,,CEGEDIM
-308325,Diazepam 2mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308326,Diazepam 5mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308327,Diazepam 10mg Tablet (Berk Pharmaceuticals Ltd),,,,,CEGEDIM
-308339,Diazepam 2mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308340,Diazepam 5mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308341,Diazepam 10mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308343,Diazepam 2mg Tablet (Crosspharma Ltd),,,,,CEGEDIM
-308344,Diazepam 5mg Tablet (Crosspharma Ltd),,,,,CEGEDIM
-308345,Diazepam 10mg Tablet (Crosspharma Ltd),,,,,CEGEDIM
 308363,Frisium 10mg Capsule (Aventis Pharma),,,,,CEGEDIM
-308569,Lorazepam 1mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308570,Lorazepam 2.5mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308572,Lorazepam 1mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308573,Lorazepam 2.5mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308575,Lormetazepam 0.5mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308576,Lormetazepam 1mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-308578,Lormetazepam 0.5mg Tablet (Wyeth Pharmaceuticals),,,,,CEGEDIM
-308579,Lormetazepam 1mg Tablet (Wyeth Pharmaceuticals),,,,,CEGEDIM
-308722,Librium 5mg Capsule (ICN Pharmaceuticals France S.A.),,,,,CEGEDIM
-308723,Librium 10mg Capsule (ICN Pharmaceuticals France S.A.),,,,,CEGEDIM
-308724,Librium 5mg Tablet (ICN Pharmaceuticals France S.A.),,,,,CEGEDIM
-308728,Librium 10mg Tablet (ICN Pharmaceuticals France S.A.),,,,,CEGEDIM
-308729,Librium 25mg Tablet (ICN Pharmaceuticals France S.A.),,,,,CEGEDIM
 308774,Phenobarbital 15mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
 308775,Phenobarbital 30mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
 308776,Phenobarbital 60mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
@@ -6135,14 +5259,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 308784,Phenytoin 100mg Capsule (Actavis UK Ltd),,,,,CEGEDIM
 308786,Phenytoin sodium 100mg Capsule (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
 308836,Phenobarbital 100mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
-308898,Mogadon 5mg Tablet (ICN Pharmaceuticals France S.A.),,,,,CEGEDIM
 308955,Mysoline 250mg Tablet (AstraZeneca UK Ltd),,,,,CEGEDIM
 308956,Mysoline 250mg/5ml Oral suspension (AstraZeneca UK Ltd),,,,,CEGEDIM
-309307,Diazepam 2mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-309308,Diazepam 5mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-309309,Diazepam 10mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-309510,Nitrazepam 5mg Tablet (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
-309511,Nitrazepam 10mg Tablet (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
 309556,Phenobarbital 15mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
 309557,Phenobarbital 30mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
 309558,Phenobarbital 60mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
@@ -6153,48 +5271,18 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 309588,Phenobarbital 100mg Tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
 310303,Phenobarbital sodium Powder (Thornton & Ross Ltd),,,,,CEGEDIM
 310350,Phenobarbital sodium powder,,,,,CEGEDIM
-310388,Clomethiazole 8mg/ml IV infusion,,,,,CEGEDIM
 310536,Diazepam 10mg Suppository (Sinclair IS Pharma Plc),,,,,CEGEDIM
-310537,Chlordiazepoxide 5mg Capsule (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
-310538,Chlordiazepoxide 10mg Capsule (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
-310539,Chlordiazepoxide 10mg Tablet (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
-310680,Chlordiazepoxide 25mg Tablet (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
-310681,Chlordiazepoxide 5mg Tablet (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
-310698,Diazepam 2mg/5ml Oral solution (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-310808,Librium 100mg Injection (Roche Products Ltd),,,,,CEGEDIM
-310929,Oxazepam 30mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 311002,Phenytoin sodium 100mg Tablet (Numark Management Ltd),,,,,CEGEDIM
 311003,Phenytoin sodium 50mg Tablet (Numark Management Ltd),,,,,CEGEDIM
-311137,Oxazepam 10mg Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
-311138,Oxazepam 15mg Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
-311393,Chlordiazepoxide 10mg Capsule (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-311410,Chlordiazepoxide 10mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
-311411,Chlordiazepoxide 5mg Capsule (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
-311412,Chlordiazepoxide 10mg Capsule (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
-311500,Chlordiazepoxide 5mg Capsule (Approved Prescription Services Ltd),,,,,CEGEDIM
-311501,Chlordiazepoxide 10mg Capsule (Approved Prescription Services Ltd),,,,,CEGEDIM
-311610,Lormetazepam 0.5mg Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
-311611,Lormetazepam 1mg Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
 311641,Phenytoin 100mg Tablet (Celltech Pharma Europe Ltd),,,,,CEGEDIM
 311683,Paraldehyde intravenous injection,,,,,CEGEDIM
 311684,Paraldehyde rectal solution,,,,,CEGEDIM
-311694,Nitrazepam 5mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
 311695,Phenobarbital 50mg/5ml oral solution,,,,,CEGEDIM
 311702,Sodium valproate 500mg Gastro-resistant tablet (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-311712,Diazepam 1mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
-311713,Diazepam 2.5mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
-311714,Diazepam 10mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
 311726,Phenytoin 90mg/5ml Oral suspension sugar free (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
-311970,Lormetazepam 0.5mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
-311971,Lormetazepam 1mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 312070,Sodium valproate 200mg/5ml Oral solution (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
-312292,Lorazepam 1mg Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
-312293,Lorazepam 2.5mg Tablet (Approved Prescription Services Ltd),,,,,CEGEDIM
 312463,Sodium valproate 200mg/5ml Oral solution (Approved Prescription Services Ltd),,,,,CEGEDIM
-312778,Oxazepam 15mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
-312779,Oxazepam 10mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 312808,Stesolid 5mg/ml Injection (Actavis UK Ltd),,,,,CEGEDIM
-313378,Mogadon 5mg Capsule (Roche Products Ltd),,,,,CEGEDIM
 313493,Phenobarbital 100mg tablet,,,,,CEGEDIM
 313516,Tensium 5mg Tablet (DDSA Pharmaceuticals Ltd),,,,,CEGEDIM
 313657,Carbamazepine 200mg Modified-release tablet (Lagap),,,,,CEGEDIM
@@ -6204,41 +5292,22 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 313779,Phenobarbital sodium 30mg tablet,,,,,CEGEDIM
 313780,Phenobarbital sodium 60mg tablet,,,,,CEGEDIM
 313867,Gentian alkaline and phenobarbital Mixture,,,,,CEGEDIM
-313895,Oxazepam 30mg Tablet,,,,,CEGEDIM
 313954,Sodium valproate 200mg Tablet (Sterwin Medicines),,,,,CEGEDIM
 313955,Sodium valproate 200mg/5ml Oral solution (Sterwin Medicines),,,,,CEGEDIM
 313956,Sodium valproate 500mg Tablet (Sterwin Medicines),,,,,CEGEDIM
 314142,Phenobarbital 100mg Tablet (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
-314229,Chlordiazepoxide 5mg tablets,,,,,CEGEDIM
-314232,Chlordiazepoxide 10mg tablets,,,,,CEGEDIM
-314233,Chlordiazepoxide 25mg tablets,,,,,CEGEDIM
-314235,Chlordiazepoxide with Clidinium bromide tablets,,,,,CEGEDIM
-314407,Heminevrin 8mg/ml Intravenous infusion (AstraZeneca UK Ltd),,,,,CEGEDIM
 314423,Carbamazepine 400mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 314424,Carbamazepine 100mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 314425,Carbamazepine 200mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 314471,Sodium valproate 100mg crushable Tablet (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
-314504,Clidinium bromide with Chlordiazepoxide tablets,,,,,CEGEDIM
 314527,Clobazam 10mg capsules,,,,,CEGEDIM
 314705,Fenfluramine 60mg Capsule,,,,,CEGEDIM
 314940,Carbamazepine 200mg Modified-release tablet (Generics (UK) Ltd),,,,,CEGEDIM
 314941,Carbamazepine 400mg Modified-release tablet (Generics (UK) Ltd),,,,,CEGEDIM
-315001,Diazepam 2mg capsules,,,,,CEGEDIM
-315002,Diazepam 5mg,,,,,CEGEDIM
 315003,Diazepam 5mg suppository,,,,,CEGEDIM
-315236,Diazepam 2mg Tablet (Regent Laboratories Ltd),,,,,CEGEDIM
-315237,Diazepam 5mg Tablet (Regent Laboratories Ltd),,,,,CEGEDIM
-315238,Diazepam 10mg Tablet (Regent Laboratories Ltd),,,,,CEGEDIM
 315544,Carbamazepine sr 200mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 315545,Carbamazepine sr 400mg Tablet (IVAX Pharmaceuticals UK Ltd),,,,,CEGEDIM
 315549,Midazolam 5mg/ml Injection (Phoenix Healthcare Distribution Ltd),,,,,CEGEDIM
-315566,Diazepam 2mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
-315568,Diazepam 5mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
-315571,Diazepam 10mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
-315597,Nitrazepam 5mg Tablet (M & A Pharmachem Ltd),,,,,CEGEDIM
-315778,Lormetazepam 1mg Capsule,,,,,CEGEDIM
-315840,Bromazepam 1.5mg tablets,,,,,CEGEDIM
-315841,Bromazepam 3mg tablets,,,,,CEGEDIM
 315900,Mepenzolate bromide with phenobarbital Tablet,,,,,CEGEDIM
 315902,Cantil with phenobarbital Tablet (Boehringer Mannheim UK Ltd),,,,,CEGEDIM
 315992,Methylphenobarbital 30mg Tablet,,,,,CEGEDIM
@@ -6248,10 +5317,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 316107,Midazolam 2mg/ml Injection,,,,,CEGEDIM
 316108,Midazolam 5mg/ml Injection,,,,,CEGEDIM
 316109,Midazolam 1mg/ml Injection,,,,,CEGEDIM
-316274,Nitrazepam 5mg Capsule,,,,,CEGEDIM
-316276,Nitrazepam 10mg Tablet,,,,,CEGEDIM
-316278,Somnite 5mg Tablet (Norgine Pharmaceuticals Ltd),,,,,CEGEDIM
-316367,Oxazepam 30mg Capsule,,,,,CEGEDIM
 316619,Phenytoin 25mg capsule,,,,,CEGEDIM
 316620,Phenytoin 50mg capsule,,,,,CEGEDIM
 316621,Phenytoin 100mg capsule,,,,,CEGEDIM
@@ -6260,19 +5325,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 317112,Sodium valproate CR 500mg Tablet (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
 317184,Theophylline with phenobarbital & guaifenesin elixir,,,,,CEGEDIM
 317241,Midazolam 1mg/ml Injection (Antigen Pharmaceuticals),,,,,CEGEDIM
-317952,Amitriptyline 12.5mg / Chlordiazepoxide 5mg capsules,,,,,CEGEDIM
-317953,Amitriptyline 25mg / Chlordiazepoxide 10mg capsules,,,,,CEGEDIM
-317954,Chlordiazepoxide 5mg with Amitriptyline 12.5mg capsules,,,,,CEGEDIM
-317955,Chlordiazepoxide 10mg with Amitriptyline 25mg capsules,,,,,CEGEDIM
 317995,Diazepam 5mg Rectal tubes (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
 318000,Diazepam 10mg Rectal tubes (Hillcross Pharmaceuticals Ltd),,,,,CEGEDIM
 318196,Midazolam 5mg/ml Injection (Hameln Pharmaceuticals Ltd),,,,,CEGEDIM
 318318,Epilim ec 200mg Gastro-resistant tablet (Sanofi),,,,,CEGEDIM
 318319,Epilim ec 500mg Gastro-resistant tablet (Sanofi),,,,,CEGEDIM
-318360,Belladonna alkaloids with phenobarbital aluminium hydroxide and magnesium trisilicate tablets,,,,,CEGEDIM
 318364,Phenobarbital with belladonna aluminium hydroxide & magnesium trisilicate tablet,,,,,CEGEDIM
-318726,Lorazepam 1mg Tablet (Genesis Medical Ltd),,,,,CEGEDIM
-318728,Lorazepam 2.5mg Tablet (Genesis Medical Ltd),,,,,CEGEDIM
 318802,Lamotrigine 25mg Tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
 318804,Lamotrigine 50mg Tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
 318807,Lamotrigine 100mg Tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
@@ -6280,7 +5338,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 318813,Lamotrigine 25mg Dispersible tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
 318815,Lamotrigine 100mg Dispersible tablet (Ratiopharm UK Ltd),,,,,CEGEDIM
 319049,Clonazepam 500microgram/5ml Oral solution (Rosemont Pharmaceuticals Ltd),,,,,CEGEDIM
-319183,Chlordiazepoxide 25mg tablets,,,,,CEGEDIM
 319187,Vigabatrin 125mg capsules,,,,,CEGEDIM
 319223,Gabapentin 250mg/5ml Oral solution (Boots Pharmaceuticals Ltd),,,,,CEGEDIM
 319250,Clobazam 10mg/5ml Oral suspension (Martindale Pharmaceuticals Ltd),,,,,CEGEDIM
@@ -6290,22 +5347,18 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 319503,Lamotrigine 50mg Tablet (Sovereign Medical Ltd),,,,,CEGEDIM
 319506,Lamotrigine 100mg Tablet (Sovereign Medical Ltd),,,,,CEGEDIM
 319508,Lamotrigine 200mg Tablet (Sovereign Medical Ltd),,,,,CEGEDIM
-319645,Dexfenfluramine 15mg capsules,,,,,CEGEDIM
 320158,Carbamazepine 500mg/5ml Oral suspension (Martindale Pharmaceuticals Ltd),,,,,CEGEDIM
 320168,Gabapentin 100mg Capsule (Ratiopharm UK Ltd),,,,,CEGEDIM
 320170,Gabapentin 300mg Capsule (Ratiopharm UK Ltd),,,,,CEGEDIM
 320269,Sodium valproate with valproic acid 200mg modified release tablets,,,,,CEGEDIM
 320270,Sodium valproate with valproic acid 300mg modified release tablets,,,,,CEGEDIM
 320271,Sodium valproate with valproic acid 500mg modified release tablets,,,,,CEGEDIM
-320397,Diazepam 1mg/5ml suspension,,,,,CEGEDIM
 320398,Phenytoin 90mg/5ml oral solution sugar free,,,,,CEGEDIM
 320694,Diazepam 20mg rectal tubes,,,,,CEGEDIM
-320768,Diazepam 2mg Tablet (Sovereign Medical Ltd),,,,,CEGEDIM
 321294,Sodium valproate 200mg Gastro-resistant tablet (Teva UK Ltd),,,,,CEGEDIM
 321433,Gabapentin 600mg Tablet (Actavis UK Ltd),,,,,CEGEDIM
 321518,Gabapentin 800mg Tablet (Actavis UK Ltd),,,,,CEGEDIM
 321798,Diazepam rectubes 20mg Rectal tubes (C P Pharmaceuticals Ltd),,,,,CEGEDIM
-321855,Diazepam 10mg capsules,,,,,CEGEDIM
 321867,Reserpine with phenobarbital & theobromine tablet,,,,,CEGEDIM
 322104,Phenytoin 100mg with phenobarbital 50mg capsule,,,,,CEGEDIM
 323055,Stesolid 10mg Rectal tubes (Dumex Ltd),,,,,CEGEDIM
@@ -6323,19 +5376,13 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 325072,Clonazepam oral liquid,,,,,CEGEDIM
 325083,Phenytoin oral liquid,,,,,CEGEDIM
 325102,Primidone oral solution,,,,,CEGEDIM
-325153,Lorazepam Oral solution,,,,,CEGEDIM
 325163,Clobazam oral solution,,,,,CEGEDIM
 325237,Phenobarbital oral liquid,,,,,CEGEDIM
-325280,Diazepam oral liquid,,,,,CEGEDIM
-325281,Chlordiazepoxide oral solution,,,,,CEGEDIM
 325288,Carbamazepine oral solution,,,,,CEGEDIM
-325379,Lormetazepam Oral solution,,,,,CEGEDIM
 325395,Levetiracetam Oral solution,,,,,CEGEDIM
 325423,Lamotrigine Oral solution,,,,,CEGEDIM
 325488,Topiramate Oral solution,,,,,CEGEDIM
 325541,Midazolam Oral solution,,,,,CEGEDIM
-325677,Oxazepam Oral solution,,,,,CEGEDIM
-325728,Nitrazepam Oral solution,,,,,CEGEDIM
 325732,Phenobarbital capsule,,,,,CEGEDIM
 325746,Primidone 100mg/5ml oral solution,,,,,CEGEDIM
 325815,Petinutin 300mg Capsule (Pfizer Ltd),,,,,CEGEDIM
@@ -6360,7 +5407,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 327348,Perampanel 4mg tablets,,,,,CEGEDIM
 327349,Perampanel 6mg tablets,,,,,CEGEDIM
 327350,Perampanel 8mg tablets,,,,,CEGEDIM
-327826,Nitrazepam 5mg tablets (Intrapharm Laboratories Ltd),,,,N05CD02,CEGEDIM
 327842,Phenytoin sodium 250mg/5ml solution for injection ampoules (Consilient Health Ltd),,,,N03AB02,CEGEDIM
 327885,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Consilient Health Ltd),,,,N03AX14,CEGEDIM
 346732,Pregabalin 75mg tablets ,,,,N03AX16,CEGEDIM
@@ -6383,12 +5429,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 329085,Phenytoin sodium 250mg/5ml solution for injection ampoules (Consilient Health Ltd) 5 ampoule,,,,N03AB02,CEGEDIM
 329087,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Consilient Health Ltd) 10 vial,,,,N03AX14,CEGEDIM
 329108,Pregabalin 20mg/ml oral solution sugar free (Wockhardt UK Ltd) 473 ml,,,,N03AX16,CEGEDIM
-329121,Nitrazepam 5mg tablets (Intrapharm Laboratories Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-329308,Clomethiazole 157.5mg/5ml oral solution sugar free,,,,N05CM02,CEGEDIM
 329358,Diazepam 10mg/2ml solution for injection ampoules,,,,N05BA01,CEGEDIM
 329500,Midazolam 10mg/2ml solution for injection ampoules,,,,N05CD08,CEGEDIM
 329597,Midazolam 10mg/5ml solution for injection ampoules,,,,N05CD08,CEGEDIM
-329614,Lorazepam 4mg/1ml solution for injection ampoules,,,,N05BA06,CEGEDIM
 329629,Diazepam 10mg/2ml emulsion for injection ampoules,,,,N05BA01,CEGEDIM
 329651,Lamotrigine 2mg dispersible tablets sugar free,,,,N03AX09,CEGEDIM
 329714,Phenytoin sodium 250mg/5ml solution for injection ampoules,,,,N03AB02,CEGEDIM
@@ -6409,10 +5452,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 330285,Topiramate 50mg tablets (Morningside Healthcare Ltd) 60 tablet,,,,N03AX11,CEGEDIM
 330286,Topiramate 100mg tablets (Morningside Healthcare Ltd),,,,N03AX11,CEGEDIM
 330287,Topiramate 100mg tablets (Morningside Healthcare Ltd) 60 tablet,,,,N03AX11,CEGEDIM
-330292,Lorazepam 1mg tablets (Morningside Healthcare Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-330293,Lorazepam 2.5mg tablets (Morningside Healthcare Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-330328,Nitrazepam 5mg tablets (Ennogen Pharma Ltd),,,,N05CD02,CEGEDIM
-330329,Nitrazepam 5mg tablets (Ennogen Pharma Ltd) 28 tablet,,,,N05CD02,CEGEDIM
 330362,Lorazepam 2mg/1ml solution for injection vials,,,,N05BA06,CEGEDIM
 330363,Lorazepam 2mg/1ml solution for injection vials (Imported (United States)),,,,N05BA06,CEGEDIM
 330364,Lorazepam 2mg/1ml solution for injection vials (Imported (United States)) 10 vial,,,,N05BA06,CEGEDIM
@@ -6635,8 +5674,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 339692,Levetiracetam 250mg tablets (Relonchem Ltd),,,,N03AX14,CEGEDIM
 339693,Levetiracetam 250mg tablets (Relonchem Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 339694,Levetiracetam 500mg tablets (Relonchem Ltd),,,,N03AX14,CEGEDIM
-339548,Diazepam 10mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05BA01,CEGEDIM
-339549,Diazepam 10mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N05BA01,CEGEDIM
 339695,Levetiracetam 500mg tablets (Relonchem Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 339696,Levetiracetam 750mg tablets (Relonchem Ltd),,,,N03AX14,CEGEDIM
 339697,Levetiracetam 750mg tablets (Relonchem Ltd) 60 tablet,,,,N03AX14,CEGEDIM
@@ -6668,10 +5705,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 339714,Lamotrigine 200mg tablets (Mawdsley-Brooks & Company Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 339807,Gabapentin 300mg capsules (Mawdsley-Brooks & Company Ltd),,,,N03AX12,CEGEDIM
 339808,Gabapentin 300mg capsules (Mawdsley-Brooks & Company Ltd) 100 capsule,,,,N03AX12,CEGEDIM
-339830,Lorazepam 1mg tablets (Mawdsley-Brooks & Company Ltd),,,,N05BA06,CEGEDIM
-339831,Lorazepam 1mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-339832,Lormetazepam 500microgram tablets (Mawdsley-Brooks & Company Ltd),,,,N05CD06,CEGEDIM
-339833,Lormetazepam 500microgram tablets (Mawdsley-Brooks & Company Ltd) 30 tablet,,,,N05CD06,CEGEDIM
 339899,Phenobarbital 15mg tablets (Mawdsley-Brooks & Company Ltd),,,,N03AA02,CEGEDIM
 339900,Phenobarbital 15mg tablets (Mawdsley-Brooks & Company Ltd) 28 tablet,,,,N03AA02,CEGEDIM
 339901,Phenobarbital 30mg tablets (Mawdsley-Brooks & Company Ltd),,,,N03AA02,CEGEDIM
@@ -6718,9 +5751,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 340197,Clonazepam 500microgram tablets (DE Pharmaceuticals) 105 tablet,,,,N03AE01,CEGEDIM
 340198,Clonazepam 2mg tablets (DE Pharmaceuticals),,,,N03AE01,CEGEDIM
 340199,Clonazepam 2mg tablets (DE Pharmaceuticals) 105 tablet,,,,N03AE01,CEGEDIM
-340217,Lorazepam 500microgram tablets ,,,,N05BA06,CEGEDIM
-340218,Lorazepam 500microgram tablets (Advanz Pharma),,,,N05BA06,CEGEDIM
-340219,Lorazepam 500microgram tablets (Advanz Pharma) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 341160,Sodium valproate 200mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd),,,,N03AG01,CEGEDIM
 341161,Sodium valproate 200mg/5ml oral solution sugar free (Mawdsley-Brooks & Company Ltd) 300 ml,,,,N03AG01,CEGEDIM
 341226,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Sciecure Pharma Ltd),,,,N03AX14,CEGEDIM
@@ -6741,8 +5771,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 341245,Pregabalin 50mg capsules (Sciecure Pharma Ltd) 84 capsule6 x 14 capsules,,,,N03AX16,CEGEDIM
 341246,Pregabalin 25mg capsules (Sciecure Pharma Ltd),,,,N03AX16,CEGEDIM
 341247,Pregabalin 25mg capsules (Sciecure Pharma Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
-341256,Diazepam 2mg/5ml oral solution sugar free (DE Pharmaceuticals),,,,N05BA01,CEGEDIM
-341257,Diazepam 2mg/5ml oral solution sugar free (DE Pharmaceuticals) 100 ml,,,,N05BA01,CEGEDIM
 341322,Phenytoin 50mg chewable tablets (Special Order),,,,N03AB02,CEGEDIM
 341323,Phenytoin 50mg chewable tablets (Special Order) 1 tablet,,,,N03AB02,CEGEDIM
 341324,Dilantin Infatabs 50mg chewable tablets (Imported (Canada)),,,,N03AB02,CEGEDIM
@@ -6816,7 +5844,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 341926,Levetiracetam 1g tablets (Mylan),,,,N03AX14,CEGEDIM
 341927,Levetiracetam 500mg tablets (Mylan),,,,N03AX14,CEGEDIM
 341928,Levetiracetam 250mg tablets (Mylan),,,,N03AX14,CEGEDIM
-341968,Lorazepam 500microgram tablets (A A H Pharmaceuticals Ltd),,,,N05BA06,CEGEDIM
 341980,Levetiracetam 750mg tablets (Mylan),,,,N03AX14,CEGEDIM
 341997,Fycompa 2mg tablets (CST Pharma Ltd),,,,N03AX22,CEGEDIM
 342201,Levetiracetam 100mg/ml oral solution sugar free (Crescent Pharma OTC Ltd),,,,N03AX14,CEGEDIM
@@ -6851,10 +5878,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 342556,Zonegran 100mg capsules (CST Pharma Ltd),,,,N03AX15,CEGEDIM
 342676,Zebinix 800mg tablets (CST Pharma Ltd),,,,N03AF04,CEGEDIM
 342695,Keppra 100mg/ml oral solution (CST Pharma Ltd),,,,N03AX14,CEGEDIM
-342790,Lorazepam 1mg orodispersible tablets,,,,N05BA06,CEGEDIM
-342791,Lorazepam 1mg orodispersible tablets (Aristo Pharma Ltd),,,,N05BA06,CEGEDIM
-342792,Lorazepam 2.5mg orodispersible tablets,,,,N05BA06,CEGEDIM
-342793,Lorazepam 2.5mg orodispersible tablets (Aristo Pharma Ltd),,,,N05BA06,CEGEDIM
 342794,Midazolam 10mg/5ml oral solution unit dose ampoules sugar free,,,,N05CD08,CEGEDIM
 342795,Ozalin 2mg/ml oral solution 5ml unit dose ampoules (Primex Pharmaceuticals Oy),,,,N05CD08,CEGEDIM
 342796,Ozalin 2mg/ml oral solution 5ml unit dose ampoules (Sintetica Ltd),,,,N05CD08,CEGEDIM
@@ -6870,13 +5893,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 342947,Keppra 250mg tablets (Pilsco Ltd),,,,N03AX14,CEGEDIM
 342963,Keppra 100mg/ml oral solution (Pilsco Ltd),,,,N03AX14,CEGEDIM
 342964,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Pilsco Ltd),,,,N05CD08,CEGEDIM
-342971,Lorazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd),,,,N05BA06,CEGEDIM
 342986,Epilim Chrono 500 tablets (Pilsco Ltd),,,,N03AG01,CEGEDIM
 343088,Belvo 500mg gastro-resistant tablets (Consilient Health Ltd),,,,N03AG01,CEGEDIM
 343089,Depakote 500mg gastro-resistant tablets (Pilsco Ltd),,,,N03AG01,CEGEDIM
 343091,Epilim Chrono 300 tablets (Pilsco Ltd),,,,N03AG01,CEGEDIM
 343097,Lamictal 50mg tablets (Pilsco Ltd),,,,N03AX09,CEGEDIM
-343113,Lormetazepam 1mg tablets (Pilsco Ltd),,,,N05CD06,CEGEDIM
 343117,Magnesium sulfate 10% (magnesium 0.4mmol/ml) solution for infusion 10ml ampoules (Synchrony Pharma Ltd),,,,B05XA05,CEGEDIM
 343136,Briviact 50mg tablets (Pilsco Ltd),,,,N03AX23,CEGEDIM
 343137,Briviact 75mg tablets (Pilsco Ltd),,,,N03AX23,CEGEDIM
@@ -6901,8 +5922,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 343714,Levetiracetam 500mg tablets (Mylan) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
 343718,Levetiracetam 750mg tablets (Mylan) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
 343719,Levetiracetam 1g tablets (Mylan) 60 tablet6 x 10 tablets,,,,N03AX14,CEGEDIM
-343971,Lorazepam 1mg orodispersible tablets (Aristo Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-343972,Lorazepam 2.5mg orodispersible tablets (Aristo Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 344017,Epilim Chronosphere MR 250mg granules sachets (CST Pharma Ltd) 30 sachet,,,,N03AG01,CEGEDIM
 344024,Topiramate 25mg tablets (Ennogen Healthcare Ltd) 60 tablet6 x 10 tablets,,,,N03AX11,CEGEDIM
 344027,Topamax 200mg tablets (CST Pharma Ltd) 60 tablet,,,,N03AX11,CEGEDIM
@@ -6923,7 +5942,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 344367,Clonazepam 500microgram tablets (Star Pharmaceuticals Ltd) 105 tablet,,,,N03AE01,CEGEDIM
 344456,Clobazam 10mg/5ml oral suspension sugar free (Atnahs Pharma UK Ltd) 150 ml,,,,N05BA09,CEGEDIM
 344457,Clobazam 5mg/5ml oral suspension sugar free (Atnahs Pharma UK Ltd) 150 ml,,,,N05BA09,CEGEDIM
-344495,Lorazepam 500microgram tablets (A A H Pharmaceuticals Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 344492,Levetiracetam 100mg/ml oral solution sugar free (Crescent Pharma OTC Ltd) 300 ml,,,,N03AX14,CEGEDIM
 344577,Gabapentin 100mg capsules (Noumed Life Sciences Ltd) 100 capsule10 x 10 capsules,,,,N03AX12,CEGEDIM
 344578,Gabapentin 300mg capsules (Noumed Life Sciences Ltd) 100 capsule10 x 10 capsules,,,,N03AX12,CEGEDIM
@@ -6973,7 +5991,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 345265,Lamictal 50mg tablets (Pilsco Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 345194,Ethosuximide 250mg capsules (Actavis UK Ltd) 56 capsule,,,,N03AD01,CEGEDIM
 345204,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for infusion 10ml ampoules (Synchrony Pharma Ltd) 10 ampoule,,,,B05XA05,CEGEDIM
-345218,Lorazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd) 28 tablet,,,,N05BA06,CEGEDIM
 345219,Magnesium sulfate 10% (magnesium 0.4mmol/ml) solution for infusion 10ml ampoules (Synchrony Pharma Ltd) 10 ampoule,,,,B05XA05,CEGEDIM
 345254,Keppra 1g tablets (Pilsco Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 345255,Keppra 100mg/ml oral solution (Pilsco Ltd) 150 ml,,,,N03AX14,CEGEDIM
@@ -6982,7 +5999,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 345258,Keppra 500mg tablets (Pilsco Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 345260,Lamictal 100mg tablets (Pilsco Ltd) 56 tablet,,,,N03AX09,CEGEDIM
 345264,Lamictal 25mg tablets (Pilsco Ltd) 56 tablet,,,,N03AX09,CEGEDIM
-345273,Lormetazepam 1mg tablets (Pilsco Ltd) 30 tablet,,,,N05CD06,CEGEDIM
 345412,Topamax 25mg sprinkle capsules (Pilsco Ltd) 60 capsule,,,,N03AX11,CEGEDIM
 345457,Briviact 75mg tablets (Pilsco Ltd) 56 tablet,,,,N03AX23,CEGEDIM
 345520,Topamax 100mg tablets (Pilsco Ltd) 56 tablet,,,,N03AX11,CEGEDIM
@@ -6994,7 +6010,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 345587,Levetiracetam 500mg tablets (CST Pharma Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 345593,Vimpat 50mg tablets (CST Pharma Ltd) 56 tablet,,,,N03AX18,CEGEDIM
 345623,Lamictal 5mg dispersible tablets (CST Pharma Ltd) 60 tablet,,,,N03AX09,CEGEDIM
-345632,Loprazolam 1mg tablets (DE Pharmaceuticals) 28 tablet,,,,N05CD11,CEGEDIM
 345646,Ethosuximide 250mg capsules (Neuraxpharm Arzneimittal GmbH) 56 capsule4 x 14 capsules,,,,N03AD01,CEGEDIM
 345721,Pregabalin 20mg/ml oral solution sugar free (DE Pharmaceuticals) 500 ml2 x 250ml bottles,,,,N03AX16,CEGEDIM
 345722,Primidone 50mg tablets (DE Pharmaceuticals) 100 tablet,,,,N03AA03,CEGEDIM
@@ -7010,10 +6025,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 346324,Depakote 500mg gastro-resistant tablets (CST Pharma Ltd),,,,N03AG01,CEGEDIM
 346325,Depakote 500mg gastro-resistant tablets (CST Pharma Ltd) 30 tablet,,,,N03AG01,CEGEDIM
 346326,Epilim Chrono 200 tablets (CST Pharma Ltd) 30 tablet,,,,N03AG01,CEGEDIM
-346389,Lorazepam 1mg tablets (Aristo Pharma Ltd),,,,N05BA06,CEGEDIM
-346390,Lorazepam 1mg tablets (Aristo Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
-346418,Lorazepam 2.5mg tablets (Aristo Pharma Ltd),,,,N05BA06,CEGEDIM
-346419,Lorazepam 2.5mg tablets (Aristo Pharma Ltd) 28 tablet2 x 14 tablets,,,,N05BA06,CEGEDIM
 346431,Pregabalin 50mg capsules (Ranbaxy (UK) Ltd),,,,N03AX16,CEGEDIM
 346432,Pregabalin 50mg capsules (Ranbaxy (UK) Ltd) 56 capsule8 x 7 capsules,,,,N03AX16,CEGEDIM
 346433,Pregabalin 50mg capsules (Ranbaxy (UK) Ltd) 84 capsule12 x 7 capsules,,,,N03AX16,CEGEDIM
@@ -7125,8 +6136,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 348213,Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (DE Pharmaceuticals) 4 unit dose,,,,N05CD08,CEGEDIM
 348214,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (DE Pharmaceuticals),,,,N05CD08,CEGEDIM
 348215,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (DE Pharmaceuticals) 4 unit dose,,,,N05CD08,CEGEDIM
-348236,Clomethiazole 192mg capsules (DE Pharmaceuticals),,,,N05CM02,CEGEDIM
-348237,Clomethiazole 192mg capsules (DE Pharmaceuticals) 60 capsule,,,,N05CM02,CEGEDIM
 348254,Depakote 250mg gastro-resistant tablets (DE Pharmaceuticals),,,,N03AG01,CEGEDIM
 348255,Depakote 250mg gastro-resistant tablets (DE Pharmaceuticals) 30 tablet,,,,N03AG01,CEGEDIM
 348256,Depakote 500mg gastro-resistant tablets (DE Pharmaceuticals),,,,N03AG01,CEGEDIM
@@ -7265,32 +6274,25 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 353464,Topiramate 50mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),,,,N03AX11,CEGEDIM
 353465,Topiramate 50mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) 150 ml,,,,N03AX11,CEGEDIM
 353661,Lamictal 50mg tablets (Pilsco Ltd) 84 tablet,,,,N03AX09,CEGEDIM
-353751,Diazepam 2mg/5ml oral solution sugar free,,,,N05BA01,CEGEDIM
 353825,Clonazepam 2mg/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N03AE01,CEGEDIM
 353841,Clobazam 10mg tablets (Medihealth (Northern) Ltd),,,,N05BA09,CEGEDIM
 353842,Ethosuximide 250mg/5ml syrup (Medihealth (Northern) Ltd),,,,N03AD01,CEGEDIM
 353861,Clonazepam 500microgram tablets (Medihealth (Northern) Ltd),,,,N03AE01,CEGEDIM
 353870,Lamotrigine 100mg dispersible tablets sugar free (NorthStar Healthcare Unlimited Company),,,,N03AX09,CEGEDIM
 353888,Ethosuximide 250mg/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N03AD01,CEGEDIM
-353894,Diazepam 2mg/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N05BA01,CEGEDIM
 353918,Ethosuximide 250mg capsules (Medihealth (Northern) Ltd),,,,N03AD01,CEGEDIM
 353954,Clonazepam 2mg tablets (Medihealth (Northern) Ltd),,,,N03AE01,CEGEDIM
 353955,Pregabalin 300mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
-354005,Diazepam 10mg tablets (Medihealth (Northern) Ltd),,,,N05BA01,CEGEDIM
 354012,Lamotrigine 25mg dispersible tablets sugar free (NorthStar Healthcare Unlimited Company),,,,N03AX09,CEGEDIM
-354025,Chlordiazepoxide 5mg capsules (Medihealth (Northern) Ltd),,,,N05BA02,CEGEDIM
 354123,Pregabalin 150mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 354124,Pregabalin 200mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 354125,Pregabalin 50mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 354126,Pregabalin 75mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 354128,Pregabalin 225mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
-354148,Diazepam 2mg tablets (Medihealth (Northern) Ltd),,,,N05BA01,CEGEDIM
 354169,Clonazepam 500micrograms/5ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N03AE01,CEGEDIM
-354185,Diazepam 5mg tablets (Medihealth (Northern) Ltd),,,,N05BA01,CEGEDIM
 354192,Carbamazepine 100mg/5ml oral suspension sugar free (Medihealth (Northern) Ltd),,,,N03AF01,CEGEDIM
 354242,Pregabalin 25mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
 354243,Pregabalin 100mg tablets (Alliance Healthcare (Distribution) Ltd),,,,N03AX16,CEGEDIM
-354284,Chlordiazepoxide 10mg capsules (Medihealth (Northern) Ltd),,,,N05BA02,CEGEDIM
 354293,Clobazam 10mg/5ml oral suspension sugar free (Medihealth (Northern) Ltd),,,,N05BA09,CEGEDIM
 354312,Carbamazepine 200mg tablets (Medihealth (Northern) Ltd),,,,N03AF01,CEGEDIM
 354313,Clobazam 5mg/5ml oral suspension sugar free (Medihealth (Northern) Ltd),,,,N05BA09,CEGEDIM
@@ -7298,8 +6300,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 354330,Lamotrigine 100mg dispersible tablets sugar free (NorthStar Healthcare Unlimited Company) 56 tablet4 x 14 tablets,,,,N03AX09,CEGEDIM
 354523,Carbamazepine 100mg/5ml oral suspension sugar free (Medihealth (Northern) Ltd) 300 ml,,,,N03AF01,CEGEDIM
 354524,Carbamazepine 200mg tablets (Medihealth (Northern) Ltd) 84 tablet,,,,N03AF01,CEGEDIM
-354568,Chlordiazepoxide 10mg capsules (Medihealth (Northern) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
-354569,Chlordiazepoxide 5mg capsules (Medihealth (Northern) Ltd) 100 capsule,,,,N05BA02,CEGEDIM
 354628,Clobazam 10mg tablets (Medihealth (Northern) Ltd) 30 tablet,,,,N05BA09,CEGEDIM
 354629,Clobazam 10mg/5ml oral suspension sugar free (Medihealth (Northern) Ltd) 150 ml,,,,N05BA09,CEGEDIM
 354630,Clobazam 5mg/5ml oral suspension sugar free (Medihealth (Northern) Ltd) 150 ml,,,,N05BA09,CEGEDIM
@@ -7315,10 +6315,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 354663,Pregabalin 300mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet8 x 7 tablets,,,,N03AX16,CEGEDIM
 354665,Pregabalin 50mg tablets (Alliance Healthcare (Distribution) Ltd) 84 tablet7 x 12 tablets,,,,N03AX16,CEGEDIM
 354667,Pregabalin 75mg tablets (Alliance Healthcare (Distribution) Ltd) 56 tablet8 x 7 tablets,,,,N03AX16,CEGEDIM
-354737,Diazepam 10mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-354738,Diazepam 2mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-354743,Diazepam 5mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA01,CEGEDIM
-354744,Diazepam 2mg/5ml oral solution sugar free (Medihealth (Northern) Ltd) 100 ml,,,,N05BA01,CEGEDIM
 354851,Ethosuximide 250mg/5ml syrup (Medihealth (Northern) Ltd) 200 ml,,,,N03AD01,CEGEDIM
 354852,Ethosuximide 250mg capsules (Medihealth (Northern) Ltd) 56 capsule,,,,N03AD01,CEGEDIM
 354853,Ethosuximide 250mg/5ml oral solution sugar free (Medihealth (Northern) Ltd) 250 ml2 x 125ml bottles,,,,N03AD01,CEGEDIM
@@ -7368,22 +6364,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 355856,Levetiracetam 750mg tablets (Medihealth (Northern) Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 355857,Levetiracetam 100mg/ml oral solution sugar free (Medihealth (Northern) Ltd),,,,N03AX14,CEGEDIM
 355858,Levetiracetam 100mg/ml oral solution sugar free (Medihealth (Northern) Ltd) 300 ml,,,,N03AX14,CEGEDIM
-355929,Loprazolam 1mg tablets (Medihealth (Northern) Ltd),,,,N05CD11,CEGEDIM
-355930,Loprazolam 1mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05CD11,CEGEDIM
 355933,Keppra 1g tablets (Pilsco Ltd),,,,N03AX14,CEGEDIM
 355934,Keppra 1g tablets (Pilsco Ltd) 60 tablet,,,,N03AX14,CEGEDIM
-355937,Lorazepam 1mg tablets (Medihealth (Northern) Ltd),,,,N05BA06,CEGEDIM
-355938,Lorazepam 1mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA06,CEGEDIM
 355939,Keppra 250mg tablets (Pilsco Ltd),,,,N03AX14,CEGEDIM
 355940,Keppra 250mg tablets (Pilsco Ltd) 60 tablet,,,,N03AX14,CEGEDIM
 355941,Keppra 500mg tablets (Pilsco Ltd),,,,N03AX14,CEGEDIM
 355942,Keppra 500mg tablets (Pilsco Ltd) 60 tablet,,,,N03AX14,CEGEDIM
-355943,Lorazepam 2.5mg tablets (Medihealth (Northern) Ltd),,,,N05BA06,CEGEDIM
-355944,Lorazepam 2.5mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA06,CEGEDIM
-355945,Lormetazepam 500microgram tablets (Medihealth (Northern) Ltd),,,,N05CD06,CEGEDIM
-355946,Lormetazepam 500microgram tablets (Medihealth (Northern) Ltd) 30 tablet,,,,N05CD06,CEGEDIM
-355947,Lormetazepam 1mg tablets (Medihealth (Northern) Ltd),,,,N05CD06,CEGEDIM
-355948,Lormetazepam 1mg tablets (Medihealth (Northern) Ltd) 30 tablet,,,,N05CD06,CEGEDIM
 355969,Epilim Chrono 200 tablets (Pilsco Ltd) 30 tablet,,,,N03AG01,CEGEDIM
 355970,Epilim Chrono 300 tablets (Pilsco Ltd) 30 tablet,,,,N03AG01,CEGEDIM
 355971,Epilim Chrono 500 tablets (Pilsco Ltd) 30 tablet,,,,N03AG01,CEGEDIM
@@ -7407,14 +6393,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 356258,Pregabalin 225mg capsules (Relonchem Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
 356259,Pregabalin 300mg capsules (Relonchem Ltd),,,,N03AX16,CEGEDIM
 356260,Pregabalin 300mg capsules (Relonchem Ltd) 56 capsule4 x 14 capsules,,,,N03AX16,CEGEDIM
-356366,Nitrazepam 5mg tablets (Medihealth (Northern) Ltd),,,,N05CD02,CEGEDIM
-356367,Nitrazepam 5mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05CD02,CEGEDIM
-356458,Oxazepam 10mg tablets (Medihealth (Northern) Ltd),,,,N05BA04,CEGEDIM
-356459,Oxazepam 10mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA04,CEGEDIM
 356460,Oxcarbazepine 150mg tablets (Medihealth (Northern) Ltd),,,,N03AF02,CEGEDIM
 356461,Oxcarbazepine 150mg tablets (Medihealth (Northern) Ltd) 50 tablet,,,,N03AF02,CEGEDIM
-356462,Oxazepam 15mg tablets (Medihealth (Northern) Ltd),,,,N05BA04,CEGEDIM
-356463,Oxazepam 15mg tablets (Medihealth (Northern) Ltd) 28 tablet,,,,N05BA04,CEGEDIM
 356464,Oxcarbazepine 300mg tablets (Medihealth (Northern) Ltd),,,,N03AF02,CEGEDIM
 356465,Oxcarbazepine 300mg tablets (Medihealth (Northern) Ltd) 50 tablet,,,,N03AF02,CEGEDIM
 356466,Oxcarbazepine 600mg tablets (Medihealth (Northern) Ltd),,,,N03AF02,CEGEDIM
@@ -7436,9 +6416,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 357157,Midazolam 15mg/3ml solution for injection ampoules (AS Kalceks) 10 ampoule,,,,N05CD08,CEGEDIM
 357177,Midazolam 50mg/10ml solution for injection ampoules (AS Kalceks),,,,N05CD08,CEGEDIM
 357178,Midazolam 50mg/10ml solution for injection ampoules (AS Kalceks) 10 ampoule,,,,N05CD08,CEGEDIM
-357179,Potassium chloride 0.15% (potassium 20mmol/1litre) / Magnesium sulfate 0.5% (magnesium 20mmol/1litre) / Sodium chloride 0.9% infusion 1litre bags,,,,,CEGEDIM
-357180,Potassium chloride 0.15% (potassium 20mmol/1litre) / Magnesium sulfate 0.5% (magnesium 20mmol/1litre) / Sodium chloride 0.9% infusion 1litre bags (Special Order),,,,,CEGEDIM
-357181,Potassium chloride 0.15% (potassium 20mmol/1litre) / Magnesium sulfate 0.5% (magnesium 20mmol/1litre) / Sodium chloride 0.9% infusion 1litre bags (Special Order) 1 bag,,,,,CEGEDIM
 357182,Magnesium sulfate 2.5% (magnesium 0.1mmol/ml) infusion 100ml bags,,,,B05XA05,CEGEDIM
 357183,Magnesium sulfate 2.5% (magnesium 0.1mmol/ml) infusion 100ml bags (Special Order),,,,B05XA05,CEGEDIM
 357184,Magnesium sulfate 2.5% (magnesium 0.1mmol/ml) infusion 100ml bags (Special Order) 1 bag,,,,B05XA05,CEGEDIM

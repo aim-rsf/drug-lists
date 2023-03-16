@@ -4,10 +4,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 59451,Primidone 250mg tablets (Alliance Healthcare (Distribution) Ltd) Primidone 250mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 72408,Valproic acid 500mg/5ml oral suspension Valproate semisodium 100mg/1ml Oral suspension Oral,4020300,4080100,,,CPRD_GOLD
 35164,Phenobarbital 50mg/5ml oral suspension Phenobarbital 10mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
-18125,Librium 5mg capsules (Mylan) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
 7064,Depakote 250mg gastro-resistant tablets (Sanofi) Valproate semisodium 250mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRD_GOLD
 16799,Paraldehyde rectal solution Paraldehyde  Rectal Solution Rectal,4080200,,,,CPRD_GOLD
-5294,Chlordiazepoxide 10mg tablets Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
 58162,Gabapentin 600mg/5ml oral solution Gabapentin 120mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 74743,Lorazepam 2mg/1ml solution for injection ampoules Lorazepam 2mg/1ml Solution for injection Intramuscular/Intravenous,4010201,4080200,15010401,,CPRD_GOLD
 79244,Carbamazepine 200mg tablets (Phoenix Healthcare Distribution Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
@@ -16,22 +14,18 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 4480,PRIMIDONE 200 MG TAB    ,0,,,,CPRD_GOLD
 816,Clonazepam 1mg/1ml solution for injection ampoules and diluent Clonazepam 1mg/1ml Solution for injection Intravenous,4080200,,,,CPRD_GOLD
 38789,Lacosamide 50mg tablets Lacosamide 50mg Tablet Oral,4080100,,,,CPRD_GOLD
-46896,Lorazepam 500micrograms/5ml oral solution Lorazepam 100microgram/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
 53343,Keppra 1g tablets (Lexon (UK) Ltd) Levetiracetam 1gram Tablet Oral,4080100,,,,CPRD_GOLD
 12932,Epimaz 100mg tablets (IVAX Pharmaceuticals UK Ltd) Carbamazepine 100mg Tablet Oral,4080100,,,,CPRD_GOLD
-3686,Nitrazepam 10mg Tablet Nitrazepam 10mg Tablet Oral,4010100,,,,CPRD_GOLD
 73387,Lyrica 50mg capsules (DE Pharmaceuticals) Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 3882,EPANUTIN + PHENOBARB CAP    ,0,,,,CPRD_GOLD
 34632,Sodium valproate 200mg gastro-resistant tablets (Teva UK Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 46826,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 5997,Convulex 150mg gastro-resistant capsules (Pfizer Ltd) Valproic acid 150mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRD_GOLD
-75473,Diazepam 2.5mg/5ml oral suspension (Special Order) Diazepam 500microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 16149,Lamotrigine 50mg dispersible tablets sugar free Lamotrigine 50mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
 58532,Phenobarbital 34mg/5ml oral suspension Phenobarbital 6.8mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
 31633,Valclair 10mg suppositories (Durbin Plc) Diazepam 10mg Suppository Rectal,4010201,4080200,4080300,,CPRD_GOLD
 79478,Midazolam 50mg/10ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
 63300,Rewisca 25mg capsules (Consilient Health Ltd) Pregabalin 25mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
-3870,Diazepam 2mg capsules Diazepam 2mg Capsules Oral,4010100,4010200,,,CPRD_GOLD
 69375,Brivaracetam 50mg/5ml oral solution sugar free Brivaracetam 10mg/1ml Oral solution Oral,4080400,,,,CPRD_GOLD
 63565,Phenobarbital 5mg/5ml oral solution Phenobarbital 1mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 70849,Phenobarbital capsule Phenobarbital   ,4080100,,,,CPRD_GOLD
@@ -49,42 +43,32 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 77021,Midazolam 6.25mg/5ml oral solution Midazolam maleate 1.25mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
 76160,Lamotrigine 25mg tablets (Mawdsley-Brooks & Company Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 3109,CLOBAZAM 5 MG TAB    ,0,,,,CPRD_GOLD
-41988,Chlordiazepoxide 10mg Tablet (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010200,,,,CPRD_GOLD
 26012,Carbagen SR 400mg tablets (Mylan) Carbamazepine 400mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 64773,Topiramate 30mg/5ml oral solution Topiramate 6mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
 2077,TEGRETOL liq 100 MG/5ML LIQ    ,0,,,,CPRD_GOLD
 75047,Topiramate 12.5mg/5ml oral solution Topiramate 2.5mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
 64026,Levetiracetam 250mg tablets (A A H Pharmaceuticals Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
-71143,Clomethiazole 250mg/5ml oral solution Clomethiazole edisilate 50mg/1ml Oral solution Oral,4010100,4105000,,,CPRD_GOLD
+79029,Diazepam 10mg Rectal tubes (Hillcross Pharmaceuticals Ltd) Diazepam 4mg/1ml Enema Rectal,4010200,4080200,,,CPRD_GOLD
 47143,Zonisamide 50mg/5ml oral suspension Zonisamide 10mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 16080,Keppra 750mg tablets (UCB Pharma Ltd) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
 69211,Clonazepam 500microgram orodispersible tablets Clonazepam 500microgram Orodispersible tablet Oral,4080100,,,,CPRD_GOLD
 69672,Levetiracetam 500mg/5ml solution for infusion ampoules Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
-19941,Bromazepam 3mg tablets Bromazepam 3mg Tablets Oral,4010200,,,,CPRD_GOLD
 73122,Epilim Chrono 300 tablets (Lexon (UK) Ltd) Sodium valproate 300mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
-20692,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
 5907,Lamotrigine 100mg dispersible tablets sugar free Lamotrigine 100mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
 77254,Briviact 50mg/5ml solution for injection vials (UCB Pharma Ltd) Brivaracetam 10mg/1ml Solution for injection Intravenous,4080400,,,,CPRD_GOLD
 50442,Phenobarbital sodium 50mg/5ml oral solution Phenobarbital sodium 10mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 80486,Phenobarbital sodium oral liquid Phenobarbital Sodium   ,4080100,,,,CPRD_GOLD
-41553,Oxazepam 10mg tablets (Genus Pharmaceuticals Ltd) Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
-9045,Diazepam 1mg/5ml suspension Diazepam 1mg/5ml Suspension Oral,4010100,4010200,,,CPRD_GOLD
 50147,Phenytoin sodium 100mg capsules (Flynn Pharma Ltd) Phenytoin sodium 100mg Capsule Oral,4080100,,,,CPRD_GOLD
 75739,Levetiracetam 750mg tablets (Accord Healthcare Ltd) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
 58527,Desitrend 1000mg granules sachets (Desitin Pharma Ltd) Levetiracetam 1gram Granules Oral,4080100,,,,CPRD_GOLD
-19324,Clomethiazole 8mg/ml IV infusion Clomethiazole Edisilate 8mg/ml Intravenous Infusion ,4080200,4105000,,,CPRD_GOLD
-68772,Clomethiazole 31.5mg/ml oral solution sugar free (Cheplapharm Arzneimittel GmbH) Clomethiazole edisilate 50mg/1ml Oral solution Oral,4010100,4105000,,,CPRD_GOLD
-56236,Diazepam 2mg tablets (Wockhardt UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 75758,Phenobarbital 150mg/5ml oral solution Phenobarbital 30mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 26835,MIDAZOLAM (2ML)    ,0,,,,CPRD_GOLD
 6560,Sodium valproate 500mg modified-release tablets Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 50159,Phenytoin sodium 300mg capsules (Flynn Pharma Ltd) Phenytoin sodium 300mg Capsule Oral,4080100,,,,CPRD_GOLD
-4543,Chlordiazepoxide 5mg tablets Chlordiazepoxide Hydrochloride 5mg Tablets Oral,4010200,,,,CPRD_GOLD
 77463,Rivotril 500microgram tablets (Waymade Healthcare Plc) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
 21584,Sativex oromucosal spray (Bayer Plc) Dronabinol/Cannabidiol 2.7mg/1dose + 2.5mg/1dose Spray Oromucosal,10020200,,,,CPRD_GOLD
 24471,Magnesium sulfate 10% (magnesium 0.4mmol/ml) solution for injection 10ml ampoules Magnesium sulfate heptahydrate 100mg/1ml Solution for infusion Intravenous,9050103,,,,CPRD_GOLD
 14743,Clonazepam 500micrograms/5ml oral suspension Clonazepam 100microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-78312,Lorazepam 1mg orodispersible tablets Lorazepam 1mg Orodispersible tablet Oral,4010201,15010401,,,CPRD_GOLD
 34699,Phenytoin 90mg/5ml Oral suspension sugar free (Rosemont Pharmaceuticals Ltd) Phenytoin 90mg/5ml Oral Suspension Oral,4070300,4080100,,,CPRD_GOLD
 68005,Brivaracetam 25mg tablets Brivaracetam 25mg Tablet Oral,4080400,,,,CPRD_GOLD
 44903,Sodium valproate 500mg gastro-resistant tablets (Zentiva) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
@@ -99,9 +83,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 10111,Lamictal 200mg tablets (GlaxoSmithKline UK Ltd) Lamotrigine 200mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 32931,Carbamazepine 400mg tablets (Teva UK Ltd) Carbamazepine 400mg Tablet Oral,4080100,,,,CPRD_GOLD
 10650,Rivotril 500microgram tablets (Roche Products Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
-5150,Loprazolam 1mg tablets Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 48253,Lyrica 150mg capsules (Lexon (UK) Ltd) Pregabalin 150mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-39284,Lorazepam 1mg tablets (Genus Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 51416,Rufinamide 40mg/ml oral suspension sugar free Rufinamide 40mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 59273,Lamotrigine 50mg tablets (A A H Pharmaceuticals Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 40521,Inovelon 400mg tablets (Eisai Ltd) Rufinamide 400mg Tablet Oral,4080100,,,,CPRD_GOLD
@@ -115,22 +97,17 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 62650,Phenytoin 100mg Tablet (Berk Pharmaceuticals Ltd) Phenytoin sodium 100mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 58460,Clonazepam 312.5micrograms/5ml oral suspension Clonazepam 62.5microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 80742,Clonazepam 1mg/5ml oral suspension Clonazepam 200microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-14417,LORAZEPAM 1 MG SUS    ,0,,,,CPRD_GOLD
-73660,Nitrazepam 5mg tablets (Almus Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
-3524,Mogadon 5mg Capsule (Roche Products Ltd) Nitrazepam 5mg Capsule Oral,4010100,,,,CPRD_GOLD
 54195,Perampanel 8mg tablets Perampanel 8mg Tablet Oral,4080100,,,,CPRD_GOLD
-33672,Diazepam 2mg tablets (A A H Pharmaceuticals Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 3111,Clobazam 10mg tablets Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
 18886,Convulex 500mg gastro-resistant capsules (Pfizer Ltd) Valproic acid 500mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRD_GOLD
 54245,Topiramate 25mg capsules (A A H Pharmaceuticals Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
-6025,Chlordiazepoxide 5mg tablets Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
 36633,Episenta 150mg modified-release capsules (Desitin Pharma Ltd) Sodium valproate 150mg Modified-release capsule Oral,4080100,,,,CPRD_GOLD
 78146,Pregabalin 25mg capsules (DE Pharmaceuticals) Pregabalin 25mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 3350,Sodium valproate 500mg gastro-resistant tablets Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 80450,Lamotrigine 25mg dispersible tablets sugar free (Mylan) Lamotrigine 25mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
 75423,Lamotrigine 50mg tablets (DE Pharmaceuticals) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-41411,Oxazepam 15mg tablets (A A H Pharmaceuticals Ltd) Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
 6999,Pregabalin 100mg capsules Pregabalin 100mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
+18488,Diazepam 2.5mg RecTubes (Wockhardt UK Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 12880,Tegretol 200mg Chewtabs (Novartis Pharmaceuticals UK Ltd) Carbamazepine 200mg Chewable tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 45941,Tegretol Prolonged Release 200mg tablets (Novartis Pharmaceuticals UK Ltd) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 63973,Lamotrigine 25mg dispersible tablets sugar free (Actavis UK Ltd) Lamotrigine 25mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
@@ -146,8 +123,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 79580,Lamotrigine 100mg tablets (Sigma Pharmaceuticals Plc) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 16782,Vigabatrin 125mg capsules Vigabatrin 125mg Capsules Oral,4080100,,,,CPRD_GOLD
 71188,Keppra 750mg tablets (Mawdsley-Brooks & Company Ltd) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
-34686,Nitrazepam 5mg tablets (Teva UK Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
-27847,Surem 5mg Capsule (Galen Ltd) Nitrazepam 5mg Capsule Oral,4010100,,,,CPRD_GOLD
 37515,Rufinamide 100mg tablets Rufinamide 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 15429,CLOBAZAM 5 MG CAP    ,0,,,,CPRD_GOLD
 20966,Clobazam 10mg/5ml oral suspension Clobazam 2mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
@@ -156,22 +131,17 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 24264,Gabitril 15mg tablets (Teva UK Ltd) Tiagabine hydrochloride monohydrate 15mg Tablet Oral,4080100,,,,CPRD_GOLD
 61377,Carbamazepine 100mg tablets (Kent Pharmaceuticals Ltd) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 22131,PHENOBARBITONE & PHENYTOIN 60 MG CAP    ,0,,,,CPRD_GOLD
+38410,Diazepam 5mg Rectal tubes (Hillcross Pharmaceuticals Ltd) Diazepam 2mg/1ml Enema Rectal,4010200,4080200,,,CPRD_GOLD
 53016,Keppra 100mg/ml oral solution (Sigma Pharmaceuticals Plc) Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-35,Nitrazepam 5mg tablets Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 34946,Gabapentin 600mg tablets (Teva UK Ltd) Gabapentin 600mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 2085,Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 61468,Keppra 250mg tablets (Necessity Supplies Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
-67785,Diazepam 5mg tablets (Wockhardt UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 39550,Epilim Chronosphere MR 750mg granules sachets (Sanofi) Sodium valproate 750mg Modified-release granules Oral,4080100,,,,CPRD_GOLD
-73815,Diazepam 5mg tablets (Alliance Healthcare (Distribution) Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
-41385,Nitrazepam 5mg tablets (Actavis UK Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 5874,Topiramate 25mg capsules Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 29306,Phenobarbital 15mg tablets (Teva UK Ltd) Phenobarbital 15mg Tablet Oral,4080102,,,,CPRD_GOLD
 60102,Sodium valproate 500mg modified-release tablets (J M McGill Ltd) Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 74867,Clonazepam 125micrograms/5ml oral solution Clonazepam 25microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-48517,Lormetazepam 1mg/5ml oral suspension Lormetazepam 200microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 11873,Zonisamide 25mg capsules Zonisamide 25mg Capsule Oral,4080100,,,,CPRD_GOLD
-28347,Diazepam 2mg Tablet (Crosspharma Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 21854,Pentran 100mg Tablet (Berk Pharmaceuticals Ltd) Phenytoin sodium 100mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 57649,Gabapentin 300mg capsules (Arrow Generics Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 11075,Sodium valproate with valproic acid 500mg modified release tablets Sodium Valproate 500mg Modified Release Tablet Oral,4080100,,,,CPRD_GOLD
@@ -189,7 +159,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 73047,Gabapentin 150mg/5ml oral solution Gabapentin 30mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 41726,Carbamazepine 100mg Tablet (IVAX Pharmaceuticals UK Ltd) Carbamazepine 100mg Tablet Oral,4020300,4080100,,,CPRD_GOLD
 77513,Sodium valproate 200mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
-2122,Chlordiazepoxide 5mg capsules Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
 51309,Lamictal 25mg tablets (DE Pharmaceuticals) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 53784,Gabapentin 300mg/5ml oral solution Gabapentin 60mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 66879,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
@@ -200,12 +169,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69034,Pregabalin 300mg capsules (Mylan) Pregabalin 300mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 70861,Phenobarbital 200mg/1ml solution for injection ampoules (Martindale Pharmaceuticals Ltd) Phenobarbital sodium 200mg/1ml Solution for injection Intramuscular/Subcutaneous/Intravenous,4080102,,,,CPRD_GOLD
 53211,Valproic acid 500mg/5ml oral solution Valproate semisodium 100mg/1ml Oral solution Oral,4020300,4080100,,,CPRD_GOLD
-41557,Magnesium hydroxide oral suspension (Thornton & Ross Ltd) Chloroform/Sodium hydroxide/Magnesium oxide light/Magnesium sulfate dried 3microlitre/1ml + 15mg/1ml + 52.5mg/1ml + 47.5mg/1ml Oral suspension Oral,1060400,,,,CPRD_GOLD
 56504,Lamotrigine 25mg dispersible tablets sugar free (Tillomed Laboratories Ltd) Lamotrigine 25mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
 75571,Clonazepam 500microgram tablets (Kent Pharmaceuticals Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
-26837,XANAX    ,0,,,,CPRD_GOLD
-55774,Bromazepam 3mg tablets Bromazepam 3mg Tablet Oral,4010000,,,,CPRD_GOLD
-53461,Diazepam 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
 79759,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Sciecure Pharma Ltd) Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
 25645,Seominal Tablet (Sterling-Winthrop) Theobromine/Phenobarbital/Reserpine  Tablet Oral,2050200,,,,CPRD_GOLD
 60432,Topiramate 10mg/5ml oral solution Topiramate 2mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
@@ -213,25 +178,18 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 63985,Midazolam 5mg/5ml solution for injection pre-filled syringes Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
 33323,Phenobarbital 30mg tablets (Accord Healthcare Ltd) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
 62198,Topiramate 50mg capsules (A A H Pharmaceuticals Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
-78704,Clomethiazole 31.5mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Clomethiazole edisilate 50mg/1ml Oral solution Oral,4010100,4105000,,,CPRD_GOLD
 51760,Tegretol 400mg tablets (Lexon (UK) Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 53307,Levetiracetam 100mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 32783,Luminal 15mg Tablet (Sanofi-Synthelabo Ltd) Phenobarbital 15mg Tablet Oral,4080100,,,,CPRD_GOLD
 15066,Paraldehyde intravenous injection Paraldehyde  IV Injection ,4080200,,,,CPRD_GOLD
 20640,Keppra 100mg/ml oral solution (UCB Pharma Ltd) Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-18291,Noctamid 1mg Tablet (Schering Health Care Ltd) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 76604,Gabapentin 100mg capsules (Alliance Healthcare (Distribution) Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
-9814,Nitrazepam 5mg/5ml oral suspension Nitrazepam 1mg/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 53524,Epilim Chrono 300 tablets (DE Pharmaceuticals) Sodium valproate 300mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 63842,Levetiracetam 250mg tablets (Actavis UK Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 56136,Epilim Chrono 300 tablets (Waymade Healthcare Plc) Sodium valproate 300mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 53780,Topiramate 25mg tablets (Sandoz Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 70954,Gabapentin 300mg capsules (Brown & Burk UK Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 59378,Phenytoin sodium 100mg tablets (Wockhardt UK Ltd) Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
-5506,Heminevrin 250mg/5ml syrup (AstraZeneca UK Ltd) Clomethiazole edisilate 50mg/1ml Oral solution Oral,4010100,4105000,,,CPRD_GOLD
-23002,LORAZEPAM 5 MG TAB    ,0,,,,CPRD_GOLD
-37566,Lorazepam 1mg/5ml oral suspension Lorazepam 200microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
-34534,Lormetazepam 1mg Tablet (Wyeth Pharmaceuticals) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 1370,Phenytoin 100mg capsule Phenytoin Sodium 100mg Capsules Oral,4070300,4080100,,,CPRD_GOLD
 660,Gabapentin 100mg capsules Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 13524,Tegretol 100mg Chewtabs (Novartis Pharmaceuticals UK Ltd) Carbamazepine 100mg Chewable tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
@@ -245,16 +203,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 18911,Emeside 250mg capsules (Chemidex Pharma Ltd) Ethosuximide 250mg Capsule Oral,4080100,,,,CPRD_GOLD
 70229,Pregabalin 75mg capsules (Mylan) Pregabalin 75mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 28345,Carbamazepine 100mg tablets (Teva UK Ltd) Carbamazepine 100mg Tablet Oral,4080100,,,,CPRD_GOLD
-53566,Diazepam 2.5mg/5ml oral solution Diazepam 500microgram/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
 60543,Pregabalin 75mg/5ml oral solution Pregabalin 15mg/1ml Oral solution Oral,4030000,4070300,4080100,,CPRD_GOLD
 70731,Pregabalin 75mg capsules (Alliance Healthcare (Distribution) Ltd) Pregabalin 75mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
-43438,Chlordiazepoxide 5mg tablets (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010201,10020200,,,CPRD_GOLD
 57664,Clonazepam 250micrograms/5ml oral suspension Clonazepam 50microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-46,Diazepam 2mg tablets Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 56786,Phenytoin sodium 100mg tablets (Milpharm Ltd) Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 49923,Epilim Chrono 200 tablets (Lexon (UK) Ltd) Sodium valproate 200mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
-68414,Diazepam 2mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
-3357,Lormetazepam 1mg Capsule Lormetazepam 1mg Capsule Oral,4010100,,,,CPRD_GOLD
 63965,Alzain 100mg capsules (Dr Reddy's Laboratories (UK) Ltd) Pregabalin 100mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 4502,Sodium valproate 100mg tablets Sodium valproate 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 67969,Gabapentin 300mg capsules (DE Pharmaceuticals) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
@@ -262,8 +215,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 44400,Stiripentol 500mg oral powder sachets Stiripentol 500mg Powder Oral,4080100,,,,CPRD_GOLD
 3886,Lamotrigine 200mg tablets Lamotrigine 200mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 73026,Pregabalin 75mg capsules (Sandoz Ltd) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-34516,Lormetazepam 1mg tablets (Mylan) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
-14480,Flunitrazepam 1mg tablets Flunitrazepam 1mg Tablet Oral,0,,,,CPRD_GOLD
 80564,Pregabalin 25mg tablets Pregabalin 25mg Tablet Oral,4030000,4070300,4080100,,CPRD_GOLD
 652,Carbamazepine 400mg tablets Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 38939,Epilim 200 gastro-resistant tablets (Sanofi) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
@@ -290,25 +241,20 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 55931,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Midazolam 10mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
 47812,Phenobarbital 60mg Tablet (Celltech Pharma Europe Ltd) Phenobarbital 60mg Tablet Oral,4080100,,,,CPRD_GOLD
 73584,Pregabalin 300mg capsules (Zentiva) Pregabalin 300mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
-8721,Oxazepam 30mg Tablet Oxazepam 30mg Tablet Oral,4010200,,,,CPRD_GOLD
 30537,Phenobarbital sodium powder Phenobarbital sodium 1mg/1mg Not applicable Route of administration not applicable,0,,,,CPRD_GOLD
 60156,Topiramate 25mg capsules (Actavis UK Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 39356,Vimpat 100mg tablets (UCB Pharma Ltd) Lacosamide 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 54873,Zonisamide 50mg/5ml oral solution Zonisamide 10mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 66340,Midazolam 1mg/ml Injection (Antigen Pharmaceuticals) Midazolam Hydrochloride 1mg/ml Injection ,15010401,,,,CPRD_GOLD
-37745,Lorazepam 1mg/5ml oral solution Lorazepam 200microgram/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
 69296,Axalid 25mg capsules (Kent Pharmaceuticals Ltd) Pregabalin 25mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 43742,Sodium valproate 1g/10ml solution for injection ampoules Sodium valproate 100mg/1ml Solution for injection Intravenous,4080100,,,,CPRD_GOLD
 67440,Pregabalin 300mg capsules (A A H Pharmaceuticals Ltd) Pregabalin 300mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
-74065,Chlordiazepoxide 5mg/5ml oral suspension Chlordiazepoxide hydrochloride 1mg/1ml Oral suspension Oral,4010201,4105000,10020200,,CPRD_GOLD
 35732,Lamotrigine 25mg dispersible tablets sugar free (Arrow Generics Ltd) Lamotrigine 25mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
 65787,Pregabalin 50mg capsules (Sandoz Ltd) Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 79486,Tegretol 400mg tablets (Mawdsley-Brooks & Company Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 5617,Convulex 300mg gastro-resistant capsules (Pfizer Ltd) Valproic acid 300mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRD_GOLD
 59051,Topiramate 50mg tablets (Accord Healthcare Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 63372,Levetiracetam 1g tablets (Zentiva) Levetiracetam 1gram Tablet Oral,4080100,,,,CPRD_GOLD
-64470,Chlordiazepoxide 10mg tablets (Phoenix Healthcare Distribution Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
-73751,Diazepam 5mg/5ml oral suspension Diazepam 1mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 74934,Midazolam buccal solution Midazolam Hydrochloride   ,4080200,15010401,,,CPRD_GOLD
 38293,Lyrica 225mg capsules (Upjohn UK Ltd) Pregabalin 225mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 61015,Clonazepam 500microgram oral lyophilisates sugar free Clonazepam 500microgram Oral lyophilisate Oral,4080100,,,,CPRD_GOLD
@@ -317,19 +263,14 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 52623,Keppra 250mg tablets (Sigma Pharmaceuticals Plc) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 46757,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 36327,Keppra 500mg/5ml concentrate for solution for infusion vials (UCB Pharma Ltd) Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
-2535,Clomethiazole 157.5mg/5ml oral solution sugar free Clomethiazole edisilate 50mg/1ml Oral solution Oral,4010100,4105000,,,CPRD_GOLD
 17564,Neurontin 600mg tablets (Upjohn UK Ltd) Gabapentin 600mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
-4439,Libraxin Tablet (Roche Products Ltd) Chlordiazepoxide/Clidinium Bromide  Tablet Oral,1020100,4010200,,,CPRD_GOLD
 75415,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 63686,Midazolam 5mg/ml Injection (Phoenix Healthcare Distribution Ltd) Midazolam Hydrochloride 5mg/ml Injection ,15010401,,,,CPRD_GOLD
-6516,Chlordiazepoxide 25mg tablets Chlordiazepoxide Hydrochloride 25mg Tablets Oral,4010200,,,,CPRD_GOLD
 23612,STESOLID (2ML)    ,0,,,,CPRD_GOLD
-25273,Oxanid 10mg Tablet (M A Steinhard Ltd) Oxazepam 10mg Tablet Oral,4010200,,,,CPRD_GOLD
 54500,Levetiracetam 250mg granules sachets sugar free Levetiracetam 250mg Granules Oral,4080100,,,,CPRD_GOLD
 72875,Tegretol 400mg tablets (Necessity Supplies Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 26496,Rivotril 1mg/1ml concentrate for solution for injection ampoules (Roche Products Ltd) Clonazepam 1mg/1ml Solution for injection Intravenous,4080200,,,,CPRD_GOLD
 24153,Orlept SF 200mg/5ml liquid (Wockhardt UK Ltd) Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-26399,Heminevrin 8mg/ml Intravenous infusion (AstraZeneca UK Ltd) Clomethiazole Edisilate 8mg/ml Intravenous Infusion Intravenous Infusion,4080200,4105000,,,CPRD_GOLD
 59396,Clonazepam 500microgram tablets (Almus Pharmaceuticals Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
 77136,Gabapentin 300mg capsules (Accord Healthcare Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 79472,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Midazolam 10mg/1ml Oromucosal solution Buccal,0,,,,CPRD_GOLD
@@ -351,7 +292,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69743,Ethosuximide 250mg/5ml syrup (Alliance Healthcare (Distribution) Ltd) Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 63174,Rewisca 200mg capsules (Consilient Health Ltd) Pregabalin 200mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 72330,Levetiracetam 400mg/5ml oral solution Levetiracetam 80mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-9048,Librium 5mg Tablet (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010200,,,,CPRD_GOLD
 52052,Clobazam 4mg/5ml oral suspension Clobazam 800microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 13890,Topamax 200mg tablets (Janssen-Cilag Ltd) Topiramate 200mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 67633,Lamotrigine 25mg dispersible tablets sugar free (PLIVA Pharma Ltd) Lamotrigine 25mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
@@ -359,7 +299,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 46667,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 77399,Epanutin 100mg capsules (Dowelhurst Ltd) Phenytoin sodium 100mg Capsule Oral,4080100,4080200,,,CPRD_GOLD
 49084,Lacosamide 10mg/ml oral solution sugar free Lacosamide 10mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-2352,Diazepam 2mg/5ml oral solution Diazepam 400microgram/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
 17054,Clobazam 5mg/5ml oral suspension Clobazam 1mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 41303,Clobazam 25mg/5ml oral solution Clobazam 5mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 75252,Zonisamide 25mg/5ml oral suspension Zonisamide 5mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
@@ -380,9 +319,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 37416,Rufinamide 200mg tablets Rufinamide 200mg Tablet Oral,4080100,,,,CPRD_GOLD
 76415,Gabapentin 6% cream Gabapentin 60mg/1gram Cream Route of administration not applicable,4070300,,,,CPRD_GOLD
 45077,Clonazepam 500microgram/5ml Oral solution (Rosemont Pharmaceuticals Ltd) Clonazepam 500microgram/5ml Oral Solution Oral,4080100,,,,CPRD_GOLD
-4338,Valium 5mg Tablet (Roche Products Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 25107,Nootropil 800mg tablets (UCB Pharma Ltd) Piracetam 800mg Tablet Oral,4090300,,,,CPRD_GOLD
-3205,Diazepam 5mg Diazepam 5mg Capsules Oral,4010100,4010200,,,CPRD_GOLD
 77514,Sodium valproate 500mg gastro-resistant tablets (Wockhardt UK Ltd) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 34506,Gabapentin 100mg capsules (Teva UK Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 73423,Midazolam 2mg/2ml solution for injection pre-filled syringes Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
@@ -390,7 +327,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 3068,Phenytoin 300mg capsule Phenytoin Sodium 300mg Capsules Oral,4070300,4080100,,,CPRD_GOLD
 2687,FENFLURAMINE HCl 20 MG TAB    ,0,,,,CPRD_GOLD
 52056,Clobazam 2.5mg/5ml oral suspension Clobazam 500microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-73526,Diazepam 2mg tablets (Crescent Pharma Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 15338,Zonisamide 100mg capsules Zonisamide 100mg Capsule Oral,4080100,,,,CPRD_GOLD
 74219,Clonazepam 500micrograms/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 68349,Brivaracetam 75mg tablets Brivaracetam 75mg Tablet Oral,4080400,,,,CPRD_GOLD
@@ -399,24 +335,18 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 49789,Phenytoin sodium 50mg capsules (Flynn Pharma Ltd) Phenytoin sodium 50mg Capsule Oral,4080100,,,,CPRD_GOLD
 61625,Lamotrigine 200mg tablets (Accord Healthcare Ltd) Lamotrigine 200mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 78869,Zonisamide 100mg/5ml oral suspension Zonisamide 20mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-34770,Nitrazepam 5mg Tablet (DDSA Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 69478,Phenobarbital 15mg tablets (Sigma Pharmaceuticals Plc) Phenobarbital 15mg Tablet Oral,4080102,,,,CPRD_GOLD
 6936,Pregabalin 50mg capsules Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 60804,Lamotrigine 50mg/5ml oral suspension Lamotrigine 10mg/1ml Oral suspension Oral,4020000,4080100,,,CPRD_GOLD
 47579,Gabapentin 100mg capsules (Sandoz Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
-74755,Diazepam 10mg/5ml oral suspension (Special Order) Diazepam 2mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 51754,Diazepam 10mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
 61462,Levetiracetam 250mg tablets (DE Pharmaceuticals) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 48807,Midazolam 5mg/1ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
-23874,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd) Nitrazepam 500microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 63213,Tegretol 200mg tablets (Necessity Supplies Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 75764,Phenytoin sodium oral solution Phenytoin Sodium   ,4070300,4080100,,,CPRD_GOLD
-34361,Lormetazepam 500microgram tablets (Thornton & Ross Ltd) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
 69706,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Wockhardt UK Ltd) Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
-11958,Lexotan 1.5mg Tablet (Roche Products Ltd) Bromazepam 1.5mg Tablet Oral,4010200,,,,CPRD_GOLD
 78801,Gabapentin 400mg capsules (Alliance Healthcare (Distribution) Ltd) Gabapentin 400mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 58137,Topiramate 100mg/5ml oral solution Topiramate 20mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
-4141,Oxazepam 15mg tablets Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
 2079,Lamotrigine 25mg tablets Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 13112,Carbagen SR 200mg tablets (Mylan) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 4195,Epilim 100mg crushable tablets (Sanofi) Sodium valproate 100mg Tablet Oral,4080100,,,,CPRD_GOLD
@@ -425,18 +355,15 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 68457,Sodium valproate 300mg suppositories Sodium valproate 300mg Suppository Rectal,4080100,,,,CPRD_GOLD
 8184,DIAZEPAM 10 MG INJ    ,0,,,,CPRD_GOLD
 73990,Epilim Chrono 500 tablets (Waymade Healthcare Plc) Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
-30321,Valium 2mg/5ml Oral solution (Roche Products Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010100,4010200,,,CPRD_GOLD
 59697,Carbamazepine 10mg/5ml oral suspension Carbamazepine 2mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
 57722,Phenobarbital 25mg/5ml oral solution Phenobarbital 5mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 60059,Phenobarbital 60mg tablets (Kent Pharmaceuticals Ltd) Phenobarbital 60mg Tablet Oral,4080102,,,,CPRD_GOLD
 69781,Lyrica 25mg capsules (Lexon (UK) Ltd) Pregabalin 25mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-63694,Diazepam 2mg tablets (Phoenix Healthcare Distribution Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 25146,Prominal 30mg Tablet (Sanofi-Synthelabo Ltd) Phenobarbital Sodium 30mg Tablet Oral,4080100,,,,CPRD_GOLD
 67007,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
-41582,Chlordiazepoxide 5mg capsules (Actavis UK Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,10020200,,,CPRD_GOLD
+4395,Stesolid 5mg rectal tube (Accord Healthcare Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 61770,Topiramate 50mg capsules (Teva UK Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 75201,Midazolam 5mg/5ml solution for injection ampoules (Advanz Pharma) Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
-69783,Diazepam 2mg/5ml oral suspension (A A H Pharmaceuticals Ltd) Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 4781,Gabapentin 400mg capsules Gabapentin 400mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 67631,Lamotrigine 5mg dispersible tablets sugar free (PLIVA Pharma Ltd) Lamotrigine 5mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
 71426,Phenobarbital 60mg capsules Phenobarbital 60mg Capsule Oral,4080102,,,,CPRD_GOLD
@@ -444,18 +371,15 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 2821,Vigabatrin 500mg tablets Vigabatrin 500mg Tablet Oral,4080100,,,,CPRD_GOLD
 80341,Belvo 250mg gastro-resistant tablets (Consilient Health Ltd) Valproate semisodium 250mg Gastro-resistant tablet Oral,4020300,,,,CPRD_GOLD
 39126,Lacosamide 100mg tablets Lacosamide 100mg Tablet Oral,4080100,,,,CPRD_GOLD
-34681,Diazepam 5mg Tablet (Crosspharma Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 59196,Gabapentin 400mg/5ml oral solution Gabapentin 80mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 58472,Gabapentin 300mg/5ml oral suspension Gabapentin 60mg/1ml Oral suspension Oral,4070300,4080100,,,CPRD_GOLD
+2083,Diazepam 10mg RecTubes (Wockhardt UK Ltd) Diazepam 4mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 59318,Lamotrigine 25mg tablets (Alliance Healthcare (Distribution) Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 60389,Gabapentin 300mg capsules (Creo Pharma Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 80033,Topamax 15mg sprinkle capsules (Waymade Healthcare Plc) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 53750,Phenytoin sodium 50mg capsules (A A H Pharmaceuticals Ltd) Phenytoin sodium 50mg Capsule Oral,4080100,,,,CPRD_GOLD
-46953,Nitrazepam 5mg tablets (Ranbaxy (UK) Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
-57749,Diazepam 5mg tablets (Waymade Healthcare Plc) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 64817,Levetiracetam 1g tablets (Rivopharm (UK) Ltd) Levetiracetam 1gram Tablet Oral,4080100,,,,CPRD_GOLD
 61375,Phenobarbital sodium 50mg/5ml oral suspension Phenobarbital sodium 10mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
-34292,Lormetazepam 500microgram tablets (A A H Pharmaceuticals Ltd) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
 3108,Ethosuximide 250mg capsules Ethosuximide 250mg Capsule Oral,4080100,,,,CPRD_GOLD
 58685,Midazolam 10mg/5ml oral solution Midazolam maleate 2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
 74026,Epilim Chrono 200 tablets (Waymade Healthcare Plc) Sodium valproate 200mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
@@ -465,14 +389,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 45370,Phenobarbital 75mg/5ml oral solution Phenobarbital 15mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 61217,Phenobarbital 50mg/5ml oral suspension (Special Order) Phenobarbital 10mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
 58905,Phenobarbital 15mg/5ml elixir (Alliance Healthcare (Distribution) Ltd) Phenobarbital 3mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
-563,Clomethiazole 192mg capsules Clomethiazole 192mg Capsule Oral,4010100,4105000,,,CPRD_GOLD
 59065,Phenobarbital 15mg/5ml elixir (Thornton & Ross Ltd) Phenobarbital 3mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 4066,Tegretol 400mg tablets (Novartis Pharmaceuticals UK Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 61793,Matever 750mg tablets (Aspire Pharma Ltd) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
 18672,TIAGABINE    ,0,,,,CPRD_GOLD
 47066,Clonazepam 500micrograms/5ml oral solution Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-34892,Diazepam 5mg Tablet (Berk Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
-9111,Diazepam 10mg capsules Diazepam 10mg Capsules Oral,4010100,4010200,,,CPRD_GOLD
 35755,Sodium valproate 500mg modified-release granules sachets sugar free Sodium valproate 500mg Modified-release granules Oral,4080100,,,,CPRD_GOLD
 18729,Emeside 250mg/5ml Oral solution (Laboratories For Applied Biology Ltd) Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 63090,Rewisca 150mg capsules (Consilient Health Ltd) Pregabalin 150mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
@@ -482,7 +403,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 4585,Vigabatrin 500mg oral powder sachets sugar free Vigabatrin 500mg Powder Oral,4080100,,,,CPRD_GOLD
 66617,Gabapentin 300mg capsules (Medreich Plc) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 69000,Midazolam 2mg/ml oral solution sugar free Midazolam hydrochloride 2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
-28321,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
 68319,Brivaracetam 100mg tablets Brivaracetam 100mg Tablet Oral,4080400,,,,CPRD_GOLD
 50389,Clobazam 4mg/5ml oral solution Clobazam 800microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 7073,Topiramate 50mg tablets Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
@@ -494,10 +414,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 47045,Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 13756,Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd) Diazepam 5mg/1ml Emulsion for injection Intravenous,4010201,4080200,4080300,,CPRD_GOLD
 18457,Phenobarbital 30mg/1ml solution for injection ampoules Phenobarbital sodium 30mg/1ml Solution for injection Intravenous/Intramuscular/Subcutaneous,4080102,,,,CPRD_GOLD
-32296,Diazepam 5mg tablets (Actavis UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
-41601,Oxazepam 15mg Tablet (IVAX Pharmaceuticals UK Ltd) Oxazepam 15mg Tablet Oral,4010200,,,,CPRD_GOLD
-2091,Lorazepam 2.5mg tablets Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
-12477,Librium 5mg Capsule (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010200,,,,CPRD_GOLD
 63685,Epilim Chrono 500 tablets (DE Pharmaceuticals) Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 6436,Oxcarbazepine 600mg tablets Oxcarbazepine 600mg Tablet Oral,4080100,,,,CPRD_GOLD
 49532,Lamotrigine 25mg tablets (Accord Healthcare Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
@@ -507,8 +423,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 72730,Stesolid 5mg/ml Injection (Actavis UK Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010200,4080200,,,CPRD_GOLD
 9759,Depakote 500mg gastro-resistant tablets (Sanofi) Valproate semisodium 500mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRD_GOLD
 52680,Clobazam 7.5mg/5ml oral solution Clobazam 1.5mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-3354,Lormetazepam 1mg tablets Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
-7797,Tranxene 7.5mg capsules (Boehringer Ingelheim Ltd) Dipotassium clorazepate 7.5mg Capsule Oral,0,,,,CPRD_GOLD
 2782,Phenytoin sodium 50mg tablets Phenytoin sodium 50mg Tablet Oral,4080100,4080200,,,CPRD_GOLD
 70902,Carbamazepine 200mg modified-release tablets (Phoenix Healthcare Distribution Ltd) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 61833,Midazolam 10mg/ml oral solution (Special Order) Midazolam maleate 10mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
@@ -543,20 +457,16 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 80290,Lamictal 50mg tablets (Mawdsley-Brooks & Company Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 36634,Episenta 1000mg modified-release granules sachets (Desitin Pharma Ltd) Sodium valproate 1gram Modified-release granules Oral,4020300,4080100,,,CPRD_GOLD
 25244,Gabitril 10mg tablets (Teva UK Ltd) Tiagabine hydrochloride monohydrate 10mg Tablet Oral,4080100,,,,CPRD_GOLD
-67451,Diazepam 2mg tablets (Mawdsley-Brooks & Company Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 76518,Mysoline 250mg tablets (Lexon (UK) Ltd) Primidone 250mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 48715,Midazolam 10mg/2ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
 59696,Carbamazepine 400mg tablets (Kent Pharmaceuticals Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 80454,Topiramate 50mg tablets (A A H Pharmaceuticals Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
-34642,Lormetazepam 500microgram tablets (Mylan) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
-9076,Orimeten 250mg tablets (Novartis Pharmaceuticals UK Ltd) Aminoglutethimide 250mg Tablet Oral,0,,,,CPRD_GOLD
 79388,Phenobarbital 30mg Tablet (C P Pharmaceuticals Ltd) Phenobarbital 30mg Tablet Oral,4080100,,,,CPRD_GOLD
 32973,Gabitril 5mg tablets (Teva UK Ltd) Tiagabine hydrochloride monohydrate 5mg Tablet Oral,4080100,,,,CPRD_GOLD
 5587,Phenytoin sodium 50mg capsules Phenytoin sodium 50mg Capsule Oral,4080100,,,,CPRD_GOLD
 17637,Clonazepam 500micrograms/5ml solution sugar free Clonazepam 500micrograms/5ml Solution Sugar-Free Oral,4080100,,,,CPRD_GOLD
 71533,Pregabalin 50mg capsules (Mylan) Pregabalin 50mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 73817,Pregabalin 300mg/5ml oral suspension Pregabalin 60mg/1ml Oral suspension Oral,4030000,4070300,4080100,,CPRD_GOLD
-67554,Lorazepam 1mg tablets (Almus Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 27881,PHENYTOIN    ,0,,,,CPRD_GOLD
 33372,Phenobarbital 60mg tablets (Teva UK Ltd) Phenobarbital 60mg Tablet Oral,4080102,,,,CPRD_GOLD
 3731,Epilim ec 200mg Gastro-resistant tablet (Sanofi) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
@@ -564,13 +474,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69311,Briviact 25mg tablets (UCB Pharma Ltd) Brivaracetam 25mg Tablet Oral,4080400,,,,CPRD_GOLD
 51326,Phenobarbital 50mg/5ml oral solution Phenobarbital 10mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 27113,Phenytoin sodium 100mg tablets (Teva UK Ltd) Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
-71073,Nitrazepam 5mg tablets (Pharmvit Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
-59122,Diazepam 5mg/5ml oral solution (AM Distributions (Yorkshire) Ltd) Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
 1158,Carbamazepine 200mg tablets Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-57268,Lorazepam 2.5mg tablets (Sandoz Ltd) Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 37124,Midazolam 90mg/18ml solution for injection ampoules Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,0,,,,CPRD_GOLD
-46946,Oxazepam 15mg tablets (Genus Pharmaceuticals Ltd) Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
-76218,Lorazepam 500micrograms/5ml oral suspension (Drug Tariff Special Order) Lorazepam 100microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
 74034,Phenobarbital 30mg/5ml oral solution Phenobarbital 6mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 75067,Levetiracetam 500mg tablets (Zentiva) Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
 107,Phenytoin 25mg capsule Phenytoin Sodium 25mg Capsules Oral,4070300,4080100,,,CPRD_GOLD
@@ -580,9 +485,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 16734,Diazepam rectubes 20mg Rectal tubes (C P Pharmaceuticals Ltd) Diazepam 20mg Rectal Tubes Rectal,4010200,4080200,,,CPRD_GOLD
 56326,Desitrend 500mg granules sachets (Desitin Pharma Ltd) Levetiracetam 500mg Granules Oral,4080100,,,,CPRD_GOLD
 43648,Sodium valproate oral solution Sodium Valproate  Oral Liquid Oral,4080100,,,,CPRD_GOLD
-25007,Chlordiazepozide 100mg injection Chlordiazepoxide Hydrochloride 100mg Injection ,4010200,,,,CPRD_GOLD
 26902,Trileptal 60mg/ml oral suspension (Novartis Pharmaceuticals UK Ltd) Oxcarbazepine 60mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-34045,Diazepam 5mg/5ml oral solution (Sandoz Ltd) Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
 77999,Clobazam 5mg/5ml oral suspension sugar free (Thame Laboratories Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
 18674,TIAGABINE    ,0,,,,CPRD_GOLD
 75910,Inovelon 40mg/ml oral suspension (Eisai Ltd) Rufinamide 40mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
@@ -604,18 +507,14 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 74318,Levetiracetam 1g tablets (Accord Healthcare Ltd) Levetiracetam 1gram Tablet Oral,4080100,,,,CPRD_GOLD
 67622,Lamotrigine 100mg dispersible tablets sugar free (PLIVA Pharma Ltd) Lamotrigine 100mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
 12931,Epimaz Retard 200mg tablets (IVAX Pharmaceuticals UK Ltd) Carbamazepine 200mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
-24519,DIAZEPAM    ,0,,,,CPRD_GOLD
 51108,Levetiracetam 500mg tablets (Accord Healthcare Ltd) Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
 27541,PHENYTOIN    ,0,,,,CPRD_GOLD
 34150,Valproate sodium 200mg Gastro-resistant tablet (IVAX Pharmaceuticals UK Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 61166,Levetiracetam 100mg/ml oral solution sugar free (Beacon Pharmaceuticals Ltd) Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 6624,Phenytoin sodium 25mg capsules Phenytoin sodium 25mg Capsule Oral,4080100,,,,CPRD_GOLD
 77847,Pregabalin 50mg capsules (Milpharm Ltd) Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-21081,Amitriptyline 12.5mg / Chlordiazepoxide 5mg capsules Amitriptyline Hydrochloride/Chlordiazepoxide 12.5mg + 5mg Capsules Oral,4030100,,,,CPRD_GOLD
 3569,Carbamazepine 400mg modified-release tablets Carbamazepine 400mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 54759,Clobazam 5mg/5ml oral suspension sugar free Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
-41900,NITRAZEPAM    ,0,,,,CPRD_GOLD
-10802,Xanax 250microgram tablets (Upjohn UK Ltd) Alprazolam 250microgram Tablet Oral,4010201,,,,CPRD_GOLD
 70729,Pregabalin 200mg capsules (Alliance Healthcare (Distribution) Ltd) Pregabalin 200mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 1576,Phenobarbital 30mg tablets Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
 77022,Midazolam 11mg/5ml oral solution Midazolam maleate 2.2mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
@@ -629,66 +528,50 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 74865,Clonazepam 500micrograms/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 16699,Paraldehyde intramuscular injection Paraldehyde  IM Injection ,4080200,,,,CPRD_GOLD
 59964,Desitrend 250mg granules sachets (Desitin Pharma Ltd) Levetiracetam 250mg Granules Oral,4080100,,,,CPRD_GOLD
-45313,Diazepam 2mg tablets (Almus Pharmaceuticals Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 45615,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 8885,Orlept 500mg gastro-resistant tablets (Wockhardt UK Ltd) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
-11963,Limbitrol 10 Capsule (Roche Products Ltd) Amitriptyline Hydrochloride/Chlordiazepoxide  Capsule Oral,4030100,,,,CPRD_GOLD
 78641,Gabapentin 100mg capsules (IVAX Pharmaceuticals UK Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 59795,Phenobarbital 15mg tablets (Bristol Laboratories Ltd) Phenobarbital 15mg Tablet Oral,4080102,,,,CPRD_GOLD
 63088,Rewisca 50mg capsules (Consilient Health Ltd) Pregabalin 50mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 75013,Briviact 10mg/ml oral solution (UCB Pharma Ltd) Brivaracetam 10mg/1ml Oral solution Oral,4080400,,,,CPRD_GOLD
-3105,Dalmane 30mg capsules (Mylan) Flurazepam hydrochloride 30mg Capsule Oral,4010201,,,,CPRD_GOLD
 57527,Neurontin 300mg capsules (Dowelhurst Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
+77653,Diazepam 5mg/2.5ml rectal solution tube (A A H Pharmaceuticals Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 33058,Epival CR 500mg tablets (Healthcare Pharma Ltd) Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 72068,Lecaent 150mg capsules (Accord Healthcare Ltd) Pregabalin 150mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 62601,Phenobarbital 15mg tablets (Alliance Healthcare (Distribution) Ltd) Phenobarbital 15mg Tablet Oral,4080102,,,,CPRD_GOLD
 70663,Midazolam 2mg/2ml solution for injection ampoules (J M McGill Ltd) Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,4010201,15010401,,,CPRD_GOLD
 70384,Topiramate 125mg/5ml oral suspension Topiramate 25mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
 35471,Sodium valproate 150mg modified-release capsules Sodium valproate 150mg Modified-release capsule Oral,4080100,,,,CPRD_GOLD
-20968,Diazepam 2mg/5ml oral solution sugar free (Actavis UK Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
 39506,Lamotrigine 50mg tablets (Actavis UK Ltd) Lamotrigine 50mg Tablet Oral,4080100,,,,CPRD_GOLD
 65965,Lamictal 50mg tablets (DE Pharmaceuticals) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 202,Phenobarbital 15mg/5ml elixir Phenobarbital 3mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 54609,Gabapentin 50mg/ml oral solution sugar free Gabapentin 50mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
-78738,Diazepam 5mg Tablet (M & A Pharmachem Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 18211,Gabapentin 250mg/5ml oral solution Gabapentin 50mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 77272,Sodium valproate 500mg Tablet (Sterwin Medicines) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
-24386,XANAX    ,0,,,,CPRD_GOLD
-37325,Remnos 10mg Tablet (DDSA Pharmaceuticals Ltd) Nitrazepam 10mg Tablet Oral,4010100,,,,CPRD_GOLD
 54872,Fycompa 4mg tablets (Eisai Ltd) Perampanel 4mg Tablet Oral,4080100,,,,CPRD_GOLD
 14762,Phenobarbital 60mg/1ml solution for injection ampoules Phenobarbital sodium 60mg/1ml Solution for injection Intramuscular/Subcutaneous/Intravenous,4080102,,,,CPRD_GOLD
 80363,Lamotrigine 200mg tablets (Actavis UK Ltd) Lamotrigine 200mg Tablet Oral,4080100,,,,CPRD_GOLD
 64306,Gabapentin 50mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Gabapentin 50mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
-78243,Lorazepam 250micrograms/5ml oral solution Lorazepam 50microgram/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
 59609,Lamotrigine 100mg dispersible tablets sugar free (A A H Pharmaceuticals Ltd) Lamotrigine 100mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
 77189,Topiramate 50mg tablets (Teva UK Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 37633,Sultiame 50mg tablets Sultiame 50mg Tablet Oral,4080101,,,,CPRD_GOLD
 32417,Diazepam 10mg/2ml solution for injection ampoules (Wockhardt UK Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
 55019,Phenobarbital 250mg/5ml oral suspension Phenobarbital 50mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
 7011,Sodium valproate with valproic acid 300mg modified release tablets Sodium Valproate 300mg Modified Release Tablet Oral,4080100,,,,CPRD_GOLD
-20164,Valium 2mg Capsule (Roche Products Ltd) Diazepam 2mg Capsule Oral,4010100,4010200,,,CPRD_GOLD
 31634,PHENYTOIN SODIUM/ PHENOBARBITONE SODIUM TAB    ,0,,,,CPRD_GOLD
-63665,Noctamid 0.5mg Tablet (Schering Health Care Ltd) Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
-19450,Mogadon 5mg tablets (Mylan) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 10694,CLOBAZAM 2.5 MG CAP    ,0,,,,CPRD_GOLD
 2824,Tegretol retard 400mg Modified-release tablet (Novartis Pharmaceuticals UK Ltd) Carbamazepine 400mg Modified-release tablet Oral,4020300,4080100,,,CPRD_GOLD
-36604,Oxazepam 10mg tablets (A A H Pharmaceuticals Ltd) Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
-41632,Diazepam 10mg tablets (A A H Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 38949,Epilim 500 gastro-resistant tablets (Sanofi) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 8842,DIAZEPAM RECTAL 2 MG/ML SOL    ,0,,,,CPRD_GOLD
-2330,Adifax 15mg Capsule (Servier Laboratories Ltd) Dexfenfluramine 15mg Capsule Oral,4050200,,,,CPRD_GOLD
 3446,Zarontin 250mg capsules (Pfizer Ltd) Ethosuximide 250mg Capsule Oral,4080100,,,,CPRD_GOLD
 55644,Lamotrigine 25mg tablets (Bristol Laboratories Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 73661,Clobazam 10mg tablets (Teva UK Ltd) Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
-21437,Loramet 1mg Capsule (Wyeth Pharmaceuticals) Lormetazepam 1mg Capsule Oral,4010100,,,,CPRD_GOLD
-13279,Lorazepam 500micrograms/5ml oral suspension Lorazepam 100microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
 66763,Briviact 50mg tablets (UCB Pharma Ltd) Brivaracetam 50mg Tablet Oral,4080400,,,,CPRD_GOLD
 80503,Phenobarbital 10mg/5ml oral solution (Special Order) Phenobarbital 2mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 5956,Zarontin 250mg/5ml syrup (Essential Pharma Ltd) Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 68691,Midazolam 10mg/10ml solution for injection pre-filled syringes Midazolam hydrochloride 1mg/1ml Solution for injection Intravenous/Intramuscular,4010201,15010401,,,CPRD_GOLD
 53893,Tegretol Prolonged Release 400mg tablets (Stephar (U.K.) Ltd) Carbamazepine 400mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 68047,Gabapentin 300mg capsules (Phoenix Healthcare Distribution Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
-8550,Chlordiazepoxide 25mg tablets Chlordiazepoxide Hydrochloride 25mg Tablets Oral,4010200,,,,CPRD_GOLD
 59058,Topiramate 20mg/5ml oral suspension Topiramate 4mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
 9979,Gabapentin 600mg tablets and Gabapentin 300mg capsules   Not applicable Route of administration not applicable,0,,,,CPRD_GOLD
 10092,Mysoline 250mg tablets (SERB) Primidone 250mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
@@ -700,14 +583,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 71621,Sodium valproate 200mg gastro-resistant tablets (Zentiva) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 39615,Vimpat 50mg tablets (UCB Pharma Ltd) Lacosamide 50mg Tablet Oral,4080100,,,,CPRD_GOLD
 60212,Phenobarbital 15mg/5ml oral solution Phenobarbital 3mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
-16610,Valium 5mg/ml Injection (Roche Products Ltd) Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010200,4080200,,,CPRD_GOLD
-1400,Diazepam 10mg tablets Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 53195,Epilim Chrono 200 tablets (DE Pharmaceuticals) Sodium valproate 200mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 26302,Emeside 250mg Capsule (Laboratories For Applied Biology Ltd) Ethosuximide 250mg Capsule Oral,4080100,,,,CPRD_GOLD
-17830,Ativan 2.5mg Tablet (Wyeth Pharmaceuticals) Lorazepam 2.5mg Tablet Oral,4010200,15010401,,,CPRD_GOLD
 61072,Midazolam 5mg/5ml oral suspension Midazolam maleate 1mg/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
 18077,Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
-20701,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
 66417,Lamotrigine 200mg tablets (Teva UK Ltd) Lamotrigine 200mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 24176,Zonegran 50mg capsules (Eisai Ltd) Zonisamide 50mg Capsule Oral,4080100,,,,CPRD_GOLD
 70544,Pregabalin 150mg capsules (Alliance Healthcare (Distribution) Ltd) Pregabalin 150mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
@@ -716,9 +595,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 2823,Tegretol retard 200mg Modified-release tablet (Novartis Pharmaceuticals UK Ltd) Carbamazepine 200mg Modified-release tablet Oral,4020300,4080100,,,CPRD_GOLD
 63735,Carbamazepine 400mg tablets (Alliance Healthcare (Distribution) Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 59917,Phenobarbital 50mg/5ml oral solution (Special Order) Phenobarbital 10mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
-1088,Lorazepam 1mg tablets Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 66058,Carbamazepine 200mg tablets (DE Pharmaceuticals) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 24138,Phenobarbital 60mg tablets (Accord Healthcare Ltd) Phenobarbital 60mg Tablet Oral,4080102,,,,CPRD_GOLD
+4176,Diazepam 10mg/2.5ml rectal solution tube Diazepam 4mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 76014,Gabapentin 50mg/5ml oral suspension Gabapentin 10mg/1ml Oral suspension Oral,4070300,4080100,,,CPRD_GOLD
 55972,Pregabalin 150mg/5ml oral solution Pregabalin 30mg/1ml Oral solution Oral,4030000,4070300,4080100,,CPRD_GOLD
 76758,Midazolam 50mg/10ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,15010401,,,,CPRD_GOLD
@@ -731,13 +610,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 5076,Lamotrigine 100mg tablets Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 78276,Levetiracetam 500mg tablets (Actavis UK Ltd) Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
 70404,Topiramate 25mg/5ml oral solution Topiramate 5mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
-71336,Diazepam 2mg tablets (DE Pharmaceuticals) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 67483,Levetiracetam 500mg tablets (A A H Pharmaceuticals Ltd) Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
 79153,Levetiracetam 250mg tablets (Torrent Pharma (UK) Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 6020,Midazolam 1mg/ml Injection Midazolam Hydrochloride 1mg/ml Injection ,15010401,,,,CPRD_GOLD
 43417,Carbamazepine 400mg tablets (A A H Pharmaceuticals Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 7022,Lamictal 50mg tablets (GlaxoSmithKline UK Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-69810,Diazepam 5mg tablets (Crescent Pharma Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 4490,Phenytoin 30mg/5ml oral suspension Phenytoin 6mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 56880,Phenobarbital 30mg tablets (Kent Pharmaceuticals Ltd) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
 67031,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
@@ -752,9 +629,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 78842,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Bowmed Ibisqus Ltd) Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
 51227,Pregabalin 20mg/ml oral solution sugar free Pregabalin 20mg/1ml Oral solution Oral,4030000,4070300,4080100,,CPRD_GOLD
 7108,Topiramate 200mg tablets Topiramate 200mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
-62216,Diazepam 10mg tablets (Almus Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 15126,Lamictal 5mg dispersible tablets (GlaxoSmithKline UK Ltd) Lamotrigine 5mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
-75197,Nitrazepam Oral solution Nitrazepam  Oral Solution ,4010100,,,,CPRD_GOLD
 74482,Valproic acid 250mg/5ml oral suspension Valproate semisodium 50mg/1ml Oral suspension Oral,4020300,4080100,,,CPRD_GOLD
 46797,Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 77341,Topiramate 12mg/5ml oral suspension Topiramate 2.4mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
@@ -769,7 +644,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 6068,Levetiracetam 500mg tablets Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
 70561,Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)) Clonazepam 1mg/1ml Solution for injection Intravenous,4080200,,,,CPRD_GOLD
 67473,Phenobarbital 15mg tablets (Accord Healthcare Ltd) Phenobarbital 15mg Tablet Oral,4080102,,,,CPRD_GOLD
-2737,Rohypnol 1mg tablets (Roche Products Ltd) Flunitrazepam 1mg Tablet Oral,0,,,,CPRD_GOLD
 30392,Pentran 50mg Tablet (Berk Pharmaceuticals Ltd) Phenytoin sodium 50mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 74866,Clonazepam 2mg/5ml oral suspension Clonazepam 400microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 63091,Rewisca 100mg capsules (Consilient Health Ltd) Pregabalin 100mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
@@ -782,10 +656,8 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 18350,CLOBAZAM 1 MG SUS    ,0,,,,CPRD_GOLD
 54445,Carbamazepine 400mg tablets (Sigma Pharmaceuticals Plc) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 12469,Epanutin Ready-Mixed Parenteral 250mg/5ml solution for injection ampoules (Upjohn UK Ltd) Phenytoin sodium 50mg/1ml Solution for injection Intramuscular/Intravenous,4080100,4080200,,,CPRD_GOLD
-41581,Chlordiazepoxide 10mg Capsule (IVAX Pharmaceuticals UK Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
 46320,Trobalt 100mg tablets (GlaxoSmithKline UK Ltd) Retigabine 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 4586,Lamictal 25mg tablets (GlaxoSmithKline UK Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-2407,Nitrazepam 5mg Capsule Nitrazepam 5mg Capsule Oral,4010100,,,,CPRD_GOLD
 10189,Lyrica 300mg capsules (Upjohn UK Ltd) Pregabalin 300mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 58515,Tegretol 100mg/5ml liquid (Lexon (UK) Ltd) Carbamazepine 20mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
 51751,Sodium valproate 200mg gastro-resistant tablets (Wockhardt UK Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
@@ -797,28 +669,24 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 33106,Sodium valproate 200mg/5ml Oral solution (IVAX Pharmaceuticals UK Ltd) Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 48818,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Midazolam 10mg/1ml Oromucosal solution Buccal,0,,,,CPRD_GOLD
 77735,Brivaracetam 50mg/5ml solution for injection vials Brivaracetam 10mg/1ml Solution for injection Intravenous,4080400,,,,CPRD_GOLD
-34615,Diazepam 5mg tablets (Mylan) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 54595,Perampanel 12mg tablets Perampanel 12mg Tablet Oral,4080100,,,,CPRD_GOLD
 2080,Lamotrigine 50mg tablets Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 46796,Clobazam 10mg/5ml oral solution Clobazam 2mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 76704,Ethosuximide 250mg/5ml oral solution sugar free Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 61529,Desitrend 100mg/ml oral solution (Desitin Pharma Ltd) Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-34561,Diazepam 2mg Tablet (Regent Laboratories Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 39952,Vimpat 15mg/ml syrup (UCB Pharma Ltd) Lacosamide 15mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
+34614,Diazepam 10mg/2.5ml rectal solution tube (Sandoz Ltd) Diazepam 4mg/1ml Enema Rectal,4010201,4080200,10020200,,CPRD_GOLD
 76690,Levetiracetam 750mg tablets (A A H Pharmaceuticals Ltd) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
 70590,Ethosuximide 250mg/5ml syrup (A A H Pharmaceuticals Ltd) Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 39930,Epilim Chronosphere MR 50mg granules sachets (Sanofi) Sodium valproate 50mg Modified-release granules Oral,4080100,,,,CPRD_GOLD
 60878,Topiramate 15mg/5ml oral solution Topiramate 3mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
 79570,Levetiracetam 250mg tablets (Aurobindo Pharma Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
-41531,Oxazepam 10mg tablets (Actavis UK Ltd) Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
-64775,Nitrazepam 10mg/5ml oral suspension Nitrazepam 2mg/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 59038,Carbamazepine 100mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd) Carbamazepine 20mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
 69418,Axalid 300mg capsules (Kent Pharmaceuticals Ltd) Pregabalin 300mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 9823,Topamax 25mg tablets (Janssen-Cilag Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 46850,Clobazam 5mg/5ml oral solution Clobazam 1mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 66974,Lamotrigine 100mg tablets (Bristol Laboratories Ltd) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 80801,Pregabalin 50mg capsules (Wockhardt UK Ltd) Pregabalin 50mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
-28879,Chlordiazepoxide 5mg Tablet (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Tablet Oral,4010200,,,,CPRD_GOLD
 45106,Sodium valproate 250mg modified-release granules sachets sugar free Sodium valproate 250mg Modified-release granules Oral,4080100,,,,CPRD_GOLD
 71365,Tegretol Prolonged Release 400mg tablets (DE Pharmaceuticals) Carbamazepine 400mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 36318,Sodium valproate 1g modified-release granules sachets sugar free Sodium valproate 1gram Modified-release granules Oral,4080100,,,,CPRD_GOLD
@@ -828,13 +696,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 70901,Carbamazepine 100mg tablets (Waymade Healthcare Plc) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 53779,Topiramate 25mg capsules (Sandoz Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 40658,Vimpat 200mg tablets (UCB Pharma Ltd) Lacosamide 200mg Tablet Oral,4080100,,,,CPRD_GOLD
-14534,Limbitrol 5 Capsule (Roche Products Ltd) Amitriptyline Hydrochloride/Chlordiazepoxide  Capsule Oral,4030100,,,,CPRD_GOLD
-42814,Lorazepam 2.5mg tablets (Genus Pharmaceuticals Ltd) Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 68286,Phenytoin sodium 100mg tablets (Almus Pharmaceuticals Ltd) Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 23237,Phenobarbital 15mg/1ml solution for injection ampoules Phenobarbital sodium 15mg/1ml Solution for injection Intravenous/Subcutaneous/Intramuscular,0,,,,CPRD_GOLD
 34606,Gabapentin 100mg capsules (A A H Pharmaceuticals Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 15394,PIRACETAM 400 MG CAP    ,0,,,,CPRD_GOLD
-34335,Diazepam 2mg tablets (Teva UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 63341,Tegretol Prolonged Release 200mg tablets (Lexon (UK) Ltd) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 74082,Phenytoin sodium 100mg capsules (DE Pharmaceuticals) Phenytoin sodium 100mg Capsule Oral,4080100,,,,CPRD_GOLD
 78519,Lamictal 200mg tablets (Lexon (UK) Ltd) Lamotrigine 200mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
@@ -845,55 +710,41 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 28713,Neurontin 800mg tablets (Upjohn UK Ltd) Gabapentin 800mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 67384,Pregabalin 75mg/5ml oral suspension Pregabalin 15mg/1ml Oral suspension Oral,4030000,4070300,4080100,,CPRD_GOLD
 45419,Sodium valproate 50mg modified-release granules sachets sugar free Sodium valproate 50mg Modified-release granules Oral,4080100,,,,CPRD_GOLD
-19299,Valium 5mg Capsule (Roche Products Ltd) Diazepam 5mg Capsule Oral,4010100,4010200,,,CPRD_GOLD
 79734,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for infusion 10ml ampoules Magnesium sulfate heptahydrate 200mg/1ml Solution for infusion Intravenous,9050103,,,,CPRD_GOLD
 69061,Diacomit 250mg oral powder sachets (Alan Pharmaceuticals) Stiripentol 250mg Powder Oral,4080100,,,,CPRD_GOLD
 62457,Carbamazepine 100mg tablets (Alliance Healthcare (Distribution) Ltd) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 33252,Primidone 62.5mg/5ml oral suspension Primidone 12.5mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
-59407,Diazepam 5mg tablets (DE Pharmaceuticals) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
+6747,Diazepam 5mg/2.5ml rectal solution tube Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 39452,Sodium valproate with valproic acid 500mg modified release granules Sodium Valproate 500mg Modified Release Granules Oral,4080100,,,,CPRD_GOLD
 46774,Sodium valproate 500mg gastro-resistant tablets (Teva UK Ltd) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 41758,Eslicarbazepine 800mg tablets Eslicarbazepine acetate 800mg Tablet Oral,4080100,,,,CPRD_GOLD
 34491,Clonazepam 2mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 74244,Phenytoin sodium 250mg/5ml solution for injection ampoules (Alliance Pharmaceuticals Ltd) Phenytoin sodium 50mg/1ml Solution for injection Intramuscular/Intravenous,4080100,4080200,,,CPRD_GOLD
-10909,DIAZEPAM S/R 10 MG CAP    ,0,,,,CPRD_GOLD
-34964,Nitrazepam 5mg Tablet (Berk Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 61769,Phenytoin sodium 25mg capsules (A A H Pharmaceuticals Ltd) Phenytoin sodium 25mg Capsule Oral,4080100,,,,CPRD_GOLD
 46883,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 2073,Clonazepam 2mg tablets Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
 80371,Lamotrigine 100mg tablets (Mylan) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-77536,Atensine 5mg Tablet (Rorer Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 79384,Carbamazepine 200mg Tablet (Berk Pharmaceuticals Ltd) Carbamazepine 200mg Tablet Oral,4020300,4080100,,,CPRD_GOLD
 2830,Piracetam 1.2g tablets Piracetam 1.2gram Tablet Oral,4090300,,,,CPRD_GOLD
-3147,Chlordiazepoxide 10mg tablets Chlordiazepoxide Hydrochloride 10mg Tablets Oral,4010200,,,,CPRD_GOLD
-34928,Chlordiazepoxide 5mg Capsule (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010200,,,,CPRD_GOLD
 35024,Sodium valproate 300mg modified-release capsules Sodium valproate 300mg Modified-release capsule Oral,4080100,,,,CPRD_GOLD
 66608,Phenytoin sodium 100mg tablets (Waymade Healthcare Plc) Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 19500,Zonisamide 50mg capsules Zonisamide 50mg Capsule Oral,4080100,,,,CPRD_GOLD
 54276,Lamotrigine 5mg dispersible tablets sugar free (Actavis UK Ltd) Lamotrigine 5mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
 5722,Lamictal 100mg dispersible tablets (GlaxoSmithKline UK Ltd) Lamotrigine 100mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
 34414,Sodium valproate 200mg Tablet (Sterwin Medicines) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
-41606,Chlordiazepoxide 5mg Capsule (Approved Prescription Services Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010200,,,,CPRD_GOLD
 16262,Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 69155,Carbamazepine 40mg/5ml oral suspension Carbamazepine 8mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
-34807,Diazepam 10mg tablets (Actavis UK Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 28945,Phenobarbital 30mg tablets (Teva UK Ltd) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
 48035,Gabapentin 300mg capsules (Mylan) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 40070,Sodium valproate 300mg/3ml solution for injection ampoules Sodium valproate 100mg/1ml Solution for injection Intravenous,4080100,,,,CPRD_GOLD
 4483,Clonazepam 2.5mg/ml drops sugar free Clonazepam 2.5mg/1ml Oral drops Oral,4080100,,,,CPRD_GOLD
 42491,Stiripentol 250mg capsules Stiripentol 250mg Capsule Oral,4080100,,,,CPRD_GOLD
-9065,Diazepam 5mg/5ml oral solution Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
-22189,CHLORDIAZEPOXIDE    ,0,,,,CPRD_GOLD
 15650,Valproic acid 300mg gastro-resistant capsules Valproic acid 300mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRD_GOLD
 18614,Valproic acid 150mg gastro-resistant capsules Valproic acid 150mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRD_GOLD
 77221,Lyrica 100mg capsules (Sigma Pharmaceuticals Plc) Pregabalin 100mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-34524,Diazepam 2mg tablets (Actavis UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 59520,PHENOBARBITONE 50MG & PHENYTOIN 100MG MG CAP    ,0,,,,CPRD_GOLD
-34338,Diazepam 2mg tablets (Mylan) Diazepam 2mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 2388,Carbamazepine 200mg modified-release tablets Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-2401,Valium 2mg Tablet (Roche Products Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 63042,Matever 500mg tablets (Aspire Pharma Ltd) Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
-34677,Diazepam 2mg tablets (IVAX Pharmaceuticals UK Ltd) Diazepam 2mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 19907,Phenobarbital sodium 60mg tablet Phenobarbital 60mg Tablets Oral,4080100,,,,CPRD_GOLD
 55642,Epistatus 2.5mg/0.25ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam hydrochloride 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 74006,Zonegran 100mg capsules (Waymade Healthcare Plc) Zonisamide 100mg Capsule Oral,4080100,,,,CPRD_GOLD
@@ -901,38 +752,29 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 52845,Midazolam 12.5mg/5ml oral suspension Midazolam maleate 2.5mg/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
 42090,Sodium valproate 200mg/5ml oral solution sugar free (Zentiva) Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 43836,Stiripentol 500mg capsules Stiripentol 500mg Capsule Oral,4080100,,,,CPRD_GOLD
-67957,Diazepam 5mg/5ml oral suspension (A A H Pharmaceuticals Ltd) Diazepam 1mg/1ml Oral suspension Oral,4010201,,,,CPRD_GOLD
 432,Carbamazepine 100mg tablets Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 20514,Valium 10mg Suppository (Roche Products Ltd) Diazepam 10mg Suppository Rectal,4010200,4080200,,,CPRD_GOLD
 74920,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 5ml ampoules Magnesium sulfate heptahydrate 500mg/1ml Solution for injection Intravenous/Intramuscular,9050103,,,,CPRD_GOLD
 76453,Carbamazepine 200mg/5ml oral solution (Special Order) Carbamazepine 40mg/1ml Oral solution Oral,4080100,4105000,6010500,,CPRD_GOLD
-62270,Chlordiazepoxide 10mg tablets (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
 49833,Tegretol 200mg tablets (Lexon (UK) Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 7394,Lyrica 200mg capsules (Upjohn UK Ltd) Pregabalin 200mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-42503,Diazepam 5mg/5ml oral solution (A A H Pharmaceuticals Ltd) Diazepam 1mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
 3107,Epilim Chrono 500 tablets (Sanofi) Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 75747,Topiramate 50mg capsules (Waymade Healthcare Plc) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 16859,Paraldehyde 100% solution for injection 5ml ampoules Paraldehyde  Solution for injection Rectal/Intramuscular,0,,,,CPRD_GOLD
-23205,Dormonoct 1mg Tablet (Hoechst Marion Roussel) Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 55649,Topiramate 15mg capsules (A A H Pharmaceuticals Ltd) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 80601,Syonell 500mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd) Valproate semisodium 500mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRD_GOLD
 38507,Epilim Chronosphere MR 100mg granules sachets (Sanofi) Sodium valproate 100mg Modified-release granules Oral,4080100,,,,CPRD_GOLD
 3234,Midazolam 5mg/ml Injection Midazolam Hydrochloride 5mg/ml Injection ,15010401,,,,CPRD_GOLD
-64876,Lorazepam 2mg/5ml oral suspension Lorazepam 400microgram/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
 38347,Magnesium sulfate 20% (magnesium 0.8mmol/ml) solution for injection 20ml ampoules Magnesium sulfate heptahydrate 200mg/1ml Solution for injection Intramuscular/Intravenous,9050103,,,,CPRD_GOLD
 55253,Levetiracetam 500mg granules sachets sugar free Levetiracetam 500mg Granules Oral,4080100,,,,CPRD_GOLD
 58382,Gabapentin 100mg capsules (Actavis UK Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
-66745,Loprazolam 1mg tablets (Stephar (U.K.) Ltd) Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 54828,Sodium valproate 600mg/5ml oral solution Sodium valproate 120mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-34806,Nitrazepam 5mg tablets (Mylan) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 61623,Lamotrigine 50mg tablets (Accord Healthcare Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-65135,Nitrazepam 2.5mg/5ml oral suspension sugar free Nitrazepam 500microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 61753,Midazolam 5mg/5ml oral solution Midazolam maleate 1mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
 18011,Teril Retard 400mg tablets (Taro Pharmaceuticals (UK) Ltd) Carbamazepine 400mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 63545,Topiramate 200mg tablets (Actavis UK Ltd) Topiramate 200mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 56755,Levetiracetam 250mg/5ml oral suspension Levetiracetam 50mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 16442,Tiagabine 10mg tablets Tiagabine hydrochloride monohydrate 10mg Tablet Oral,4080100,,,,CPRD_GOLD
-34340,Diazepam 10mg tablets (Ranbaxy (UK) Ltd) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 60978,Primidone 50mg tablets (A A H Pharmaceuticals Ltd) Primidone 50mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 69437,Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Clobazam 2mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
 63250,Topiramate 25mg tablets (Accord Healthcare Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
@@ -940,42 +782,33 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69554,Axalid 50mg capsules (Kent Pharmaceuticals Ltd) Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 73587,Gabapentin 100mg/5ml oral suspension Gabapentin 20mg/1ml Oral suspension Oral,4070300,4080100,,,CPRD_GOLD
 22286,PHENOBARBITONE 60MG & PHENYTOIN 100MG MG TAB    ,0,,,,CPRD_GOLD
-9721,Lexotan 3mg Tablet (Roche Products Ltd) Bromazepam 3mg Tablet Oral,4010200,,,,CPRD_GOLD
 51501,Lamictal 25mg tablets (Lexon (UK) Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 72831,Topiramate 100mg/5ml oral suspension Topiramate 20mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
 62173,Phenobarbital sodium 50mg/5ml oral suspension (Special Order) Phenobarbital sodium 10mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
 41689,Diazepam 10mg Suppository (Sinclair IS Pharma Plc) Diazepam 10mg Suppository Rectal,4010200,4080200,,,CPRD_GOLD
 66375,Carbamazepine 400mg modified-release tablets (Phoenix Healthcare Distribution Ltd) Carbamazepine 400mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 3110,Clobazam 10mg capsules Clobazam 10mg Capsules Oral,4010200,4080100,,,CPRD_GOLD
-4566,Oxazepam 10mg tablets Oxazepam 10mg Tablet Oral,4010201,,,,CPRD_GOLD
 57898,Carbamazepine 100mg/5ml oral suspension Carbamazepine 20mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
-58361,Clomethiazole 31.5mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd) Clomethiazole edisilate 50mg/1ml Oral solution Oral,4010100,4105000,,,CPRD_GOLD
 60268,Lamotrigine 200mg tablets (A A H Pharmaceuticals Ltd) Lamotrigine 200mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 51756,Keppra 100mg/ml oral solution (Lexon (UK) Ltd) Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-34555,Nitrazepam 5mg tablets (Wockhardt UK Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 74810,Epilim 500 gastro-resistant tablets (Waymade Healthcare Plc) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 34151,Valproate sodium 500mg Gastro-resistant tablet (IVAX Pharmaceuticals UK Ltd) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 79320,Lyrica 300mg capsules (Sigma Pharmaceuticals Plc) Pregabalin 300mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 69976,Clobazam 1mg/5ml oral suspension Clobazam 200microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-10409,LORAZEPAM .5 MG TAB    ,0,,,,CPRD_GOLD
 10273,Phenobarbital 50mg/5ml oral solution Phenobarbital 50mg/5ml Oral Solution Oral,4080100,,,,CPRD_GOLD
 73524,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Kent Pharmaceuticals Ltd) Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
 79129,Dilantin Infatabs 50mg chewable tablets (Imported (Canada)) Phenytoin 50mg Chewable tablet Oral,4080100,,,,CPRD_GOLD
 19315,DIAZEPAM 20 MG INJ    ,0,,,,CPRD_GOLD
 63504,Topiramate 25mg tablets (Actavis UK Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 40372,Lacosamide 15mg/ml oral solution sugar free Lacosamide 15mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-24599,Librium 10mg capsules (Mylan) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
 78250,Carbamazepine 400mg tablets (Actavis UK Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-57838,Diazepam 5mg tablets (Sovereign Medical Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 14857,Phenytoin 50mg chewable tablets Phenytoin 50mg Chewable tablet Oral,4080100,,,,CPRD_GOLD
 3881,Epanutin 50mg capsules (Pfizer Ltd) Phenytoin sodium 50mg Capsule Oral,4080100,4080200,,,CPRD_GOLD
 48544,Clonazepam 500micrograms/5ml oral solution sugar free Clonazepam 100microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 15082,Tegretol 250mg suppositories (Essential Pharma Ltd) Carbamazepine 250mg Suppository Rectal,4080100,,,,CPRD_GOLD
-51985,Diazepam 2mg/5ml oral suspension Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 69125,Axalid 100mg capsules (Kent Pharmaceuticals Ltd) Pregabalin 100mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 63964,Alzain 25mg capsules (Dr Reddy's Laboratories (UK) Ltd) Pregabalin 25mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 16404,Neurontin titration pack (Pfizer Ltd)   Not applicable Route of administration not applicable,0,,,,CPRD_GOLD
-45241,Chlordiazepoxide 10mg capsules (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
 59136,Phenobarbital 30mg tablets (Bristol Laboratories Ltd) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
 11508,Piracetam 800mg tablets Piracetam 800mg Tablet Oral,4090300,,,,CPRD_GOLD
 76309,Levetiracetam 500mg/5ml concentrate for solution for infusion vials (Pfizer Ltd) Levetiracetam 100mg/1ml Solution for infusion Intravenous,4080100,,,,CPRD_GOLD
@@ -983,78 +816,59 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 47817,Lamotrigine 50mg tablets (IVAX Pharmaceuticals UK Ltd) Lamotrigine 50mg Tablet Oral,4080100,,,,CPRD_GOLD
 67698,Topiramate 15mg capsules (DE Pharmaceuticals) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 65477,Phenobarbital 30mg tablets (Waymade Healthcare Plc) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
-36200,Lorazepam 1mg tablets (Mylan) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 39715,Lamotrigine 100mg tablets (Teva UK Ltd) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-3956,Dalmane 15mg capsules (Mylan) Flurazepam hydrochloride 15mg Capsule Oral,4010201,,,,CPRD_GOLD
 34120,Sodium valproate 200mg gastro-resistant tablets (A A H Pharmaceuticals Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
-46966,Diazepam 5mg tablets (IVAX Pharmaceuticals UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 60181,Carbagen 100mg tablets (Mylan) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 73424,Pregabalin 200mg/5ml oral solution Pregabalin 40mg/1ml Oral solution Oral,4030000,4070300,4080100,,CPRD_GOLD
+34033,Diazepam 5mg/2.5ml rectal solution tube (Sandoz Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,10020200,,CPRD_GOLD
 47963,Lamotrigine 25mg tablets (Fannin UK Ltd) Lamotrigine 25mg Tablet Oral,4080100,,,,CPRD_GOLD
 5856,Hypnovel 10mg/5ml solution for injection ampoules (Roche Products Ltd) Midazolam hydrochloride 2mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
 50148,Phenytoin sodium 25mg capsules (Flynn Pharma Ltd) Phenytoin sodium 25mg Capsule Oral,4080100,,,,CPRD_GOLD
 53748,Midazolam 7.5mg/0.75ml oromucosal solution pre-filled syringes Midazolam  Oromucosal Solution Oromucosal Buccal,4080200,,,,CPRD_GOLD
 61624,Lamotrigine 100mg tablets (Accord Healthcare Ltd) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 70045,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free Midazolam maleate 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
-19772,HEMINEVRIN    ,0,,,,CPRD_GOLD
-27542,HEMINEVRIN    ,0,,,,CPRD_GOLD
 45572,Lamotrigine 50mg Suppository Lamotrigine 50mg Suppository Rectal,4080100,,,,CPRD_GOLD
 48730,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 2ml ampoules Magnesium sulfate heptahydrate 500mg/1ml Solution for injection Intramuscular/Intravenous,9050103,,,,CPRD_GOLD
-32231,Librium 25mg Tablet (ICN Pharmaceuticals France S.A.) Chlordiazepoxide Hydrochloride 25mg Tablet Oral,4010200,,,,CPRD_GOLD
 53082,Perampanel 4mg tablets Perampanel 4mg Tablet Oral,4080100,,,,CPRD_GOLD
 77187,Lamotrigine 50mg tablets (Consilient Health Ltd) Lamotrigine 50mg Tablet Oral,4080100,,,,CPRD_GOLD
 66495,Brivaracetam 50mg tablets Brivaracetam 50mg Tablet Oral,4080400,,,,CPRD_GOLD
 58019,Topiramate 25mg tablets (Teva UK Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
-10274,Diazepam 2mg/5ml oral solution sugar free Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
 54594,Perampanel 10mg tablets Perampanel 10mg Tablet Oral,4080100,,,,CPRD_GOLD
 60184,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 2ml ampoules (UCB Pharma Ltd) Magnesium sulfate heptahydrate 500mg/1ml Solution for injection Intramuscular/Intravenous,9050103,,,,CPRD_GOLD
 3225,Phenobarbital sodium 30mg tablet Phenobarbital 30mg Tablets Oral,4080100,,,,CPRD_GOLD
-34408,Nitrazepam 5mg tablets (A A H Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 4495,Epilim 200mg/5ml syrup (Sanofi) Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-59170,Clomethiazole 192mg capsules (A A H Pharmaceuticals Ltd) Clomethiazole 192mg Capsule Oral,4010100,4105000,,,CPRD_GOLD
 71013,Gabapentin 100mg capsules (Bristol Laboratories Ltd) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 57596,Midazolam 2mg/2ml solution for injection ampoules (Advanz Pharma) Midazolam hydrochloride 1mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,4010201,15010401,,,CPRD_GOLD
-45829,Lorazepam 1mg tablets (Sandoz Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
+5842,Diazepam 2.5mg/1.25ml rectal solution tube Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 6305,Valproic acid 500mg gastro-resistant tablets Valproate semisodium 500mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRD_GOLD
-54695,Diazepam 10mg Tablet (M & A Pharmachem Ltd) Diazepam 10mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 1157,Primidone 250mg tablets Primidone 250mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 13608,Topamax 50mg tablets (Janssen-Cilag Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRD_GOLD
 39714,Lamotrigine 25mg tablets (Teva UK Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 63089,Rewisca 300mg capsules (Consilient Health Ltd) Pregabalin 300mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 55481,Clobazam 10mg/5ml oral suspension sugar free Clobazam 2mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
 42145,Zebinix 800mg tablets (Eisai Ltd) Eslicarbazepine acetate 800mg Tablet Oral,4080100,,,,CPRD_GOLD
-33086,Lorazepam 1mg tablets (Teva UK Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 1550,Sodium valproate 200mg/5ml oral solution Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 75014,Briviact 75mg tablets (UCB Pharma Ltd) Brivaracetam 75mg Tablet Oral,4080400,,,,CPRD_GOLD
-35936,Chlordiazepoxide 5mg capsules (A A H Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
 55006,Sodium valproate 500mg modified-release tablets (Alliance Healthcare (Distribution) Ltd) Sodium valproate 500mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 64693,Clonazepam 2.5mg/ml drops Clonazepam 2.5mg/1ml Oral drops Oral,4080100,,,,CPRD_GOLD
 66677,Phenobarbital 200mg/1ml solution for injection ampoules (A A H Pharmaceuticals Ltd) Phenobarbital sodium 200mg/1ml Solution for injection Intramuscular/Subcutaneous/Intravenous,4080102,,,,CPRD_GOLD
 72550,Rivotril 2mg tablets (Sigma Pharmaceuticals Plc) Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
 77500,Levetiracetam 1g tablets (Lupin Healthcare (UK) Ltd) Levetiracetam 1gram Tablet Oral,4080100,,,,CPRD_GOLD
 69498,Axalid 75mg capsules (Kent Pharmaceuticals Ltd) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-70682,Lorazepam 1mg/ml oral solution sugar free Lorazepam 1mg/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
 7209,Lyrica 50mg capsules (Upjohn UK Ltd) Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 68014,Lyrica 75mg capsules (Lexon (UK) Ltd) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 79154,Epilim Chrono 200 tablets (Sigma Pharmaceuticals Plc) Sodium valproate 200mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 596,Carbamazepine 100mg/5ml oral suspension sugar free Carbamazepine 20mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
-34293,Diazepam 10mg tablets (Mylan) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
-63238,Diazepam 2mg tablets (Waymade Healthcare Plc) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 13828,Tiagabine 15mg tablets Tiagabine hydrochloride monohydrate 15mg Tablet Oral,4080100,,,,CPRD_GOLD
 33828,Emeside 250mg/5ml syrup (Essential Pharma Ltd) Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 54934,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
-41607,Diazepam 10mg tablets (Teva UK Ltd) Diazepam 10mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
-35932,Lorazepam 2.5mg tablets (Teva UK Ltd) Lorazepam 2.5mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 75575,Phenytoin 50mg Tablet (IVAX Pharmaceuticals UK Ltd) Phenytoin sodium 50mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 69987,Pregabalin 75mg capsules (A A H Pharmaceuticals Ltd) Pregabalin 75mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
-41391,Lorazepam 1mg tablets (Arrow Generics Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 6504,Phenytoin sodium 100mg capsules Phenytoin sodium 100mg Capsule Oral,4080100,,,,CPRD_GOLD
-12598,Xanax 500microgram tablets (Upjohn UK Ltd) Alprazolam 500microgram Tablet Oral,4010201,,,,CPRD_GOLD
 49595,Midazolam 10mg/ml oral solution Midazolam maleate 10mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
 66856,Primidone 50mg tablets (Teva UK Ltd) Primidone 50mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 57726,Tegretol Prolonged Release 200mg tablets (Mawdsley-Brooks & Company Ltd) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 69914,Gabapentin 300mg capsules (Almus Pharmaceuticals Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
-62541,Diazepam 2mg tablets (Sovereign Medical Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 17429,Carbamazepine 125mg suppositories Carbamazepine 125mg Suppository Rectal,4080100,,,,CPRD_GOLD
 67904,Lamotrigine 50mg tablets (Bristol Laboratories Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 77084,Levetiracetam 750mg tablets (Zentiva) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
@@ -1063,15 +877,12 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 76592,Clonazepam 50micrograms/5ml oral solution Clonazepam 10microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 50110,Keppra 250mg tablets (Mawdsley-Brooks & Company Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 8487,Frisium 10mg Capsule (Aventis Pharma) Clobazam 10mg Capsule Oral,4010200,4080100,,,CPRD_GOLD
-4140,Oxazepam 30mg Capsule Oxazepam 30mg Capsule Oral,4010200,,,,CPRD_GOLD
 66509,Pregabalin 75mg capsules (Zentiva) Pregabalin 75mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 16661,Nootropil 1200mg tablets (UCB Pharma Ltd) Piracetam 1.2gram Tablet Oral,4090300,,,,CPRD_GOLD
 14199,Oxcarbazepine 60mg/ml oral suspension sugar free Oxcarbazepine 60mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 59887,Carbamazepine 200mg tablets (Mylan) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 59413,Primidone 50mg tablets (SERB) Primidone 50mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 34904,Carbamazepine 200mg tablets (A A H Pharmaceuticals Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-77652,Chlordiazepoxide 5mg capsules (Ranbaxy (UK) Ltd) Chlordiazepoxide hydrochloride 5mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
-45244,Diazepam 5mg tablets (Sandoz Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 12237,Diazepam 10mg/2ml emulsion for injection ampoules Diazepam 5mg/1ml Emulsion for injection Intravenous,4010201,4080200,4080300,,CPRD_GOLD
 32920,Lamotrigine 25mg tablets (Mylan) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 64110,Primidone 25mg/5ml oral suspension (Special Order) Primidone 5mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
@@ -1083,9 +894,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 11696,Carbamazepine 200mg chewable tablets sugar free Carbamazepine 200mg Chewable tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 53197,Sodium valproate 300mg modified-release tablets (Sigma Pharmaceuticals Plc) Sodium valproate 300mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 68859,Lamotrigine 100mg dispersible tablets sugar free (Actavis UK Ltd) Lamotrigine 100mg Dispersible tablet Oral,4080100,,,,CPRD_GOLD
-7786,Mogadon 5mg Tablet (ICN Pharmaceuticals France S.A.) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
 6858,Levetiracetam 100mg/ml oral solution sugar free Levetiracetam 100mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-70536,Diazepam 1mg/5ml oral solution Diazepam 200microgram/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
 78277,Levetiracetam 750mg tablets (Actavis UK Ltd) Levetiracetam 750mg Tablet Oral,4080100,,,,CPRD_GOLD
 56988,Midazolam 5mg/2ml solution for injection ampoules Midazolam hydrochloride 2.5mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
 6022,Levetiracetam 250mg tablets Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
@@ -1096,14 +905,11 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 59428,Carbamazepine 100mg tablets (Almus Pharmaceuticals Ltd) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 50696,Primidone 250mg/5ml oral suspension (Drug Tariff Special Order) Primidone 50mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
 7021,Trileptal 150mg tablets (Novartis Pharmaceuticals UK Ltd) Oxcarbazepine 150mg Tablet Oral,4080100,,,,CPRD_GOLD
-34692,Lormetazepam 1mg tablets (Thornton & Ross Ltd) Lormetazepam 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 51425,Clobazam 2.5mg/5ml oral solution Clobazam 500microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-8742,Clidinium bromide with Chlordiazepoxide tablets Chlordiazepoxide/Clidinium Bromide  Tablets Oral,1020100,4010200,,,CPRD_GOLD
 52751,Topiramate 5mg/5ml oral solution Topiramate 1mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
 2128,Phenytoin 50mg capsule Phenytoin Sodium 50mg Capsules Oral,4070300,4080100,,,CPRD_GOLD
 5221,Gabapentin 600mg tablets Gabapentin 600mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
 59574,Phenobarbital 15mg tablets (Kent Pharmaceuticals Ltd) Phenobarbital 15mg Tablet Oral,4080102,,,,CPRD_GOLD
-8913,Librium 10mg Capsule (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
 62402,Midazolam 10mg/5ml oral suspension Midazolam maleate 2mg/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
 67032,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 70903,Zebinix 200mg tablets (Eisai Ltd) Eslicarbazepine acetate 200mg Tablet Oral,4080100,,,,CPRD_GOLD
@@ -1113,18 +919,14 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69799,Axalid 200mg capsules (Kent Pharmaceuticals Ltd) Pregabalin 200mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 80771,Phenobarbital 100mg capsules Phenobarbital 100mg Capsule Oral,4080102,,,,CPRD_GOLD
 61143,Carbamazepine 100mg tablets (Actavis UK Ltd) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-9430,Diazepam 2.5mg/5ml oral suspension Diazepam 500microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 37970,Stiripentol 250mg oral powder sachets Stiripentol 250mg Powder Oral,4080100,,,,CPRD_GOLD
 19526,EPILIM CRUSHABLE    ,0,,,,CPRD_GOLD
 23399,Nootropil 33% oral solution (UCB Pharma Ltd) Piracetam 333.3mg/1ml Oral solution Oral,4090300,,,,CPRD_GOLD
 16660,PARALDEHYDE 10 ML INJ    ,0,,,,CPRD_GOLD
-78306,Diazepam 2mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd) Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 58960,Gabapentin 100mg capsules (Zentiva) Gabapentin 100mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 60405,Carbagen 400mg tablets (Mylan) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 5848,Valproic acid 250mg gastro-resistant tablets Valproate semisodium 250mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRD_GOLD
-40386,Chlordiazepoxide 25mg Tablet (DDSA Pharmaceuticals Ltd) Chlordiazepoxide Hydrochloride 25mg Tablet Oral,4010200,,,,CPRD_GOLD
 66941,Lecaent 75mg capsules (Actavis UK Ltd) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-41596,Loprazolam 1mg tablets (Zentiva) Loprazolam mesilate 1mg Tablet Oral,4010100,,,,CPRD_GOLD
 58482,Clonazepam 500microgram tablets (A A H Pharmaceuticals Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
 64063,Phenobarbital 10mg/5ml oral suspension Phenobarbital 2mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
 19326,PHENYTOIN 25 MG SYR    ,0,,,,CPRD_GOLD
@@ -1133,17 +935,15 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 59125,Lamotrigine 100mg tablets (Alliance Healthcare (Distribution) Ltd) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 59467,Phenytoin sodium 25mg capsules (Alliance Healthcare (Distribution) Ltd) Phenytoin sodium 25mg Capsule Oral,4080100,,,,CPRD_GOLD
 42038,Epilim Chronosphere MR 1000mg granules sachets (Sanofi) Sodium valproate 1gram Modified-release granules Oral,4080100,,,,CPRD_GOLD
-18342,Amitriptyline 25mg / Chlordiazepoxide 10mg capsules Amitriptyline Hydrochloride/Chlordiazepoxide 25mg + 10mg Capsules Oral,4030100,,,,CPRD_GOLD
 46775,Lamotrigine 50mg tablets (Teva UK Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
+5793,Stesolid 10mg Rectal tubes (Dumex Ltd) Diazepam 4mg/1ml Enema Rectal,4010200,4080200,,,CPRD_GOLD
 26920,ETHOSUXIMIDE POW    ,0,,,,CPRD_GOLD
-64200,Diazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd) Diazepam 2mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 10263,Epanutin 300mg capsules (Pfizer Ltd) Phenytoin sodium 300mg Capsule Oral,4080100,4080200,,,CPRD_GOLD
 76197,Carbamazepine 200mg modified-release tablets (Sigma Pharmaceuticals Plc) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 74422,Clonazepam 2mg/5ml oral solution Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 12622,FENFLURAMINE HCl 40 MG TAB    ,0,,,,CPRD_GOLD
 56781,Tapclob 10mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Clobazam 2mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
 67150,Phenytoin 300mg/5ml oral suspension (Special Order) Phenytoin 60mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-51335,Diazepam 10mg/5ml oral solution Diazepam 2mg/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
 25815,Gabapentin 400mg/5ml oral suspension Gabapentin 80mg/1ml Oral suspension Oral,4070300,4080100,,,CPRD_GOLD
 62538,Carbamazepine 200mg tablets (Actavis UK Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 39039,Sodium valproate 200mg modified-release tablets Sodium valproate 200mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
@@ -1154,23 +954,17 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 32900,Carbamazepine sr 200mg Tablet (IVAX Pharmaceuticals UK Ltd) Carbamazepine 200mg Modified-release tablet Oral,4020300,4080100,,,CPRD_GOLD
 17990,Sabril 500mg oral powder sachets (Sanofi) Vigabatrin 500mg Powder Oral,4080100,,,,CPRD_GOLD
 9678,Phenytoin 90mg/5ml oral solution sugar free Phenytoin 90mg/5ml Suspension Sugar-Free Oral,4070300,4080100,,,CPRD_GOLD
-2328,Dexfenfluramine 15mg capsules Dexfenfluramine 15mg Capsules Oral,4050200,,,,CPRD_GOLD
 68560,Vigabatrin 350mg/5ml oral solution Vigabatrin 70mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 37058,Carbamazepine 500mg/5ml oral suspension Carbamazepine 100mg/1ml Oral suspension Oral,4080100,4105000,6010500,,CPRD_GOLD
-78434,Lorazepam 1mg Tablet (C P Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010200,15010401,,,CPRD_GOLD
 8029,Rivotril 2mg tablets (Roche Products Ltd) Clonazepam 2mg Tablet Oral,4080100,,,,CPRD_GOLD
-28703,Evacalm 5mg Tablet (Unimed Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 34958,Carbamazepine 100mg Tablet (Berk Pharmaceuticals Ltd) Carbamazepine 100mg Tablet Oral,4020300,4080100,,,CPRD_GOLD
 15106,PHENYTOIN 30 MG TAB    ,0,,,,CPRD_GOLD
 44719,Topiramate 25mg/5ml oral suspension Topiramate 5mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
-15492,Nitrados 5mg Tablet (Rorer Pharmaceuticals Ltd) Nitrazepam 5mg Tablet Oral,4010100,,,,CPRD_GOLD
-61886,Lorazepam 5mg/5ml oral suspension Lorazepam 1mg/1ml Oral suspension Oral,4010201,15010401,,,CPRD_GOLD
 59232,Phenobarbital 15mg/5ml elixir (A A H Pharmaceuticals Ltd) Phenobarbital 3mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 50285,Perampanel 2mg tablets Perampanel 2mg Tablet Oral,4080100,,,,CPRD_GOLD
 57863,Lamotrigine 50mg tablets (Alliance Healthcare (Distribution) Ltd) Lamotrigine 50mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 32911,Midazolam 10mg/2ml solution for injection ampoules (Advanz Pharma) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
 54984,Phenytoin 300mg/5ml oral solution Phenytoin 60mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-3973,Tensium 10mg tablets (DDSA Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 35835,Primidone 50mg/5ml oral suspension Primidone 10mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
 79287,Phenobarbital 100mg/5ml oral solution (Special Order) Phenobarbital 20mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 70064,Pregabalin 25mg capsules (Accord Healthcare Ltd) Pregabalin 25mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
@@ -1181,12 +975,10 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 59429,Carbamazepine 200mg tablets (Almus Pharmaceuticals Ltd) Carbamazepine 200mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
 13200,Clonazepam 2mg/5ml oral solution sugar free Clonazepam 2mg/5ml Oral Solution Sugar-Free Oral,4080100,,,,CPRD_GOLD
 51550,Epistatus 10mg/1ml oromucosal solution (Veriton Pharma Ltd) Midazolam 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
-41629,Chlordiazepoxide 10mg Capsule (DDSA Pharmaceuticals Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
 18737,Gabitril 5mg Tablet (Sanofi-Synthelabo Ltd) Tiagabine hydrochloride monohydrate 5mg Tablet Oral,4080100,,,,CPRD_GOLD
 37584,Episenta 500mg modified-release granules sachets (Desitin Pharma Ltd) Sodium valproate 500mg Modified-release granules Oral,4020300,4080100,,,CPRD_GOLD
 59504,Phenytoin sodium 100mg tablets (Alliance Healthcare (Distribution) Ltd) Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
 51839,Topamax 25mg sprinkle capsules (Mawdsley-Brooks & Company Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
-46913,Diazepam 10mg tablets (IVAX Pharmaceuticals UK Ltd) Diazepam 10mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 67477,Lamotrigine 25mg tablets (DE Pharmaceuticals) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
 27967,Pro-Epanutin 750mg/10ml concentrate for solution for injection vials (Pfizer Ltd) Fosphenytoin sodium 75mg/1ml Solution for injection Intravenous/Intramuscular,4080200,,,,CPRD_GOLD
 55904,Carbamazepine 100mg tablets (Mylan) Carbamazepine 100mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
@@ -1196,12 +988,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 70735,Pregabalin 300mg capsules (Alliance Healthcare (Distribution) Ltd) Pregabalin 300mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 23820,Diazepam 20mg rectal tubes Diazepam 20mg Rectal Tubes Rectal,4010200,4080200,,,CPRD_GOLD
 45695,Midazolam 2.5mg/ml oral solution Midazolam maleate 2.5mg/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
-61678,Nitrazepam 2mg/5ml oral suspension Nitrazepam 400microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 68423,Midazolam 10mg/2ml solution for injection ampoules (Hameln Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
 69807,Lamotrigine 5mg dispersible tablets sugar free (A A H Pharmaceuticals Ltd) Lamotrigine 5mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
 23768,Methylphenobarbital 30mg Tablet Phenobarbital Sodium 30mg Tablet Oral,4080100,,,,CPRD_GOLD
-29945,Diazepam 2mg tablets (Ranbaxy (UK) Ltd) Diazepam 2mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
-17294,Librium 10mg Tablet (ICN Pharmaceuticals France S.A.) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010200,,,,CPRD_GOLD
 14388,Frisium 10mg tablets (Sanofi) Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
 72233,Epilim 200mg/5ml syrup (DE Pharmaceuticals) Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 66889,Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
@@ -1217,31 +1006,24 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 32821,Dronabinol 2.7mg/dose / Cannabidiol 2.5mg/dose oromucosal spray Dronabinol/Cannabidiol 2.7mg/1dose + 2.5mg/1dose Spray Oromucosal,10020200,,,,CPRD_GOLD
 70403,Topiramate 20mg/5ml oral solution Topiramate 4mg/1ml Oral solution Oral,4070402,4080100,,,CPRD_GOLD
 51583,Primidone 100mg/5ml oral suspension Primidone 20mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
-34635,Diazepam 5mg tablets (A A H Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 18567,Trileptal 600mg tablets (Novartis Pharmaceuticals UK Ltd) Oxcarbazepine 600mg Tablet Oral,4080100,,,,CPRD_GOLD
 70247,Gabapentin 600mg tablets (Aurobindo Pharma Ltd) Gabapentin 600mg Tablet Oral,4070300,4080100,,,CPRD_GOLD
-79375,Nitrazepam 10mg Tablet (DDSA Pharmaceuticals Ltd) Nitrazepam 10mg Tablet ,4010100,,,,CPRD_GOLD
 17038,Rivotril 2.5mg/1ml drops (Imported (Switzerland)) Clonazepam 2.5mg/1ml Oral drops Oral,4080100,,,,CPRD_GOLD
 65969,Lamotrigine 5mg/5ml oral solution Lamotrigine 1mg/1ml Oral solution Oral,4020000,4080100,,,CPRD_GOLD
-60936,Diazepam 5mg tablets (Arrow Generics Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
 5872,Midazolam 2mg/ml Injection Midazolam Hydrochloride 2mg/ml Injection ,15010401,,,,CPRD_GOLD
 17177,Epanutin Infatabs 50mg chewable tablets (Upjohn UK Ltd) Phenytoin 50mg Chewable tablet Oral,4080100,,,,CPRD_GOLD
 64505,Clonazepam 5mg/5ml oral suspension Clonazepam 1mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 43450,Midazolam Oral solution Midazolam  Oral Solution Oral,4080200,15010401,,,CPRD_GOLD
 19533,STESOLID RECTAL    ,0,,,,CPRD_GOLD
 46572,Topiramate 50mg/5ml oral suspension Topiramate 10mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
-10954,Ativan 1mg Tablet (Wyeth Pharmaceuticals) Lorazepam 1mg Tablet Oral,4010200,15010401,,,CPRD_GOLD
 64127,Primidone 50mg/5ml oral suspension (Drug Tariff Special Order) Primidone 10mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
 39276,Sodium valproate with valproic acid 250mg modified release granules Sodium Valproate 250mg Modified Release Granules Oral,4080100,,,,CPRD_GOLD
 77220,Oxcarbazepine 150mg tablets (Teva UK Ltd) Oxcarbazepine 150mg Tablet Oral,4080100,,,,CPRD_GOLD
 34178,Sodium valproate 500mg gastro-resistant tablets (A A H Pharmaceuticals Ltd) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
-7924,Nitrazepam 2.5mg/5ml oral suspension Nitrazepam 500microgram/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 67221,Oxcarbazepine 300mg tablets (Actavis UK Ltd) Oxcarbazepine 300mg Tablet Oral,4080100,,,,CPRD_GOLD
-22424,Bromazepam 1.5mg tablets Bromazepam 1.5mg Tablets Oral,4010200,,,,CPRD_GOLD
 69877,Lecaent 300mg capsules (Actavis UK Ltd) Pregabalin 300mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 37801,Pregabalin 225mg capsules Pregabalin 225mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 4496,Phenobarbital 100mg tablet Phenobarbital 100mg Tablets Oral,4080100,,,,CPRD_GOLD
-67192,Diazepam 5mg/5ml oral suspension (Sandoz Ltd) Diazepam 1mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 4456,Mysoline 250mg Tablet (AstraZeneca UK Ltd) Primidone 250mg Tablet Oral,4080100,4090300,,,CPRD_GOLD
 76318,Pregabalin 25mg capsules (Mylan) Pregabalin 25mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 53492,Tegretol Prolonged Release 200mg tablets (Sigma Pharmaceuticals Plc) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
@@ -1260,8 +1042,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 64635,Primidone 62.5mg/5ml oral suspension (Drug Tariff Special Order) Primidone 12.5mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
 54190,Trobalt 400mg tablets (GlaxoSmithKline UK Ltd) Retigabine 400mg Tablet Oral,4080100,,,,CPRD_GOLD
 65863,Lyrica 75mg capsules (Stephar (U.K.) Ltd) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-3687,Lormetazepam 500microgram tablets Lormetazepam 500microgram Tablet Oral,4010100,,,,CPRD_GOLD
-16169,Librium 100mg Injection (Roche Products Ltd) Chlordiazepoxide Hydrochloride 100mg Injection ,4010200,,,,CPRD_GOLD
 72821,Lamotrigine 50mg tablets (Kent Pharmaceuticals Ltd) Lamotrigine 50mg Tablet Oral,4080100,,,,CPRD_GOLD
 6047,Levetiracetam 1g tablets Levetiracetam 1gram Tablet Oral,4080100,,,,CPRD_GOLD
 70459,Gabapentin 400mg capsules (Waymade Healthcare Plc) Gabapentin 400mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
@@ -1269,8 +1049,6 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 72827,Topamax 50mg sprinkle capsules (Lexon (UK) Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 40400,Sodium valproate 500mg Gastro-resistant tablet (C P Pharmaceuticals Ltd) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 62306,Topiramate 25mg capsules (Teva UK Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
-7652,OXAZEPAM 15 MG CAP    ,0,,,,CPRD_GOLD
-58959,Diazepam 10mg/5ml oral solution (AM Distributions (Yorkshire) Ltd) Diazepam 2mg/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
 7498,Epanutin 25mg capsules (Pfizer Ltd) Phenytoin sodium 25mg Capsule Oral,4080100,4080200,,,CPRD_GOLD
 6584,Lyrica 75mg capsules (Upjohn UK Ltd) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 50618,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled syringes (Special Order) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,15010401,,,,CPRD_GOLD
@@ -1284,32 +1062,23 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 69764,Perizam 1mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Clobazam 1mg/1ml Oral suspension Oral,4010201,4080100,,,CPRD_GOLD
 78727,Sodium valproate 500mg gastro-resistant tablets (Mylan) Sodium valproate 500mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 68401,Briviact 10mg tablets (UCB Pharma Ltd) Brivaracetam 10mg Tablet Oral,4080400,,,,CPRD_GOLD
-664,Lorazepam 4mg/1ml solution for injection ampoules Lorazepam 4mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,15010401,,CPRD_GOLD
 51924,Lyrica 20mg/ml oral solution (Upjohn UK Ltd) Pregabalin 20mg/1ml Oral solution Oral,4030000,4070300,4080100,,CPRD_GOLD
-36581,Atensine 10mg Tablet (Rorer Pharmaceuticals Ltd) Diazepam 10mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
-3491,Heminevrin 192mg capsules (AstraZeneca UK Ltd) Clomethiazole 192mg Capsule Oral,4010100,4105000,,,CPRD_GOLD
 57874,Topiramate 12.5mg/5ml oral suspension Topiramate 2.5mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
 12124,Diazepam 10mg/2ml solution for injection ampoules Diazepam 5mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,4080300,,CPRD_GOLD
 34626,Sodium valproate 200mg gastro-resistant tablets (Mylan) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 6949,Pregabalin 200mg capsules Pregabalin 200mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 34275,Phenobarbital 15mg/5ml Oral solution (William Ransom) Phenobarbital 3mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 46972,Carbamazepine 200mg Tablet (IVAX Pharmaceuticals UK Ltd) Carbamazepine 200mg Tablet Oral,4020300,4080100,,,CPRD_GOLD
-1463,Chlordiazepoxide 10mg capsules Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,4105000,10020200,,CPRD_GOLD
 8334,Diazepam 10mg suppositories Diazepam 10mg Suppository Rectal,4010201,4080200,4080300,,CPRD_GOLD
 75195,Phenobarbital oral liquid Phenobarbital   ,4080100,,,,CPRD_GOLD
 63113,Topiramate 25mg capsules (Phoenix Healthcare Distribution Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
-33070,Solis 5mg Capsule (Galen Ltd) Diazepam 5mg Capsule Oral,4010100,4010200,,,CPRD_GOLD
 50108,Clonazepam 2mg/5ml oral solution sugar free Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 71659,Lecaent 25mg capsules (Accord Healthcare Ltd) Pregabalin 25mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
-64729,Lorazepam 1mg tablets (Genesis Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 59430,Carbamazepine 400mg tablets (Almus Pharmaceuticals Ltd) Carbamazepine 400mg Tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-45135,Diazepam 2mg Tablet (M & A Pharmachem Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 74584,Clonazepam 2mg/5ml oral solution sugar free (Waymade Healthcare Plc) Clonazepam 400microgram/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 6021,Keppra 250mg tablets (UCB Pharma Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 59389,Primidone 250mg tablets (A A H Pharmaceuticals Ltd) Primidone 250mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
-32853,Diazepam 2mg/5ml oral solution (Sandoz Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080200,10020200,,CPRD_GOLD
 74433,Clonazepam 125micrograms/5ml oral suspension Clonazepam 25microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
-41583,Chlordiazepoxide 10mg capsules (Actavis UK Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010201,10020200,,,CPRD_GOLD
 54919,Epistatus 5mg/0.5ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam 5mg Oromucosal Solution Route Of Administration Not Applicable,4080200,,,,CPRD_GOLD
 72552,Midazolam 2.5mg/5ml oral solution Midazolam maleate 500microgram/1ml Oral solution Oral,15010401,,,,CPRD_GOLD
 64038,Alzain 225mg capsules (Dr Reddy's Laboratories (UK) Ltd) Pregabalin 225mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
@@ -1337,30 +1106,25 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 77532,Magnesium sulfate 50% (magnesium 2mmol/ml) solution for injection 4ml Minijet pre-filled syringes (UCB Pharma Ltd) Magnesium sulfate heptahydrate 500mg/1ml Solution for injection Intravenous/Intramuscular,9050103,,,,CPRD_GOLD
 44261,Gabapentin 250mg/5ml Oral solution (Boots Pharmaceuticals Ltd) Gabapentin 50mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 43178,Sodium valproate with valproic acid 1000mg modified release granules Sodium Valproate 1000mg Modified Release Granules Oral,4080100,,,,CPRD_GOLD
-10402,Valium 10mg Tablet (Roche Products Ltd) Diazepam 10mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 73632,Lamotrigine 25mg tablets (Consilient Health Ltd) Lamotrigine 25mg Tablet Oral,4080100,,,,CPRD_GOLD
 5658,Lamotrigine 25mg dispersible tablets sugar free Lamotrigine 25mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
-78362,Chlordiazepoxide 10mg tablets (Waymade Healthcare Plc) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010201,4105000,10020200,,CPRD_GOLD
 55624,Gabapentin 300mg capsules (Bristol Laboratories Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 21488,Luminal 30mg Tablet (Sanofi-Synthelabo Ltd) Phenobarbital 30mg Tablet Oral,4080100,,,,CPRD_GOLD
-71245,Diazepam 5mg tablets (Relonchem Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 3733,Epilim Chrono 300 tablets (Sanofi) Sodium valproate 300mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 57670,Topiramate 50mg capsules (Sandoz Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 209,Primidone 250mg/5ml oral suspension Primidone 50mg/1ml Oral suspension Oral,4080102,4090300,,,CPRD_GOLD
+8345,Stesolid 10mg rectal tube (Accord Healthcare Ltd) Diazepam 4mg/1ml Enema Rectal,4010201,4080200,10020200,,CPRD_GOLD
 7444,Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd) Lorazepam 4mg/1ml Solution for injection Intravenous/Intramuscular,4010201,4080200,15010401,,CPRD_GOLD
 72897,Perampanel 4mg/5ml oral suspension Perampanel 800microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 54739,Levetiracetam 500mg tablets (Alliance Healthcare (Distribution) Ltd) Levetiracetam 500mg Tablet Oral,4080100,,,,CPRD_GOLD
-12849,Diazepam 10mg/5ml oral suspension Diazepam 2mg/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 54146,Fycompa 2mg tablets (Eisai Ltd) Perampanel 2mg Tablet Oral,4080100,,,,CPRD_GOLD
 59241,Lamotrigine 100mg dispersible tablets sugar free (Teva UK Ltd) Lamotrigine 100mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
-77589,Nitrazepam 5mg/5ml Liquid (Rosemont Pharmaceuticals Ltd) Nitrazepam 1mg/1ml Oral suspension Oral,4010100,,,,CPRD_GOLD
 53306,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Midazolam maleate 10mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 64561,Phenobarbital sodium 50mg/5ml oral solution (Special Order) Phenobarbital sodium 10mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 52093,Clobazam 100mg/5ml oral suspension Clobazam 20mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 72207,Topiramate 25mg capsules (Sigma Pharmaceuticals Plc) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRD_GOLD
 77639,Phenobarbital 60mg tablets (Bristol Laboratories Ltd) Phenobarbital 60mg Tablet Oral,4080102,,,,CPRD_GOLD
 74019,Phenobarbital 10mg capsules Phenobarbital 10mg Capsule Oral,4080102,,,,CPRD_GOLD
-47,Diazepam 5mg tablets Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 70545,Pregabalin 25mg capsules (Alliance Healthcare (Distribution) Ltd) Pregabalin 25mg Capsule Oral,4030000,4080100,,,CPRD_GOLD
 34707,Sodium valproate 200mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 58383,Gabapentin 400mg capsules (Almus Pharmaceuticals Ltd) Gabapentin 400mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
@@ -1368,35 +1132,25 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 45476,Mysoline 50mg tablets (SERB) Primidone 50mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 60648,Phenobarbital 15mg/5ml oral suspension Phenobarbital 3mg/1ml Oral suspension Oral,4080102,,,,CPRD_GOLD
 60573,Phenytoin sodium 50mg capsules (Alliance Healthcare (Distribution) Ltd) Phenytoin sodium 50mg Capsule Oral,4080100,,,,CPRD_GOLD
-45218,Diazepam 5mg tablets (Ranbaxy (UK) Ltd) Diazepam 5mg Tablet Oral,4010201,4080200,4080300,,CPRD_GOLD
-74342,Diazepam 5mg tablets (Almus Pharmaceuticals Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 4175,Epanutin 30mg/5ml oral suspension (Upjohn UK Ltd) Phenytoin 6mg/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 50235,Lamotrigine 25mg tablets (A A H Pharmaceuticals Ltd) Lamotrigine 25mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-34482,Diazepam 5mg tablets (Teva UK Ltd) Diazepam 5mg Tablet Oral,4010201,4080400,4105000,,CPRD_GOLD
 44022,Gabapentin 250mg/5ml oral suspension Gabapentin 50mg/1ml Oral suspension Oral,4070300,4080100,,,CPRD_GOLD
 80504,Gabapentin 800mg/5ml oral solution Gabapentin 160mg/1ml Oral solution Oral,4070300,4080100,,,CPRD_GOLD
 53476,Keppra 250mg tablets (Waymade Healthcare Plc) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 59088,Primidone 250mg tablets (SERB) Primidone 250mg Tablet Oral,4080102,4090300,,,CPRD_GOLD
 57510,Frisium 10mg tablets (Waymade Healthcare Plc) Clobazam 10mg Tablet Oral,4080100,,,,CPRD_GOLD
 70773,Carbamazepine 200mg modified-release tablets (DE Pharmaceuticals) Carbamazepine 200mg Modified-release tablet Oral,4080100,4105000,6010500,,CPRD_GOLD
-79861,Lorazepam 2.5mg orodispersible tablets Lorazepam 2.5mg Orodispersible tablet Oral,4010201,15010401,,,CPRD_GOLD
-41602,Oxazepam 15mg tablets (Actavis UK Ltd) Oxazepam 15mg Tablet Oral,4010201,,,,CPRD_GOLD
 8452,PHENYTOIN 150 MG SUS    ,0,,,,CPRD_GOLD
 80762,Pregabalin 100mg tablets Pregabalin 100mg Tablet Oral,4030000,4070300,4080100,,CPRD_GOLD
 80687,Pregabalin 300mg tablets Pregabalin 300mg Tablet Oral,4030000,4070300,4080100,,CPRD_GOLD
 43451,Carbamazepine 400mg Modified-release tablet (Generics (UK) Ltd) Carbamazepine 400mg Modified-release tablet Oral,4020300,4080100,,,CPRD_GOLD
-78323,Lorazepam 500microgram tablets Lorazepam 500microgram Tablet Oral,4010201,15010401,,,CPRD_GOLD
 72832,Clobazam 1.5mg/5ml oral suspension Clobazam 300microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
 20004,Epilim Intravenous 400mg powder and solvent for solution for injection vials (Sanofi) Sodium valproate 400mg Powder and solvent for solution for injection Intravenous,4080100,,,,CPRD_GOLD
 37611,Epival CR 300mg tablets (Healthcare Pharma Ltd) Sodium valproate 300mg Modified-release tablet Oral,4080100,,,,CPRD_GOLD
 58846,Phenobarbital 30mg tablets (Almus Pharmaceuticals Ltd) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
-74984,Diazepam 2mg/5ml oral solution sugar free (Almus Pharmaceuticals Ltd) Diazepam 400microgram/1ml Oral solution Oral,4010201,4080400,4105000,,CPRD_GOLD
 39618,Phenobarbital 20mg/5ml oral solution Phenobarbital 4mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
-67297,Diazepam 25mg/5ml oral solution Diazepam 5mg/1ml Oral solution Oral,4010201,4080200,4080300,,CPRD_GOLD
-41542,Oxazepam 10mg Tablet (IVAX Pharmaceuticals UK Ltd) Oxazepam 10mg Tablet Oral,4010200,,,,CPRD_GOLD
 64285,Pregabalin 150mg/5ml oral suspension Pregabalin 30mg/1ml Oral suspension Oral,4030000,4070300,4080100,,CPRD_GOLD
 3845,Sodium valproate 200mg/5ml oral solution sugar free Sodium valproate 40mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-56551,Lorazepam 5mg/5ml oral solution Lorazepam 1mg/1ml Oral solution Oral,4010201,15010401,,,CPRD_GOLD
 64497,Lyrica 75mg capsules (Waymade Healthcare Plc) Pregabalin 75mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 2081,Lamotrigine 5mg dispersible tablets sugar free Lamotrigine 5mg Dispersible tablet Oral,4020000,4080100,,,CPRD_GOLD
 70255,Clobazam 2mg/5ml oral suspension Clobazam 400microgram/1ml Oral suspension Oral,4080100,,,,CPRD_GOLD
@@ -1419,9 +1173,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 64037,Alzain 300mg capsules (Dr Reddy's Laboratories (UK) Ltd) Pregabalin 300mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 7392,Midazolam 10mg/5ml solution for injection ampoules Midazolam hydrochloride 2mg/1ml Solution for injection Intramuscular/Rectal/Intravenous,15010401,,,,CPRD_GOLD
 53066,Felbamate 600mg tablets Felbamate 600mg Tablet Oral,4080100,,,,CPRD_GOLD
+2078,Diazepam 5mg RecTubes (Wockhardt UK Ltd) Diazepam 2mg/1ml Enema Rectal,4010201,4080200,4080300,,CPRD_GOLD
 30509,Timonil retard 400mg Modified-release tablet (C P Pharmaceuticals Ltd) Carbamazepine 400mg Modified-release tablet Oral,4020300,4080100,,,CPRD_GOLD
 26318,Gabitril 15mg Tablet (Sanofi-Synthelabo Ltd) Tiagabine hydrochloride monohydrate 15mg Tablet Oral,4080100,,,,CPRD_GOLD
-34876,Diazepam 2mg Tablet (Berk Pharmaceuticals Ltd) Diazepam 2mg Tablet Oral,4010100,4010200,,,CPRD_GOLD
 61198,Topiramate 15mg/5ml oral suspension Topiramate 3mg/1ml Oral suspension Oral,4070402,4080100,,,CPRD_GOLD
 54632,Levetiracetam 250mg tablets (Teva UK Ltd) Levetiracetam 250mg Tablet Oral,4080100,,,,CPRD_GOLD
 38193,Midazolam 100mg/50ml solution for infusion vials Midazolam hydrochloride 2mg/1ml Solution for infusion Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
@@ -1430,27 +1184,22 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 6304,Neurontin 300mg capsules (Upjohn UK Ltd) Gabapentin 300mg Capsule Oral,4070300,4080100,,,CPRD_GOLD
 62637,Sodium valproate 200mg gastro-resistant tablets (Actavis UK Ltd) Sodium valproate 200mg Gastro-resistant tablet Oral,4080100,,,,CPRD_GOLD
 2062,Phenytoin sodium 100mg tablets Phenytoin sodium 100mg Tablet Oral,4080100,,,,CPRD_GOLD
-79387,Chlordiazepoxide 10mg Tablet (IVAX Pharmaceuticals UK Ltd) Chlordiazepoxide hydrochloride 10mg Tablet Oral,4010200,,,,CPRD_GOLD
 71063,Midazolam 10mg/2ml solution for injection ampoules (Special Order) Midazolam hydrochloride 5mg/1ml Solution for injection Rectal/Intramuscular/Intravenous,4010201,15010401,,,CPRD_GOLD
 25543,Phenobarbital 30mg tablets (A A H Pharmaceuticals Ltd) Phenobarbital 30mg Tablet Oral,4080102,,,,CPRD_GOLD
 16509,Lyrica 150mg capsules (Upjohn UK Ltd) Pregabalin 150mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 7020,Trileptal 300mg tablets (Novartis Pharmaceuticals UK Ltd) Oxcarbazepine 300mg Tablet Oral,4080100,,,,CPRD_GOLD
-76192,Diazepam 2.5mg/5ml Liquid (Rosemont Pharmaceuticals Ltd) Diazepam 500microgram/1ml Oral suspension Oral,4010100,4010200,,,CPRD_GOLD
 5791,Ethosuximide 250mg/5ml oral solution Ethosuximide 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
 55535,Gabapentin 300mg capsules (Almus Pharmaceuticals Ltd) Gabapentin 300mg Capsule Oral,0,,,,CPRD_GOLD
 64042,Alzain 200mg capsules (Dr Reddy's Laboratories (UK) Ltd) Pregabalin 200mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 78303,Phenobarbital 15mg/5ml oral solution (Special Order) Phenobarbital 3mg/1ml Oral solution Oral,4080102,,,,CPRD_GOLD
 58179,Levetiracetam 250mg/5ml oral solution Levetiracetam 50mg/1ml Oral solution Oral,4080100,,,,CPRD_GOLD
-67193,Diazepam 2mg/5ml oral suspension (Sandoz Ltd) Diazepam 400microgram/1ml Oral suspension Oral,4010201,4080200,4080300,,CPRD_GOLD
 6594,Phenytoin sodium 300mg capsules Phenytoin sodium 300mg Capsule Oral,4080100,,,,CPRD_GOLD
 59120,Lamotrigine 100mg tablets (A A H Pharmaceuticals Ltd) Lamotrigine 100mg Tablet Oral,4020000,4080100,,,CPRD_GOLD
-41574,Chlordiazepoxide 10mg Capsule (Approved Prescription Services Ltd) Chlordiazepoxide hydrochloride 10mg Capsule Oral,4010200,,,,CPRD_GOLD
 16021,Valproic acid 500mg gastro-resistant capsules Valproic acid 500mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRD_GOLD
 72551,Midazolam 2.5mg/5ml oral suspension Midazolam maleate 500microgram/1ml Oral suspension Oral,15010401,,,,CPRD_GOLD
 45974,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Midazolam hydrochloride 5mg/1ml Oromucosal solution Buccal,4080200,,,,CPRD_GOLD
 61626,Clonazepam 500microgram tablets (Teva UK Ltd) Clonazepam 500microgram Tablet Oral,4080100,,,,CPRD_GOLD
 5449,Oxcarbazepine 300mg tablets Oxcarbazepine 300mg Tablet Oral,4080100,,,,CPRD_GOLD
-61450,Lorazepam 1mg tablets (A A H Pharmaceuticals Ltd) Lorazepam 1mg Tablet Oral,4010201,15010401,,,CPRD_GOLD
 67184,Lyrica 50mg capsules (Mawdsley-Brooks & Company Ltd) Pregabalin 50mg Capsule Oral,4030000,4070300,4080100,,CPRD_GOLD
 80973,Sodium valproate 500mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)Sodium valproate500mgGastro-resistant tabletOral ,4080100,,,,CPRD_GOLD
 81007,Cannabidiol 100mg/ml oral solution sugar freeCannabidiol100mg/1mlOral solutionOral ,4080400,,,,CPRD_GOLD
@@ -1458,11 +1207,9 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 81124,Gabapentin 300mg capsules (Tillomed Laboratories Ltd)Gabapentin300mgCapsuleOral ,4070300,4080100,,,CPRD_GOLD
 81203,Keppra 250mg tablets (CST Pharma Ltd)Levetiracetam250mgTabletOral ,4080100,,,,CPRD_GOLD
 81242,Midazolam 10mg/2ml solution for injection ampoules (Accord Healthcare Ltd) ,4010201,15010401,,,CPRD_GOLD
-81493,Lorazepam 500microgram tablets (Advanz Pharma) ,4010201,15010401,,,CPRD_GOLD
 81501,Pregabalin 225mg tablets ,4030000,4070300,4080100,,CPRD_GOLD
 81608,Sodium valproate 500mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd)Sodium valproate500mgGastro-resistant tabletOral ,4080100,,,,CPRD_GOLD
 81616,Carbamazepine 200mg tablets (Teva UK Ltd)Carbamazepine200mgTabletOral ,4080100,,,,CPRD_GOLD
-81622,Lorazepam 1mg tablets (Actavis UK Ltd)Lorazepam1mgTabletOral ,4010201,15010401,,,CPRD_GOLD
 81635,Gabapentin 400mg capsules (A A H Pharmaceuticals Ltd)Gabapentin400mgCapsuleOral ,4070300,4080100,,,CPRD_GOLD
 81646,Lamotrigine 25mg tablets (Aurobindo Pharma Ltd)Lamotrigine25mgTabletOral ,4020000,4080100,,,CPRD_GOLD
 81647,Lamotrigine 200mg tablets (Aurobindo Pharma Ltd)Lamotrigine200mgTabletOral ,4020000,4080100,,,CPRD_GOLD
@@ -1485,9 +1232,7 @@ DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
 82296,Sodium valproate 300mg modified-release tablets (Ennogen Healthcare Ltd)Sodium valproate300mgModified-release tabletOral ,4080100,,,,CPRD_GOLD
 82325,Lamictal 25mg tablets (Mawdsley-Brooks & Company Ltd)Lamotrigine25mgTabletOral ,4020000,4080100,,,CPRD_GOLD
 82331,Primidone 250mg tablets (DE Pharmaceuticals)Primidone250mgTabletOral ,4080102,4090300,,,CPRD_GOLD
-82380,Clomethiazole 192mg capsules (Waymade Healthcare Plc)Clomethiazole192mgCapsuleOral ,4010100,4105000,,,CPRD_GOLD
 82381,Gabapentin 400mg capsules (Bristol Laboratories Ltd)Gabapentin400mgCapsuleOral ,4070300,4080100,,,CPRD_GOLD
-82395,Chlordiazepoxide 10mg capsules (Ranbaxy (UK) Ltd)Chlordiazepoxide hydrochloride10mgCapsuleOral ,4010201,4105000,10020200,,CPRD_GOLD
 82398,Clonazepam 500microgram tablets (Almus Pharmaceuticals Ltd)Clonazepam500microgramTabletOral ,0,,,,CPRD_GOLD
 82402,Topiramate 15mg capsules (Sandoz Ltd)Topiramate15mgCapsuleOral ,4070402,4080100,,,CPRD_GOLD
 82442,Vimpat 50mg tablets (Waymade Healthcare Plc)Lacosamide50mgTabletOral ,4080100,,,,CPRD_GOLD
