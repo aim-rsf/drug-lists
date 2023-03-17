@@ -1,5 +1,0 @@
-Name: Galantamine_NEW
-Created By: m.mohammad@bham.ac.uk
-Created On: 2022-08-16
-Contains codes for: IMRD (version: 2021-06-29) CEGEDIM (version: 2021-06-29) CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) UHB
-Keywords: [1, 100, 12.000, 12mg, 14, 16.000, 16mg, 20mg/5ml, 24.000, 24mg, 28, 4.000, 4mg, 4mg/1ml, 4mg/ml, 56, 7, 8.000, 8mg, accord, acumor, alliance, aspire, b.v, brooks, capsule, capsule2, capsule4, capsuleoral, capsules, colorama, company, consilient, consion, creo, cst, de, distribution, dowelhurst, dr, elmino, ennogen, fontus, free, gaalin, galantamine, galantamine24, galsya, galzemic, gatalin, gazylan, h, health, healthcare, hydrobromide, j, laboratories, lexon, lotprosin, ltd, luventa, m, mawdsley, mawdsley-brooks, mcgill, medihealth, mg, mg/1.000ml, mgmodified, milpharm, ml, modified, modified-release, mylan, necessity, niche, northern, oral, order, originalis, pharma, pharmaceuticals, phoenix, plc, reddys, release, reminyl, sandoz, shire, sigma, solution, special, sugar, supplies, tablet, tablet4, tablets, teva, thame, uk, waymade, x, xl, zeebral, zentiva]

@@ -1,5 +1,0 @@
-Name: Monoamine_Oxidase_Inhibitors
-Created By: m.mohammad@bham.ac.uk
-Created On: 2022-08-05
-Contains codes for: IMRD (version: 2021-06-29) CEGEDIM (version: 2021-06-29) CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) 
-Keywords: [+1, 1, 10.000, 100, 10mg, 15.000, 15mg, 1mg, 20mg/5ml, 28, 56, 60, advanz, alliance, cambridge, capsule, capsules, capsulesphenelzine, consumer, cst, de, distribution, ennogen, glaxosmithkline, goldshield, h, healthcare, hydrochloride/tranylcypromine, imported, isocarboxazid, kirin, kyowa, laboratories, ltd, marplan, mg, ml, nardil, oral, order, parnate, parstelin, pharma, pharmaceuticals, phenelzine, pilsco, plc, special, sulfate, sulfate15mgcapsuleoral, sulphate, suspension, tablet, tablets, teva, tranylcypromine, trifluoperazine, uk, waymade]
