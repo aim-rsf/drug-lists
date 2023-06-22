@@ -1,6 +1,6 @@
 # AI-MLTC Drug Lists
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository has been setup to share drug lists across NIHR's AIM projects.
@@ -24,7 +24,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JennyCooper1"><img src="https://avatars.githubusercontent.com/u/107427234?v=4?s=100" width="100px;" alt="JennyCooper1"/><br /><sub><b>JennyCooper1</b></sub></a><br /><a href="#content-JennyCooper1" title="Content">🖋</a> <a href="https://github.com/aim-rsf/drug-lists/commits?author=JennyCooper1" title="Documentation">📖</a> <a href="#ideas-JennyCooper1" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JennyCooper1"><img src="https://avatars.githubusercontent.com/u/107427234?v=4?s=100" width="100px;" alt="JennyCooper1"/><br /><sub><b>JennyCooper1</b></sub></a><br /><a href="#content-JennyCooper1" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rainiefantasy"><img src="https://avatars.githubusercontent.com/u/43926907?v=4?s=100" width="100px;" alt="Mahwish M"/><br /><sub><b>Mahwish M</b></sub></a><br /><a href="#content-Rainiefantasy" title="Content">🖋</a> <a href="https://github.com/aim-rsf/drug-lists/commits?author=Rainiefantasy" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
