@@ -27,6 +27,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "eirini-zormpa",
+      "name": "Eirini Zormpa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30151074?v=4",
+      "profile": "https://github.com/eirini-zormpa",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
