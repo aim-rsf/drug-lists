@@ -15,6 +15,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Rainiefantasy",
+      "name": "Mahwish M",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43926907?v=4",
+      "profile": "https://github.com/Rainiefantasy",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
