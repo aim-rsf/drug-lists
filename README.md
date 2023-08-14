@@ -7,6 +7,7 @@
 
 This repository has been setup to share drug lists across NIHR's AIM projects.
 Currently, the drug lists come from the AIM Consortium OPTIMAL, based in Birmingham.
+You can find all the drug lists created by OPTIMAL in [this repository](https://github.com/aim-rsf/phenotypes/tree/main/Drug%20Codes).
 
 ## About the lists
 There is variation in how different systems approach the classification and mapping of various drugs, and it has been noted that there is a lack of single data consistency. 
