@@ -7,7 +7,7 @@
 
 This repository has been setup to share drug lists across NIHR's AIM projects.
 Currently, the drug lists come from the AIM Consortium OPTIMAL, based in Birmingham.
-You can find all the drug lists created by OPTIMAL in [this repository](https://github.com/aim-rsf/phenotypes/tree/main/Drug%20Codes).
+You can find all the drug lists created by OPTIMAL in [this repository]([https://github.com/aim-rsf/phenotypes/tree/main/Drug%20Codes](https://github.com/THINKINGGroup/phenotypes/tree/main/Drug%20Codes)).
 
 ## About the lists
 There is variation in how different systems approach the classification and mapping of various drugs, and it has been noted that there is a lack of single data consistency. 
@@ -18,11 +18,7 @@ The drug lists have been created using different methods to find a more efficien
 - **Method 2**: Involves the use of both the [`snomedizer`](https://github.com/ramses-antibiotics/snomedizer) `R` package and a dm+d tool implementation (downloading latest dm+d distribution from NHS [Technology Reference Update Distribution TRUD webpage](https://isd.digital.nhs.uk/trud/users/guest/filters/0/home)). It's in the pipeline to create a self-contained wrapper for this process.
   - this method is a substance-based approach and involves running through a list of IDs for medicinal products.
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+The process for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
 
 ## Contributors ✨
 
@@ -49,3 +45,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Specifically, 🖋️ `content` refers to creation of drug lists, 📖 `documentation` refers to the documentation created in this repository, and 🤔 `Feedback` refers to clinical auditing of the lists.
 
 If you would like to contribute to this repository, e.g. because you have found an error, or because you have a code list you would like to contribute, please [open an issue](https://github.com/aim-rsf/drug-lists/issues/new), or email Dr. Eirini Zormpa at [ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk).
+
+## Licence
+The materials in this repository are free to reuse under the conditions of the [Creative Commons Attribution 4.0 licence](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
