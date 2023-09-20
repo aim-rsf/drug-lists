@@ -1,14 +1,21 @@
 # Drug List Modifications
 
-For reproducibility purposes the code lists generated, and their review process, has been outlined below. The modifications made have been as per clinician's advice (Jenny Cooper) to ensure removal of misclassified drugs and enough balance between specificity and sensitivity.
+For reproducibility purposes the code lists generated and their review processes have been outlined below. The modifications are as per clinician's advice (Jenny Cooper) to ensure removal of misclassified, erroneous drugs and maintaining balance between specificity and sensitivity in term sets.
 
-Below are the completed lists.
+As a combination of method 1 & 2 has been used to create the lists, there is some variation in documentation (for example, method 2 will contain the snomedizer R package query syntax). Below are the completed lists.
+
+The steps included will roughly follow the following structure:
+- snomedizer query (if used)
+- generic drug list
+- brand drug list
+- modifications (removals and additions from clinicians review)
+- additional notes
 
 ---
 ## Anticonvulsants 
 
 ```
-#SNOMED QUERY:
+#SNOMEDIZER QUERY:
 concept_find(ecl = "<<763158003 : 127489000 |Has active ingredient (attribute) | = <<255632006", limit= 1200)$idAndFsnTerm
 ```
 

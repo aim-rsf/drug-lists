@@ -5,20 +5,21 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This repository has been setup to share drug lists across NIHR's AIM projects.
-Currently, the drug lists come from the AIM Consortium OPTIMAL, based in Birmingham.
+This repository has been setup to share drug code lists across NIHR's AIM projects.
+The drug code lists currently available are created in collaboration with AIM Consortium OPTIMAL based in Birmingham, using their Code Builder tool.
 You can find all the drug lists created by OPTIMAL in [this repository]([https://github.com/aim-rsf/phenotypes/tree/main/Drug%20Codes](https://github.com/THINKINGGroup/phenotypes/tree/main/Drug%20Codes)).
 
 ## About the lists
-There is variation in how different systems approach the classification and mapping of various drugs, and it has been noted that there is a lack of single data consistency. 
+There is variation in the classification terminology used for drugs and conditions in data sources. Further, lack of clarity in the methodology process for generating the code lists and decisions made to modify output code lists makes reusability and reproducibility difficult.
 
-The drug lists have been created using different methods to find a more efficient process to integrate as part of the Code Builder tool:
+The drug lists created have been thus been stored on this repo, along with documentation on the different methods used to generate the lists to encourage reusability and reproducibility.
 
-- **Method 1**: Involved manually curating a list of generic drug names on the BNF, and searching for respective brand names on the dm+d browser
-- **Method 2**: Involves the use of both the [`snomedizer`](https://github.com/ramses-antibiotics/snomedizer) `R` package and a dm+d tool implementation (downloading latest dm+d distribution from NHS [Technology Reference Update Distribution TRUD webpage](https://isd.digital.nhs.uk/trud/users/guest/filters/0/home)). It's in the pipeline to create a self-contained wrapper for this process.
-  - this method is a substance-based approach and involves running through a list of IDs for medicinal products.
+The two methods used to curate the lists are outlined below:
+- **Method 1**: Involves manually curating a list of generic drug names using [BNF treatment summaries](https://bnf.nice.org.uk/treatment-summaries/), and searching for respective brand names on the [dm+d browser](https://services.nhsbsa.nhs.uk/dmd-browser/)
+- **Method 2**: Involves the use of both the [`snomedizer`](https://github.com/ramses-antibiotics/snomedizer) `R` package and a dm+d tool implementation (downloading latest dm+d release from NHS TRUD [Technology Reference Update Distribution TRUD webpage](https://isd.digital.nhs.uk/trud/users/guest/filters/0/home)). 
+  - this method is a substance-based approach and involves running through a list of substance 'children' in medicinal products through snomedizer R package.
 
-The process for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
+The full methods for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
 
 ## Contributors ✨
 
