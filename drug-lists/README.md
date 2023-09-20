@@ -28,7 +28,7 @@ Note that the BNF and ATC code is not always populated, and the dm+d code is in 
 
 Below is an example approach code snippet of using postgresql to filter out the list of unique_identifiers for a chosen drug in your data source
 
-```postgresql
+```sql
 --using term sets:
 SELECT unique_identifier, * 
 FROM drug_dictionary
