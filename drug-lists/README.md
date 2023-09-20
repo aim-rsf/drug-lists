@@ -48,5 +48,5 @@ WHERE drug_id in (
     'atccode' 
     )
 LIMIT 10;
-
+```
 -- these can then be joined on patient tables to identify relevant cohorts
