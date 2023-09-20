@@ -16,7 +16,7 @@ The drug lists created have been thus been stored on this repo, along with docum
 
 The two methods used to curate the lists are outlined below:
 - **Method 1**: Involves manually curating a list of generic drug names using [BNF treatment summaries](https://bnf.nice.org.uk/treatment-summaries/), and searching for respective brand names on the [dm+d browser](https://services.nhsbsa.nhs.uk/dmd-browser/)
-- **Method 2**: Involves the use of both the [`snomedizer`](https://github.com/ramses-antibiotics/snomedizer) `R` package and a dm+d tool implementation (downloading latest dm+d release from NHS TRUD [Technology Reference Update Distribution TRUD webpage](https://isd.digital.nhs.uk/trud/users/guest/filters/0/home)). 
+- **Method 2**: Involves the use of both the [`snomedizer`](https://github.com/ramses-antibiotics/snomedizer) `R` package and a dm+d tool implementation (downloading latest dm+d release from [NHS TRUD webpage](https://isd.digital.nhs.uk/trud/users/guest/filters/0/home)). 
   - this method is a substance-based approach and involves running through a list of substance 'children' in medicinal products through snomedizer R package.
 
 The full methods for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
