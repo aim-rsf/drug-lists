@@ -1,79 +1,79 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-5.10404E+15,Seroxat Cr M/R tablets 12.5 mg    ,,,,,CPRD_AURUM
-3.19984E+15,Paxoran Tablets 10 mg    ,,,,,CPRD_AURUM
-3.20004E+15,Paxoran Tablets 40 mg    ,,,,,CPRD_AURUM
-6.02934E+15,Seroxat Cr M/R tablets 25 mg    ,,,,,CPRD_AURUM
-5.92541E+14,Fluoxetine Hydrochloride Liquid 20 mg/5 ml    ,,,,,CPRD_AURUM
-3.19994E+15,Paxoran Tablets 20 mg    ,,,,,CPRD_AURUM
-5.12774E+15,Prozac Weekly Delayed Release Capsules 90 mg    ,,,,,CPRD_AURUM
-5.63341E+14,Faverin 50mg tablets (Mylan) Tablet Oral Fluvoxamine maleate 50.000mg,4030300,,,,CPRD_AURUM
-5.95541E+14,Fluvoxamine 50mg tablets Tablet Oral Fluvoxamine maleate 50.000mg,4030300,,,,CPRD_AURUM
-5.92841E+14,Fluvoxamine 100mg tablets Tablet Oral Fluvoxamine maleate 100.000mg,4030300,,,,CPRD_AURUM
-5.61941E+14,Faverin 100mg tablets (Mylan) Tablet Oral Fluvoxamine maleate 100.000mg,4030300,,,,CPRD_AURUM
-1.11244E+15,Prozac 20mg capsules (Eli Lilly and Company Ltd) Capsule Oral Fluoxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-1.92314E+15,Felicium 20mg capsules (Opus Pharmaceuticals Ltd) Capsule Oral Fluoxetine hydrochloride 20.000mg,,,,,CPRD_AURUM
-2.60204E+15,Oxactin 20mg capsules (Discovery Pharmaceuticals) Capsule Oral Fluoxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-2.71044E+15,Ranflutin 20mg capsules (Ranbaxy (UK) Ltd) Capsule Oral Fluoxetine hydrochloride 20.000mg,,,,,CPRD_AURUM
-5.77841E+14,Fluoxetine 20mg capsules Capsule Oral Fluoxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-2.77064E+15,Fluoxetine 20mg/5ml oral solution Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml,4030300,,,,CPRD_AURUM
-1.12954E+15,Prozac 20mg/5ml liquid (Eli Lilly and Company Ltd) Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml,4030300,,,,CPRD_AURUM
-2.77054E+15,Prozit 20mg/5ml oral solution (Pinewood Healthcare) Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml,,,,,CPRD_AURUM
-1.11194E+15,Prozac 60mg capsules (Eli Lilly and Company Ltd) Capsule Oral Fluoxetine hydrochloride 60.000mg,4030300,,,,CPRD_AURUM
-5.79041E+14,Fluoxetine 60mg capsules Capsule Oral Fluoxetine hydrochloride 60.000mg,4030300,,,,CPRD_AURUM
-1.27884E+15,Sertraline 50mg tablets Tablet Oral Sertraline hydrochloride 50.000mg,4030300,,,,CPRD_AURUM
-8.54241E+14,Lustral 50mg tablets (Upjohn UK Ltd) Tablet Oral Sertraline hydrochloride 50.000mg,4030300,,,,CPRD_AURUM
-8.54141E+14,Lustral 100mg tablets (Upjohn UK Ltd) Tablet Oral Sertraline hydrochloride 100.000mg,4030300,,,,CPRD_AURUM
-1.27874E+15,Sertraline 100mg tablets Tablet Oral Sertraline hydrochloride 100.000mg,4030300,,,,CPRD_AURUM
-1.04214E+15,Paroxetine 20mg tablets Tablet Oral Paroxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-1.27834E+15,Seroxat 20mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Paroxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-1.27844E+15,Seroxat 30mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Paroxetine hydrochloride 30.000mg,4030300,,,,CPRD_AURUM
-1.04224E+15,Paroxetine 30mg tablets Tablet Oral Paroxetine hydrochloride 30.000mg,4030300,,,,CPRD_AURUM
-2.59141E+14,Cipramil 20mg tablets (Lundbeck Ltd) Tablet Oral Citalopram hydrobromide 20.000mg,4030300,,,,CPRD_AURUM
-2.59241E+14,Citalopram 20mg tablets Tablet Oral Citalopram hydrobromide 20.000mg,4030300,,,,CPRD_AURUM
-1.58334E+15,Citalopram 10mg tablets Tablet Oral Citalopram hydrobromide 10.000mg,4030300,,,,CPRD_AURUM
-1.58324E+15,Cipramil 10mg tablets (Lundbeck Ltd) Tablet Oral Citalopram hydrobromide 10.000mg,4030300,,,,CPRD_AURUM
-1.58304E+15,Cipramil 40mg tablets (Lundbeck Ltd) Tablet Oral Citalopram hydrobromide 40.000mg,4030300,,,,CPRD_AURUM
-1.58314E+15,Citalopram 40mg tablets Tablet Oral Citalopram hydrobromide 40.000mg,4030300,,,,CPRD_AURUM
-1.90064E+15,Citalopram 40mg/ml oral drops sugar free Oral drops Oral Citalopram hydrochloride 40.000mg/1.000ml,4030300,,,,CPRD_AURUM
-1.90074E+15,Cipramil 40mg/ml drops (Lundbeck Ltd) Oral drops Oral Citalopram hydrochloride 40.000mg/1.000ml,4030300,,,,CPRD_AURUM
-1.16038E+16,Fluoxetine 10mg capsules Capsule Oral Fluoxetine hydrochloride 10.000mg,,,,,CPRD_AURUM
-6.49634E+15,Fluoxetine 10mg tablets Tablet Oral Fluoxetine hydrochloride 10.000mg,,,,,CPRD_AURUM
-1.17075E+16,Fluoxetine 40mg capsules Capsule Oral Fluoxetine hydrochloride 40.000mg,,,,,CPRD_AURUM
-2.74964E+15,Cipralex 10mg tablets (Lundbeck Ltd) Tablet Oral Escitalopram oxalate 10.000mg,4030300,,,,CPRD_AURUM
-2.74954E+15,Escitalopram 10mg tablets Tablet Oral Escitalopram oxalate 10.000mg,4030300,,,,CPRD_AURUM
-2.95134E+15,Escitalopram 20mg tablets Tablet Oral Escitalopram oxalate 20.000mg,4030300,,,,CPRD_AURUM
-2.95144E+15,Cipralex 20mg tablets (Lundbeck Ltd) Tablet Oral Escitalopram oxalate 20.000mg,4030300,,,,CPRD_AURUM
-3.03034E+15,Escitalopram 5mg tablets Tablet Oral Escitalopram oxalate 5.000mg,4030300,,,,CPRD_AURUM
-3.03054E+15,Cipralex 5mg tablets (Lundbeck Ltd) Tablet Oral Escitalopram oxalate 5.000mg,4030300,,,,CPRD_AURUM
-4.07904E+15,Paroxetine 10mg tablets Tablet Oral Paroxetine hydrochloride 10.000mg,4030300,,,,CPRD_AURUM
-4.07914E+15,Seroxat 10mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Paroxetine hydrochloride 10.000mg,4030300,,,,CPRD_AURUM
-1.17554E+16,Paroxetine 40mg tablets Tablet Oral Paroxetine hydrochloride 40.000mg,,,,,CPRD_AURUM
-5.97534E+15,Sertraline 100mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 20.000mg/1.000ml,,,,,CPRD_AURUM
-4.14834E+15,Sertraline 50mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
-3.92894E+15,Cipralex 10mg/ml oral drops (Lundbeck Ltd) Oral drops Oral Escitalopram oxalate 10.000mg/1.000ml,4030300,,,,CPRD_AURUM
-3.92884E+15,Escitalopram 10mg/ml oral drops sugar free Oral drops Oral Escitalopram oxalate 10.000mg/1.000ml,4030300,,,,CPRD_AURUM
-5.74944E+15,Fluoxetine 20mg/5ml oral solution sugar free Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml,,,,,CPRD_AURUM
-4.49864E+15,Prozep 20mg/5ml oral solution (Chemidex Pharma Ltd) Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml,,,,,CPRD_AURUM
-1.29009E+16,Sertraline 25mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-5.12864E+15,Cipralex 20mg/ml oral drops (Lundbeck Ltd) Oral drops Oral Escitalopram oxalate 20.000mg/1.000ml,,,,,CPRD_AURUM
-5.12854E+15,Escitalopram 20mg/ml oral drops sugar free Oral drops Oral Escitalopram oxalate 20.000mg/1.000ml,,,,,CPRD_AURUM
-8.87954E+15,Dapoxetine 30mg tablets Tablet Oral Dapoxetine 30.000mg,7040601,,,,CPRD_AURUM
-8.87974E+15,Priligy 30mg tablets (A. Menarini Farmaceutica Internazionale SRL) Tablet Oral Dapoxetine 30.000mg,7040601,,,,CPRD_AURUM
-8.87964E+15,Dapoxetine 60mg tablets Tablet Oral Dapoxetine 60.000mg,7040601,,,,CPRD_AURUM
-8.87984E+15,Priligy 60mg tablets (A. Menarini Farmaceutica Internazionale SRL) Tablet Oral Dapoxetine 60.000mg,7040601,,,,CPRD_AURUM
-9.12064E+15,Fluoxetine 20mg dispersible tablets sugar free Dispersible tablet Oral Fluoxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-9.12074E+15,Olena 20mg dispersible tablets (Advanz Pharma) Dispersible tablet Oral Fluoxetine hydrochloride 20.000mg,4030300,,,,CPRD_AURUM
-1.0617E+16,Vortioxetine 10mg tablets Tablet Oral Vortioxetine hydrobromide 10.000mg,4030400,,,,CPRD_AURUM
-1.06173E+16,Brintellix 10mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 10.000mg,4030400,,,,CPRD_AURUM
-1.06174E+16,Brintellix 20mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 20.000mg,4030400,,,,CPRD_AURUM
-1.06171E+16,Vortioxetine 20mg tablets Tablet Oral Vortioxetine hydrobromide 20.000mg,4030400,,,,CPRD_AURUM
-1.06169E+16,Vortioxetine 5mg tablets Tablet Oral Vortioxetine hydrobromide 5.000mg,4030400,,,,CPRD_AURUM
-1.06172E+16,Brintellix 5mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 5.000mg,4030400,,,,CPRD_AURUM
-1.17074E+16,Fluoxetine 30mg capsules Capsule Oral Fluoxetine hydrochloride 30.000mg,,,,,CPRD_AURUM
-1.68614E+15,Seroxat 20mg/10ml liquid (GlaxoSmithKline UK Ltd) Oral suspension Oral Paroxetine hydrochloride 2.000mg/1.000ml,4030300,,,,CPRD_AURUM
-1.66244E+15,Paroxetine 10mg/5ml oral suspension sugar free Oral suspension Oral Paroxetine hydrochloride 2.000mg/1.000ml,4030300,,,,CPRD_AURUM
-1.37405E+16,Fluoxetine 10mg tablets (Imported) Fluoxetine 10mg tablets Tablet  Fluoxetine hydrochloride 10.000mg,,,,,CPRD_AURUM
-1.37406E+16,Fluoxetine 30mg capsules (Imported) Fluoxetine 30mg capsules Capsule  Fluoxetine hydrochloride 30.000mg,,,,,CPRD_AURUM
-1.37407E+16,Fluoxetine 40mg capsules (Imported) Fluoxetine 40mg capsules Capsule  Fluoxetine hydrochloride 40.000mg,,,,,CPRD_AURUM
-1.37403E+16,Fluoxetine 40mg capsules (Special Order) Fluoxetine 40mg capsules Capsule  Fluoxetine hydrochloride 40.000mg,,,,,CPRD_AURUM
-1.37436E+16,Sertraline 25mg tablets Sertraline 25mg tablets Tablet Oral Sertraline hydrochloride 25.000mg,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","DATABASE"
+" 5104040000000000","Seroxat Cr M/R tablets 12.5 mg    ","","","","","CPRD_AURUM"
+" 3199840000000000","Paxoran Tablets 10 mg    ","","","","","CPRD_AURUM"
+" 3200040000000000","Paxoran Tablets 40 mg    ","","","","","CPRD_AURUM"
+" 6029340000000000","Seroxat Cr M/R tablets 25 mg    ","","","","","CPRD_AURUM"
+"  592541000000000","Fluoxetine Hydrochloride Liquid 20 mg/5 ml    ","","","","","CPRD_AURUM"
+" 3199940000000000","Paxoran Tablets 20 mg    ","","","","","CPRD_AURUM"
+" 5127740000000000","Prozac Weekly Delayed Release Capsules 90 mg    ","","","","","CPRD_AURUM"
+"  563341000000000","Faverin 50mg tablets (Mylan) Tablet Oral Fluvoxamine maleate 50.000mg","4030300","","","","CPRD_AURUM"
+"  595541000000000","Fluvoxamine 50mg tablets Tablet Oral Fluvoxamine maleate 50.000mg","4030300","","","","CPRD_AURUM"
+"  592841000000000","Fluvoxamine 100mg tablets Tablet Oral Fluvoxamine maleate 100.000mg","4030300","","","","CPRD_AURUM"
+"  561941000000000","Faverin 100mg tablets (Mylan) Tablet Oral Fluvoxamine maleate 100.000mg","4030300","","","","CPRD_AURUM"
+" 1112440000000000","Prozac 20mg capsules (Eli Lilly and Company Ltd) Capsule Oral Fluoxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+" 1923140000000000","Felicium 20mg capsules (Opus Pharmaceuticals Ltd) Capsule Oral Fluoxetine hydrochloride 20.000mg","","","","","CPRD_AURUM"
+" 2602040000000000","Oxactin 20mg capsules (Discovery Pharmaceuticals) Capsule Oral Fluoxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+" 2710440000000000","Ranflutin 20mg capsules (Ranbaxy (UK) Ltd) Capsule Oral Fluoxetine hydrochloride 20.000mg","","","","","CPRD_AURUM"
+"  577841000000000","Fluoxetine 20mg capsules Capsule Oral Fluoxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+" 2770640000000000","Fluoxetine 20mg/5ml oral solution Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+" 1129540000000000","Prozac 20mg/5ml liquid (Eli Lilly and Company Ltd) Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+" 2770540000000000","Prozit 20mg/5ml oral solution (Pinewood Healthcare) Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml","","","","","CPRD_AURUM"
+" 1111940000000000","Prozac 60mg capsules (Eli Lilly and Company Ltd) Capsule Oral Fluoxetine hydrochloride 60.000mg","4030300","","","","CPRD_AURUM"
+"  579041000000000","Fluoxetine 60mg capsules Capsule Oral Fluoxetine hydrochloride 60.000mg","4030300","","","","CPRD_AURUM"
+" 1278840000000000","Sertraline 50mg tablets Tablet Oral Sertraline hydrochloride 50.000mg","4030300","","","","CPRD_AURUM"
+"  854241000000000","Lustral 50mg tablets (Upjohn UK Ltd) Tablet Oral Sertraline hydrochloride 50.000mg","4030300","","","","CPRD_AURUM"
+"  854141000000000","Lustral 100mg tablets (Upjohn UK Ltd) Tablet Oral Sertraline hydrochloride 100.000mg","4030300","","","","CPRD_AURUM"
+" 1278740000000000","Sertraline 100mg tablets Tablet Oral Sertraline hydrochloride 100.000mg","4030300","","","","CPRD_AURUM"
+" 1042140000000000","Paroxetine 20mg tablets Tablet Oral Paroxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+" 1278340000000000","Seroxat 20mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Paroxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+" 1278440000000000","Seroxat 30mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Paroxetine hydrochloride 30.000mg","4030300","","","","CPRD_AURUM"
+" 1042240000000000","Paroxetine 30mg tablets Tablet Oral Paroxetine hydrochloride 30.000mg","4030300","","","","CPRD_AURUM"
+"  259141000000000","Cipramil 20mg tablets (Lundbeck Ltd) Tablet Oral Citalopram hydrobromide 20.000mg","4030300","","","","CPRD_AURUM"
+"  259241000000000","Citalopram 20mg tablets Tablet Oral Citalopram hydrobromide 20.000mg","4030300","","","","CPRD_AURUM"
+" 1583340000000000","Citalopram 10mg tablets Tablet Oral Citalopram hydrobromide 10.000mg","4030300","","","","CPRD_AURUM"
+" 1583240000000000","Cipramil 10mg tablets (Lundbeck Ltd) Tablet Oral Citalopram hydrobromide 10.000mg","4030300","","","","CPRD_AURUM"
+" 1583040000000000","Cipramil 40mg tablets (Lundbeck Ltd) Tablet Oral Citalopram hydrobromide 40.000mg","4030300","","","","CPRD_AURUM"
+" 1583140000000000","Citalopram 40mg tablets Tablet Oral Citalopram hydrobromide 40.000mg","4030300","","","","CPRD_AURUM"
+" 1900640000000000","Citalopram 40mg/ml oral drops sugar free Oral drops Oral Citalopram hydrochloride 40.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+" 1900740000000000","Cipramil 40mg/ml drops (Lundbeck Ltd) Oral drops Oral Citalopram hydrochloride 40.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+"11603800000000000","Fluoxetine 10mg capsules Capsule Oral Fluoxetine hydrochloride 10.000mg","","","","","CPRD_AURUM"
+" 6496340000000000","Fluoxetine 10mg tablets Tablet Oral Fluoxetine hydrochloride 10.000mg","","","","","CPRD_AURUM"
+"11707500000000000","Fluoxetine 40mg capsules Capsule Oral Fluoxetine hydrochloride 40.000mg","","","","","CPRD_AURUM"
+" 2749640000000000","Cipralex 10mg tablets (Lundbeck Ltd) Tablet Oral Escitalopram oxalate 10.000mg","4030300","","","","CPRD_AURUM"
+" 2749540000000000","Escitalopram 10mg tablets Tablet Oral Escitalopram oxalate 10.000mg","4030300","","","","CPRD_AURUM"
+" 2951340000000000","Escitalopram 20mg tablets Tablet Oral Escitalopram oxalate 20.000mg","4030300","","","","CPRD_AURUM"
+" 2951440000000000","Cipralex 20mg tablets (Lundbeck Ltd) Tablet Oral Escitalopram oxalate 20.000mg","4030300","","","","CPRD_AURUM"
+" 3030340000000000","Escitalopram 5mg tablets Tablet Oral Escitalopram oxalate 5.000mg","4030300","","","","CPRD_AURUM"
+" 3030540000000000","Cipralex 5mg tablets (Lundbeck Ltd) Tablet Oral Escitalopram oxalate 5.000mg","4030300","","","","CPRD_AURUM"
+" 4079040000000000","Paroxetine 10mg tablets Tablet Oral Paroxetine hydrochloride 10.000mg","4030300","","","","CPRD_AURUM"
+" 4079140000000000","Seroxat 10mg tablets (GlaxoSmithKline UK Ltd) Tablet Oral Paroxetine hydrochloride 10.000mg","4030300","","","","CPRD_AURUM"
+"11755400000000000","Paroxetine 40mg tablets Tablet Oral Paroxetine hydrochloride 40.000mg","","","","","CPRD_AURUM"
+" 5975340000000000","Sertraline 100mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 20.000mg/1.000ml","","","","","CPRD_AURUM"
+" 4148340000000000","Sertraline 50mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 10.000mg/1.000ml","","","","","CPRD_AURUM"
+" 3928940000000000","Cipralex 10mg/ml oral drops (Lundbeck Ltd) Oral drops Oral Escitalopram oxalate 10.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+" 3928840000000000","Escitalopram 10mg/ml oral drops sugar free Oral drops Oral Escitalopram oxalate 10.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+" 5749440000000000","Fluoxetine 20mg/5ml oral solution sugar free Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml","","","","","CPRD_AURUM"
+" 4498640000000000","Prozep 20mg/5ml oral solution (Chemidex Pharma Ltd) Oral solution Oral Fluoxetine hydrochloride 4.000mg/1.000ml","","","","","CPRD_AURUM"
+"12900900000000000","Sertraline 25mg/5ml oral suspension Oral suspension Oral Sertraline hydrochloride 5.000mg/1.000ml","","","","","CPRD_AURUM"
+" 5128640000000000","Cipralex 20mg/ml oral drops (Lundbeck Ltd) Oral drops Oral Escitalopram oxalate 20.000mg/1.000ml","","","","","CPRD_AURUM"
+" 5128540000000000","Escitalopram 20mg/ml oral drops sugar free Oral drops Oral Escitalopram oxalate 20.000mg/1.000ml","","","","","CPRD_AURUM"
+" 8879540000000000","Dapoxetine 30mg tablets Tablet Oral Dapoxetine 30.000mg","7040601","","","","CPRD_AURUM"
+" 8879740000000000","Priligy 30mg tablets (A. Menarini Farmaceutica Internazionale SRL) Tablet Oral Dapoxetine 30.000mg","7040601","","","","CPRD_AURUM"
+" 8879640000000000","Dapoxetine 60mg tablets Tablet Oral Dapoxetine 60.000mg","7040601","","","","CPRD_AURUM"
+" 8879840000000000","Priligy 60mg tablets (A. Menarini Farmaceutica Internazionale SRL) Tablet Oral Dapoxetine 60.000mg","7040601","","","","CPRD_AURUM"
+" 9120640000000000","Fluoxetine 20mg dispersible tablets sugar free Dispersible tablet Oral Fluoxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+" 9120740000000000","Olena 20mg dispersible tablets (Advanz Pharma) Dispersible tablet Oral Fluoxetine hydrochloride 20.000mg","4030300","","","","CPRD_AURUM"
+"10617000000000000","Vortioxetine 10mg tablets Tablet Oral Vortioxetine hydrobromide 10.000mg","4030400","","","","CPRD_AURUM"
+"10617300000000000","Brintellix 10mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 10.000mg","4030400","","","","CPRD_AURUM"
+"10617400000000000","Brintellix 20mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 20.000mg","4030400","","","","CPRD_AURUM"
+"10617100000000000","Vortioxetine 20mg tablets Tablet Oral Vortioxetine hydrobromide 20.000mg","4030400","","","","CPRD_AURUM"
+"10616900000000000","Vortioxetine 5mg tablets Tablet Oral Vortioxetine hydrobromide 5.000mg","4030400","","","","CPRD_AURUM"
+"10617200000000000","Brintellix 5mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 5.000mg","4030400","","","","CPRD_AURUM"
+"11707400000000000","Fluoxetine 30mg capsules Capsule Oral Fluoxetine hydrochloride 30.000mg","","","","","CPRD_AURUM"
+" 1686140000000000","Seroxat 20mg/10ml liquid (GlaxoSmithKline UK Ltd) Oral suspension Oral Paroxetine hydrochloride 2.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+" 1662440000000000","Paroxetine 10mg/5ml oral suspension sugar free Oral suspension Oral Paroxetine hydrochloride 2.000mg/1.000ml","4030300","","","","CPRD_AURUM"
+"13740500000000000","Fluoxetine 10mg tablets (Imported) Fluoxetine 10mg tablets Tablet  Fluoxetine hydrochloride 10.000mg","","","","","CPRD_AURUM"
+"13740600000000000","Fluoxetine 30mg capsules (Imported) Fluoxetine 30mg capsules Capsule  Fluoxetine hydrochloride 30.000mg","","","","","CPRD_AURUM"
+"13740700000000000","Fluoxetine 40mg capsules (Imported) Fluoxetine 40mg capsules Capsule  Fluoxetine hydrochloride 40.000mg","","","","","CPRD_AURUM"
+"13740300000000000","Fluoxetine 40mg capsules (Special Order) Fluoxetine 40mg capsules Capsule  Fluoxetine hydrochloride 40.000mg","","","","","CPRD_AURUM"
+"13743600000000000","Sertraline 25mg tablets Sertraline 25mg tablets Tablet Oral Sertraline hydrochloride 25.000mg","","","","","CPRD_AURUM"
