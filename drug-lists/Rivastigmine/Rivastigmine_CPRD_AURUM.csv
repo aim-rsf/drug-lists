@@ -1,41 +1,41 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-1.67334E+15,Rivastigmine 1.5mg capsules Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,4110000,,,,CPRD_AURUM
-1.60924E+15,Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,4110000,,,,CPRD_AURUM
-6.46944E+15,Nimvastid 1.5mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,,,,,CPRD_AURUM
-8.27164E+15,Kerstipon 1.5mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg,,,,,CPRD_AURUM
-8.27174E+15,Kerstipon 3mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,,,,,CPRD_AURUM
-6.46954E+15,Nimvastid 3mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,,,,,CPRD_AURUM
-1.60934E+15,Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,4110000,,,,CPRD_AURUM
-1.67344E+15,Rivastigmine 3mg capsules Capsule Oral Rivastigmine hydrogen tartrate 3.000mg,4110000,,,,CPRD_AURUM
-1.67354E+15,Rivastigmine 4.5mg capsules Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,4110000,,,,CPRD_AURUM
-1.60944E+15,Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,4110000,,,,CPRD_AURUM
-6.46964E+15,Nimvastid 4.5mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,,,,,CPRD_AURUM
-8.27184E+15,Kerstipon 4.5mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg,,,,,CPRD_AURUM
-8.27194E+15,Kerstipon 6mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,,,,,CPRD_AURUM
-6.46974E+15,Nimvastid 6mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,,,,,CPRD_AURUM
-1.60954E+15,Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,4110000,,,,CPRD_AURUM
-1.67364E+15,Rivastigmine 6mg capsules Capsule Oral Rivastigmine hydrogen tartrate 6.000mg,4110000,,,,CPRD_AURUM
-2.65644E+15,Rivastigmine 2mg/ml oral solution sugar free Oral solution Oral Rivastigmine hydrogen tartrate 2.000mg/1.000ml,4110000,,,,CPRD_AURUM
-2.65654E+15,Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Rivastigmine hydrogen tartrate 2.000mg/1.000ml,4110000,,,,CPRD_AURUM
-4.32124E+15,Rivastigmine 4.6mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,4110000,,,,CPRD_AURUM
-4.32204E+15,Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,4110000,,,,CPRD_AURUM
-9.07344E+15,Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-8.34934E+15,Voleze 4.6mg/24hours transdermal patches (Advanz Pharma) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-1.21985E+16,Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-9.41184E+15,Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-9.36624E+15,Somniton 4.6mg/24hours transdermal patches (Zentiva) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-1.06745E+16,Eluden 4.6mg/24hours transdermal patches (Mylan) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-9.16544E+15,Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour,,,,,CPRD_AURUM
-8.34944E+15,Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-9.07354E+15,Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-4.32264E+15,Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,4110000,,,,CPRD_AURUM
-4.32154E+15,Rivastigmine 9.5mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,4110000,,,,CPRD_AURUM
-9.16554E+15,Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-1.06746E+16,Eluden 9.5mg/24hours transdermal patches (Mylan) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-9.41204E+15,Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-9.36684E+15,Somniton 9.5mg/24hours transdermal patches (Zentiva) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-1.21987E+16,Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour,,,,,CPRD_AURUM
-8.34814E+15,Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
-8.34804E+15,Rivastigmine 13.3mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
-1.06426E+16,Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
-1.1403E+16,Voleze 13.3mg/24hours transdermal patches (Advanz Pharma) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"1673341000033115","Rivastigmine 1.5mg capsules Capsule Oral Rivastigmine hydrogen tartrate 1.500mg","4110000",,,,"176048","CPRD_AURUM"
+"1609241000033116","Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg","4110000",,,,"1649","CPRD_AURUM"
+"6469441000033118","Nimvastid 1.5mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg",,,,,"1","CPRD_AURUM"
+"8271641000033117","Kerstipon 1.5mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 1.500mg",,,,,"0","CPRD_AURUM"
+"8271741000033114","Kerstipon 3mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg",,,,,"0","CPRD_AURUM"
+"6469541000033117","Nimvastid 3mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg",,,,,"0","CPRD_AURUM"
+"1609341000033114","Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 3.000mg","4110000",,,,"2114","CPRD_AURUM"
+"1673441000033114","Rivastigmine 3mg capsules Capsule Oral Rivastigmine hydrogen tartrate 3.000mg","4110000",,,,"238163","CPRD_AURUM"
+"1673541000033110","Rivastigmine 4.5mg capsules Capsule Oral Rivastigmine hydrogen tartrate 4.500mg","4110000",,,,"90420","CPRD_AURUM"
+"1609441000033115","Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg","4110000",,,,"1211","CPRD_AURUM"
+"6469641000033116","Nimvastid 4.5mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg",,,,,"1","CPRD_AURUM"
+"8271841000033116","Kerstipon 4.5mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 4.500mg",,,,,"0","CPRD_AURUM"
+"8271941000033112","Kerstipon 6mg capsules (Aspire Pharma Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg",,,,,"0","CPRD_AURUM"
+"6469741000033113","Nimvastid 6mg capsules (Consilient Health Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg",,,,,"0","CPRD_AURUM"
+"1609541000033119","Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Rivastigmine hydrogen tartrate 6.000mg","4110000",,,,"1128","CPRD_AURUM"
+"1673641000033111","Rivastigmine 6mg capsules Capsule Oral Rivastigmine hydrogen tartrate 6.000mg","4110000",,,,"83739","CPRD_AURUM"
+"2656441000033116","Rivastigmine 2mg/ml oral solution sugar free Oral solution Oral Rivastigmine hydrogen tartrate 2.000mg/1.000ml","4110000",,,,"9513","CPRD_AURUM"
+"2656541000033115","Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Rivastigmine hydrogen tartrate 2.000mg/1.000ml","4110000",,,,"293","CPRD_AURUM"
+"4321241000033114","Rivastigmine 4.6mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour","4110000",,,,"117657","CPRD_AURUM"
+"4322041000033111","Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour","4110000",,,,"4527","CPRD_AURUM"
+"9073441000033113","Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"53","CPRD_AURUM"
+"8349341000033119","Voleze 4.6mg/24hours transdermal patches (Advanz Pharma) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"55","CPRD_AURUM"
+"12198541000033112","Almuriva 4.6mg/24hours transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"68","CPRD_AURUM"
+"9411841000033112","Prometax 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"135","CPRD_AURUM"
+"9366241000033112","Somniton 4.6mg/24hours transdermal patches (Zentiva) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"2","CPRD_AURUM"
+"10674541000033119","Eluden 4.6mg/24hours transdermal patches (Mylan) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"1","CPRD_AURUM"
+"9165441000033111","Alzest 4.6mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Rivastigmine 4.600mg/24.000hour",,,,,"22567","CPRD_AURUM"
+"8349441000033113","Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"120","CPRD_AURUM"
+"9073541000033114","Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"39","CPRD_AURUM"
+"4322641000033117","Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour","4110000",,,,"12049","CPRD_AURUM"
+"4321541000033111","Rivastigmine 9.5mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour","4110000",,,,"252470","CPRD_AURUM"
+"9165541000033112","Alzest 9.5mg/24hours transdermal patches (Dr Reddy's Laboratories (UK) Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"36238","CPRD_AURUM"
+"10674641000033118","Eluden 9.5mg/24hours transdermal patches (Mylan) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"0","CPRD_AURUM"
+"9412041000033110","Prometax 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"424","CPRD_AURUM"
+"9366841000033111","Somniton 9.5mg/24hours transdermal patches (Zentiva) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"5","CPRD_AURUM"
+"12198741000033116","Almuriva 9.5mg/24hours transdermal patches (Sandoz Ltd) Transdermal patch Transdermal Rivastigmine 9.500mg/24.000hour",,,,,"159","CPRD_AURUM"
+"8348141000033111","Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour",,,,,"891","CPRD_AURUM"
+"8348041000033112","Rivastigmine 13.3mg/24hours transdermal patches Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour",,,,,"13650","CPRD_AURUM"
+"10642641000033112","Erastig 13.3mg/24hours transdermal patches (Teva UK Ltd) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour",,,,,"88","CPRD_AURUM"
+"11403041000033111","Voleze 13.3mg/24hours transdermal patches (Advanz Pharma) Transdermal patch Transdermal Rivastigmine 13.300mg/24.000hour",,,,,"2","CPRD_AURUM"
