@@ -1,49 +1,49 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-2.19134E+15,Galantamine 4mg tablets Tablet Oral Galantamine hydrobromide 4.000mg,4110000,,,,CPRD_AURUM
-2.19164E+15,Reminyl 4mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 4.000mg,4110000,,,,CPRD_AURUM
-2.19174E+15,Reminyl 8mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
-2.19144E+15,Galantamine 8mg tablets Tablet Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
-2.19154E+15,Galantamine 12mg tablets Tablet Oral Galantamine hydrobromide 12.000mg,4110000,,,,CPRD_AURUM
-2.19184E+15,Reminyl 12mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 12.000mg,4110000,,,,CPRD_AURUM
-2.80144E+15,Galantamine 20mg/5ml oral solution sugar free Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml,4110000,,,,CPRD_AURUM
-2.80154E+15,Reminyl 4mg/ml oral solution (Shire Pharmaceuticals Ltd) Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml,4110000,,,,CPRD_AURUM
-1.26038E+16,Galzemic 4mg/ml oral solution (Creo Pharma Ltd) Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml,,,,,CPRD_AURUM
-6.43594E+15,Galsya XL 16mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,4110000,,,,CPRD_AURUM
-6.52934E+15,Zeebral XL 16mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-8.12734E+15,Gatalin XL 16mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-8.24304E+15,Lotprosin XL 16mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-7.69044E+15,Acumor XL 16mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-8.30544E+15,Elmino XL 16mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-3.29364E+15,Galantamine 16mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 16.000mg,4110000,,,,CPRD_AURUM
-3.29394E+15,Reminyl XL 16mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,4110000,,,,CPRD_AURUM
-1.26409E+16,Gaalin 16mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-9.67934E+15,Luventa XL 16mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-1.18258E+16,Galzemic XL 16mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-1.02174E+16,Consion XL 16mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-9.69924E+15,Gazylan XL 16mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg,,,,,CPRD_AURUM
-3.29374E+15,Galantamine 24mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 24.000mg,4110000,,,,CPRD_AURUM
-3.29404E+15,Reminyl XL 24mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,4110000,,,,CPRD_AURUM
-8.30694E+15,Elmino XL 24mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-7.69014E+15,Acumor XL 24mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-8.24314E+15,Lotprosin XL 24mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-8.12744E+15,Gatalin XL 24mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-6.52944E+15,Zeebral XL 24mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-6.43604E+15,Galsya XL 24mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,4110000,,,,CPRD_AURUM
-9.69944E+15,Gazylan XL 24mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-1.02175E+16,Consion XL 24mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-1.18259E+16,Galzemic XL 24mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-9.67914E+15,Luventa XL 24mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-1.2641E+16,Gaalin 24mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg,,,,,CPRD_AURUM
-6.43584E+15,Galsya XL 8mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
-6.52924E+15,Zeebral XL 8mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-8.12724E+15,Gatalin XL 8mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-8.24294E+15,Lotprosin XL 8mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-7.69064E+15,Acumor XL 8mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-8.30514E+15,Elmino XL 8mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-3.29354E+15,Galantamine 8mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
-3.29384E+15,Reminyl XL 8mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,4110000,,,,CPRD_AURUM
-1.26411E+16,Gaalin 8mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-9.67924E+15,Luventa XL 8mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-1.18257E+16,Galzemic XL 8mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-1.02173E+16,Consion XL 8mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
-9.69954E+15,Gazylan XL 8mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"2191341000033112","Galantamine 4mg tablets Tablet Oral Galantamine hydrobromide 4.000mg","4110000",,,,"12521","CPRD_AURUM"
+"2191641000033116","Reminyl 4mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 4.000mg","4110000",,,,"990","CPRD_AURUM"
+"2191741000033113","Reminyl 8mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 8.000mg","4110000",,,,"2258","CPRD_AURUM"
+"2191441000033118","Galantamine 8mg tablets Tablet Oral Galantamine hydrobromide 8.000mg","4110000",,,,"60111","CPRD_AURUM"
+"2191541000033117","Galantamine 12mg tablets Tablet Oral Galantamine hydrobromide 12.000mg","4110000",,,,"67090","CPRD_AURUM"
+"2191841000033115","Reminyl 12mg tablets (Shire Pharmaceuticals Ltd) Tablet Oral Galantamine hydrobromide 12.000mg","4110000",,,,"4231","CPRD_AURUM"
+"2801441000033112","Galantamine 20mg/5ml oral solution sugar free Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml","4110000",,,,"13421","CPRD_AURUM"
+"2801541000033113","Reminyl 4mg/ml oral solution (Shire Pharmaceuticals Ltd) Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml","4110000",,,,"2242","CPRD_AURUM"
+"12603841000033115","Galzemic 4mg/ml oral solution (Creo Pharma Ltd) Oral solution Oral Galantamine hydrobromide 4.000mg/1.000ml",,,,,"15","CPRD_AURUM"
+"6435941000033119","Galsya XL 16mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg","4110000",,,,"17","CPRD_AURUM"
+"6529341000033114","Zeebral XL 16mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"14","CPRD_AURUM"
+"8127341000033119","Gatalin XL 16mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"47560","CPRD_AURUM"
+"8243041000033111","Lotprosin XL 16mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"18","CPRD_AURUM"
+"7690441000033111","Acumor XL 16mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"75","CPRD_AURUM"
+"8305441000033119","Elmino XL 16mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"3","CPRD_AURUM"
+"3293641000033110","Galantamine 16mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 16.000mg","4110000",,,,"183108","CPRD_AURUM"
+"3293941000033115","Reminyl XL 16mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg","4110000",,,,"10081","CPRD_AURUM"
+"12640941000033113","Gaalin 16mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"0","CPRD_AURUM"
+"9679341000033110","Luventa XL 16mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"12423","CPRD_AURUM"
+"11825841000033115","Galzemic XL 16mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"3334","CPRD_AURUM"
+"10217441000033118","Consion XL 16mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"57","CPRD_AURUM"
+"9699241000033110","Gazylan XL 16mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 16.000mg",,,,,"5313","CPRD_AURUM"
+"3293741000033118","Galantamine 24mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 24.000mg","4110000",,,,"280801","CPRD_AURUM"
+"3294041000033118","Reminyl XL 24mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg","4110000",,,,"23350","CPRD_AURUM"
+"8306941000033118","Elmino XL 24mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"15","CPRD_AURUM"
+"7690141000033115","Acumor XL 24mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"123","CPRD_AURUM"
+"8243141000033110","Lotprosin XL 24mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"39","CPRD_AURUM"
+"8127441000033113","Gatalin XL 24mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"67355","CPRD_AURUM"
+"6529441000033115","Zeebral XL 24mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"45","CPRD_AURUM"
+"6436041000033112","Galsya XL 24mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg","4110000",,,,"346","CPRD_AURUM"
+"9699441000033111","Gazylan XL 24mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"7261","CPRD_AURUM"
+"10217541000033117","Consion XL 24mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"40","CPRD_AURUM"
+"11825941000033111","Galzemic XL 24mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"3249","CPRD_AURUM"
+"9679141000033112","Luventa XL 24mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"18467","CPRD_AURUM"
+"12641041000033115","Gaalin 24mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 24.000mg",,,,,"0","CPRD_AURUM"
+"6435841000033110","Galsya XL 8mg capsules (Consilient Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg","4110000",,,,"95","CPRD_AURUM"
+"6529241000033116","Zeebral XL 8mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"6","CPRD_AURUM"
+"8127241000033112","Gatalin XL 8mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"16825","CPRD_AURUM"
+"8242941000033118","Lotprosin XL 8mg capsules (Accord Healthcare Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"11","CPRD_AURUM"
+"7690641000033113","Acumor XL 8mg capsules (Mylan) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"62","CPRD_AURUM"
+"8305141000033110","Elmino XL 8mg capsules (Zentiva) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"0","CPRD_AURUM"
+"3293541000033114","Galantamine 8mg modified-release capsules Modified-release capsule Oral Galantamine hydrobromide 8.000mg","4110000",,,,"71770","CPRD_AURUM"
+"3293841000033111","Reminyl XL 8mg capsules (Shire Pharmaceuticals Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg","4110000",,,,"5193","CPRD_AURUM"
+"12641141000033116","Gaalin 8mg modified-release capsules (Milpharm Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"0","CPRD_AURUM"
+"9679241000033117","Luventa XL 8mg capsules (Fontus Health Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"2924","CPRD_AURUM"
+"11825741000033113","Galzemic XL 8mg capsules (Creo Pharma Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"1489","CPRD_AURUM"
+"10217341000033112","Consion XL 8mg capsules (Dr Reddy's Laboratories (UK) Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"40","CPRD_AURUM"
+"9699541000033112","Gazylan XL 8mg capsules (Teva UK Ltd) Modified-release capsule Oral Galantamine hydrobromide 8.000mg",,,,,"1413","CPRD_AURUM"
