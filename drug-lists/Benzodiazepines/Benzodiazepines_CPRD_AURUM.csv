@@ -1,211 +1,211 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-7.67834E+15,Epistatus Buccal Liquid 5 mg/0.5 ml pre-filled oral syringe    ,,,,,CPRD_AURUM
-7.67844E+15,Epistatus Buccal Liquid 7.5 mg/0.75 ml pre-filled oral syringe    ,,,,,CPRD_AURUM
-1.23737E+16,Lorazepam Oral solution 1 mg/ml (5 mg/5 ml)    ,,,,,CPRD_AURUM
-4.58141E+14,Diazepam Rectubes Rectal tubes 20 mg    ,,,,,CPRD_AURUM
-4.60741E+14,Diazepam Syrup 2 mg/5 ml    ,,,,,CPRD_AURUM
-9.1541E+13,Ativan Tablets 1 mg    ,,,,,CPRD_AURUM
-9.23341E+14,Mogadon Capsules 5 mg    ,,,,,CPRD_AURUM
-9.72541E+14,Nitrazepam Mixture 150 ml    ,,,,,CPRD_AURUM
-1.17334E+15,"Rivotril Injection 1mg/ml, 1 ml ampoule    ",,,,,CPRD_AURUM
-1.37974E+15,Stesolid Injection 5 mg/ml    ,,,,,CPRD_AURUM
-1.41814E+15,Temazepam Hard gelatin capsules 20 mg    ,,,,,CPRD_AURUM
-3.18834E+15,Diazepam Syrup 5 mg/5 ml    ,,,,,CPRD_AURUM
-2.48641E+14,Chlordiazepoxide Hydrochloride Tablets 5 mg    ,,,,,CPRD_AURUM
-4.38341E+14,Diazepam Capsules 5 mg    ,,,,,CPRD_AURUM
-2.75541E+14,"Clonazepam Injection 1mg/ml, 1 ml ampoule    ",,,,,CPRD_AURUM
-1.41754E+15,Temazepam Gelthix Gel-filled capsules 15 mg    ,,,,,CPRD_AURUM
-1.42314E+15,Temazepam Single dose vials 10 mg/5 ml    ,,,,,CPRD_AURUM
-4.57741E+14,Diazepam Rectubes 10 mg    ,,,,,CPRD_AURUM
-4.43641E+14,Diazepam Elixir 2 mg/5 ml    ,,,,,CPRD_AURUM
-4.46741E+14,Diazepam Injection 5 mg/ml    ,,,,,CPRD_AURUM
-8.37241E+14,Libraxin Tablets    ,,,,,CPRD_AURUM
-1.41384E+15,Temazepam Capsules 15 mg    ,,,,,CPRD_AURUM
-1.41674E+15,Temazepam Elixir 10 mg/5 ml    ,,,,,CPRD_AURUM
-1.42214E+15,Temazepam Planpak    ,,,,,CPRD_AURUM
-4.18644E+15,Epistatus Buccal Liquid Sugar-Free 10 mg/ml    ,,,,,CPRD_AURUM
-7.67824E+15,Epistatus Buccal Liquid 2.5 mg/0.25 ml pre-filled oral syringe    ,,,,,CPRD_AURUM
-6.03194E+15,Xanax Tablets 1 mg    ,,,,,CPRD_AURUM
-4.57841E+14,Diazepam Rectubes 5 mg    ,,,,,CPRD_AURUM
-8.35041E+14,Librium Tablets 10 mg    ,,,,,CPRD_AURUM
-9.67841E+14,Nitrazepam Capsules 5 mg    ,,,,,CPRD_AURUM
-9.75241E+14,Nitrazepam Tablets 10 mg    ,,,,,CPRD_AURUM
-1.02594E+15,Oxazepam Tablets 30 mg    ,,,,,CPRD_AURUM
-1.41764E+15,Temazepam Gelthix Gel-filled capsules 30 mg    ,,,,,CPRD_AURUM
-1.41784E+15,Temazepam Gelthix Gel-filled capsules 20 mg    ,,,,,CPRD_AURUM
-8.35141E+14,Librium Tablets 25 mg    ,,,,,CPRD_AURUM
-5.10994E+15,Dormicum Tablets 15 mg    ,,,,,CPRD_AURUM
-2.48541E+14,Chlordiazepoxide Hydrochloride Tablets 10 mg    ,,,,,CPRD_AURUM
-2.50241E+14,Chlordiazepoxide Tablets 25 mg    ,,,,,CPRD_AURUM
-2.50741E+14,Chlordiazepoxide Hydrochloride Tablets 25 mg    ,,,,,CPRD_AURUM
-4.38241E+14,Diazepam Capsules 2 mg    ,,,,,CPRD_AURUM
-8.35241E+14,Librium Tablets 5 mg    ,,,,,CPRD_AURUM
-1.41374E+15,Temazepam Capsules 10 mg    ,,,,,CPRD_AURUM
-1.41394E+15,Temazepam Capsules 20 mg    ,,,,,CPRD_AURUM
-1.41804E+15,Temazepam Hard gelatin capsules 10 mg    ,,,,,CPRD_AURUM
-2.82744E+15,Librax Tablets 5 mg/2.5 mg    ,,,,,CPRD_AURUM
-2.90534E+15,Midazolam Buccal Liquid Sugar-Free 10 mg/ml    ,,,,,CPRD_AURUM
-5.10984E+15,Dormicum Tablets 7.5 mg    ,,,,,CPRD_AURUM
-1.02264E+15,Oxazepam Capsules 30 mg    ,,,,,CPRD_AURUM
-1.41404E+15,Temazepam Capsules 30 mg    ,,,,,CPRD_AURUM
-1.41774E+15,Temazepam Gelthix Gel-filled capsules 10 mg    ,,,,,CPRD_AURUM
-9.1641E+13,Ativan Tablets 2.5 mg    ,,,,,CPRD_AURUM
-2.37641E+14,Chlordiazepoxide Hydrochloride Capsules 10 mg    ,,,,,CPRD_AURUM
-4.46641E+14,Diazepam Injection 10 mg    ,,,,,CPRD_AURUM
-4.58441E+14,Diazepam Rectal tubes 20 mg    ,,,,,CPRD_AURUM
-1.42834E+15,Tensium Tablets 5 mg    ,,,,,CPRD_AURUM
-1.18414E+15,Rohypnol 1mg tablets (Roche Products Ltd) Tablet Oral Flunitrazepam 1.000mg,,,,,CPRD_AURUM
-5.95341E+14,Flunitrazepam 1mg tablets Tablet Oral Flunitrazepam 1.000mg,,,,,CPRD_AURUM
-5.78341E+14,Flurazepam 15mg capsules Capsule Oral Flurazepam hydrochloride 15.000mg,4010100,,,,CPRD_AURUM
-3.96341E+14,Dalmane 15mg capsules (Mylan) Capsule Oral Flurazepam hydrochloride 15.000mg,4010100,,,,CPRD_AURUM
-3.96441E+14,Dalmane 30mg capsules (Mylan) Capsule Oral Flurazepam hydrochloride 30.000mg,4010100,,,,CPRD_AURUM
-5.78441E+14,Flurazepam 30mg capsules Capsule Oral Flurazepam hydrochloride 30.000mg,4010100,,,,CPRD_AURUM
-8.50741E+14,Loprazolam 1mg tablets Tablet Oral Loprazolam mesilate 1.000mg,4010100,,,,CPRD_AURUM
-8.51441E+14,Lormetazepam 500microgram tablets Tablet Oral Lormetazepam 500.000microgram,4010100,,,,CPRD_AURUM
-8.51341E+14,Lormetazepam 1mg tablets Tablet Oral Lormetazepam 1.000mg,4010100,,,,CPRD_AURUM
-9.75341E+14,Nitrazepam 5mg tablets Tablet Oral Nitrazepam 5.000mg,4010100,,,,CPRD_AURUM
-9.39441E+14,Mogadon 5mg tablets (Mylan) Tablet Oral Nitrazepam 5.000mg,4010100,,,,CPRD_AURUM
-1.36354E+15,Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd) Oral suspension Oral Nitrazepam 500.000microgram/1.000ml,4010100,,,,CPRD_AURUM
-9.74341E+14,Nitrazepam 2.5mg/5ml oral suspension Oral suspension Oral Nitrazepam 500.000microgram/1.000ml,4010100,,,,CPRD_AURUM
-5.41494E+15,Nitrazepam 5mg/5ml oral suspension Oral suspension Oral Nitrazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.42844E+15,Temazepam 10mg tablets Tablet Oral Temazepam 10.000mg,4010100,,,,CPRD_AURUM
-1.42854E+15,Temazepam 20mg tablets Tablet Oral Temazepam 20.000mg,4010100,,,,CPRD_AURUM
-4.66841E+14,Diazepam 2mg tablets Tablet Oral Diazepam 2.000mg,15010401,,,,CPRD_AURUM
-1.42824E+15,Tensium 2mg tablets (DDSA Pharmaceuticals Ltd) Tablet Oral Diazepam 2.000mg,15010401,,,,CPRD_AURUM
-4.66941E+14,Diazepam 5mg tablets Tablet Oral Diazepam 5.000mg,15010401,,,,CPRD_AURUM
-4.66741E+14,Diazepam 10mg tablets Tablet Oral Diazepam 10.000mg,15010401,,,,CPRD_AURUM
-1.42814E+15,Tensium 10mg tablets (DDSA Pharmaceuticals Ltd) Tablet Oral Diazepam 10.000mg,15010401,,,,CPRD_AURUM
-2.76234E+15,Diazepam 2mg/5ml oral solution Oral solution Oral Diazepam 400.000microgram/1.000ml,15010401,,,,CPRD_AURUM
-1.72814E+15,Diazepam 5mg/5ml oral solution Oral solution Oral Diazepam 1.000mg/1.000ml,15010401,,,,CPRD_AURUM
-4.60041E+14,Diazepam 10mg suppositories Suppository Rectal Diazepam 10.000mg,,,,,CPRD_AURUM
-1.50294E+15,Valclair 10mg suppositories (Durbin Plc) Suppository Rectal Diazepam 10.000mg,,,,,CPRD_AURUM
-1.54354E+15,Xanax 250microgram tablets (Upjohn UK Ltd) Tablet Oral Alprazolam 250.000microgram,4010200,,,,CPRD_AURUM
-4.1141E+13,Alprazolam 250microgram tablets Tablet Oral Alprazolam 250.000microgram,4010200,,,,CPRD_AURUM
-4.1241E+13,Alprazolam 500microgram tablets Tablet Oral Alprazolam 500.000microgram,4010200,,,,CPRD_AURUM
-1.54364E+15,Xanax 500microgram tablets (Upjohn UK Ltd) Tablet Oral Alprazolam 500.000microgram,4010200,,,,CPRD_AURUM
-1.45594E+15,Tropium 5mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
-8.27941E+14,Librium 5mg capsules (Mylan) Capsule Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
-2.38141E+14,Chlordiazepoxide 5mg capsules Capsule Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
-2.38241E+14,Chlordiazepoxide 10mg capsules Capsule Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
-8.27841E+14,Librium 10mg capsules (Mylan) Capsule Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
-2.62114E+15,Tropium 10mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
-2.62124E+15,Tropium 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
-2.50841E+14,Chlordiazepoxide 5mg tablets Tablet Oral Chlordiazepoxide hydrochloride 5.000mg,4010200,,,,CPRD_AURUM
-2.50641E+14,Chlordiazepoxide 10mg tablets Tablet Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
-2.62134E+15,Tropium 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Chlordiazepoxide hydrochloride 10.000mg,4010200,,,,CPRD_AURUM
-6.09541E+14,Frisium 10mg tablets (Sanofi) Tablet Oral Clobazam 10.000mg,4080100,,,,CPRD_AURUM
-2.62841E+14,Clobazam 10mg tablets Tablet Oral Clobazam 10.000mg,4080100,,,,CPRD_AURUM
-8.51141E+14,Lorazepam 1mg tablets Tablet Oral Lorazepam 1.000mg,15010401,,,,CPRD_AURUM
-8.51241E+14,Lorazepam 2.5mg tablets Tablet Oral Lorazepam 2.500mg,15010401,,,,CPRD_AURUM
-1.02574E+15,Oxazepam 10mg tablets Tablet Oral Oxazepam 10.000mg,4010200,,,,CPRD_AURUM
-1.02584E+15,Oxazepam 15mg tablets Tablet Oral Oxazepam 15.000mg,4010200,,,,CPRD_AURUM
-1.17724E+15,Rivotril 500microgram tablets (Roche Products Ltd) Tablet Oral Clonazepam 500.000microgram,,,,,CPRD_AURUM
-2.86741E+14,Clonazepam 500microgram tablets Tablet Oral Clonazepam 500.000microgram,4080100,,,,CPRD_AURUM
-2.86841E+14,Clonazepam 2mg tablets Tablet Oral Clonazepam 2.000mg,4080100,,,,CPRD_AURUM
-1.17734E+15,Rivotril 2mg tablets (Roche Products Ltd) Tablet Oral Clonazepam 2.000mg,,,,,CPRD_AURUM
-4.58341E+14,Diazepam 2.5mg/1.25ml rectal solution tube Enema Rectal Diazepam 2.000mg/1.000ml,4080300,,,,CPRD_AURUM
-4.58041E+14,Diazepam 2.5mg RecTubes (Wockhardt UK Ltd) Enema Rectal Diazepam 2.000mg/1.000ml,10020200,15010401,,,CPRD_AURUM
-1.38334E+15,Stesolid 5mg rectal tube (Accord Healthcare Ltd) Enema Rectal Diazepam 2.000mg/1.000ml,4080300,10020200,15010401,,CPRD_AURUM
-4.58241E+14,Diazepam 5mg RecTubes (Wockhardt UK Ltd) Enema Rectal Diazepam 2.000mg/1.000ml,4080300,10020200,15010401,,CPRD_AURUM
-4.58641E+14,Diazepam 5mg/2.5ml rectal solution tube Enema Rectal Diazepam 2.000mg/1.000ml,4080200,,,,CPRD_AURUM
-4.58541E+14,Diazepam 10mg/2.5ml rectal solution tube Enema Rectal Diazepam 4.000mg/1.000ml,4080200,,,,CPRD_AURUM
-1.38324E+15,Stesolid 10mg rectal tube (Accord Healthcare Ltd) Enema Rectal Diazepam 4.000mg/1.000ml,4080300,10020200,15010401,,CPRD_AURUM
-4.57941E+14,Diazepam 10mg RecTubes (Wockhardt UK Ltd) Enema Rectal Diazepam 4.000mg/1.000ml,4080300,10020200,15010401,,CPRD_AURUM
-1.30581E+16,Lorazepam 500microgram tablets Tablet Oral Lorazepam 500.000microgram,,,,,CPRD_AURUM
-5.74864E+15,Diazepam 2mg/5ml oral solution sugar free Oral solution Oral Diazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-3.97904E+15,Diazepam 25mg/5ml oral solution Oral solution Oral Diazepam 5.000mg/1.000ml,,,,,CPRD_AURUM
-1.16162E+16,Clonazepam 1mg/1ml solution for injection ampoules and diluent Solution for injection Intravenous Clonazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.16163E+16,Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)) Solution for injection  Clonazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
-2.05634E+15,Midazolam 50mg/50ml solution for infusion vials Solution for infusion Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml,15010401,,,,CPRD_AURUM
-2.60114E+15,Rivotril 2.5mg/1ml drops (Imported (Switzerland)) Oral drops  Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
-2.60104E+15,Clonazepam 2.5mg/ml drops sugar free Oral drops Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
-5.89954E+15,Clobazam 1mg/5ml oral solution Oral solution Oral Clobazam 200.000microgram/1.000ml,,,,,CPRD_AURUM
-3.92924E+15,Midazolam 100mg/50ml solution for infusion vials Solution for infusion Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml,15010401,,,,CPRD_AURUM
-4.43414E+15,Chlordiazepoxide 5mg/5ml oral suspension Oral suspension Oral Chlordiazepoxide hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
-5.89224E+15,Clobazam 10mg/5ml oral solution Oral solution Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
-3.15754E+15,Clobazam 10mg/5ml oral suspension Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
-5.89964E+15,Clobazam 1mg/5ml oral suspension Oral suspension Oral Clobazam 200.000microgram/1.000ml,,,,,CPRD_AURUM
-5.89974E+15,Clobazam 2.5mg/5ml oral solution Oral solution Oral Clobazam 500.000microgram/1.000ml,,,,,CPRD_AURUM
-5.89984E+15,Clobazam 2.5mg/5ml oral suspension Oral suspension Oral Clobazam 500.000microgram/1.000ml,,,,,CPRD_AURUM
-5.89994E+15,Clobazam 25mg/5ml oral solution Oral solution Oral Clobazam 5.000mg/1.000ml,,,,,CPRD_AURUM
-5.90004E+15,Clobazam 25mg/5ml oral suspension Oral suspension Oral Clobazam 5.000mg/1.000ml,,,,,CPRD_AURUM
-6.36104E+15,Clobazam 2mg/5ml oral solution Oral solution Oral Clobazam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-6.36094E+15,Clobazam 2mg/5ml oral suspension Oral suspension Oral Clobazam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-2.71104E+15,Clobazam 5mg/5ml oral solution Oral solution Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
-5.89214E+15,Clobazam 5mg/5ml oral suspension Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
-5.90124E+15,Clonazepam 250micrograms/5ml oral solution Oral solution Oral Clonazepam 50.000microgram/1.000ml,,,,,CPRD_AURUM
-5.90134E+15,Clonazepam 250micrograms/5ml oral suspension Oral suspension Oral Clonazepam 50.000microgram/1.000ml,,,,,CPRD_AURUM
-2.75274E+15,Clonazepam 2mg/5ml oral solution Oral solution Oral Clonazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-5.99134E+15,Clonazepam 2mg/5ml oral suspension Oral suspension Oral Clonazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-2.71944E+15,Clonazepam 500micrograms/5ml oral solution Oral solution Oral Clonazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
-2.72234E+15,Clonazepam 500micrograms/5ml oral suspension Oral suspension Oral Clonazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
-3.13554E+15,Clonazepam 5mg/5ml oral suspension Oral suspension Oral Clonazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
-2.66794E+15,Clonazepam 625micrograms/5ml oral suspension Oral suspension Oral Clonazepam 125.000microgram/1.000ml,,,,,CPRD_AURUM
-5.89244E+15,Lorazepam 1mg/5ml oral solution Oral solution Oral Lorazepam 200.000microgram/1.000ml,,,,,CPRD_AURUM
-3.92384E+15,Lorazepam 1mg/5ml oral suspension Oral suspension Oral Lorazepam 200.000microgram/1.000ml,,,,,CPRD_AURUM
-4.66334E+15,Lorazepam 250micrograms/5ml oral suspension Oral suspension Oral Lorazepam 50.000microgram/1.000ml,,,,,CPRD_AURUM
-5.89234E+15,Lorazepam 500micrograms/5ml oral solution Oral solution Oral Lorazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
-3.30804E+15,Lorazepam 500micrograms/5ml oral suspension Oral suspension Oral Lorazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
-5.99164E+15,Diazepam 10mg/5ml oral solution Oral solution Oral Diazepam 2.000mg/1.000ml,,,,,CPRD_AURUM
-5.99174E+15,Diazepam 2.5mg/5ml oral solution Oral solution Oral Diazepam 500.000microgram/1.000ml,,,,,CPRD_AURUM
-6.00164E+15,Midazolam 10mg/ml oral solution Oral solution Oral Midazolam maleate 10.000mg/1.000ml,,,,,CPRD_AURUM
-5.90104E+15,Clonazepam 12.5mg/5ml oral solution Oral solution Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
-5.90114E+15,Clonazepam 12.5mg/5ml oral suspension Oral suspension Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
-2.64004E+15,Clonazepam 125micrograms/5ml oral suspension Oral suspension Oral Clonazepam 25.000microgram/1.000ml,,,,,CPRD_AURUM
-1.12759E+16,Oxazepam 10mg/5ml oral suspension Oral suspension Oral Oxazepam 2.000mg/1.000ml,,,,,CPRD_AURUM
-5.97304E+15,Midazolam 10mg/5ml oral solution Oral solution Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
-5.97314E+15,Midazolam 10mg/5ml oral suspension Oral suspension Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
-5.97344E+15,Midazolam 5mg/5ml oral solution Oral solution Oral Midazolam maleate 1.000mg/1.000ml,,,,,CPRD_AURUM
-5.97354E+15,Midazolam 5mg/5ml oral suspension Oral suspension Oral Midazolam maleate 1.000mg/1.000ml,,,,,CPRD_AURUM
-2.76244E+15,Diazepam 10mg/5ml oral suspension Oral suspension Oral Diazepam 2.000mg/1.000ml,,,,,CPRD_AURUM
-3.34524E+15,Diazepam 2.5mg/5ml oral suspension Oral suspension Oral Diazepam 500.000microgram/1.000ml,,,,,CPRD_AURUM
-5.97324E+15,Midazolam 12.5mg/5ml oral solution Oral solution Oral Midazolam maleate 2.500mg/1.000ml,,,,,CPRD_AURUM
-5.97334E+15,Midazolam 12.5mg/5ml oral suspension Oral suspension Oral Midazolam maleate 2.500mg/1.000ml,,,,,CPRD_AURUM
-5.42664E+15,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42634E+15,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42644E+15,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42654E+15,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-3.24644E+15,Klonopin 0.5mg oral lyophilisates (Imported (United States)) Oral lyophilisate  Clonazepam 500.000microgram,,,,,CPRD_AURUM
-3.99364E+15,Diazepam 2mg/5ml oral suspension Oral suspension Oral Diazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-6.47544E+15,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam 10.000mg/1.000ml,,,,,CPRD_AURUM
-6.52904E+15,Clonazepam 2mg/5ml oral solution sugar free Oral solution Oral Clonazepam 400.000microgram/1.000ml,,,,,CPRD_AURUM
-6.52974E+15,Clonazepam 500micrograms/5ml oral solution sugar free Oral solution Oral Clonazepam 100.000microgram/1.000ml,,,,,CPRD_AURUM
-8.26314E+15,Tapclob 10mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
-8.26294E+15,Clobazam 10mg/5ml oral suspension sugar free Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.22026E+16,Zacco 10mg/5ml oral suspension (Thame Laboratories Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.03881E+16,Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml,,,,,CPRD_AURUM
-8.26284E+15,Clobazam 5mg/5ml oral suspension sugar free Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
-8.26304E+15,Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.0388E+16,Perizam 1mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.22025E+16,Zacco 5mg/5ml oral suspension (Thame Laboratories Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.342E+16,Midazolam 50mg/50ml solution for infusion pre-filled syringes Solution for infusion Intravenous Midazolam hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
-8.87074E+15,Clonazepam 2.5mg/ml drops Oral drops Oral Clonazepam 2.500mg/1.000ml,,,,,CPRD_AURUM
-1.15598E+16,Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42704E+15,Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42674E+15,Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-1.15599E+16,Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-1.156E+16,Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42684E+15,Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-5.42694E+15,Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-1.15601E+16,Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml,4080200,,,,CPRD_AURUM
-7.67854E+15,Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Oromucosal solution Buccal Midazolam maleate 10.000mg/1.000ml,,,,,CPRD_AURUM
-1.23152E+16,Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam maleate 10.000mg/1.000ml,,,,,CPRD_AURUM
-1.25033E+16,Lorazepam 1mg/ml oral solution sugar free Oral solution Oral Lorazepam 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.69984E+15,Temazepam 10mg/5ml oral solution sugar free Oral solution Oral Temazepam 2.000mg/1.000ml,4010100,,,,CPRD_AURUM
-8.8941E+13,Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd) Solution for injection Intravenous/ Intramuscular Lorazepam 4.000mg/1.000ml,4080200,15010401,,,CPRD_AURUM
-8.44141E+14,Lorazepam 4mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Lorazepam 4.000mg/1.000ml,15010401,,,,CPRD_AURUM
-4.46441E+14,Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd) Emulsion for injection Intravenous Diazepam 5.000mg/1.000ml,10020200,15010401,,,CPRD_AURUM
-3.03304E+15,Diazepam 10mg/2ml emulsion for injection ampoules Emulsion for injection Intravenous Diazepam 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
-3.03314E+15,Diazepam 10mg/2ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Diazepam 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
-7.37041E+14,Hypnovel 10mg/2ml solution for injection ampoules (Cheplapharm Arzneimittel GmbH) Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
-9.14841E+14,Midazolam 10mg/2ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
-7.36941E+14,Hypnovel 10mg/5ml solution for injection ampoules (Roche Products Ltd) Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml,15010401,,,,CPRD_AURUM
-9.14741E+14,Midazolam 10mg/5ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml,15010401,,,,CPRD_AURUM
-5.09054E+15,Midazolam 2mg/2ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
-4.15134E+15,Midazolam 50mg/10ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml,15010401,,,,CPRD_AURUM
-3.95604E+15,Midazolam 5mg/5ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.31594E+16,Lorazepam 1mg orodispersible tablets Orodispersible tablet Oral Lorazepam 1.000mg,,,,,CPRD_AURUM
-1.31595E+16,Lorazepam 2.5mg orodispersible tablets Orodispersible tablet Oral Lorazepam 2.500mg,,,,,CPRD_AURUM
-1.31498E+16,Ozalin 2mg/ml oral solution 5ml unit dose ampoules (Sintetica Ltd) Oral solution Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.31497E+16,Midazolam 10mg/5ml oral solution unit dose ampoules sugar free Oral solution Oral Midazolam maleate 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.34199E+16,Midazolam 100mg/50ml solution for infusion pre-filled syringes Solution for infusion Intravenous Midazolam hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"7678341000033111","Epistatus Buccal Liquid 5 mg/0.5 ml pre-filled oral syringe    ",,,,,"283","CPRD_AURUM"
+"7678441000033117","Epistatus Buccal Liquid 7.5 mg/0.75 ml pre-filled oral syringe    ",,,,,"276","CPRD_AURUM"
+"12373741000033114","Lorazepam Oral solution 1 mg/ml (5 mg/5 ml)    ",,,,,"258","CPRD_AURUM"
+"458141000033114","Diazepam Rectubes Rectal tubes 20 mg    ",,,,,"48","CPRD_AURUM"
+"460741000033117","Diazepam Syrup 2 mg/5 ml    ",,,,,"0","CPRD_AURUM"
+"91541000033111","Ativan Tablets 1 mg    ",,,,,"1443","CPRD_AURUM"
+"923341000033115","Mogadon Capsules 5 mg    ",,,,,"1518","CPRD_AURUM"
+"972541000033115","Nitrazepam Mixture 150 ml    ",,,,,"583","CPRD_AURUM"
+"1173341000033116","Rivotril Injection 1mg/ml, 1 ml ampoule    ",,,,,"16","CPRD_AURUM"
+"1379741000033111","Stesolid Injection 5 mg/ml    ",,,,,"56","CPRD_AURUM"
+"1418141000033117","Temazepam Hard gelatin capsules 20 mg    ",,,,,"1797","CPRD_AURUM"
+"3188341000033110","Diazepam Syrup 5 mg/5 ml    ",,,,,"0","CPRD_AURUM"
+"248641000033119","Chlordiazepoxide Hydrochloride Tablets 5 mg    ",,,,,"2552","CPRD_AURUM"
+"438341000033113","Diazepam Capsules 5 mg    ",,,,,"24420","CPRD_AURUM"
+"275541000033114","Clonazepam Injection 1mg/ml, 1 ml ampoule    ",,,,,"2128","CPRD_AURUM"
+"1417541000033113","Temazepam Gelthix Gel-filled capsules 15 mg    ",,,,,"47","CPRD_AURUM"
+"1423141000033116","Temazepam Single dose vials 10 mg/5 ml    ",,,,,"118","CPRD_AURUM"
+"457741000033114","Diazepam Rectubes 10 mg    ",,,,,"687","CPRD_AURUM"
+"443641000033112","Diazepam Elixir 2 mg/5 ml    ",,,,,"61058","CPRD_AURUM"
+"446741000033114","Diazepam Injection 5 mg/ml    ",,,,,"1536","CPRD_AURUM"
+"837241000033111","Libraxin Tablets    ",,,,,"277","CPRD_AURUM"
+"1413841000033115","Temazepam Capsules 15 mg    ",,,,,"12263","CPRD_AURUM"
+"1416741000033119","Temazepam Elixir 10 mg/5 ml    ",,,,,"154596","CPRD_AURUM"
+"1422141000033111","Temazepam Planpak    ",,,,,"624","CPRD_AURUM"
+"4186441000033118","Epistatus Buccal Liquid Sugar-Free 10 mg/ml    ",,,,,"11243","CPRD_AURUM"
+"7678241000033118","Epistatus Buccal Liquid 2.5 mg/0.25 ml pre-filled oral syringe    ",,,,,"180","CPRD_AURUM"
+"6031941000033113","Xanax Tablets 1 mg    ",,,,,"0","CPRD_AURUM"
+"457841000033116","Diazepam Rectubes 5 mg    ",,,,,"440","CPRD_AURUM"
+"835041000033114","Librium Tablets 10 mg    ",,,,,"104","CPRD_AURUM"
+"967841000033113","Nitrazepam Capsules 5 mg    ",,,,,"11009","CPRD_AURUM"
+"975241000033113","Nitrazepam Tablets 10 mg    ",,,,,"30834","CPRD_AURUM"
+"1025941000033111","Oxazepam Tablets 30 mg    ",,,,,"9541","CPRD_AURUM"
+"1417641000033114","Temazepam Gelthix Gel-filled capsules 30 mg    ",,,,,"944","CPRD_AURUM"
+"1417841000033110","Temazepam Gelthix Gel-filled capsules 20 mg    ",,,,,"9979","CPRD_AURUM"
+"835141000033113","Librium Tablets 25 mg    ",,,,,"15","CPRD_AURUM"
+"5109941000033113","Dormicum Tablets 15 mg    ",,,,,"0","CPRD_AURUM"
+"248541000033115","Chlordiazepoxide Hydrochloride Tablets 10 mg    ",,,,,"1264","CPRD_AURUM"
+"250241000033117","Chlordiazepoxide Tablets 25 mg    ",,,,,"741","CPRD_AURUM"
+"250741000033111","Chlordiazepoxide Hydrochloride Tablets 25 mg    ",,,,,"3880","CPRD_AURUM"
+"438241000033115","Diazepam Capsules 2 mg    ",,,,,"31891","CPRD_AURUM"
+"835241000033118","Librium Tablets 5 mg    ",,,,,"64","CPRD_AURUM"
+"1413741000033113","Temazepam Capsules 10 mg    ",,,,,"1470041","CPRD_AURUM"
+"1413941000033111","Temazepam Capsules 20 mg    ",,,,,"527030","CPRD_AURUM"
+"1418041000033116","Temazepam Hard gelatin capsules 10 mg    ",,,,,"1963","CPRD_AURUM"
+"2827441000033110","Librax Tablets 5 mg/2.5 mg    ",,,,,"0","CPRD_AURUM"
+"2905341000033111","Midazolam Buccal Liquid Sugar-Free 10 mg/ml    ",,,,,"66808","CPRD_AURUM"
+"5109841000033117","Dormicum Tablets 7.5 mg    ",,,,,"0","CPRD_AURUM"
+"1022641000033113","Oxazepam Capsules 30 mg    ",,,,,"2930","CPRD_AURUM"
+"1414041000033113","Temazepam Capsules 30 mg    ",,,,,"12215","CPRD_AURUM"
+"1417741000033117","Temazepam Gelthix Gel-filled capsules 10 mg    ",,,,,"17867","CPRD_AURUM"
+"91641000033112","Ativan Tablets 2.5 mg    ",,,,,"28","CPRD_AURUM"
+"237641000033119","Chlordiazepoxide Hydrochloride Capsules 10 mg    ",,,,,"2198","CPRD_AURUM"
+"446641000033117","Diazepam Injection 10 mg    ",,,,,"2502","CPRD_AURUM"
+"458441000033118","Diazepam Rectal tubes 20 mg    ",,,,,"280","CPRD_AURUM"
+"1428341000033111","Tensium Tablets 5 mg    ",,,,,"3","CPRD_AURUM"
+"1184141000033114","Rohypnol 1mg tablets (Roche Products Ltd) Tablet Oral Flunitrazepam 1.000mg",,,,,"9161","CPRD_AURUM"
+"595341000033118","Flunitrazepam 1mg tablets Tablet Oral Flunitrazepam 1.000mg",,,,,"2582","CPRD_AURUM"
+"578341000033118","Flurazepam 15mg capsules Capsule Oral Flurazepam hydrochloride 15.000mg","4010100",,,,"14511","CPRD_AURUM"
+"396341000033111","Dalmane 15mg capsules (Mylan) Capsule Oral Flurazepam hydrochloride 15.000mg","4010100",,,,"78072","CPRD_AURUM"
+"396441000033117","Dalmane 30mg capsules (Mylan) Capsule Oral Flurazepam hydrochloride 30.000mg","4010100",,,,"65726","CPRD_AURUM"
+"578441000033112","Flurazepam 30mg capsules Capsule Oral Flurazepam hydrochloride 30.000mg","4010100",,,,"9288","CPRD_AURUM"
+"850741000033117","Loprazolam 1mg tablets Tablet Oral Loprazolam mesilate 1.000mg","4010100",,,,"736717","CPRD_AURUM"
+"851441000033115","Lormetazepam 500microgram tablets Tablet Oral Lormetazepam 500.000microgram","4010100",,,,"257703","CPRD_AURUM"
+"851341000033114","Lormetazepam 1mg tablets Tablet Oral Lormetazepam 1.000mg","4010100",,,,"425753","CPRD_AURUM"
+"975341000033115","Nitrazepam 5mg tablets Tablet Oral Nitrazepam 5.000mg","4010100",,,,"8187936","CPRD_AURUM"
+"939441000033114","Mogadon 5mg tablets (Mylan) Tablet Oral Nitrazepam 5.000mg","4010100",,,,"17623","CPRD_AURUM"
+"1363541000033112","Somnite 2.5mg/5ml oral suspension (Norgine Pharmaceuticals Ltd) Oral suspension Oral Nitrazepam 500.000microgram/1.000ml","4010100",,,,"36","CPRD_AURUM"
+"974341000033116","Nitrazepam 2.5mg/5ml oral suspension Oral suspension Oral Nitrazepam 500.000microgram/1.000ml","4010100",,,,"69676","CPRD_AURUM"
+"5414941000033113","Nitrazepam 5mg/5ml oral suspension Oral suspension Oral Nitrazepam 1.000mg/1.000ml",,,,,"2296","CPRD_AURUM"
+"1428441000033117","Temazepam 10mg tablets Tablet Oral Temazepam 10.000mg","4010100",,,,"13096590","CPRD_AURUM"
+"1428541000033116","Temazepam 20mg tablets Tablet Oral Temazepam 20.000mg","4010100",,,,"4170282","CPRD_AURUM"
+"466841000033113","Diazepam 2mg tablets Tablet Oral Diazepam 2.000mg","15010401",,,,"14404796","CPRD_AURUM"
+"1428241000033118","Tensium 2mg tablets (DDSA Pharmaceuticals Ltd) Tablet Oral Diazepam 2.000mg","15010401",,,,"8","CPRD_AURUM"
+"466941000033117","Diazepam 5mg tablets Tablet Oral Diazepam 5.000mg","15010401",,,,"11834103","CPRD_AURUM"
+"466741000033115","Diazepam 10mg tablets Tablet Oral Diazepam 10.000mg","15010401",,,,"2122834","CPRD_AURUM"
+"1428141000033113","Tensium 10mg tablets (DDSA Pharmaceuticals Ltd) Tablet Oral Diazepam 10.000mg","15010401",,,,"0","CPRD_AURUM"
+"2762341000033113","Diazepam 2mg/5ml oral solution Oral solution Oral Diazepam 400.000microgram/1.000ml","15010401",,,,"119198","CPRD_AURUM"
+"1728141000033116","Diazepam 5mg/5ml oral solution Oral solution Oral Diazepam 1.000mg/1.000ml","15010401",,,,"3168","CPRD_AURUM"
+"460041000033115","Diazepam 10mg suppositories Suppository Rectal Diazepam 10.000mg",,,,,"5507","CPRD_AURUM"
+"1502941000033114","Valclair 10mg suppositories (Durbin Plc) Suppository Rectal Diazepam 10.000mg",,,,,"49","CPRD_AURUM"
+"1543541000033117","Xanax 250microgram tablets (Upjohn UK Ltd) Tablet Oral Alprazolam 250.000microgram","4010200",,,,"11750","CPRD_AURUM"
+"41141000033110","Alprazolam 250microgram tablets Tablet Oral Alprazolam 250.000microgram","4010200",,,,"20266","CPRD_AURUM"
+"41241000033115","Alprazolam 500microgram tablets Tablet Oral Alprazolam 500.000microgram","4010200",,,,"24395","CPRD_AURUM"
+"1543641000033116","Xanax 500microgram tablets (Upjohn UK Ltd) Tablet Oral Alprazolam 500.000microgram","4010200",,,,"8904","CPRD_AURUM"
+"1455941000033116","Tropium 5mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Chlordiazepoxide hydrochloride 5.000mg","4010200",,,,"21","CPRD_AURUM"
+"827941000033116","Librium 5mg capsules (Mylan) Capsule Oral Chlordiazepoxide hydrochloride 5.000mg","4010200",,,,"2564","CPRD_AURUM"
+"238141000033111","Chlordiazepoxide 5mg capsules Capsule Oral Chlordiazepoxide hydrochloride 5.000mg","4010200",,,,"556606","CPRD_AURUM"
+"238241000033116","Chlordiazepoxide 10mg capsules Capsule Oral Chlordiazepoxide hydrochloride 10.000mg","4010200",,,,"546130","CPRD_AURUM"
+"827841000033112","Librium 10mg capsules (Mylan) Capsule Oral Chlordiazepoxide hydrochloride 10.000mg","4010200",,,,"4132","CPRD_AURUM"
+"2621141000033119","Tropium 10mg capsules (Dr Reddy's Laboratories (UK) Ltd) Capsule Oral Chlordiazepoxide hydrochloride 10.000mg","4010200",,,,"2","CPRD_AURUM"
+"2621241000033114","Tropium 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Chlordiazepoxide hydrochloride 5.000mg","4010200",,,,"16","CPRD_AURUM"
+"250841000033118","Chlordiazepoxide 5mg tablets Tablet Oral Chlordiazepoxide hydrochloride 5.000mg","4010200",,,,"174777","CPRD_AURUM"
+"250641000033119","Chlordiazepoxide 10mg tablets Tablet Oral Chlordiazepoxide hydrochloride 10.000mg","4010200",,,,"162913","CPRD_AURUM"
+"2621341000033116","Tropium 10mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Chlordiazepoxide hydrochloride 10.000mg","4010200",,,,"1","CPRD_AURUM"
+"609541000033119","Frisium 10mg tablets (Sanofi) Tablet Oral Clobazam 10.000mg","4080100",,,,"22190","CPRD_AURUM"
+"262841000033110","Clobazam 10mg tablets Tablet Oral Clobazam 10.000mg","4080100",,,,"1103170","CPRD_AURUM"
+"851141000033111","Lorazepam 1mg tablets Tablet Oral Lorazepam 1.000mg","15010401",,,,"5326829","CPRD_AURUM"
+"851241000033116","Lorazepam 2.5mg tablets Tablet Oral Lorazepam 2.500mg","15010401",,,,"317428","CPRD_AURUM"
+"1025741000033113","Oxazepam 10mg tablets Tablet Oral Oxazepam 10.000mg","4010200",,,,"809634","CPRD_AURUM"
+"1025841000033115","Oxazepam 15mg tablets Tablet Oral Oxazepam 15.000mg","4010200",,,,"379384","CPRD_AURUM"
+"1177241000033117","Rivotril 500microgram tablets (Roche Products Ltd) Tablet Oral Clonazepam 500.000microgram",,,,,"61844","CPRD_AURUM"
+"286741000033118","Clonazepam 500microgram tablets Tablet Oral Clonazepam 500.000microgram","4080100",,,,"3127134","CPRD_AURUM"
+"286841000033111","Clonazepam 2mg tablets Tablet Oral Clonazepam 2.000mg","4080100",,,,"454727","CPRD_AURUM"
+"1177341000033110","Rivotril 2mg tablets (Roche Products Ltd) Tablet Oral Clonazepam 2.000mg",,,,,"17642","CPRD_AURUM"
+"458341000033112","Diazepam 2.5mg/1.25ml rectal solution tube Enema Rectal Diazepam 2.000mg/1.000ml","4080300",,,,"7180","CPRD_AURUM"
+"458041000033110","Diazepam 2.5mg RecTubes (Wockhardt UK Ltd) Enema Rectal Diazepam 2.000mg/1.000ml","10020200","15010401",,,"1935","CPRD_AURUM"
+"1383341000033115","Stesolid 5mg rectal tube (Accord Healthcare Ltd) Enema Rectal Diazepam 2.000mg/1.000ml","4080300","10020200","15010401",,"19598","CPRD_AURUM"
+"458241000033119","Diazepam 5mg RecTubes (Wockhardt UK Ltd) Enema Rectal Diazepam 2.000mg/1.000ml","4080300","10020200","15010401",,"10022","CPRD_AURUM"
+"458641000033116","Diazepam 5mg/2.5ml rectal solution tube Enema Rectal Diazepam 2.000mg/1.000ml","4080200",,,,"63926","CPRD_AURUM"
+"458541000033117","Diazepam 10mg/2.5ml rectal solution tube Enema Rectal Diazepam 4.000mg/1.000ml","4080200",,,,"88578","CPRD_AURUM"
+"1383241000033113","Stesolid 10mg rectal tube (Accord Healthcare Ltd) Enema Rectal Diazepam 4.000mg/1.000ml","4080300","10020200","15010401",,"27448","CPRD_AURUM"
+"457941000033112","Diazepam 10mg RecTubes (Wockhardt UK Ltd) Enema Rectal Diazepam 4.000mg/1.000ml","4080300","10020200","15010401",,"17051","CPRD_AURUM"
+"13058141000033113","Lorazepam 500microgram tablets Tablet Oral Lorazepam 500.000microgram",,,,,"40861","CPRD_AURUM"
+"5748641000033110","Diazepam 2mg/5ml oral solution sugar free Oral solution Oral Diazepam 400.000microgram/1.000ml",,,,,"60797","CPRD_AURUM"
+"3979041000033112","Diazepam 25mg/5ml oral solution Oral solution Oral Diazepam 5.000mg/1.000ml",,,,,"273","CPRD_AURUM"
+"11616241000033110","Clonazepam 1mg/1ml solution for injection ampoules and diluent Solution for injection Intravenous Clonazepam 1.000mg/1.000ml",,,,,"338","CPRD_AURUM"
+"11616341000033117","Rivotril 1mg/1ml concentrate for solution for injection ampoules and diluent (Imported (France)) Solution for injection  Clonazepam 1.000mg/1.000ml",,,,,"0","CPRD_AURUM"
+"2056341000033116","Midazolam 50mg/50ml solution for infusion vials Solution for infusion Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml","15010401",,,,"361","CPRD_AURUM"
+"2601141000033111","Rivotril 2.5mg/1ml drops (Imported (Switzerland)) Oral drops  Clonazepam 2.500mg/1.000ml",,,,,"464","CPRD_AURUM"
+"2601041000033112","Clonazepam 2.5mg/ml drops sugar free Oral drops Oral Clonazepam 2.500mg/1.000ml",,,,,"2975","CPRD_AURUM"
+"5899541000033113","Clobazam 1mg/5ml oral solution Oral solution Oral Clobazam 200.000microgram/1.000ml",,,,,"34","CPRD_AURUM"
+"3929241000033115","Midazolam 100mg/50ml solution for infusion vials Solution for infusion Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml","15010401",,,,"104","CPRD_AURUM"
+"4434141000033114","Chlordiazepoxide 5mg/5ml oral suspension Oral suspension Oral Chlordiazepoxide hydrochloride 1.000mg/1.000ml",,,,,"168","CPRD_AURUM"
+"5892241000033118","Clobazam 10mg/5ml oral solution Oral solution Oral Clobazam 2.000mg/1.000ml",,,,,"616","CPRD_AURUM"
+"3157541000033114","Clobazam 10mg/5ml oral suspension Oral suspension Oral Clobazam 2.000mg/1.000ml",,,,,"7790","CPRD_AURUM"
+"5899641000033114","Clobazam 1mg/5ml oral suspension Oral suspension Oral Clobazam 200.000microgram/1.000ml",,,,,"105","CPRD_AURUM"
+"5899741000033117","Clobazam 2.5mg/5ml oral solution Oral solution Oral Clobazam 500.000microgram/1.000ml",,,,,"284","CPRD_AURUM"
+"5899841000033110","Clobazam 2.5mg/5ml oral suspension Oral suspension Oral Clobazam 500.000microgram/1.000ml",,,,,"390","CPRD_AURUM"
+"5899941000033119","Clobazam 25mg/5ml oral solution Oral solution Oral Clobazam 5.000mg/1.000ml",,,,,"117","CPRD_AURUM"
+"5900041000033117","Clobazam 25mg/5ml oral suspension Oral suspension Oral Clobazam 5.000mg/1.000ml",,,,,"271","CPRD_AURUM"
+"6361041000033115","Clobazam 2mg/5ml oral solution Oral solution Oral Clobazam 400.000microgram/1.000ml",,,,,"27","CPRD_AURUM"
+"6360941000033113","Clobazam 2mg/5ml oral suspension Oral suspension Oral Clobazam 400.000microgram/1.000ml",,,,,"62","CPRD_AURUM"
+"2711041000033119","Clobazam 5mg/5ml oral solution Oral solution Oral Clobazam 1.000mg/1.000ml",,,,,"14441","CPRD_AURUM"
+"5892141000033113","Clobazam 5mg/5ml oral suspension Oral suspension Oral Clobazam 1.000mg/1.000ml",,,,,"5927","CPRD_AURUM"
+"5901241000033118","Clonazepam 250micrograms/5ml oral solution Oral solution Oral Clonazepam 50.000microgram/1.000ml",,,,,"1061","CPRD_AURUM"
+"5901341000033111","Clonazepam 250micrograms/5ml oral suspension Oral suspension Oral Clonazepam 50.000microgram/1.000ml",,,,,"145","CPRD_AURUM"
+"2752741000033119","Clonazepam 2mg/5ml oral solution Oral solution Oral Clonazepam 400.000microgram/1.000ml",,,,,"3312","CPRD_AURUM"
+"5991341000033113","Clonazepam 2mg/5ml oral suspension Oral suspension Oral Clonazepam 400.000microgram/1.000ml",,,,,"364","CPRD_AURUM"
+"2719441000033110","Clonazepam 500micrograms/5ml oral solution Oral solution Oral Clonazepam 100.000microgram/1.000ml",,,,,"6624","CPRD_AURUM"
+"2722341000033116","Clonazepam 500micrograms/5ml oral suspension Oral suspension Oral Clonazepam 100.000microgram/1.000ml",,,,,"7469","CPRD_AURUM"
+"3135541000033116","Clonazepam 5mg/5ml oral suspension Oral suspension Oral Clonazepam 1.000mg/1.000ml",,,,,"772","CPRD_AURUM"
+"2667941000033119","Clonazepam 625micrograms/5ml oral suspension Oral suspension Oral Clonazepam 125.000microgram/1.000ml",,,,,"274","CPRD_AURUM"
+"5892441000033117","Lorazepam 1mg/5ml oral solution Oral solution Oral Lorazepam 200.000microgram/1.000ml",,,,,"5959","CPRD_AURUM"
+"3923841000033119","Lorazepam 1mg/5ml oral suspension Oral suspension Oral Lorazepam 200.000microgram/1.000ml",,,,,"4660","CPRD_AURUM"
+"4663341000033118","Lorazepam 250micrograms/5ml oral suspension Oral suspension Oral Lorazepam 50.000microgram/1.000ml",,,,,"360","CPRD_AURUM"
+"5892341000033111","Lorazepam 500micrograms/5ml oral solution Oral solution Oral Lorazepam 100.000microgram/1.000ml",,,,,"2260","CPRD_AURUM"
+"3308041000033119","Lorazepam 500micrograms/5ml oral suspension Oral suspension Oral Lorazepam 100.000microgram/1.000ml",,,,,"6694","CPRD_AURUM"
+"5991641000033117","Diazepam 10mg/5ml oral solution Oral solution Oral Diazepam 2.000mg/1.000ml",,,,,"437","CPRD_AURUM"
+"5991741000033114","Diazepam 2.5mg/5ml oral solution Oral solution Oral Diazepam 500.000microgram/1.000ml",,,,,"935","CPRD_AURUM"
+"6001641000033114","Midazolam 10mg/ml oral solution Oral solution Oral Midazolam maleate 10.000mg/1.000ml",,,,,"1609","CPRD_AURUM"
+"5901041000033114","Clonazepam 12.5mg/5ml oral solution Oral solution Oral Clonazepam 2.500mg/1.000ml",,,,,"2","CPRD_AURUM"
+"5901141000033113","Clonazepam 12.5mg/5ml oral suspension Oral suspension Oral Clonazepam 2.500mg/1.000ml",,,,,"0","CPRD_AURUM"
+"2640041000033113","Clonazepam 125micrograms/5ml oral suspension Oral suspension Oral Clonazepam 25.000microgram/1.000ml",,,,,"1166","CPRD_AURUM"
+"11275941000033119","Oxazepam 10mg/5ml oral suspension Oral suspension Oral Oxazepam 2.000mg/1.000ml",,,,,"24","CPRD_AURUM"
+"5973041000033115","Midazolam 10mg/5ml oral solution Oral solution Oral Midazolam maleate 2.000mg/1.000ml",,,,,"225","CPRD_AURUM"
+"5973141000033116","Midazolam 10mg/5ml oral suspension Oral suspension Oral Midazolam maleate 2.000mg/1.000ml",,,,,"24","CPRD_AURUM"
+"5973441000033112","Midazolam 5mg/5ml oral solution Oral solution Oral Midazolam maleate 1.000mg/1.000ml",,,,,"227","CPRD_AURUM"
+"5973541000033113","Midazolam 5mg/5ml oral suspension Oral suspension Oral Midazolam maleate 1.000mg/1.000ml",,,,,"29","CPRD_AURUM"
+"2762441000033119","Diazepam 10mg/5ml oral suspension Oral suspension Oral Diazepam 2.000mg/1.000ml",,,,,"8363","CPRD_AURUM"
+"3345241000033111","Diazepam 2.5mg/5ml oral suspension Oral suspension Oral Diazepam 500.000microgram/1.000ml",,,,,"6699","CPRD_AURUM"
+"5973241000033111","Midazolam 12.5mg/5ml oral solution Oral solution Oral Midazolam maleate 2.500mg/1.000ml",,,,,"84","CPRD_AURUM"
+"5973341000033118","Midazolam 12.5mg/5ml oral suspension Oral suspension Oral Midazolam maleate 2.500mg/1.000ml",,,,,"3","CPRD_AURUM"
+"5426641000033118","Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"12099","CPRD_AURUM"
+"5426341000033114","Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"1400","CPRD_AURUM"
+"5426441000033115","Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"5755","CPRD_AURUM"
+"5426541000033119","Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"3421","CPRD_AURUM"
+"3246441000033111","Klonopin 0.5mg oral lyophilisates (Imported (United States)) Oral lyophilisate  Clonazepam 500.000microgram",,,,,"11","CPRD_AURUM"
+"3993641000033114","Diazepam 2mg/5ml oral suspension Oral suspension Oral Diazepam 400.000microgram/1.000ml",,,,,"7705","CPRD_AURUM"
+"6475441000033114","Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes Oromucosal solution Buccal Midazolam 10.000mg/1.000ml",,,,,"4430","CPRD_AURUM"
+"6529041000033112","Clonazepam 2mg/5ml oral solution sugar free Oral solution Oral Clonazepam 400.000microgram/1.000ml",,,,,"7913","CPRD_AURUM"
+"6529741000033110","Clonazepam 500micrograms/5ml oral solution sugar free Oral solution Oral Clonazepam 100.000microgram/1.000ml",,,,,"22585","CPRD_AURUM"
+"8263141000033119","Tapclob 10mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml",,,,,"2279","CPRD_AURUM"
+"8262941000033111","Clobazam 10mg/5ml oral suspension sugar free Oral suspension Oral Clobazam 2.000mg/1.000ml",,,,,"20989","CPRD_AURUM"
+"12202641000033110","Zacco 10mg/5ml oral suspension (Thame Laboratories Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml",,,,,"141","CPRD_AURUM"
+"10388141000033116","Perizam 2mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Clobazam 2.000mg/1.000ml",,,,,"132","CPRD_AURUM"
+"8262841000033115","Clobazam 5mg/5ml oral suspension sugar free Oral suspension Oral Clobazam 1.000mg/1.000ml",,,,,"33661","CPRD_AURUM"
+"8263041000033118","Tapclob 5mg/5ml oral suspension (Martindale Pharmaceuticals Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml",,,,,"3978","CPRD_AURUM"
+"10388041000033115","Perizam 1mg/ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml",,,,,"355","CPRD_AURUM"
+"12202541000033114","Zacco 5mg/5ml oral suspension (Thame Laboratories Ltd) Oral suspension Oral Clobazam 1.000mg/1.000ml",,,,,"66","CPRD_AURUM"
+"13420041000033119","Midazolam 50mg/50ml solution for infusion pre-filled syringes Solution for infusion Intravenous Midazolam hydrochloride 1.000mg/1.000ml",,,,,"2","CPRD_AURUM"
+"8870741000033111","Clonazepam 2.5mg/ml drops Oral drops Oral Clonazepam 2.500mg/1.000ml",,,,,"261","CPRD_AURUM"
+"11559841000033118","Midazolam 10mg/2ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"21979","CPRD_AURUM"
+"5427041000033114","Buccolam 10mg/2ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"54119","CPRD_AURUM"
+"5426741000033110","Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"2131","CPRD_AURUM"
+"11559941000033114","Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"1807","CPRD_AURUM"
+"11560041000033112","Midazolam 5mg/1ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"9342","CPRD_AURUM"
+"5426841000033117","Buccolam 5mg/1ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"14797","CPRD_AURUM"
+"5426941000033113","Buccolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd) Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"11540","CPRD_AURUM"
+"11560141000033111","Midazolam 7.5mg/1.5ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam hydrochloride 5.000mg/1.000ml","4080200",,,,"7271","CPRD_AURUM"
+"7678541000033116","Epistatus 10mg/1ml oromucosal solution pre-filled oral syringes (Veriton Pharma Ltd) Oromucosal solution Buccal Midazolam maleate 10.000mg/1.000ml",,,,,"4858","CPRD_AURUM"
+"12315241000033112","Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes sugar free Oromucosal solution Buccal Midazolam maleate 10.000mg/1.000ml",,,,,"4510","CPRD_AURUM"
+"12503341000033119","Lorazepam 1mg/ml oral solution sugar free Oral solution Oral Lorazepam 1.000mg/1.000ml",,,,,"3886","CPRD_AURUM"
+"1699841000033119","Temazepam 10mg/5ml oral solution sugar free Oral solution Oral Temazepam 2.000mg/1.000ml","4010100",,,,"96798","CPRD_AURUM"
+"88941000033110","Ativan 4mg/1ml solution for injection ampoules (Pfizer Ltd) Solution for injection Intravenous/ Intramuscular Lorazepam 4.000mg/1.000ml","4080200","15010401",,,"108","CPRD_AURUM"
+"844141000033111","Lorazepam 4mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Lorazepam 4.000mg/1.000ml","15010401",,,,"2338","CPRD_AURUM"
+"446441000033119","Diazemuls 10mg/2ml emulsion for injection ampoules (Accord Healthcare Ltd) Emulsion for injection Intravenous Diazepam 5.000mg/1.000ml","10020200","15010401",,,"1491","CPRD_AURUM"
+"3033041000033117","Diazepam 10mg/2ml emulsion for injection ampoules Emulsion for injection Intravenous Diazepam 5.000mg/1.000ml","15010401",,,,"585","CPRD_AURUM"
+"3033141000033118","Diazepam 10mg/2ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Diazepam 5.000mg/1.000ml","15010401",,,,"1628","CPRD_AURUM"
+"737041000033117","Hypnovel 10mg/2ml solution for injection ampoules (Cheplapharm Arzneimittel GmbH) Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml","15010401",,,,"4316","CPRD_AURUM"
+"914841000033115","Midazolam 10mg/2ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml","15010401",,,,"440709","CPRD_AURUM"
+"736941000033118","Hypnovel 10mg/5ml solution for injection ampoules (Roche Products Ltd) Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml","15010401",,,,"256","CPRD_AURUM"
+"914741000033113","Midazolam 10mg/5ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 2.000mg/1.000ml","15010401",,,,"18769","CPRD_AURUM"
+"5090541000033119","Midazolam 2mg/2ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml",,,,,"5899","CPRD_AURUM"
+"4151341000033112","Midazolam 50mg/10ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 5.000mg/1.000ml","15010401",,,,"2812","CPRD_AURUM"
+"3956041000033115","Midazolam 5mg/5ml solution for injection ampoules Solution for injection Rectal/ Intravenous/ Intramuscular Midazolam hydrochloride 1.000mg/1.000ml",,,,,"24262","CPRD_AURUM"
+"13159441000033115","Lorazepam 1mg orodispersible tablets Orodispersible tablet Oral Lorazepam 1.000mg",,,,,"740","CPRD_AURUM"
+"13159541000033119","Lorazepam 2.5mg orodispersible tablets Orodispersible tablet Oral Lorazepam 2.500mg",,,,,"19","CPRD_AURUM"
+"13149841000033115","Ozalin 2mg/ml oral solution 5ml unit dose ampoules (Sintetica Ltd) Oral solution Oral Midazolam maleate 2.000mg/1.000ml",,,,,"0","CPRD_AURUM"
+"13149741000033113","Midazolam 10mg/5ml oral solution unit dose ampoules sugar free Oral solution Oral Midazolam maleate 2.000mg/1.000ml",,,,,"33","CPRD_AURUM"
+"13419941000033117","Midazolam 100mg/50ml solution for infusion pre-filled syringes Solution for infusion Intravenous Midazolam hydrochloride 2.000mg/1.000ml",,,,,"0","CPRD_AURUM"

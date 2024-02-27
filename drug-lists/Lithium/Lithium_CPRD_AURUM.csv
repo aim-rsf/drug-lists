@@ -1,25 +1,25 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-2.13541E+14,Camcolit Tablets 250 mg    ,,,,,CPRD_AURUM
-8.34541E+14,Lithium Citrate Sugar free syrup 5.4 mmol/5 ml    ,,,,,CPRD_AURUM
-8.34341E+14,Li-Liquid Sugar free syrup 5.4 mmol/5 ml    ,,,,,CPRD_AURUM
-8.34441E+14,Lithium Citrate Sugar free syrup 10.8 mmol/5 ml    ,,,,,CPRD_AURUM
-8.34241E+14,Li-Liquid Sugar free syrup 10.8 mmol/5 ml    ,,,,,CPRD_AURUM
-8.37541E+14,Lithium Carbonate M/R tablets 300 mg    ,,,,,CPRD_AURUM
-8.37441E+14,Lithium carbonate 200mg modified-release tablets Modified-release tablet Oral Lithium carbonate 200.000mg,4020300,,,,CPRD_AURUM
-1.13294E+15,Priadel 200mg modified-release tablets (Essential Pharma M) Modified-release tablet Oral Lithium carbonate 200.000mg,4020300,,,,CPRD_AURUM
-2.13841E+14,Camcolit 250 tablets (Essential Pharma Ltd) Tablet Oral Lithium carbonate 250.000mg,4020300,,,,CPRD_AURUM
-8.35841E+14,Lithium carbonate 250mg tablets Tablet Oral Lithium carbonate 250.000mg,4020300,,,,CPRD_AURUM
-1.06712E+16,Lithium carbonate 250mg tablets (Essential Pharma Ltd) Tablet Oral Lithium carbonate 250.000mg,,,,,CPRD_AURUM
-8.35941E+14,Lithium carbonate 400mg modified-release tablets Modified-release tablet Oral Lithium carbonate 400.000mg,4020300,,,,CPRD_AURUM
-1.13304E+15,Priadel 400mg modified-release tablets (Essential Pharma M) Modified-release tablet Oral Lithium carbonate 400.000mg,4020300,,,,CPRD_AURUM
-2.15541E+14,Camcolit 400 modified-release tablets (Essential Pharma Ltd) Modified-release tablet Oral Lithium carbonate 400.000mg,4020300,,,,CPRD_AURUM
-2.76114E+15,Li-Liquid 509mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Lithium citrate 101.800mg/1.000ml,4020300,,,,CPRD_AURUM
-2.76094E+15,Lithium citrate 509mg/5ml oral solution Oral solution Oral Lithium citrate 101.800mg/1.000ml,4020300,,,,CPRD_AURUM
-2.76104E+15,Lithium citrate 1.018g/5ml oral solution Oral solution Oral Lithium citrate 203.600mg/1.000ml,4020300,,,,CPRD_AURUM
-2.76124E+15,Li-Liquid 1.018g/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Lithium citrate 203.600mg/1.000ml,4020300,,,,CPRD_AURUM
-8.35741E+14,Litarex 564mg modified-release tablets (Actavis UK Ltd) Modified-release tablet Oral Lithium citrate 564.000mg,,,,,CPRD_AURUM
-8.37741E+14,Lithium citrate 564mg modified-release tablets Modified-release tablet Oral Lithium citrate 564.000mg,,,,,CPRD_AURUM
-1.12384E+15,Priadel 520mg/5ml liquid (Essential Pharma M) Oral solution Oral Lithium citrate 104.000mg/1.000ml,4020300,,,,CPRD_AURUM
-8.35641E+14,Liskonum 450mg modified-release tablets (Teofarma) Modified-release tablet Oral Lithium carbonate 450.000mg,4020300,,,,CPRD_AURUM
-8.37641E+14,Lithium carbonate 450mg modified-release tablets Modified-release tablet Oral Lithium carbonate 450.000mg,4020300,,,,CPRD_AURUM
-8.32941E+14,Lithium citrate 520mg/5ml oral solution sugar free Oral solution Oral Lithium citrate 104.000mg/1.000ml,4020300,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"213541000033118","Camcolit Tablets 250 mg    ",,,,,"0","CPRD_AURUM"
+"834541000033115","Lithium Citrate Sugar free syrup 5.4 mmol/5 ml    ",,,,,"944","CPRD_AURUM"
+"834341000033110","Li-Liquid Sugar free syrup 5.4 mmol/5 ml    ",,,,,"339","CPRD_AURUM"
+"834441000033116","Lithium Citrate Sugar free syrup 10.8 mmol/5 ml    ",,,,,"374","CPRD_AURUM"
+"834241000033117","Li-Liquid Sugar free syrup 10.8 mmol/5 ml    ",,,,,"233","CPRD_AURUM"
+"837541000033113","Lithium Carbonate M/R tablets 300 mg    ",,,,,"4998","CPRD_AURUM"
+"837441000033112","Lithium carbonate 200mg modified-release tablets Modified-release tablet Oral Lithium carbonate 200.000mg","4020300",,,,"590877","CPRD_AURUM"
+"1132941000033114","Priadel 200mg modified-release tablets (Essential Pharma M) Modified-release tablet Oral Lithium carbonate 200.000mg","4020300",,,,"1212119","CPRD_AURUM"
+"213841000033116","Camcolit 250 tablets (Essential Pharma Ltd) Tablet Oral Lithium carbonate 250.000mg","4020300",,,,"65849","CPRD_AURUM"
+"835841000033119","Lithium carbonate 250mg tablets Tablet Oral Lithium carbonate 250.000mg","4020300",,,,"102932","CPRD_AURUM"
+"10671241000033119","Lithium carbonate 250mg tablets (Essential Pharma Ltd) Tablet Oral Lithium carbonate 250.000mg",,,,,"2753","CPRD_AURUM"
+"835941000033110","Lithium carbonate 400mg modified-release tablets Modified-release tablet Oral Lithium carbonate 400.000mg","4020300",,,,"1065112","CPRD_AURUM"
+"1133041000033116","Priadel 400mg modified-release tablets (Essential Pharma M) Modified-release tablet Oral Lithium carbonate 400.000mg","4020300",,,,"1900951","CPRD_AURUM"
+"215541000033117","Camcolit 400 modified-release tablets (Essential Pharma Ltd) Modified-release tablet Oral Lithium carbonate 400.000mg","4020300",,,,"89873","CPRD_AURUM"
+"2761141000033119","Li-Liquid 509mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Lithium citrate 101.800mg/1.000ml","4020300",,,,"3209","CPRD_AURUM"
+"2760941000033111","Lithium citrate 509mg/5ml oral solution Oral solution Oral Lithium citrate 101.800mg/1.000ml","4020300",,,,"5148","CPRD_AURUM"
+"2761041000033118","Lithium citrate 1.018g/5ml oral solution Oral solution Oral Lithium citrate 203.600mg/1.000ml","4020300",,,,"1111","CPRD_AURUM"
+"2761241000033114","Li-Liquid 1.018g/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Lithium citrate 203.600mg/1.000ml","4020300",,,,"996","CPRD_AURUM"
+"835741000033112","Litarex 564mg modified-release tablets (Actavis UK Ltd) Modified-release tablet Oral Lithium citrate 564.000mg",,,,,"2477","CPRD_AURUM"
+"837741000033117","Lithium citrate 564mg modified-release tablets Modified-release tablet Oral Lithium citrate 564.000mg",,,,,"1732","CPRD_AURUM"
+"1123841000033114","Priadel 520mg/5ml liquid (Essential Pharma M) Oral solution Oral Lithium citrate 104.000mg/1.000ml","4020300",,,,"27063","CPRD_AURUM"
+"835641000033115","Liskonum 450mg modified-release tablets (Teofarma) Modified-release tablet Oral Lithium carbonate 450.000mg","4020300",,,,"24084","CPRD_AURUM"
+"837641000033114","Lithium carbonate 450mg modified-release tablets Modified-release tablet Oral Lithium carbonate 450.000mg","4020300",,,,"20584","CPRD_AURUM"
+"832941000033117","Lithium citrate 520mg/5ml oral solution sugar free Oral solution Oral Lithium citrate 104.000mg/1.000ml","4020300",,,,"15873","CPRD_AURUM"

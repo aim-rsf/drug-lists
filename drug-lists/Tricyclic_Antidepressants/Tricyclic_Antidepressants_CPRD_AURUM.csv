@@ -1,142 +1,142 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-4.3441E+13,Amitriptyline Sr Capsules 75 mg    ,,,,,CPRD_AURUM
-4.3641E+13,Amitriptyline Hydrochloride Capsules 50 mg    ,,,,,CPRD_AURUM
-9.79341E+14,Nortriptyline Capsules 25 mg    ,,,,,CPRD_AURUM
-6.4241E+13,Anafranil Injection 12.5mg/ml    ,,,,,CPRD_AURUM
-4.20041E+14,Depixol Injection 200 mg/10 ml    ,,,,,CPRD_AURUM
-4.20341E+14,Depixol Injection (syringe) 40 mg/2 ml    ,,,,,CPRD_AURUM
-4.20541E+14,Depixol Conc. Injection 500 mg/5 ml    ,,,,,CPRD_AURUM
-9.79241E+14,Nortriptyline Capsules 10 mg    ,,,,,CPRD_AURUM
-7.54141E+14,Imipramine Hydrochloride Syrup 25 mg/5 ml    ,,,,,CPRD_AURUM
-2.75441E+14,Clomipramine Hydrochloride Injection 12.5mg/ml    ,,,,,CPRD_AURUM
-1.45074E+15,Tofranil Tablets 10 mg    ,,,,,CPRD_AURUM
-4.3541E+13,Amitriptyline Hydrochloride Capsules 25 mg    ,,,,,CPRD_AURUM
-5.0041E+13,Amitriptyline Hydrochloride Injection 10mg/ml    ,,,,,CPRD_AURUM
-4.20241E+14,Depixol Injection (syringe) 20 mg/1 ml    ,,,,,CPRD_AURUM
-4.3741E+13,Amitriptyline Hydrochloride Capsules 75 mg    ,,,,,CPRD_AURUM
-5.1941E+13,Amitriptyline Hydrochloride Mixture Sugar Free 10 mg/5 ml    ,,,,,CPRD_AURUM
-9.83141E+14,Nortriptyline Liquid 10mg/5 ml    ,,,,,CPRD_AURUM
-4.31741E+14,Depixol 3mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 3.000mg,4020100,,,,CPRD_AURUM
-3.09124E+15,Flupentixol 3mg tablets Tablet Oral Flupentixol dihydrochloride 3.000mg,4030400,,,,CPRD_AURUM
-6.0441E+13,Amitriptyline 10mg tablets Tablet Oral Amitriptyline hydrochloride 10.000mg,7040200,,,,CPRD_AURUM
-6.0641E+13,Amitriptyline 25mg tablets Tablet Oral Amitriptyline hydrochloride 25.000mg,7040200,,,,CPRD_AURUM
-6.0541E+13,Amitriptyline 50mg tablets Tablet Oral Amitriptyline hydrochloride 50.000mg,7040200,,,,CPRD_AURUM
-2.62041E+14,Clomipramine 10mg capsules Capsule Oral Clomipramine hydrochloride 10.000mg,4030100,,,,CPRD_AURUM
-6.1941E+13,Anafranil 10mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Clomipramine hydrochloride 10.000mg,,,,,CPRD_AURUM
-6.2041E+13,Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Clomipramine hydrochloride 25.000mg,,,,,CPRD_AURUM
-2.62141E+14,Clomipramine 25mg capsules Capsule Oral Clomipramine hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-2.62241E+14,Clomipramine 50mg capsules Capsule Oral Clomipramine hydrochloride 50.000mg,4030100,,,,CPRD_AURUM
-6.2141E+13,Anafranil 50mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Clomipramine hydrochloride 50.000mg,,,,,CPRD_AURUM
-4.72141E+14,Dothapax 25 capsules (Ashbourne Pharmaceuticals Ltd) Capsule Oral Dosulepin hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-1.11154E+15,Prothiaden 25mg capsules (Teofarma) Capsule Oral Dosulepin hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-1.11164E+15,Prepadine 25mg capsules (Teva UK Ltd) Capsule Oral Dosulepin hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-3.08894E+15,Dosulepin 25mg capsules Capsule Oral Dosulepin hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-3.08904E+15,Dosulepin 75mg tablets Tablet Oral Dosulepin hydrochloride 75.000mg,4030100,,,,CPRD_AURUM
-1.13594E+15,Prepadine 75mg tablets (Teva UK Ltd) Tablet Oral Dosulepin hydrochloride 75.000mg,4030100,,,,CPRD_AURUM
-1.13554E+15,Prothiaden 75mg tablets (Teofarma) Tablet Oral Dosulepin hydrochloride 75.000mg,4030100,,,,CPRD_AURUM
-4.79641E+14,Dothapax 75 tablets (Ashbourne Pharmaceuticals Ltd) Tablet Oral Dosulepin hydrochloride 75.000mg,4030100,,,,CPRD_AURUM
-1.29454E+15,Sinequan 10mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 10.000mg,,,,,CPRD_AURUM
-4.73041E+14,Doxepin 10mg capsules Capsule Oral Doxepin hydrochloride 10.000mg,,,,,CPRD_AURUM
-4.73141E+14,Doxepin 25mg capsules Capsule Oral Doxepin hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-1.29464E+15,Sinequan 25mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 25.000mg,,,,,CPRD_AURUM
-4.01044E+15,Sinepin 25mg capsules (Marlborough Pharmaceuticals Ltd) Capsule Oral Doxepin hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-4.01054E+15,Sinepin 50mg capsules (Marlborough Pharmaceuticals Ltd) Capsule Oral Doxepin hydrochloride 50.000mg,4030100,,,,CPRD_AURUM
-1.29474E+15,Sinequan 50mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 50.000mg,,,,,CPRD_AURUM
-4.73241E+14,Doxepin 50mg capsules Capsule Oral Doxepin hydrochloride 50.000mg,4030100,,,,CPRD_AURUM
-4.73341E+14,Doxepin 75mg capsules Capsule Oral Doxepin hydrochloride 75.000mg,4030100,,,,CPRD_AURUM
-1.29484E+15,Sinequan 75mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 75.000mg,4030100,,,,CPRD_AURUM
-7.55541E+14,Imipramine 10mg tablets Tablet Oral Imipramine hydrochloride 10.000mg,7040200,,,,CPRD_AURUM
-7.54241E+14,Imipramine 25mg tablets Tablet Oral Imipramine hydrochloride 25.000mg,4030100,,,,CPRD_AURUM
-1.45084E+15,Tofranil 25mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Imipramine hydrochloride 25.000mg,,,,,CPRD_AURUM
-6.26241E+14,Gamanil 70mg tablets (Merck Serono Ltd) Tablet Oral Lofepramine hydrochloride 70.000mg,,,,,CPRD_AURUM
-2.21554E+15,Feprapax 70mg tablets (Ashbourne Pharmaceuticals Ltd) Tablet Oral Lofepramine hydrochloride 70.000mg,4030100,,,,CPRD_AURUM
-8.50141E+14,Lofepramine 70mg tablets Tablet Oral Lofepramine hydrochloride 70.000mg,4030100,,,,CPRD_AURUM
-9.17541E+14,Mianserin 10mg tablets Tablet Oral Mianserin hydrochloride 10.000mg,4030100,,,,CPRD_AURUM
-9.17641E+14,Mianserin 20mg tablets Tablet Oral Mianserin hydrochloride 20.000mg,4030100,,,,CPRD_AURUM
-9.17741E+14,Mianserin 30mg tablets Tablet Oral Mianserin hydrochloride 30.000mg,4030100,,,,CPRD_AURUM
-9.89141E+14,Nortriptyline 10mg tablets Tablet Oral Nortriptyline hydrochloride 10.000mg,7040200,,,,CPRD_AURUM
-3.8741E+13,Allegron 10mg tablets (King Pharmaceuticals Ltd) Tablet Oral Nortriptyline hydrochloride 10.000mg,7040200,,,,CPRD_AURUM
-3.8841E+13,Allegron 25mg tablets (King Pharmaceuticals Ltd) Tablet Oral Nortriptyline hydrochloride 25.000mg,7040200,,,,CPRD_AURUM
-9.89241E+14,Nortriptyline 25mg tablets Tablet Oral Nortriptyline hydrochloride 25.000mg,7040200,,,,CPRD_AURUM
-1.47364E+15,Trazodone 150mg tablets Tablet Oral Trazodone hydrochloride 150.000mg,4030100,,,,CPRD_AURUM
-9.38741E+14,Molipaxin 150mg tablets (Zentiva) Tablet Oral Trazodone hydrochloride 150.000mg,4030100,,,,CPRD_AURUM
-9.23241E+14,Molipaxin 100mg capsules (Zentiva) Capsule Oral Trazodone hydrochloride 100.000mg,4030100,,,,CPRD_AURUM
-1.45524E+15,Trazodone 100mg capsules Capsule Oral Trazodone hydrochloride 100.000mg,4030100,,,,CPRD_AURUM
-1.45464E+15,Trazodone 50mg capsules Capsule Oral Trazodone hydrochloride 50.000mg,4030100,,,,CPRD_AURUM
-9.23041E+14,Molipaxin 50mg capsules (Zentiva) Capsule Oral Trazodone hydrochloride 50.000mg,4030100,,,,CPRD_AURUM
-1.38944E+15,Surmontil 50mg capsules (Sanofi) Capsule Oral Trimipramine maleate 50.000mg,4030100,,,,CPRD_AURUM
-1.45474E+15,Trimipramine 50mg capsules Capsule Oral Trimipramine maleate 50.000mg,4030100,,,,CPRD_AURUM
-1.47134E+15,Trimipramine 10mg tablets Tablet Oral Trimipramine maleate 10.000mg,4030100,,,,CPRD_AURUM
-1.39674E+15,Surmontil 10mg tablets (Sanofi) Tablet Oral Trimipramine maleate 10.000mg,4030100,,,,CPRD_AURUM
-1.39684E+15,Surmontil 25mg tablets (Sanofi) Tablet Oral Trimipramine maleate 25.000mg,4030100,,,,CPRD_AURUM
-1.47144E+15,Trimipramine 25mg tablets Tablet Oral Trimipramine maleate 25.000mg,4030100,,,,CPRD_AURUM
-9.38841E+14,Motipress tablets (Sanofi-Synthelabo Ltd) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 1.500mg + 30.000mg,,,,,CPRD_AURUM
-9.38941E+14,Motival 10mg/500microgram tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg,,,,,CPRD_AURUM
-3.17994E+15,Nortriptyline 10mg / Fluphenazine 500microgram tablets Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg,,,,,CPRD_AURUM
-3.18044E+15,Amitriptyline 25mg / Perphenazine 2mg tablets Tablet Oral Amitriptyline hydrochloride/ Perphenazine 25.000mg + 2.000mg,4030100,,,,CPRD_AURUM
-1.47334E+15,Triptafen tablets (Advanz Pharma) Tablet Oral Amitriptyline hydrochloride/ Perphenazine 25.000mg + 2.000mg,4030100,,,,CPRD_AURUM
-1.47344E+15,Triptafen-M tablets (Mercury Pharma Group Ltd) Tablet Oral Amitriptyline hydrochloride/ Perphenazine 10.000mg + 2.000mg,,,,,CPRD_AURUM
-3.18054E+15,Amitriptyline 10mg / Perphenazine 2mg tablets Tablet Oral Amitriptyline hydrochloride/ Perphenazine 10.000mg + 2.000mg,4030100,,,,CPRD_AURUM
-3.09114E+15,Flupentixol 500microgram tablets Tablet Oral Flupentixol dihydrochloride 500.000microgram,4030400,,,,CPRD_AURUM
-5.93541E+14,Fluanxol 500microgram tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 500.000microgram,4030400,,,,CPRD_AURUM
-5.93441E+14,Fluanxol 1mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 1.000mg,4030400,,,,CPRD_AURUM
-3.09104E+15,Flupentixol 1mg tablets Tablet Oral Flupentixol dihydrochloride 1.000mg,4030400,,,,CPRD_AURUM
-1.60334E+15,Doxepin 5% cream Cream Cutaneous Doxepin hydrochloride 50.000mg/1.000gram,13030000,,,,CPRD_AURUM
-1.71204E+15,Xepin 5% cream (Cambridge Healthcare Supplies Ltd) Cream Cutaneous Doxepin hydrochloride 50.000mg/1.000gram,13030000,,,,CPRD_AURUM
-9.29541E+14,Molipaxin 50mg/5ml oral liquid (Sanofi) Oral solution Oral Trazodone hydrochloride 10.000mg/1.000ml,4030100,,,,CPRD_AURUM
-1.46194E+15,Trazodone 50mg/5ml oral solution sugar free Oral solution Oral Trazodone hydrochloride 10.000mg/1.000ml,4030100,,,,CPRD_AURUM
-1.46224E+15,Trazodone 150mg modified-release tablets Modified-release tablet Oral Trazodone hydrochloride 150.000mg,,,,,CPRD_AURUM
-9.29841E+14,Molipaxin CR 150mg tablets (Aventis Pharma) Modified-release tablet Oral Trazodone hydrochloride 150.000mg,,,,,CPRD_AURUM
-2.84741E+14,Clomipramine 25mg/5ml oral solution Oral solution Oral Clomipramine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-6.8641E+13,Anafranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Clomipramine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-5.88864E+15,Amitriptyline 10mg/5ml oral suspension Oral suspension Oral Amitriptyline hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
-4.43154E+15,Clomipramine 50mg/5ml oral suspension Oral suspension Oral Clomipramine hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
-5.99224E+15,Dosulepin 75mg/5ml oral suspension Oral suspension Oral Dosulepin hydrochloride 15.000mg/1.000ml,,,,,CPRD_AURUM
-3.08924E+15,Dosulepin 75mg/5ml oral solution Oral solution Oral Dosulepin hydrochloride 15.000mg/1.000ml,,,,,CPRD_AURUM
-5.89104E+15,Dosulepin 25mg/5ml oral suspension Oral suspension Oral Dosulepin hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-3.08914E+15,Dosulepin 25mg/5ml oral solution Oral solution Oral Dosulepin hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-4.95404E+15,Doxepin 50mg/5ml oral solution Oral solution Oral Doxepin hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
-5.99664E+15,Lofepramine 70mg/5ml oral solution Oral solution Oral Lofepramine hydrochloride 14.000mg/1.000ml,,,,,CPRD_AURUM
-5.99674E+15,Lofepramine 70mg/5ml oral suspension Oral suspension Oral Lofepramine hydrochloride 14.000mg/1.000ml,,,,,CPRD_AURUM
-5.49014E+15,Amitriptyline 10mg/5ml oral solution Oral solution Oral Amitriptyline hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.10728E+16,Nortriptyline 10mg/5ml oral solution Oral solution Oral Nortriptyline hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.22578E+16,Nortriptyline 10mg/5ml oral suspension Oral suspension Oral Nortriptyline hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
-5.45414E+15,Imipramine 25mg/5ml oral solution sugar free Oral solution Oral Imipramine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-1.03324E+16,Amitriptyline 10mg/5ml oral solution sugar free Oral solution Oral Amitriptyline hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.0617E+16,Vortioxetine 10mg tablets Tablet Oral Vortioxetine hydrobromide 10.000mg,4030400,,,,CPRD_AURUM
-1.06173E+16,Brintellix 10mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 10.000mg,4030400,,,,CPRD_AURUM
-1.06174E+16,Brintellix 20mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 20.000mg,4030400,,,,CPRD_AURUM
-1.06171E+16,Vortioxetine 20mg tablets Tablet Oral Vortioxetine hydrobromide 20.000mg,4030400,,,,CPRD_AURUM
-1.06169E+16,Vortioxetine 5mg tablets Tablet Oral Vortioxetine hydrobromide 5.000mg,4030400,,,,CPRD_AURUM
-1.06172E+16,Brintellix 5mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 5.000mg,4030400,,,,CPRD_AURUM
-1.22923E+16,Nortriptyline 50mg tablets Tablet Oral Nortriptyline hydrochloride 50.000mg,,,,,CPRD_AURUM
-1.24765E+16,Trazodone 100mg/5ml oral solution sugar free Oral solution Oral Trazodone hydrochloride 20.000mg/1.000ml,,,,,CPRD_AURUM
-8.19741E+14,Lentizol 25mg modified-release capsules (Pfizer Ltd) Modified-release capsule Oral Amitriptyline hydrochloride 25.000mg,,,,,CPRD_AURUM
-4.5841E+13,Amitriptyline 25mg modified-release capsules Modified-release capsule Oral Amitriptyline hydrochloride 25.000mg,,,,,CPRD_AURUM
-5.5441E+13,Amitriptyline 25mg/5ml oral solution sugar free Oral solution Oral Amitriptyline hydrochloride 5.000mg/1.000ml,7040200,,,,CPRD_AURUM
-8.19841E+14,Lentizol 50mg modified-release capsules (Pfizer Ltd) Modified-release capsule Oral Amitriptyline hydrochloride 50.000mg,,,,,CPRD_AURUM
-4.5941E+13,Amitriptyline 50mg modified-release capsules Modified-release capsule Oral Amitriptyline hydrochloride 50.000mg,,,,,CPRD_AURUM
-5.5541E+13,Amitriptyline 50mg/5ml oral solution sugar free Oral solution Oral Amitriptyline hydrochloride 10.000mg/1.000ml,7040200,,,,CPRD_AURUM
-2.07884E+15,Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Lofepramine hydrochloride 14.000mg/1.000ml,4030100,,,,CPRD_AURUM
-8.49241E+14,Lofepramine 70mg/5ml oral suspension sugar free Oral suspension Oral Lofepramine hydrochloride 14.000mg/1.000ml,4030100,,,,CPRD_AURUM
-1.44944E+15,Tofranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Imipramine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-5.32874E+15,Imipramine 25mg/5ml oral solution Oral solution Oral Imipramine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-4.20441E+14,Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-8.54004E+15,Psytixol 50mg/0.5ml solution for injection ampoules (Mylan) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,,,,,CPRD_AURUM
-3.09054E+15,Flupentixol 50mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.23041E+14,Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-3.09064E+15,Flupentixol 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.19941E+14,Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-3.09074E+15,Flupentixol 200mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.22941E+14,Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020100,,,,CPRD_AURUM
-3.09084E+15,Flupentixol 20mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.20141E+14,Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020200,,,,CPRD_AURUM
-3.09094E+15,Flupentixol 40mg/2ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020200,,,,CPRD_AURUM
-7.0241E+13,Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd) Modified-release tablet Oral Clomipramine hydrochloride 75.000mg,,,,,CPRD_AURUM
-2.85741E+14,Clomipramine 75mg modified-release tablets Modified-release tablet Oral Clomipramine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.33008E+16,Nortriptyline 10mg/5ml oral solution sugar free Oral solution Oral Nortriptyline hydrochloride 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.33009E+16,Nortriptyline 25mg/5ml oral solution sugar free Oral solution Oral Nortriptyline hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-1.34442E+16,Trazodone 50mg tablets Trazodone 50mg tablets Tablet Oral Trazodone hydrochloride 50.000mg,,,,,CPRD_AURUM
-1.34443E+16,Trazodone 100mg tablets Trazodone 100mg tablets Tablet Oral Trazodone hydrochloride 100.000mg,,,,,CPRD_AURUM
-1.3746E+16,Mianserin 10mg tablets (Imported) Mianserin 10mg tablets Tablet  Mianserin hydrochloride 10.000mg,,,,,CPRD_AURUM
-1.37461E+16,Mianserin 30mg tablets (Imported) Mianserin 30mg tablets Tablet  Mianserin hydrochloride 30.000mg,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"43441000033118","Amitriptyline Sr Capsules 75 mg    ",,,,,"29064","CPRD_AURUM"
+"43641000033116","Amitriptyline Hydrochloride Capsules 50 mg    ",,,,,"21598","CPRD_AURUM"
+"979341000033117","Nortriptyline Capsules 25 mg    ",,,,,"5047","CPRD_AURUM"
+"64241000033110","Anafranil Injection 12.5mg/ml    ",,,,,"5","CPRD_AURUM"
+"420041000033111","Depixol Injection 200 mg/10 ml    ",,,,,"1495","CPRD_AURUM"
+"420341000033113","Depixol Injection (syringe) 40 mg/2 ml    ",,,,,"883","CPRD_AURUM"
+"420541000033118","Depixol Conc. Injection 500 mg/5 ml    ",,,,,"238","CPRD_AURUM"
+"979241000033110","Nortriptyline Capsules 10 mg    ",,,,,"3075","CPRD_AURUM"
+"754141000033110","Imipramine Hydrochloride Syrup 25 mg/5 ml    ",,,,,"22930","CPRD_AURUM"
+"275441000033113","Clomipramine Hydrochloride Injection 12.5mg/ml    ",,,,,"18","CPRD_AURUM"
+"1450741000033110","Tofranil Tablets 10 mg    ",,,,,"8440","CPRD_AURUM"
+"43541000033117","Amitriptyline Hydrochloride Capsules 25 mg    ",,,,,"41750","CPRD_AURUM"
+"50041000033116","Amitriptyline Hydrochloride Injection 10mg/ml    ",,,,,"28","CPRD_AURUM"
+"420241000033115","Depixol Injection (syringe) 20 mg/1 ml    ",,,,,"1842","CPRD_AURUM"
+"43741000033113","Amitriptyline Hydrochloride Capsules 75 mg    ",,,,,"25861","CPRD_AURUM"
+"51941000033114","Amitriptyline Hydrochloride Mixture Sugar Free 10 mg/5 ml    ",,,,,"36443","CPRD_AURUM"
+"983141000033114","Nortriptyline Liquid 10mg/5 ml    ",,,,,"24","CPRD_AURUM"
+"431741000033118","Depixol 3mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 3.000mg","4020100",,,,"26515","CPRD_AURUM"
+"3091241000033119","Flupentixol 3mg tablets Tablet Oral Flupentixol dihydrochloride 3.000mg","4030400",,,,"95459","CPRD_AURUM"
+"60441000033116","Amitriptyline 10mg tablets Tablet Oral Amitriptyline hydrochloride 10.000mg","7040200",,,,"26188000","CPRD_AURUM"
+"60641000033119","Amitriptyline 25mg tablets Tablet Oral Amitriptyline hydrochloride 25.000mg","7040200",,,,"15095072","CPRD_AURUM"
+"60541000033115","Amitriptyline 50mg tablets Tablet Oral Amitriptyline hydrochloride 50.000mg","7040200",,,,"7747917","CPRD_AURUM"
+"262041000033115","Clomipramine 10mg capsules Capsule Oral Clomipramine hydrochloride 10.000mg","4030100",,,,"518875","CPRD_AURUM"
+"61941000033115","Anafranil 10mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Clomipramine hydrochloride 10.000mg",,,,,"126977","CPRD_AURUM"
+"62041000033114","Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Clomipramine hydrochloride 25.000mg",,,,,"164098","CPRD_AURUM"
+"262141000033116","Clomipramine 25mg capsules Capsule Oral Clomipramine hydrochloride 25.000mg","4030100",,,,"786053","CPRD_AURUM"
+"262241000033111","Clomipramine 50mg capsules Capsule Oral Clomipramine hydrochloride 50.000mg","4030100",,,,"739213","CPRD_AURUM"
+"62141000033113","Anafranil 50mg capsules (Novartis Pharmaceuticals UK Ltd) Capsule Oral Clomipramine hydrochloride 50.000mg",,,,,"51198","CPRD_AURUM"
+"472141000033110","Dothapax 25 capsules (Ashbourne Pharmaceuticals Ltd) Capsule Oral Dosulepin hydrochloride 25.000mg","4030100",,,,"17192","CPRD_AURUM"
+"1111541000033117","Prothiaden 25mg capsules (Teofarma) Capsule Oral Dosulepin hydrochloride 25.000mg","4030100",,,,"764163","CPRD_AURUM"
+"1111641000033116","Prepadine 25mg capsules (Teva UK Ltd) Capsule Oral Dosulepin hydrochloride 25.000mg","4030100",,,,"461","CPRD_AURUM"
+"3088941000033118","Dosulepin 25mg capsules Capsule Oral Dosulepin hydrochloride 25.000mg","4030100",,,,"5558932","CPRD_AURUM"
+"3089041000033110","Dosulepin 75mg tablets Tablet Oral Dosulepin hydrochloride 75.000mg","4030100",,,,"5654384","CPRD_AURUM"
+"1135941000033116","Prepadine 75mg tablets (Teva UK Ltd) Tablet Oral Dosulepin hydrochloride 75.000mg","4030100",,,,"1292","CPRD_AURUM"
+"1135541000033110","Prothiaden 75mg tablets (Teofarma) Tablet Oral Dosulepin hydrochloride 75.000mg","4030100",,,,"748417","CPRD_AURUM"
+"479641000033111","Dothapax 75 tablets (Ashbourne Pharmaceuticals Ltd) Tablet Oral Dosulepin hydrochloride 75.000mg","4030100",,,,"14936","CPRD_AURUM"
+"1294541000033115","Sinequan 10mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 10.000mg",,,,,"24931","CPRD_AURUM"
+"473041000033119","Doxepin 10mg capsules Capsule Oral Doxepin hydrochloride 10.000mg",,,,,"80370","CPRD_AURUM"
+"473141000033115","Doxepin 25mg capsules Capsule Oral Doxepin hydrochloride 25.000mg","4030100",,,,"243067","CPRD_AURUM"
+"1294641000033119","Sinequan 25mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 25.000mg",,,,,"53901","CPRD_AURUM"
+"4010441000033114","Sinepin 25mg capsules (Marlborough Pharmaceuticals Ltd) Capsule Oral Doxepin hydrochloride 25.000mg","4030100",,,,"1530","CPRD_AURUM"
+"4010541000033110","Sinepin 50mg capsules (Marlborough Pharmaceuticals Ltd) Capsule Oral Doxepin hydrochloride 50.000mg","4030100",,,,"933","CPRD_AURUM"
+"1294741000033111","Sinequan 50mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 50.000mg",,,,,"17840","CPRD_AURUM"
+"473241000033110","Doxepin 50mg capsules Capsule Oral Doxepin hydrochloride 50.000mg","4030100",,,,"133750","CPRD_AURUM"
+"473341000033117","Doxepin 75mg capsules Capsule Oral Doxepin hydrochloride 75.000mg","4030100",,,,"50140","CPRD_AURUM"
+"1294841000033118","Sinequan 75mg capsules (Pfizer Ltd) Capsule Oral Doxepin hydrochloride 75.000mg","4030100",,,,"5304","CPRD_AURUM"
+"755541000033119","Imipramine 10mg tablets Tablet Oral Imipramine hydrochloride 10.000mg","7040200",,,,"310796","CPRD_AURUM"
+"754241000033115","Imipramine 25mg tablets Tablet Oral Imipramine hydrochloride 25.000mg","4030100",,,,"1182060","CPRD_AURUM"
+"1450841000033117","Tofranil 25mg tablets (Novartis Pharmaceuticals UK Ltd) Tablet Oral Imipramine hydrochloride 25.000mg",,,,,"48992","CPRD_AURUM"
+"626241000033115","Gamanil 70mg tablets (Merck Serono Ltd) Tablet Oral Lofepramine hydrochloride 70.000mg",,,,,"170764","CPRD_AURUM"
+"2215541000033118","Feprapax 70mg tablets (Ashbourne Pharmaceuticals Ltd) Tablet Oral Lofepramine hydrochloride 70.000mg","4030100",,,,"16","CPRD_AURUM"
+"850141000033116","Lofepramine 70mg tablets Tablet Oral Lofepramine hydrochloride 70.000mg","4030100",,,,"2709657","CPRD_AURUM"
+"917541000033110","Mianserin 10mg tablets Tablet Oral Mianserin hydrochloride 10.000mg","4030100",,,,"79379","CPRD_AURUM"
+"917641000033111","Mianserin 20mg tablets Tablet Oral Mianserin hydrochloride 20.000mg","4030100",,,,"28948","CPRD_AURUM"
+"917741000033119","Mianserin 30mg tablets Tablet Oral Mianserin hydrochloride 30.000mg","4030100",,,,"108640","CPRD_AURUM"
+"989141000033111","Nortriptyline 10mg tablets Tablet Oral Nortriptyline hydrochloride 10.000mg","7040200",,,,"1330631","CPRD_AURUM"
+"38741000033119","Allegron 10mg tablets (King Pharmaceuticals Ltd) Tablet Oral Nortriptyline hydrochloride 10.000mg","7040200",,,,"4355","CPRD_AURUM"
+"38841000033112","Allegron 25mg tablets (King Pharmaceuticals Ltd) Tablet Oral Nortriptyline hydrochloride 25.000mg","7040200",,,,"8339","CPRD_AURUM"
+"989241000033116","Nortriptyline 25mg tablets Tablet Oral Nortriptyline hydrochloride 25.000mg","7040200",,,,"610088","CPRD_AURUM"
+"1473641000033113","Trazodone 150mg tablets Tablet Oral Trazodone hydrochloride 150.000mg","4030100",,,,"927590","CPRD_AURUM"
+"938741000033111","Molipaxin 150mg tablets (Zentiva) Tablet Oral Trazodone hydrochloride 150.000mg","4030100",,,,"21557","CPRD_AURUM"
+"923241000033113","Molipaxin 100mg capsules (Zentiva) Capsule Oral Trazodone hydrochloride 100.000mg","4030100",,,,"18973","CPRD_AURUM"
+"1455241000033113","Trazodone 100mg capsules Capsule Oral Trazodone hydrochloride 100.000mg","4030100",,,,"1204600","CPRD_AURUM"
+"1454641000033112","Trazodone 50mg capsules Capsule Oral Trazodone hydrochloride 50.000mg","4030100",,,,"1961671","CPRD_AURUM"
+"923041000033117","Molipaxin 50mg capsules (Zentiva) Capsule Oral Trazodone hydrochloride 50.000mg","4030100",,,,"45204","CPRD_AURUM"
+"1389441000033112","Surmontil 50mg capsules (Sanofi) Capsule Oral Trimipramine maleate 50.000mg","4030100",,,,"107689","CPRD_AURUM"
+"1454741000033115","Trimipramine 50mg capsules Capsule Oral Trimipramine maleate 50.000mg","4030100",,,,"357089","CPRD_AURUM"
+"1471341000033116","Trimipramine 10mg tablets Tablet Oral Trimipramine maleate 10.000mg","4030100",,,,"105469","CPRD_AURUM"
+"1396741000033112","Surmontil 10mg tablets (Sanofi) Tablet Oral Trimipramine maleate 10.000mg","4030100",,,,"26338","CPRD_AURUM"
+"1396841000033119","Surmontil 25mg tablets (Sanofi) Tablet Oral Trimipramine maleate 25.000mg","4030100",,,,"113379","CPRD_AURUM"
+"1471441000033110","Trimipramine 25mg tablets Tablet Oral Trimipramine maleate 25.000mg","4030100",,,,"312888","CPRD_AURUM"
+"938841000033118","Motipress tablets (Sanofi-Synthelabo Ltd) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 1.500mg + 30.000mg",,,,,"23186","CPRD_AURUM"
+"938941000033114","Motival 10mg/500microgram tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg",,,,,"216939","CPRD_AURUM"
+"3179941000033111","Nortriptyline 10mg / Fluphenazine 500microgram tablets Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg",,,,,"12534","CPRD_AURUM"
+"3180441000033118","Amitriptyline 25mg / Perphenazine 2mg tablets Tablet Oral Amitriptyline hydrochloride/ Perphenazine 25.000mg + 2.000mg","4030100",,,,"20999","CPRD_AURUM"
+"1473341000033117","Triptafen tablets (Advanz Pharma) Tablet Oral Amitriptyline hydrochloride/ Perphenazine 25.000mg + 2.000mg","4030100",,,,"217160","CPRD_AURUM"
+"1473441000033111","Triptafen-M tablets (Mercury Pharma Group Ltd) Tablet Oral Amitriptyline hydrochloride/ Perphenazine 10.000mg + 2.000mg",,,,,"85555","CPRD_AURUM"
+"3180541000033117","Amitriptyline 10mg / Perphenazine 2mg tablets Tablet Oral Amitriptyline hydrochloride/ Perphenazine 10.000mg + 2.000mg","4030100",,,,"7464","CPRD_AURUM"
+"3091141000033114","Flupentixol 500microgram tablets Tablet Oral Flupentixol dihydrochloride 500.000microgram","4030400",,,,"478230","CPRD_AURUM"
+"593541000033112","Fluanxol 500microgram tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 500.000microgram","4030400",,,,"211594","CPRD_AURUM"
+"593441000033111","Fluanxol 1mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 1.000mg","4030400",,,,"114149","CPRD_AURUM"
+"3091041000033110","Flupentixol 1mg tablets Tablet Oral Flupentixol dihydrochloride 1.000mg","4030400",,,,"343274","CPRD_AURUM"
+"1603341000033112","Doxepin 5% cream Cream Cutaneous Doxepin hydrochloride 50.000mg/1.000gram","13030000",,,,"17278","CPRD_AURUM"
+"1712041000033111","Xepin 5% cream (Cambridge Healthcare Supplies Ltd) Cream Cutaneous Doxepin hydrochloride 50.000mg/1.000gram","13030000",,,,"6521","CPRD_AURUM"
+"929541000033113","Molipaxin 50mg/5ml oral liquid (Sanofi) Oral solution Oral Trazodone hydrochloride 10.000mg/1.000ml","4030100",,,,"5693","CPRD_AURUM"
+"1461941000033113","Trazodone 50mg/5ml oral solution sugar free Oral solution Oral Trazodone hydrochloride 10.000mg/1.000ml","4030100",,,,"249414","CPRD_AURUM"
+"1462241000033110","Trazodone 150mg modified-release tablets Modified-release tablet Oral Trazodone hydrochloride 150.000mg",,,,,"8410","CPRD_AURUM"
+"929841000033110","Molipaxin CR 150mg tablets (Aventis Pharma) Modified-release tablet Oral Trazodone hydrochloride 150.000mg",,,,,"1732","CPRD_AURUM"
+"284741000033110","Clomipramine 25mg/5ml oral solution Oral solution Oral Clomipramine hydrochloride 5.000mg/1.000ml",,,,,"6560","CPRD_AURUM"
+"68641000033117","Anafranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Clomipramine hydrochloride 5.000mg/1.000ml",,,,,"3401","CPRD_AURUM"
+"5888641000033118","Amitriptyline 10mg/5ml oral suspension Oral suspension Oral Amitriptyline hydrochloride 2.000mg/1.000ml",,,,,"377","CPRD_AURUM"
+"4431541000033115","Clomipramine 50mg/5ml oral suspension Oral suspension Oral Clomipramine hydrochloride 10.000mg/1.000ml",,,,,"445","CPRD_AURUM"
+"5992241000033114","Dosulepin 75mg/5ml oral suspension Oral suspension Oral Dosulepin hydrochloride 15.000mg/1.000ml",,,,,"21","CPRD_AURUM"
+"3089241000033119","Dosulepin 75mg/5ml oral solution Oral solution Oral Dosulepin hydrochloride 15.000mg/1.000ml",,,,,"4731","CPRD_AURUM"
+"5891041000033116","Dosulepin 25mg/5ml oral suspension Oral suspension Oral Dosulepin hydrochloride 5.000mg/1.000ml",,,,,"29","CPRD_AURUM"
+"3089141000033114","Dosulepin 25mg/5ml oral solution Oral solution Oral Dosulepin hydrochloride 5.000mg/1.000ml",,,,,"7727","CPRD_AURUM"
+"4954041000033114","Doxepin 50mg/5ml oral solution Oral solution Oral Doxepin hydrochloride 10.000mg/1.000ml",,,,,"169","CPRD_AURUM"
+"5996641000033111","Lofepramine 70mg/5ml oral solution Oral solution Oral Lofepramine hydrochloride 14.000mg/1.000ml",,,,,"81","CPRD_AURUM"
+"5996741000033119","Lofepramine 70mg/5ml oral suspension Oral suspension Oral Lofepramine hydrochloride 14.000mg/1.000ml",,,,,"92","CPRD_AURUM"
+"5490141000033118","Amitriptyline 10mg/5ml oral solution Oral solution Oral Amitriptyline hydrochloride 2.000mg/1.000ml",,,,,"4021","CPRD_AURUM"
+"11072841000033114","Nortriptyline 10mg/5ml oral solution Oral solution Oral Nortriptyline hydrochloride 2.000mg/1.000ml",,,,,"96","CPRD_AURUM"
+"12257841000033117","Nortriptyline 10mg/5ml oral suspension Oral suspension Oral Nortriptyline hydrochloride 2.000mg/1.000ml",,,,,"14","CPRD_AURUM"
+"5454141000033118","Imipramine 25mg/5ml oral solution sugar free Oral solution Oral Imipramine hydrochloride 5.000mg/1.000ml",,,,,"1780","CPRD_AURUM"
+"10332441000033118","Amitriptyline 10mg/5ml oral solution sugar free Oral solution Oral Amitriptyline hydrochloride 2.000mg/1.000ml",,,,,"7871","CPRD_AURUM"
+"10617041000033113","Vortioxetine 10mg tablets Tablet Oral Vortioxetine hydrobromide 10.000mg","4030400",,,,"65605","CPRD_AURUM"
+"10617341000033110","Brintellix 10mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 10.000mg","4030400",,,,"917","CPRD_AURUM"
+"10617441000033116","Brintellix 20mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 20.000mg","4030400",,,,"356","CPRD_AURUM"
+"10617141000033112","Vortioxetine 20mg tablets Tablet Oral Vortioxetine hydrobromide 20.000mg","4030400",,,,"40952","CPRD_AURUM"
+"10616941000033112","Vortioxetine 5mg tablets Tablet Oral Vortioxetine hydrobromide 5.000mg","4030400",,,,"30133","CPRD_AURUM"
+"10617241000033117","Brintellix 5mg tablets (Lundbeck Ltd) Tablet Oral Vortioxetine hydrobromide 5.000mg","4030400",,,,"481","CPRD_AURUM"
+"12292341000033116","Nortriptyline 50mg tablets Tablet Oral Nortriptyline hydrochloride 50.000mg",,,,,"12563","CPRD_AURUM"
+"12476541000033119","Trazodone 100mg/5ml oral solution sugar free Oral solution Oral Trazodone hydrochloride 20.000mg/1.000ml",,,,,"1047","CPRD_AURUM"
+"819741000033117","Lentizol 25mg modified-release capsules (Pfizer Ltd) Modified-release capsule Oral Amitriptyline hydrochloride 25.000mg",,,,,"62438","CPRD_AURUM"
+"45841000033119","Amitriptyline 25mg modified-release capsules Modified-release capsule Oral Amitriptyline hydrochloride 25.000mg",,,,,"66359","CPRD_AURUM"
+"55441000033119","Amitriptyline 25mg/5ml oral solution sugar free Oral solution Oral Amitriptyline hydrochloride 5.000mg/1.000ml","7040200",,,,"110503","CPRD_AURUM"
+"819841000033110","Lentizol 50mg modified-release capsules (Pfizer Ltd) Modified-release capsule Oral Amitriptyline hydrochloride 50.000mg",,,,,"47197","CPRD_AURUM"
+"45941000033110","Amitriptyline 50mg modified-release capsules Modified-release capsule Oral Amitriptyline hydrochloride 50.000mg",,,,,"49714","CPRD_AURUM"
+"55541000033118","Amitriptyline 50mg/5ml oral solution sugar free Oral solution Oral Amitriptyline hydrochloride 10.000mg/1.000ml","7040200",,,,"40064","CPRD_AURUM"
+"2078841000033114","Lomont 70mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd) Oral suspension Oral Lofepramine hydrochloride 14.000mg/1.000ml","4030100",,,,"180","CPRD_AURUM"
+"849241000033115","Lofepramine 70mg/5ml oral suspension sugar free Oral suspension Oral Lofepramine hydrochloride 14.000mg/1.000ml","4030100",,,,"25196","CPRD_AURUM"
+"1449441000033113","Tofranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd) Oral solution Oral Imipramine hydrochloride 5.000mg/1.000ml",,,,,"11075","CPRD_AURUM"
+"5328741000033117","Imipramine 25mg/5ml oral solution Oral solution Oral Imipramine hydrochloride 5.000mg/1.000ml",,,,,"3943","CPRD_AURUM"
+"420441000033119","Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"20431","CPRD_AURUM"
+"8540041000033111","Psytixol 50mg/0.5ml solution for injection ampoules (Mylan) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml",,,,,"205","CPRD_AURUM"
+"3090541000033111","Flupentixol 50mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"10928","CPRD_AURUM"
+"423041000033115","Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"109805","CPRD_AURUM"
+"3090641000033112","Flupentixol 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"63708","CPRD_AURUM"
+"419941000033113","Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml","4020200",,,,"17739","CPRD_AURUM"
+"3090741000033115","Flupentixol 200mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml","4020200",,,,"21466","CPRD_AURUM"
+"422941000033113","Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020100",,,,"115510","CPRD_AURUM"
+"3090841000033113","Flupentixol 20mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020200",,,,"42970","CPRD_AURUM"
+"420141000033110","Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020200",,,,"92505","CPRD_AURUM"
+"3090941000033117","Flupentixol 40mg/2ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020200",,,,"32799","CPRD_AURUM"
+"70241000033114","Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd) Modified-release tablet Oral Clomipramine hydrochloride 75.000mg",,,,,"31536","CPRD_AURUM"
+"285741000033111","Clomipramine 75mg modified-release tablets Modified-release tablet Oral Clomipramine hydrochloride 75.000mg",,,,,"140909","CPRD_AURUM"
+"13300841000033111","Nortriptyline 10mg/5ml oral solution sugar free Oral solution Oral Nortriptyline hydrochloride 2.000mg/1.000ml",,,,,"46","CPRD_AURUM"
+"13300941000033115","Nortriptyline 25mg/5ml oral solution sugar free Oral solution Oral Nortriptyline hydrochloride 5.000mg/1.000ml",,,,,"2","CPRD_AURUM"
+"13444241000033119","Trazodone 50mg tablets Trazodone 50mg tablets Tablet Oral Trazodone hydrochloride 50.000mg",,,,,"2120","CPRD_AURUM"
+"13444341000033112","Trazodone 100mg tablets Trazodone 100mg tablets Tablet Oral Trazodone hydrochloride 100.000mg",,,,,"1039","CPRD_AURUM"
+"13746041000033112","Mianserin 10mg tablets (Imported) Mianserin 10mg tablets Tablet  Mianserin hydrochloride 10.000mg",,,,,"0","CPRD_AURUM"
+"13746141000033111","Mianserin 30mg tablets (Imported) Mianserin 30mg tablets Tablet  Mianserin hydrochloride 30.000mg",,,,,"0","CPRD_AURUM"
