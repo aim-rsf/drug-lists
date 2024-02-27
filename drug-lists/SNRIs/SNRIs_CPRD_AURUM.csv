@@ -1,115 +1,115 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-1.51224E+15,Venlafaxine 37.5mg tablets Tablet Oral Venlafaxine hydrochloride 37.500mg,4030400,,,,CPRD_AURUM
-4.99041E+14,Efexor 37.5mg tablets (Wyeth Pharmaceuticals) Tablet Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-4.89704E+15,ViePax 37.5mg tablets (Dexcel-Pharma Ltd) Tablet Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-4.89694E+15,ViePax 75mg tablets (Dexcel-Pharma Ltd) Tablet Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.99141E+14,Efexor 75mg tablets (Wyeth Pharmaceuticals) Tablet Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.51234E+15,Venlafaxine 75mg tablets Tablet Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-1.51244E+15,Venlafaxine 50mg tablets Tablet Oral Venlafaxine hydrochloride 50.000mg,,,,,CPRD_AURUM
-4.99241E+14,Efexor 50mg tablets (Wyeth Pharmaceuticals) Tablet Oral Venlafaxine hydrochloride 50.000mg,,,,,CPRD_AURUM
-4.98441E+14,Efexor XL 75mg capsules (Upjohn UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-1.50934E+15,Venlafaxine 75mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-4.81774E+15,Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-4.89714E+15,Tardcaps XL 75mg capsules (IXL Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.89684E+15,Vexarin XL 75mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.89954E+15,Vensir XL 75mg capsules (Morningside Healthcare Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.81744E+15,Rodomel XL 75mg capsules (Teva UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.81864E+15,Trixat XL 75mg capsules (PLIVA Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.82464E+15,Winfex XL 75mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-4.93704E+15,Vaxalin XL 75mg capsules (Ratiopharm UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-4.93664E+15,Venaxx XL 75mg capsules (Advanz Pharma) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-4.95784E+15,Politid XL 75mg capsules (Actavis UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.23404E+15,Foraven XL 75mg capsules (Forum Products Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-6.02974E+15,Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.32894E+15,Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.81334E+15,Alventa XL 75mg capsules (Consilient Health Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.81254E+15,Venlablue XL 75mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.57464E+15,Tonpular XL 75mg capsules (Wockhardt UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.88954E+15,Mentaven XL 75mg capsules (Arrow Generics Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.89634E+15,Depefex XL 75mg capsules (Chiesi Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-8.26554E+15,Bonilux XL 75mg capsules (Sandoz Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.29011E+16,Majoven XL 75mg capsules (Bristol Laboratories Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.29863E+16,Apclaven XL 75mg capsules (Torrent Pharma (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.26416E+16,Venzip XL 75mg capsules (Milpharm Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.21948E+16,Vencarm XL 75mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.23899E+16,Venlasov XL 75mg capsules (Sovereign Medical Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-9.30074E+15,Amphero XL 75mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-8.26564E+15,Bonilux XL 150mg capsules (Sandoz Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.88964E+15,Mentaven XL 150mg capsules (Arrow Generics Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.57474E+15,Tonpular XL 150mg capsules (Wockhardt UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.81264E+15,Venlablue XL 150mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.81314E+15,Alventa XL 150mg capsules (Consilient Health Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.32904E+15,Ranfaxine XL 150mg capsules (Ranbaxy (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-6.02964E+15,Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.89644E+15,Depefex XL 150mg capsules (Chiesi Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.23414E+15,Foraven XL 150mg capsules (Forum Products Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-4.93674E+15,Venaxx XL 150mg capsules (Advanz Pharma) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-4.95794E+15,Politid XL 150mg capsules (Actavis UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-4.93714E+15,Vaxalin XL 150mg capsules (Ratiopharm UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-4.82454E+15,Winfex XL 150mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-4.81854E+15,Trixat XL 150mg capsules (PLIVA Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-4.81734E+15,Rodomel XL 150mg capsules (Teva UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-4.89964E+15,Vensir XL 150mg capsules (Morningside Healthcare Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-4.89724E+15,Tardcaps XL 150mg capsules (IXL Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-4.81764E+15,Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-4.89674E+15,Vexarin XL 150mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.50924E+15,Venlafaxine 150mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-4.98541E+14,Efexor XL 150mg capsules (Upjohn UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-9.30084E+15,Amphero XL 150mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.23903E+16,Venlasov XL 150mg capsules (Sovereign Medical Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.21945E+16,Vencarm XL 150mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.26415E+16,Venzip XL 150mg capsules (Milpharm Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.29864E+16,Apclaven XL 150mg capsules (Torrent Pharma (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.29012E+16,Majoven XL 150mg capsules (Bristol Laboratories Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-3.22674E+15,Duloxetine 60mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg,4030400,,,,CPRD_AURUM
-3.22694E+15,Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg,4030400,,,,CPRD_AURUM
-1.2476E+16,Depalta 60mg gastro-resistant capsules (Disposable Medical Equipment Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg,,,,,CPRD_AURUM
-1.29895E+16,Dutor 60mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg,,,,,CPRD_AURUM
-1.07019E+16,Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg,,,,,CPRD_AURUM
-3.22664E+15,Duloxetine 30mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg,4030400,,,,CPRD_AURUM
-3.22684E+15,Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg,4030400,,,,CPRD_AURUM
-1.07018E+16,Duciltia 30mg gastro-resistant capsules (Aristo Pharma Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg,,,,,CPRD_AURUM
-1.29894E+16,Dutor 30mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg,,,,,CPRD_AURUM
-1.24759E+16,Depalta 30mg gastro-resistant capsules (Disposable Medical Equipment Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg,,,,,CPRD_AURUM
-3.17764E+15,Duloxetine 20mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 20.000mg,7040200,,,,CPRD_AURUM
-3.17784E+15,Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 20.000mg,7040200,,,,CPRD_AURUM
-1.29892E+16,Dutor 20mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 20.000mg,,,,,CPRD_AURUM
-3.17794E+15,Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 40.000mg,7040200,,,,CPRD_AURUM
-3.17774E+15,Duloxetine 40mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 40.000mg,7040200,,,,CPRD_AURUM
-1.29893E+16,Dutor 40mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 40.000mg,,,,,CPRD_AURUM
-4.49854E+15,Venlafaxine 37.5mg/5ml oral suspension Oral suspension Oral Venlafaxine hydrochloride 7.500mg/1.000ml,,,,,CPRD_AURUM
-6.00044E+15,Venlafaxine 37.5mg/5ml oral solution Oral solution Oral Venlafaxine hydrochloride 7.500mg/1.000ml,,,,,CPRD_AURUM
-5.00804E+15,Venlafaxine 75mg/5ml oral solution Oral solution Oral Venlafaxine hydrochloride 15.000mg/1.000ml,,,,,CPRD_AURUM
-8.86794E+15,Venlafaxine 75mg/5ml oral suspension Oral suspension Oral Venlafaxine hydrochloride 15.000mg/1.000ml,,,,,CPRD_AURUM
-4.82364E+15,Venlafaxine 150mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-4.82384E+15,ViePax XL 150mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-5.05294E+15,Venlalic XL 150mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg,4030400,,,,CPRD_AURUM
-8.29864E+15,Sunveniz XL 150mg tablets (Sun Pharmaceutical Industries Europe B.V.) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-1.26054E+16,Venladex XL 150mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg,,,,,CPRD_AURUM
-8.29874E+15,Sunveniz XL 75mg tablets (Sun Pharmaceutical Industries Europe B.V.) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.05304E+15,Venlalic XL 75mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-4.82354E+15,Venlafaxine 75mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg,4030400,,,,CPRD_AURUM
-4.82374E+15,ViePax XL 75mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-1.26053E+16,Venladex XL 75mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg,,,,,CPRD_AURUM
-5.05274E+15,Venlafaxine 225mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg,4030400,,,,CPRD_AURUM
-5.05284E+15,Venlalic XL 225mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg,4030400,,,,CPRD_AURUM
-1.29045E+16,ViePax XL 225mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg,,,,,CPRD_AURUM
-1.26055E+16,Venladex XL 225mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg,,,,,CPRD_AURUM
-6.16184E+15,Venlalic XL 37.5mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-6.16174E+15,Venlafaxine 37.5mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-8.88544E+15,Venlafaxine 37.5mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-8.88554E+15,Venlablue XL 37.5mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-1.21947E+16,Vencarm XL 37.5mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-1.29862E+16,Apclaven XL 37.5mg capsules (Torrent Pharma (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-1.2901E+16,Majoven XL 37.5mg capsules (Bristol Laboratories Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg,,,,,CPRD_AURUM
-1.07301E+16,Efexor XL 225mg capsules (Upjohn UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg,,,,,CPRD_AURUM
-1.073E+16,Venlafaxine 225mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg,,,,,CPRD_AURUM
-1.16936E+16,Vensir XL 225mg capsules (Morningside Healthcare Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg,,,,,CPRD_AURUM
-1.21946E+16,Vencarm XL 225mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg,,,,,CPRD_AURUM
-1.2332E+16,Naltrexone 8mg / Bupropion 90mg modified-release tablets Modified-release tablet Oral Bupropion hydrochloride/ Naltrexone hydrochloride 90.000mg + 8.000mg,4050200,,,,CPRD_AURUM
-1.23321E+16,Mysimba 8mg/90mg modified-release tablets (Orexigen Therapeutics Ireland Ltd) Modified-release tablet Oral Bupropion hydrochloride/ Naltrexone hydrochloride 90.000mg + 8.000mg,4050200,,,,CPRD_AURUM
-2.13184E+15,Bupropion 150mg modified-release tablets Modified-release tablet Oral Bupropion hydrochloride 150.000mg,4100200,,,,CPRD_AURUM
-2.13194E+15,Zyban 150mg modified-release tablets (GlaxoSmithKline UK Ltd) Modified-release tablet Oral Bupropion hydrochloride 150.000mg,4100200,,,,CPRD_AURUM
-1.33184E+16,Venlalic XL 300mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 300.000mg,,,,,CPRD_AURUM
-1.33183E+16,Venlafaxine 300mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 300.000mg,,,,,CPRD_AURUM
-1.37396E+16,Bupropion 150mg modified-release tablets (Imported) Bupropion 150mg modified-release tablets Modified-release tablet  Bupropion hydrochloride 150.000mg,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"1512241000033119","Venlafaxine 37.5mg tablets Tablet Oral Venlafaxine hydrochloride 37.500mg","4030400",,,,"2325821","CPRD_AURUM"
+"499041000033111","Efexor 37.5mg tablets (Wyeth Pharmaceuticals) Tablet Oral Venlafaxine hydrochloride 37.500mg",,,,,"56575","CPRD_AURUM"
+"4897041000033116","ViePax 37.5mg tablets (Dexcel-Pharma Ltd) Tablet Oral Venlafaxine hydrochloride 37.500mg",,,,,"904","CPRD_AURUM"
+"4896941000033117","ViePax 75mg tablets (Dexcel-Pharma Ltd) Tablet Oral Venlafaxine hydrochloride 75.000mg",,,,,"872","CPRD_AURUM"
+"499141000033110","Efexor 75mg tablets (Wyeth Pharmaceuticals) Tablet Oral Venlafaxine hydrochloride 75.000mg",,,,,"27303","CPRD_AURUM"
+"1512341000033112","Venlafaxine 75mg tablets Tablet Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"2326033","CPRD_AURUM"
+"1512441000033118","Venlafaxine 50mg tablets Tablet Oral Venlafaxine hydrochloride 50.000mg",,,,,"21970","CPRD_AURUM"
+"499241000033115","Efexor 50mg tablets (Wyeth Pharmaceuticals) Tablet Oral Venlafaxine hydrochloride 50.000mg",,,,,"2189","CPRD_AURUM"
+"498441000033112","Efexor XL 75mg capsules (Upjohn UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"171387","CPRD_AURUM"
+"1509341000033117","Venlafaxine 75mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"3305669","CPRD_AURUM"
+"4817741000033119","Tifaxin XL 75mg capsules (Genus Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"123","CPRD_AURUM"
+"4897141000033117","Tardcaps XL 75mg capsules (IXL Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"142","CPRD_AURUM"
+"4896841000033113","Vexarin XL 75mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"87","CPRD_AURUM"
+"4899541000033115","Vensir XL 75mg capsules (Morningside Healthcare Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"426557","CPRD_AURUM"
+"4817441000033114","Rodomel XL 75mg capsules (Teva UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"1507","CPRD_AURUM"
+"4818641000033112","Trixat XL 75mg capsules (PLIVA Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"0","CPRD_AURUM"
+"4824641000033113","Winfex XL 75mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"4","CPRD_AURUM"
+"4937041000033115","Vaxalin XL 75mg capsules (Ratiopharm UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"2","CPRD_AURUM"
+"4936641000033111","Venaxx XL 75mg capsules (Advanz Pharma) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"74556","CPRD_AURUM"
+"4957841000033111","Politid XL 75mg capsules (Actavis UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"174","CPRD_AURUM"
+"5234041000033119","Foraven XL 75mg capsules (Forum Products Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"10","CPRD_AURUM"
+"6029741000033113","Venlaneo XL 75mg capsules (Kent Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"14","CPRD_AURUM"
+"5328941000033119","Ranfaxine XL 75mg capsules (Ranbaxy (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"1","CPRD_AURUM"
+"5813341000033119","Alventa XL 75mg capsules (Consilient Health Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"884","CPRD_AURUM"
+"5812541000033115","Venlablue XL 75mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"32856","CPRD_AURUM"
+"5574641000033117","Tonpular XL 75mg capsules (Wockhardt UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"790","CPRD_AURUM"
+"5889541000033114","Mentaven XL 75mg capsules (Arrow Generics Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"0","CPRD_AURUM"
+"5896341000033112","Depefex XL 75mg capsules (Chiesi Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"15395","CPRD_AURUM"
+"8265541000033112","Bonilux XL 75mg capsules (Sandoz Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"1","CPRD_AURUM"
+"12901141000033114","Majoven XL 75mg capsules (Bristol Laboratories Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"1","CPRD_AURUM"
+"12986341000033115","Apclaven XL 75mg capsules (Torrent Pharma (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"0","CPRD_AURUM"
+"12641641000033114","Venzip XL 75mg capsules (Milpharm Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"25","CPRD_AURUM"
+"12194841000033116","Vencarm XL 75mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"21056","CPRD_AURUM"
+"12389941000033119","Venlasov XL 75mg capsules (Sovereign Medical Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"43","CPRD_AURUM"
+"9300741000033116","Amphero XL 75mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 75.000mg",,,,,"4","CPRD_AURUM"
+"8265641000033113","Bonilux XL 150mg capsules (Sandoz Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"13","CPRD_AURUM"
+"5889641000033110","Mentaven XL 150mg capsules (Arrow Generics Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"3","CPRD_AURUM"
+"5574741000033114","Tonpular XL 150mg capsules (Wockhardt UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"902","CPRD_AURUM"
+"5812641000033119","Venlablue XL 150mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"43048","CPRD_AURUM"
+"5813141000033117","Alventa XL 150mg capsules (Consilient Health Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"670","CPRD_AURUM"
+"5329041000033111","Ranfaxine XL 150mg capsules (Ranbaxy (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"2","CPRD_AURUM"
+"6029641000033116","Venlaneo XL 150mg capsules (Kent Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"85","CPRD_AURUM"
+"5896441000033118","Depefex XL 150mg capsules (Chiesi Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"13496","CPRD_AURUM"
+"5234141000033115","Foraven XL 150mg capsules (Forum Products Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"2","CPRD_AURUM"
+"4936741000033119","Venaxx XL 150mg capsules (Advanz Pharma) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"74413","CPRD_AURUM"
+"4957941000033115","Politid XL 150mg capsules (Actavis UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"180","CPRD_AURUM"
+"4937141000033116","Vaxalin XL 150mg capsules (Ratiopharm UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"4","CPRD_AURUM"
+"4824541000033112","Winfex XL 150mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"0","CPRD_AURUM"
+"4818541000033111","Trixat XL 150mg capsules (PLIVA Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"0","CPRD_AURUM"
+"4817341000033115","Rodomel XL 150mg capsules (Teva UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"1403","CPRD_AURUM"
+"4899641000033119","Vensir XL 150mg capsules (Morningside Healthcare Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"534895","CPRD_AURUM"
+"4897241000033112","Tardcaps XL 150mg capsules (IXL Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"68","CPRD_AURUM"
+"4817641000033111","Tifaxin XL 150mg capsules (Genus Pharmaceuticals Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"172","CPRD_AURUM"
+"4896741000033115","Vexarin XL 150mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"91","CPRD_AURUM"
+"1509241000033110","Venlafaxine 150mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"2455615","CPRD_AURUM"
+"498541000033113","Efexor XL 150mg capsules (Upjohn UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"103401","CPRD_AURUM"
+"9300841000033114","Amphero XL 150mg capsules (Mylan) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"10","CPRD_AURUM"
+"12390341000033114","Venlasov XL 150mg capsules (Sovereign Medical Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"85","CPRD_AURUM"
+"12194541000033118","Vencarm XL 150mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"23732","CPRD_AURUM"
+"12641541000033113","Venzip XL 150mg capsules (Milpharm Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"61","CPRD_AURUM"
+"12986441000033114","Apclaven XL 150mg capsules (Torrent Pharma (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"0","CPRD_AURUM"
+"12901241000033119","Majoven XL 150mg capsules (Bristol Laboratories Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 150.000mg",,,,,"6","CPRD_AURUM"
+"3226741000033119","Duloxetine 60mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg","4030400",,,,"3263461","CPRD_AURUM"
+"3226941000033116","Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg","4030400",,,,"73357","CPRD_AURUM"
+"12476041000033112","Depalta 60mg gastro-resistant capsules (Disposable Medical Equipment Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg",,,,,"26187","CPRD_AURUM"
+"12989541000033119","Dutor 60mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg",,,,,"0","CPRD_AURUM"
+"10701941000033111","Duciltia 60mg gastro-resistant capsules (Aristo Pharma Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 60.000mg",,,,,"61","CPRD_AURUM"
+"3226641000033111","Duloxetine 30mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg","4030400",,,,"1585013","CPRD_AURUM"
+"3226841000033112","Cymbalta 30mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg","4030400",,,,"32084","CPRD_AURUM"
+"10701841000033115","Duciltia 30mg gastro-resistant capsules (Aristo Pharma Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg",,,,,"42","CPRD_AURUM"
+"12989441000033115","Dutor 30mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg",,,,,"1","CPRD_AURUM"
+"12475941000033119","Depalta 30mg gastro-resistant capsules (Disposable Medical Equipment Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 30.000mg",,,,,"9483","CPRD_AURUM"
+"3177641000033112","Duloxetine 20mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 20.000mg","7040200",,,,"374047","CPRD_AURUM"
+"3177841000033113","Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 20.000mg","7040200",,,,"8671","CPRD_AURUM"
+"12989241000033116","Dutor 20mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 20.000mg",,,,,"0","CPRD_AURUM"
+"3177941000033117","Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 40.000mg","7040200",,,,"6925","CPRD_AURUM"
+"3177741000033115","Duloxetine 40mg gastro-resistant capsules Gastro-resistant capsule Oral Duloxetine hydrochloride 40.000mg","7040200",,,,"254577","CPRD_AURUM"
+"12989341000033114","Dutor 40mg gastro-resistant capsules (Torrent Pharma (UK) Ltd) Gastro-resistant capsule Oral Duloxetine hydrochloride 40.000mg",,,,,"0","CPRD_AURUM"
+"4498541000033116","Venlafaxine 37.5mg/5ml oral suspension Oral suspension Oral Venlafaxine hydrochloride 7.500mg/1.000ml",,,,,"1903","CPRD_AURUM"
+"6000441000033115","Venlafaxine 37.5mg/5ml oral solution Oral solution Oral Venlafaxine hydrochloride 7.500mg/1.000ml",,,,,"566","CPRD_AURUM"
+"5008041000033112","Venlafaxine 75mg/5ml oral solution Oral solution Oral Venlafaxine hydrochloride 15.000mg/1.000ml",,,,,"2487","CPRD_AURUM"
+"8867941000033118","Venlafaxine 75mg/5ml oral suspension Oral suspension Oral Venlafaxine hydrochloride 15.000mg/1.000ml",,,,,"239","CPRD_AURUM"
+"4823641000033111","Venlafaxine 150mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"1267555","CPRD_AURUM"
+"4823841000033112","ViePax XL 150mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg",,,,,"38478","CPRD_AURUM"
+"5052941000033116","Venlalic XL 150mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg","4030400",,,,"322784","CPRD_AURUM"
+"8298641000033115","Sunveniz XL 150mg tablets (Sun Pharmaceutical Industries Europe B.V.) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg",,,,,"607","CPRD_AURUM"
+"12605441000033117","Venladex XL 150mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 150.000mg",,,,,"228","CPRD_AURUM"
+"8298741000033112","Sunveniz XL 75mg tablets (Sun Pharmaceutical Industries Europe B.V.) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg",,,,,"743","CPRD_AURUM"
+"5053041000033114","Venlalic XL 75mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"272609","CPRD_AURUM"
+"4823541000033110","Venlafaxine 75mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg","4030400",,,,"1118702","CPRD_AURUM"
+"4823741000033119","ViePax XL 75mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg",,,,,"37075","CPRD_AURUM"
+"12605341000033111","Venladex XL 75mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 75.000mg",,,,,"223","CPRD_AURUM"
+"5052741000033119","Venlafaxine 225mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg","4030400",,,,"662556","CPRD_AURUM"
+"5052841000033112","Venlalic XL 225mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg","4030400",,,,"121374","CPRD_AURUM"
+"12904541000033119","ViePax XL 225mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg",,,,,"0","CPRD_AURUM"
+"12605541000033116","Venladex XL 225mg tablets (Dexcel-Pharma Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 225.000mg",,,,,"369","CPRD_AURUM"
+"6161841000033118","Venlalic XL 37.5mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 37.500mg",,,,,"31725","CPRD_AURUM"
+"6161741000033111","Venlafaxine 37.5mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 37.500mg",,,,,"167769","CPRD_AURUM"
+"8885441000033118","Venlafaxine 37.5mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg",,,,,"87178","CPRD_AURUM"
+"8885541000033117","Venlablue XL 37.5mg capsules (Zentiva) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg",,,,,"7982","CPRD_AURUM"
+"12194741000033114","Vencarm XL 37.5mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg",,,,,"9124","CPRD_AURUM"
+"12986241000033113","Apclaven XL 37.5mg capsules (Torrent Pharma (UK) Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg",,,,,"0","CPRD_AURUM"
+"12901041000033110","Majoven XL 37.5mg capsules (Bristol Laboratories Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 37.500mg",,,,,"0","CPRD_AURUM"
+"10730141000033114","Efexor XL 225mg capsules (Upjohn UK Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg",,,,,"3351","CPRD_AURUM"
+"10730041000033110","Venlafaxine 225mg modified-release capsules Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg",,,,,"53101","CPRD_AURUM"
+"11693641000033117","Vensir XL 225mg capsules (Morningside Healthcare Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg",,,,,"119331","CPRD_AURUM"
+"12194641000033117","Vencarm XL 225mg capsules (Aspire Pharma Ltd) Modified-release capsule Oral Venlafaxine hydrochloride 225.000mg",,,,,"68471","CPRD_AURUM"
+"12332041000033116","Naltrexone 8mg / Bupropion 90mg modified-release tablets Modified-release tablet Oral Bupropion hydrochloride/ Naltrexone hydrochloride 90.000mg + 8.000mg","4050200",,,,"29","CPRD_AURUM"
+"12332141000033117","Mysimba 8mg/90mg modified-release tablets (Orexigen Therapeutics Ireland Ltd) Modified-release tablet Oral Bupropion hydrochloride/ Naltrexone hydrochloride 90.000mg + 8.000mg","4050200",,,,"31","CPRD_AURUM"
+"2131841000033111","Bupropion 150mg modified-release tablets Modified-release tablet Oral Bupropion hydrochloride 150.000mg","4100200",,,,"334923","CPRD_AURUM"
+"2131941000033115","Zyban 150mg modified-release tablets (GlaxoSmithKline UK Ltd) Modified-release tablet Oral Bupropion hydrochloride 150.000mg","4100200",,,,"71478","CPRD_AURUM"
+"13318441000033113","Venlalic XL 300mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Venlafaxine hydrochloride 300.000mg",,,,,"603","CPRD_AURUM"
+"13318341000033119","Venlafaxine 300mg modified-release tablets Modified-release tablet Oral Venlafaxine hydrochloride 300.000mg",,,,,"4237","CPRD_AURUM"
+"13739641000033110","Bupropion 150mg modified-release tablets (Imported) Bupropion 150mg modified-release tablets Modified-release tablet  Bupropion hydrochloride 150.000mg",,,,,"1","CPRD_AURUM"
