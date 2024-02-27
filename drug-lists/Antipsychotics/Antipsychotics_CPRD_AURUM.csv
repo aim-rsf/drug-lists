@@ -1,501 +1,501 @@
-DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
-8.88244E+15,Chlorpromazine Hydrochloride Suppositories 25 mg    ,,,,,CPRD_AURUM
-5.84741E+14,Fluphenazine Enanthate Injection 25 mg/ml    ,,,,,CPRD_AURUM
-6.61641E+14,Haldol Oral liquid conc. 10 mg/ml    ,,,,,CPRD_AURUM
-1.27794E+15,"Seroquel Tablets (starter pack) 6 x 25 mg, 2 x 100 mg    ",,,,,CPRD_AURUM
-1.06714E+15,Pericyazine Tablets 25 mg    ,,,,,CPRD_AURUM
-1.11404E+15,Prochlorperazine Mesylate Eff sachets Sugar Free 5 mg/sachet    ,,,,,CPRD_AURUM
-1.11654E+15,Prochlorperazine Mesylate Injection 25 mg/2 ml    ,,,,,CPRD_AURUM
-1.46204E+15,Trifluoperazine Liquid 10mg/ml    ,,,,,CPRD_AURUM
-1.46784E+15,Trimeprazine Tartrate Syrup forte 30 mg/5 ml    ,,,,,CPRD_AURUM
-6.59241E+14,Haloperidol Elixir 2 mg/5 ml    ,,,,,CPRD_AURUM
-9.02641E+14,Methotrimeprazine Maleate Tablets 25 mg    ,,,,,CPRD_AURUM
-1.01634E+15,Orap Tablets 10 mg    ,,,,,CPRD_AURUM
-1.37964E+15,Stemetil Injection 12.5 mg/ml    ,,,,,CPRD_AURUM
-1.26964E+15,Serenace Elixir 2 mg/5 ml    ,,,,,CPRD_AURUM
-1.12774E+15,Prochlorperazine Maleate Spansules 10 mg    ,,,,,CPRD_AURUM
-4.85041E+14,Droperidol Tablets 10 mg    ,,,,,CPRD_AURUM
-2.42341E+14,Chlorpromazine Hydrochloride Injection 25 mg/ml    ,,,,,CPRD_AURUM
-4.20041E+14,Depixol Injection 200 mg/10 ml    ,,,,,CPRD_AURUM
-4.20341E+14,Depixol Injection (syringe) 40 mg/2 ml    ,,,,,CPRD_AURUM
-6.59941E+14,Haloperidol Injection 5 mg/ml    ,,,,,CPRD_AURUM
-8.85941E+14,"Methotrimeprazine Hydrochloride Injection 25mg/ml, 1 ml ampoule    ",,,,,CPRD_AURUM
-9.65741E+14,Neulactil Tablets 25 mg    ,,,,,CPRD_AURUM
-1.11754E+15,Promazine Hydrochloride Injection 50 mg/ml    ,,,,,CPRD_AURUM
-1.45984E+15,Trifluoperazine Injection 1 mg/ml    ,,,,,CPRD_AURUM
-1.83294E+15,"Seroquel Tablets (starter pack) 6x25 mg, 2x100 mg, 2x150 mg    ",,,,,CPRD_AURUM
-1.13424E+15,Promazine Hydrochloride Tablets 100 mg    ,,,,,CPRD_AURUM
-2.73064E+15,Promazine Hydrochloride Syrup 50 mg/5 ml    ,,,,,CPRD_AURUM
-4.20541E+14,Depixol Conc. Injection 500 mg/5 ml    ,,,,,CPRD_AURUM
-4.83141E+14,Droperidol Injection 5mg/ml    ,,,,,CPRD_AURUM
-1.12784E+15,Prochlorperazine Maleate Spansules 15 mg    ,,,,,CPRD_AURUM
-1.12914E+15,Promazine Hydrochloride Suspension 50 mg/5 ml    ,,,,,CPRD_AURUM
-8.13341E+14,Largactil Suppositories 100 mg    ,,,,,CPRD_AURUM
-1.09084E+15,Pimozide Tablets 10 mg    ,,,,,CPRD_AURUM
-4.14844E+15,Chlorpromazine Capsules 10 mg    ,,,,,CPRD_AURUM
-2.46541E+14,Chlorpromazine Hydrochloride Suppositories 100 mg    ,,,,,CPRD_AURUM
-2.47241E+14,Chlorpromazine Hydrochloride Syrup 25 mg/5 ml    ,,,,,CPRD_AURUM
-4.76641E+14,Dozic Liquid 2mg/ml    ,,,,,CPRD_AURUM
-4.83541E+14,Droperidol Liquid 1mg/ml    ,,,,,CPRD_AURUM
-6.60441E+14,Haloperidol Liquid 2mg/ml    ,,,,,CPRD_AURUM
-6.61441E+14,Haloperidol Oral liquid conc. 10 mg/ml    ,,,,,CPRD_AURUM
-1.37924E+15,Stelazine Injection 1 mg/ml    ,,,,,CPRD_AURUM
-1.12994E+15,Prochlorperazine Mesylate Syrup 5 mg/5 ml    ,,,,,CPRD_AURUM
-1.47104E+15,Trimeprazine Tartrate Tablets 10 mg    ,,,,,CPRD_AURUM
-2.42241E+14,Chlorpromazine Hydrochloride Injection 100 mg/5 ml    ,,,,,CPRD_AURUM
-4.20241E+14,Depixol Injection (syringe) 20 mg/1 ml    ,,,,,CPRD_AURUM
-6.60041E+14,Haldol Injection 5 mg/ml    ,,,,,CPRD_AURUM
-1.38144E+15,Stelazine Liquid 10mg/ml    ,,,,,CPRD_AURUM
-9.26041E+14,Moditen Enanthate Injection 25 mg/ml    ,,,,,CPRD_AURUM
-1.37904E+15,Stemetil Injection 25 mg/2 ml    ,,,,,CPRD_AURUM
-1.11644E+15,Prochlorperazine Mesylate Injection 12.5 mg/1 ml ampoule    ,,,,,CPRD_AURUM
-1.11694E+15,Prochlorperazine Maleate Injection 12.5 mg/ml    ,,,,,CPRD_AURUM
-1.46774E+15,Trimeprazine Tartrate Syrup 7.5 mg/5 ml    ,,,,,CPRD_AURUM
-2.65374E+15,Methotrimeprazine Maleate Tablets 6 mg    ,,,,,CPRD_AURUM
-2.21674E+15,Solian 400 tablets (Sanofi) Tablet Oral Amisulpride 400.000mg,4020100,,,,CPRD_AURUM
-2.21664E+15,Amisulpride 400mg tablets Tablet Oral Amisulpride 400.000mg,4020100,,,,CPRD_AURUM
-8.15741E+14,Largactil 10mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 10.000mg,,,,,CPRD_AURUM
-2.49041E+14,Chlorpromazine 10mg tablets Tablet Oral Chlorpromazine hydrochloride 10.000mg,4060000,,,,CPRD_AURUM
-2.49241E+14,Chlorpromazine 25mg tablets Tablet Oral Chlorpromazine hydrochloride 25.000mg,4060000,,,,CPRD_AURUM
-8.15941E+14,Largactil 25mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 25.000mg,,,,,CPRD_AURUM
-8.16041E+14,Largactil 50mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 50.000mg,,,,,CPRD_AURUM
-2.49341E+14,Chlorpromazine 50mg tablets Tablet Oral Chlorpromazine hydrochloride 50.000mg,4060000,,,,CPRD_AURUM
-2.49141E+14,Chlorpromazine 100mg tablets Tablet Oral Chlorpromazine hydrochloride 100.000mg,4060000,,,,CPRD_AURUM
-8.15841E+14,Largactil 100mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 100.000mg,,,,,CPRD_AURUM
-1.26676E+16,Chlorpromazine 100mg suppositories Suppository Rectal Chlorpromazine hydrochloride 100.000mg,,,,,CPRD_AURUM
-1.45141E+14,Benperidol 250microgram tablets Tablet Oral Benperidol 250.000microgram,4020100,,,,CPRD_AURUM
-2.84644E+15,Benquil 250microgram tablets (Concord Pharmaceuticals Ltd) Tablet Oral Benperidol 250.000microgram,,,,,CPRD_AURUM
-6.9041E+13,Anquil 250microgram tablets (Kyowa Kirin Ltd) Tablet Oral Benperidol 250.000microgram,4020100,,,,CPRD_AURUM
-4.31741E+14,Depixol 3mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 3.000mg,4020100,,,,CPRD_AURUM
-3.09124E+15,Flupentixol 3mg tablets Tablet Oral Flupentixol dihydrochloride 3.000mg,4030400,,,,CPRD_AURUM
-5.95441E+14,Fluphenazine 1mg tablets Tablet Oral Fluphenazine hydrochloride 1.000mg,4020100,,,,CPRD_AURUM
-9.35041E+14,Moditen 1mg tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride 1.000mg,4020100,,,,CPRD_AURUM
-9.35141E+14,Moditen 2.5mg tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride 2.500mg,,,,,CPRD_AURUM
-5.95641E+14,Fluphenazine 2.5mg tablets Tablet Oral Fluphenazine hydrochloride 2.500mg,,,,,CPRD_AURUM
-5.95741E+14,Fluphenazine 5mg tablets Tablet Oral Fluphenazine hydrochloride 5.000mg,,,,,CPRD_AURUM
-9.35241E+14,Moditen 5mg tablets (Sanofi-Synthelabo Ltd) Tablet Oral Fluphenazine hydrochloride 5.000mg,,,,,CPRD_AURUM
-1.27594E+15,Serenace 1.5mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 1.500mg,4090300,,,,CPRD_AURUM
-6.62341E+14,Haloperidol 1.5mg tablets Tablet Oral Haloperidol 1.500mg,4090300,,,,CPRD_AURUM
-6.62541E+14,Haloperidol 5mg tablets Tablet Oral Haloperidol 5.000mg,4090300,,,,CPRD_AURUM
-6.63541E+14,Haldol 5mg tablets (Janssen-Cilag Ltd) Tablet Oral Haloperidol 5.000mg,,,,,CPRD_AURUM
-1.27624E+15,Serenace 5mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 5.000mg,,,,,CPRD_AURUM
-6.63441E+14,Haldol 10mg tablets (Janssen-Cilag Ltd) Tablet Oral Haloperidol 10.000mg,,,,,CPRD_AURUM
-1.27604E+15,Serenace 10mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 10.000mg,4090300,,,,CPRD_AURUM
-6.63241E+14,Haloperidol 10mg tablets Tablet Oral Haloperidol 10.000mg,4090300,,,,CPRD_AURUM
-6.62441E+14,Haloperidol 20mg tablets Tablet Oral Haloperidol 20.000mg,4020100,,,,CPRD_AURUM
-1.27614E+15,Serenace 20mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 20.000mg,,,,,CPRD_AURUM
-1.26974E+15,Serenace 2mg/ml liquid (Teva UK Ltd) Oral solution Oral Haloperidol 2.000mg/1.000ml,4090300,,,,CPRD_AURUM
-6.61541E+14,Haldol 2mg/ml oral solution (Janssen-Cilag Ltd) Oral solution Oral Haloperidol 2.000mg/1.000ml,4090300,,,,CPRD_AURUM
-6.61341E+14,Haloperidol 10mg/5ml oral solution sugar free Oral solution Oral Haloperidol 2.000mg/1.000ml,4090300,,,,CPRD_AURUM
-6.58341E+14,Haloperidol 500microgram capsules Capsule Oral Haloperidol 500.000microgram,4090300,,,,CPRD_AURUM
-1.26834E+15,Serenace 500microgram capsules (Teva UK Ltd) Capsule Oral Haloperidol 500.000microgram,4090300,,,,CPRD_AURUM
-4.76541E+14,Dozic 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Haloperidol 1.000mg/1.000ml,4090300,,,,CPRD_AURUM
-6.60341E+14,Haloperidol 5mg/5ml oral solution sugar free Oral solution Oral Haloperidol 1.000mg/1.000ml,4090300,,,,CPRD_AURUM
-6.63341E+14,Haloperidol 500microgram tablets Tablet Oral Haloperidol 500.000microgram,4090300,,,,CPRD_AURUM
-3.06344E+15,Levomepromazine 25mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Levomepromazine hydrochloride 25.000mg/1.000ml,4020100,,,,CPRD_AURUM
-9.81641E+14,Nozinan 25mg/1ml solution for injection ampoules (Sanofi) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Levomepromazine hydrochloride 25.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.51274E+15,Nozinan 25mg tablets (Sanofi) Tablet Oral Levomepromazine maleate 25.000mg,4020100,,,,CPRD_AURUM
-3.06354E+15,Levomepromazine 25mg tablets Tablet Oral Levomepromazine maleate 25.000mg,4020100,,,,CPRD_AURUM
-1.06704E+15,Pericyazine 2.5mg tablets Tablet Oral Pericyazine 2.500mg,4020100,,,,CPRD_AURUM
-9.65641E+14,Neulactil 2.5mg tablets (Sanofi) Tablet Oral Pericyazine 2.500mg,,,,,CPRD_AURUM
-9.65541E+14,Neulactil 10mg tablets (Sanofi) Tablet Oral Pericyazine 10.000mg,,,,,CPRD_AURUM
-1.06674E+15,Pericyazine 10mg tablets Tablet Oral Pericyazine 10.000mg,4020100,,,,CPRD_AURUM
-1.09094E+15,Pimozide 2mg tablets Tablet Oral Pimozide 2.000mg,4020100,,,,CPRD_AURUM
-1.01644E+15,Orap 2mg tablets (Janssen-Cilag Ltd) Tablet Oral Pimozide 2.000mg,,,,,CPRD_AURUM
-1.01654E+15,Orap 4mg tablets (Eumedica Pharmaceuticals) Tablet Oral Pimozide 4.000mg,4020100,,,,CPRD_AURUM
-1.09104E+15,Pimozide 4mg tablets Tablet Oral Pimozide 4.000mg,4020100,,,,CPRD_AURUM
-1.13434E+15,Promazine 25mg tablets Tablet Oral Promazine hydrochloride 25.000mg,4020100,,,,CPRD_AURUM
-1.13444E+15,Promazine 50mg tablets Tablet Oral Promazine hydrochloride 50.000mg,4020100,,,,CPRD_AURUM
-2.64014E+15,Promazine 50mg/5ml oral solution Oral solution Oral Promazine hydrochloride 10.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.39764E+15,Sulpiride 400mg tablets Tablet Oral Sulpiride 400.000mg,4020100,,,,CPRD_AURUM
-4.79841E+14,Dolmatil 400mg tablets (Sanofi) Tablet Oral Sulpiride 400.000mg,4020100,,,,CPRD_AURUM
-4.80941E+14,Dolmatil 200mg tablets (Sanofi) Tablet Oral Sulpiride 200.000mg,4020100,,,,CPRD_AURUM
-1.39654E+15,Sulpitil 200mg tablets (Pfizer Ltd) Tablet Oral Sulpiride 200.000mg,,,,,CPRD_AURUM
-1.39644E+15,Sulpiride 200mg tablets Tablet Oral Sulpiride 200.000mg,4020100,,,,CPRD_AURUM
-3.14114E+15,Stelazine Forte 1mg/ml oral solution (Mercury Pharma Group Ltd) Oral solution Oral Trifluoperazine hydrochloride 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.46414E+15,Trifluoperazine 5mg/5ml oral solution sugar free Oral solution Oral Trifluoperazine hydrochloride 1.000mg/1.000ml,4060000,,,,CPRD_AURUM
-1.47064E+15,Trifluoperazine 1mg tablets Tablet Oral Trifluoperazine hydrochloride 1.000mg,4060000,,,,CPRD_AURUM
-1.38634E+15,Stelazine 1mg tablets (Mercury Pharma Group Ltd) Tablet Oral Trifluoperazine hydrochloride 1.000mg,4060000,,,,CPRD_AURUM
-2.95554E+15,Terrazine 1mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Trifluoperazine hydrochloride 1.000mg,,,,,CPRD_AURUM
-2.95564E+15,Terrazine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Trifluoperazine hydrochloride 5.000mg,,,,,CPRD_AURUM
-1.38644E+15,Stelazine 5mg tablets (Mercury Pharma Group Ltd) Tablet Oral Trifluoperazine hydrochloride 5.000mg,4020100,,,,CPRD_AURUM
-1.47074E+15,Trifluoperazine 5mg tablets Tablet Oral Trifluoperazine hydrochloride 5.000mg,4020100,,,,CPRD_AURUM
-1.56414E+15,Zuclopenthixol 2mg tablets Tablet Oral Zuclopenthixol dihydrochloride 2.000mg,4020100,,,,CPRD_AURUM
-2.87041E+14,Clopixol 2mg tablets (Lundbeck Ltd) Tablet Oral Zuclopenthixol dihydrochloride 2.000mg,4020100,,,,CPRD_AURUM
-2.86941E+14,Clopixol 10mg tablets (Lundbeck Ltd) Tablet Oral Zuclopenthixol dihydrochloride 10.000mg,4020100,,,,CPRD_AURUM
-1.56404E+15,Zuclopenthixol 10mg tablets Tablet Oral Zuclopenthixol dihydrochloride 10.000mg,4020100,,,,CPRD_AURUM
-1.56424E+15,Zuclopenthixol 25mg tablets Tablet Oral Zuclopenthixol dihydrochloride 25.000mg,4020100,,,,CPRD_AURUM
-2.87141E+14,Clopixol 25mg tablets (Lundbeck Ltd) Tablet Oral Zuclopenthixol dihydrochloride 25.000mg,4020100,,,,CPRD_AURUM
-8.42041E+14,Loxapac 10mg capsules (Wyeth Pharmaceuticals) Capsule Oral Loxapine succinate 10.000mg,,,,,CPRD_AURUM
-8.40741E+14,Loxapine 10mg capsules Capsule Oral Loxapine succinate 10.000mg,,,,,CPRD_AURUM
-8.40841E+14,Loxapine 25mg capsules Capsule Oral Loxapine succinate 25.000mg,,,,,CPRD_AURUM
-8.42141E+14,Loxapac 25mg capsules (Wyeth Pharmaceuticals) Capsule Oral Loxapine succinate 25.000mg,,,,,CPRD_AURUM
-8.42241E+14,Loxapac 50mg capsules (Wyeth Pharmaceuticals) Capsule Oral Loxapine succinate 50.000mg,,,,,CPRD_AURUM
-8.40941E+14,Loxapine 50mg capsules Capsule Oral Loxapine succinate 50.000mg,,,,,CPRD_AURUM
-2.87641E+14,Clozapine 25mg tablets Tablet Oral Clozapine 25.000mg,4020100,,,,CPRD_AURUM
-2.84941E+14,Clozaril 25mg tablets (Mylan) Tablet Oral Clozapine 25.000mg,4020100,,,,CPRD_AURUM
-3.15894E+15,Denzapine 25mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 25.000mg,4020100,,,,CPRD_AURUM
-3.22634E+15,Zaponex 25mg tablets (Leyden Delta B.V.) Tablet Oral Clozapine 25.000mg,4020100,,,,CPRD_AURUM
-3.22644E+15,Zaponex 100mg tablets (Leyden Delta B.V.) Tablet Oral Clozapine 100.000mg,4020100,,,,CPRD_AURUM
-3.15904E+15,Denzapine 100mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 100.000mg,4020100,,,,CPRD_AURUM
-2.85041E+14,Clozaril 100mg tablets (Mylan) Tablet Oral Clozapine 100.000mg,4020100,,,,CPRD_AURUM
-2.87541E+14,Clozapine 100mg tablets Tablet Oral Clozapine 100.000mg,4020100,,,,CPRD_AURUM
-1.17664E+15,Risperidone 1mg tablets Tablet Oral Risperidone 1.000mg,4020100,,,,CPRD_AURUM
-1.17624E+15,Risperdal 1mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 1.000mg,4020100,,,,CPRD_AURUM
-1.17634E+15,Risperdal 2mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 2.000mg,4020100,,,,CPRD_AURUM
-1.17674E+15,Risperidone 2mg tablets Tablet Oral Risperidone 2.000mg,4020100,,,,CPRD_AURUM
-1.17684E+15,Risperidone 3mg tablets Tablet Oral Risperidone 3.000mg,4020100,,,,CPRD_AURUM
-1.17644E+15,Risperdal 3mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 3.000mg,4020100,,,,CPRD_AURUM
-1.17654E+15,Risperdal 4mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 4.000mg,4020100,,,,CPRD_AURUM
-1.17694E+15,Risperidone 4mg tablets Tablet Oral Risperidone 4.000mg,4020100,,,,CPRD_AURUM
-1.17394E+15,Risperidone 1mg/ml oral solution sugar free Oral solution Oral Risperidone 1.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.17384E+15,Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd) Oral solution Oral Risperidone 1.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.17764E+15,Risperdal 6mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 6.000mg,4020100,,,,CPRD_AURUM
-1.17774E+15,Risperidone 6mg tablets Tablet Oral Risperidone 6.000mg,4020100,,,,CPRD_AURUM
-2.18824E+15,Risperidone 500microgram tablets Tablet Oral Risperidone 500.000microgram,4020100,,,,CPRD_AURUM
-2.18814E+15,Risperdal 500microgram tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 500.000microgram,4020100,,,,CPRD_AURUM
-1.56524E+15,Zyprexa 5mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 5.000mg,4020100,,,,CPRD_AURUM
-1.00374E+15,Olanzapine 5mg tablets Tablet Oral Olanzapine 5.000mg,4020100,,,,CPRD_AURUM
-6.45714E+15,Zalasta 5mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 5.000mg,,,,,CPRD_AURUM
-6.45724E+15,Zalasta 7.5mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 7.500mg,,,,,CPRD_AURUM
-1.00384E+15,Olanzapine 7.5mg tablets Tablet Oral Olanzapine 7.500mg,4020100,,,,CPRD_AURUM
-1.56534E+15,Zyprexa 7.5mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 7.500mg,4020100,,,,CPRD_AURUM
-1.56514E+15,Zyprexa 10mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 10.000mg,4020100,,,,CPRD_AURUM
-1.00364E+15,Olanzapine 10mg tablets Tablet Oral Olanzapine 10.000mg,4020100,,,,CPRD_AURUM
-6.45674E+15,Zalasta 10mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 10.000mg,,,,,CPRD_AURUM
-6.45694E+15,Zalasta 2.5mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 2.500mg,,,,,CPRD_AURUM
-1.66114E+15,Olanzapine 2.5mg tablets Tablet Oral Olanzapine 2.500mg,4020100,,,,CPRD_AURUM
-1.71394E+15,Zyprexa 2.5mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 2.500mg,4020100,,,,CPRD_AURUM
-2.07794E+15,Zyprexa 5mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 5.000mg,4020100,,,,CPRD_AURUM
-2.07774E+15,Olanzapine 5mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 5.000mg,4020100,,,,CPRD_AURUM
-2.07784E+15,Olanzapine 10mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 10.000mg,4020100,,,,CPRD_AURUM
-2.07804E+15,Zyprexa 10mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 10.000mg,4020100,,,,CPRD_AURUM
-1.27784E+15,Seroquel 25mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 25.000mg,4020100,,,,CPRD_AURUM
-1.27764E+15,Seroquel 100mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 100.000mg,4020100,,,,CPRD_AURUM
-1.27774E+15,Seroquel 200mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 200.000mg,4020100,,,,CPRD_AURUM
-1.84474E+15,Seroquel 150mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 150.000mg,4020100,,,,CPRD_AURUM
-1.36674E+15,Solian 50 tablets (Sanofi) Tablet Oral Amisulpride 50.000mg,4020100,,,,CPRD_AURUM
-5.9041E+13,Amisulpride 50mg tablets Tablet Oral Amisulpride 50.000mg,4020100,,,,CPRD_AURUM
-5.8941E+13,Amisulpride 200mg tablets Tablet Oral Amisulpride 200.000mg,4020100,,,,CPRD_AURUM
-1.36664E+15,Solian 200 tablets (Sanofi) Tablet Oral Amisulpride 200.000mg,4020100,,,,CPRD_AURUM
-9.38841E+14,Motipress tablets (Sanofi-Synthelabo Ltd) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 1.500mg + 30.000mg,,,,,CPRD_AURUM
-9.38941E+14,Motival 10mg/500microgram tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg,,,,,CPRD_AURUM
-3.17994E+15,Nortriptyline 10mg / Fluphenazine 500microgram tablets Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg,,,,,CPRD_AURUM
-3.09114E+15,Flupentixol 500microgram tablets Tablet Oral Flupentixol dihydrochloride 500.000microgram,4030400,,,,CPRD_AURUM
-5.93541E+14,Fluanxol 500microgram tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 500.000microgram,4030400,,,,CPRD_AURUM
-5.93441E+14,Fluanxol 1mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 1.000mg,4030400,,,,CPRD_AURUM
-3.09104E+15,Flupentixol 1mg tablets Tablet Oral Flupentixol dihydrochloride 1.000mg,4030400,,,,CPRD_AURUM
-3.10884E+15,Prochlorperazine 5mg effervescent granules sachets sugar free Effervescent granules Oral Prochlorperazine mesilate 5.000mg,,,,,CPRD_AURUM
-1.38424E+15,Stemetil Eff 5mg sachets (Sanofi) Effervescent granules Oral Prochlorperazine mesilate 5.000mg,,,,,CPRD_AURUM
-2.96914E+15,Buccastem M 3mg tablets (Alliance Pharmaceuticals Ltd) Buccal tablet Buccal Prochlorperazine maleate 3.000mg,4060000,,,,CPRD_AURUM
-1.73841E+14,Buccastem 3mg tablets (Alliance Pharmaceuticals Ltd) Buccal tablet Buccal Prochlorperazine maleate 3.000mg,4060000,,,,CPRD_AURUM
-1.13984E+15,Prochlorperazine 3mg buccal tablets Buccal tablet Buccal Prochlorperazine maleate 3.000mg,4060000,,,,CPRD_AURUM
-1.13364E+15,Prochlorperazine 5mg tablets Tablet Oral Prochlorperazine maleate 5.000mg,4060000,,,,CPRD_AURUM
-1.38664E+15,Stemetil 5mg tablets (Sanofi) Tablet Oral Prochlorperazine maleate 5.000mg,4060000,,,,CPRD_AURUM
-1.13094E+15,Proziere 5mg tablets (Ashbourne Pharmaceuticals Ltd) Tablet Oral Prochlorperazine maleate 5.000mg,4060000,,,,CPRD_AURUM
-1.38654E+15,Stemetil 25mg tablets (Sanofi) Tablet Oral Prochlorperazine maleate 25.000mg,4060000,,,,CPRD_AURUM
-1.13354E+15,Prochlorperazine 25mg tablets Tablet Oral Prochlorperazine maleate 25.000mg,4060000,,,,CPRD_AURUM
-1.12874E+15,Prochlorperazine 5mg suppositories Suppository Rectal Prochlorperazine maleate 5.000mg,,,,,CPRD_AURUM
-1.38584E+15,Stemetil 5mg suppositories (Sanofi) Suppository Rectal Prochlorperazine maleate 5.000mg,,,,,CPRD_AURUM
-1.38574E+15,Stemetil 25mg suppositories (Sanofi) Suppository Rectal Prochlorperazine maleate 25.000mg,,,,,CPRD_AURUM
-1.12864E+15,Prochlorperazine 25mg suppositories Suppository Rectal Prochlorperazine maleate 25.000mg,,,,,CPRD_AURUM
-2.76034E+15,Tranquilyn 10mg tablets (Genesis Pharmaceuticals Ltd) Tablet Oral Methylphenidate hydrochloride 10.000mg,,,,,CPRD_AURUM
-2.76024E+15,Tranquilyn 5mg tablets (Genesis Pharmaceuticals Ltd) Tablet Oral Methylphenidate hydrochloride 5.000mg,,,,,CPRD_AURUM
-2.76044E+15,Tranquilyn 20mg tablets (Genesis Pharmaceuticals Ltd) Tablet Oral Methylphenidate hydrochloride 20.000mg,,,,,CPRD_AURUM
-8.88594E+15,Chlorpromazine 25mg suppositories Suppository Rectal Chlorpromazine hydrochloride 25.000mg,,,,,CPRD_AURUM
-3.99624E+15,Olanzapine 20mg tablets Tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-3.99634E+15,Zyprexa 20mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-6.45704E+15,Zalasta 20mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-2.75964E+15,Olanzapine 15mg tablets Tablet Oral Olanzapine 15.000mg,4020100,,,,CPRD_AURUM
-2.75984E+15,Zyprexa 15mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 15.000mg,4020100,,,,CPRD_AURUM
-6.45684E+15,Zalasta 15mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 15.000mg,,,,,CPRD_AURUM
-3.86654E+15,Olanzapine 20mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-3.86664E+15,Zyprexa 20mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-2.83524E+15,Solian 100 tablets (Sanofi) Tablet Oral Amisulpride 100.000mg,4020100,,,,CPRD_AURUM
-2.83514E+15,Amisulpride 100mg tablets Tablet Oral Amisulpride 100.000mg,4020100,,,,CPRD_AURUM
-3.22534E+15,Abilify 5mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 5.000mg,4020100,,,,CPRD_AURUM
-3.22524E+15,Aripiprazole 5mg tablets Tablet Oral Aripiprazole 5.000mg,4020100,,,,CPRD_AURUM
-1.29903E+16,Arpoya 5mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 5.000mg,,,,,CPRD_AURUM
-3.13754E+15,Aripiprazole 10mg tablets Tablet Oral Aripiprazole 10.000mg,4020100,,,,CPRD_AURUM
-3.13784E+15,Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 10.000mg,4020100,,,,CPRD_AURUM
-1.29904E+16,Arpoya 10mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 10.000mg,,,,,CPRD_AURUM
-3.13794E+15,Abilify 15mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 15.000mg,4020100,,,,CPRD_AURUM
-3.13764E+15,Aripiprazole 15mg tablets Tablet Oral Aripiprazole 15.000mg,4020100,,,,CPRD_AURUM
-1.29905E+16,Arpoya 15mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 15.000mg,,,,,CPRD_AURUM
-3.13774E+15,Aripiprazole 30mg tablets Tablet Oral Aripiprazole 30.000mg,4020100,,,,CPRD_AURUM
-3.13804E+15,Abilify 30mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 30.000mg,4020100,,,,CPRD_AURUM
-1.29906E+16,Arpoya 30mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 30.000mg,,,,,CPRD_AURUM
-3.95054E+15,Aripiprazole 1mg/ml oral solution Oral solution Oral Aripiprazole 1.000mg/1.000ml,4020100,,,,CPRD_AURUM
-3.95084E+15,Abilify 1mg/ml oral solution (Otsuka Pharmaceuticals (U.K.) Ltd) Oral solution Oral Aripiprazole 1.000mg/1.000ml,4020100,,,,CPRD_AURUM
-5.07824E+15,Denzapine 50mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 50.000mg,,,,,CPRD_AURUM
-5.07804E+15,Clozapine 50mg tablets Tablet Oral Clozapine 50.000mg,,,,,CPRD_AURUM
-4.59234E+15,Seroquel XL 300mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,4020100,,,,CPRD_AURUM
-8.29844E+15,Seotiapim XL 300mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-8.11314E+15,Tenprolide XL 300mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-7.68804E+15,Sondate XL 300mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-1.15794E+16,Psyquet XL 300mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-1.17821E+16,Brancico XL 300mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-1.0255E+16,Mintreleq XL 300mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-1.00414E+16,Biquelle XL 300mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-1.0042E+16,Zaluron XL 300mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-1.06153E+16,Atrolak XL 300mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-9.60594E+15,Ebesque XL 300mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg,,,,,CPRD_AURUM
-4.59224E+15,Seroquel XL 200mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,4020100,,,,CPRD_AURUM
-8.29834E+15,Seotiapim XL 200mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-8.11304E+15,Tenprolide XL 200mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-7.68794E+15,Sondate XL 200mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-1.1782E+16,Brancico XL 200mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-1.15793E+16,Psyquet XL 200mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-1.02549E+16,Mintreleq XL 200mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-1.06152E+16,Atrolak XL 200mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-1.00413E+16,Biquelle XL 200mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-1.00419E+16,Zaluron XL 200mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-9.60554E+15,Ebesque XL 200mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg,,,,,CPRD_AURUM
-7.68814E+15,Sondate XL 400mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-8.29854E+15,Seotiapim XL 400mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-8.34914E+15,Tenprolide XL 400mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-4.59244E+15,Seroquel XL 400mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,4020100,,,,CPRD_AURUM
-9.60634E+15,Ebesque XL 400mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-1.00415E+16,Biquelle XL 400mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-1.00421E+16,Zaluron XL 400mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-1.02551E+16,Mintreleq XL 400mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-1.06154E+16,Atrolak XL 400mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-1.15795E+16,Psyquet XL 400mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-1.17822E+16,Brancico XL 400mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 400.000mg,,,,,CPRD_AURUM
-2.97594E+15,Seroquel 300mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 300.000mg,4020100,,,,CPRD_AURUM
-2.75974E+15,Olanzapine 15mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 15.000mg,4020100,,,,CPRD_AURUM
-2.75994E+15,Zyprexa 15mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 15.000mg,4020100,,,,CPRD_AURUM
-2.86884E+15,Risperidone 1mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 1.000mg,4020100,,,,CPRD_AURUM
-2.86904E+15,Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 1.000mg,4020100,,,,CPRD_AURUM
-2.86914E+15,Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 2.000mg,4020100,,,,CPRD_AURUM
-2.86894E+15,Risperidone 2mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 2.000mg,4020100,,,,CPRD_AURUM
-2.77994E+15,Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Powder and solvent for suspension for injection Intramuscular Risperidone 37.500mg,4020200,,,,CPRD_AURUM
-2.78024E+15,Risperidone 37.5mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Risperidone 37.500mg,4020200,,,,CPRD_AURUM
-2.78034E+15,Risperidone 50mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Risperidone 50.000mg,4020200,,,,CPRD_AURUM
-2.78004E+15,Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Powder and solvent for suspension for injection Intramuscular Risperidone 50.000mg,4020200,,,,CPRD_AURUM
-2.77984E+15,Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Powder and solvent for suspension for injection Intramuscular Risperidone 25.000mg,4020200,,,,CPRD_AURUM
-2.78014E+15,Risperidone 25mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Risperidone 25.000mg,4020200,,,,CPRD_AURUM
-3.03094E+15,Zyprexa 10mg powder for solution for injection vials (Eli Lilly and Company Ltd) Powder for solution for injection Intramuscular Olanzapine 10.000mg,4020100,,,,CPRD_AURUM
-3.03084E+15,Olanzapine 10mg powder for solution for injection vials Powder for solution for injection Intramuscular Olanzapine 10.000mg,4020100,,,,CPRD_AURUM
-4.94014E+15,Amisulpride 25mg/5ml oral solution Oral solution Oral Amisulpride 5.000mg/1.000ml,,,,,CPRD_AURUM
-5.89094E+15,Amisulpride 25mg/5ml oral suspension Oral suspension Oral Amisulpride 5.000mg/1.000ml,,,,,CPRD_AURUM
-1.71934E+15,Chlorpromazine 100mg/5ml oral solution Oral solution Oral Chlorpromazine hydrochloride 20.000mg/1.000ml,,,,,CPRD_AURUM
-3.84944E+15,Chlorpromazine 50mg/5ml oral solution Oral solution Oral Chlorpromazine hydrochloride 10.000mg/1.000ml,,,,,CPRD_AURUM
-5.05464E+15,Haloperidol 1mg/5ml oral solution Oral solution Oral Haloperidol 200.000microgram/1.000ml,,,,,CPRD_AURUM
-5.89074E+15,Haloperidol 1mg/5ml oral suspension Oral suspension Oral Haloperidol 200.000microgram/1.000ml,,,,,CPRD_AURUM
-1.04933E+16,Haloperidol 500micrograms/5ml oral solution Oral solution Oral Haloperidol 100.000microgram/1.000ml,,,,,CPRD_AURUM
-1.04934E+16,Haloperidol 500micrograms/5ml oral suspension Oral suspension Oral Haloperidol 100.000microgram/1.000ml,,,,,CPRD_AURUM
-5.81434E+15,Levomepromazine 2.5mg/5ml oral suspension Oral suspension Oral Levomepromazine maleate 500.000microgram/1.000ml,,,,,CPRD_AURUM
-3.24614E+15,Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 500.000microgram,,,,,CPRD_AURUM
-3.24604E+15,Risperidone 500microgram orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 500.000microgram,,,,,CPRD_AURUM
-2.65384E+15,Levinan 6mg tablets (Kyowa Kirin Ltd) Tablet Oral Levomepromazine maleate 6.000mg,,,,,CPRD_AURUM
-3.06364E+15,Levomepromazine 6mg tablets Tablet Oral Levomepromazine maleate 6.000mg,,,,,CPRD_AURUM
-3.95064E+15,Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Orodispersible tablet Oral Aripiprazole 10.000mg,4020100,,,,CPRD_AURUM
-3.95034E+15,Aripiprazole 10mg orodispersible tablets sugar free Orodispersible tablet Oral Aripiprazole 10.000mg,4020100,,,,CPRD_AURUM
-3.95044E+15,Aripiprazole 15mg orodispersible tablets sugar free Orodispersible tablet Oral Aripiprazole 15.000mg,4020100,,,,CPRD_AURUM
-3.95074E+15,Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Orodispersible tablet Oral Aripiprazole 15.000mg,4020100,,,,CPRD_AURUM
-4.01224E+15,Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 3.000mg,,,,,CPRD_AURUM
-4.01204E+15,Risperidone 3mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 3.000mg,,,,,CPRD_AURUM
-4.01214E+15,Risperidone 4mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 4.000mg,,,,,CPRD_AURUM
-4.01234E+15,Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 4.000mg,,,,,CPRD_AURUM
-4.20064E+15,Paliperidone 3mg modified-release tablets Modified-release tablet Oral Paliperidone 3.000mg,4020100,,,,CPRD_AURUM
-4.20094E+15,Invega 3mg modified-release tablets (Janssen-Cilag Ltd) Modified-release tablet Oral Paliperidone 3.000mg,4020100,,,,CPRD_AURUM
-4.20104E+15,Invega 6mg modified-release tablets (Janssen-Cilag Ltd) Modified-release tablet Oral Paliperidone 6.000mg,4020100,,,,CPRD_AURUM
-4.20074E+15,Paliperidone 6mg modified-release tablets Modified-release tablet Oral Paliperidone 6.000mg,4020100,,,,CPRD_AURUM
-4.20084E+15,Paliperidone 9mg modified-release tablets Modified-release tablet Oral Paliperidone 9.000mg,4020100,,,,CPRD_AURUM
-4.20114E+15,Invega 9mg modified-release tablets (Janssen-Cilag Ltd) Modified-release tablet Oral Paliperidone 9.000mg,4020100,,,,CPRD_AURUM
-5.96944E+15,Haloperidol 1.5mg/5ml oral solution Oral solution Oral Haloperidol 300.000microgram/1.000ml,,,,,CPRD_AURUM
-5.96954E+15,Haloperidol 1.5mg/5ml oral suspension Oral suspension Oral Haloperidol 300.000microgram/1.000ml,,,,,CPRD_AURUM
-5.96964E+15,Haloperidol 250micrograms/5ml oral solution Oral solution Oral Haloperidol 50.000microgram/1.000ml,,,,,CPRD_AURUM
-5.96974E+15,Haloperidol 250micrograms/5ml oral suspension Oral suspension Oral Haloperidol 50.000microgram/1.000ml,,,,,CPRD_AURUM
-4.42454E+15,Haloperidol 5mg/5ml oral solution Oral solution Oral Haloperidol 1.000mg/1.000ml,,,,,CPRD_AURUM
-5.99354E+15,Haloperidol 5mg/5ml oral suspension Oral suspension Oral Haloperidol 1.000mg/1.000ml,,,,,CPRD_AURUM
-6.44564E+15,Levomepromazine 6mg/5ml oral suspension Oral suspension Oral Levomepromazine maleate 1.200mg/1.000ml,,,,,CPRD_AURUM
-1.17988E+16,Pimozide 2mg/5ml oral suspension Oral suspension Oral Pimozide 400.000microgram/1.000ml,,,,,CPRD_AURUM
-4.45684E+15,Abilify 9.75mg/1.3ml solution for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd) Solution for injection Intramuscular Aripiprazole 7.500mg/1.000ml,4020100,,,,CPRD_AURUM
-4.45674E+15,Aripiprazole 9.75mg/1.3ml solution for injection vials Solution for injection Intramuscular Aripiprazole 7.500mg/1.000ml,4020100,,,,CPRD_AURUM
-5.99734E+15,Olanzapine 2.5mg/5ml oral solution Oral solution Oral Olanzapine 500.000microgram/1.000ml,,,,,CPRD_AURUM
-3.89254E+15,Olanzapine 2.5mg/5ml oral suspension Oral suspension Oral Olanzapine 500.000microgram/1.000ml,,,,,CPRD_AURUM
-4.59214E+15,Seroquel XL 50mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,4020100,,,,CPRD_AURUM
-7.68784E+15,Sondate XL 50mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-8.11294E+15,Tenprolide XL 50mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-1.02547E+16,Mintreleq XL 50mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-1.00411E+16,Biquelle XL 50mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-1.00417E+16,Zaluron XL 50mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-1.06151E+16,Atrolak XL 50mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-9.60444E+15,Ebesque XL 50mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-1.15789E+16,Psyquet XL 50mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-1.17823E+16,Brancico XL 50mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 50.000mg,,,,,CPRD_AURUM
-5.05524E+15,Droperidol 2.5mg/1ml solution for injection ampoules Solution for injection Intravenous Droperidol 2.500mg/1.000ml,,,,,CPRD_AURUM
-5.05534E+15,Xomolix 2.5mg/1ml solution for injection ampoules (Kyowa Kirin Ltd) Solution for injection Intravenous Droperidol 2.500mg/1.000ml,,,,,CPRD_AURUM
-5.07794E+15,Clozapine 200mg tablets Tablet Oral Clozapine 200.000mg,,,,,CPRD_AURUM
-5.07814E+15,Denzapine 200mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 200.000mg,,,,,CPRD_AURUM
-5.07774E+15,Denzapine 50mg/ml oral suspension (Britannia Pharmaceuticals Ltd) Oral suspension Oral Clozapine 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-5.07764E+15,Clozapine 50mg/ml oral suspension sugar free Oral suspension Oral Clozapine 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-5.57574E+15,Olanzapine embonate 210mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 210.000mg,,,,,CPRD_AURUM
-5.56504E+15,Zypadhera 210mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 210.000mg,,,,,CPRD_AURUM
-5.57584E+15,Olanzapine embonate 300mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 300.000mg,,,,,CPRD_AURUM
-5.56514E+15,Zypadhera 300mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 300.000mg,,,,,CPRD_AURUM
-5.57594E+15,Olanzapine embonate 405mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 405.000mg,,,,,CPRD_AURUM
-5.56524E+15,Zypadhera 405mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 405.000mg,,,,,CPRD_AURUM
-5.90944E+15,Seroquel XL 150mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-8.24624E+15,Sondate XL 150mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.2428E+16,Atrolak XL 150mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.15792E+16,Psyquet XL 150mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.17819E+16,Brancico XL 150mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.00418E+16,Zaluron XL 150mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.00412E+16,Biquelle XL 150mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.02548E+16,Mintreleq XL 150mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg,,,,,CPRD_AURUM
-1.18767E+16,Chlorpromazine 25mg/5ml oral solution sugar free Oral solution Oral Chlorpromazine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-6.35964E+15,Paliperidone 100mg/1ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.36004E+15,Xeplion 100mg/1ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.36014E+15,Xeplion 150mg/1.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.35974E+15,Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.35944E+15,Paliperidone 50mg/0.5ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.35984E+15,Xeplion 50mg/0.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.35994E+15,Xeplion 75mg/0.75ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.35954E+15,Paliperidone 75mg/0.75ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.44334E+15,Sycrest 10mg sublingual tablets (Lundbeck Ltd) Sublingual tablet Sublingual Asenapine maleate 10.000mg,4020300,,,,CPRD_AURUM
-6.44314E+15,Asenapine 10mg sublingual tablets sugar free Sublingual tablet Sublingual Asenapine maleate 10.000mg,4020300,,,,CPRD_AURUM
-6.44304E+15,Asenapine 5mg sublingual tablets sugar free Sublingual tablet Sublingual Asenapine maleate 5.000mg,4020300,,,,CPRD_AURUM
-6.44324E+15,Sycrest 5mg sublingual tablets (Lundbeck Ltd) Sublingual tablet Sublingual Asenapine maleate 5.000mg,4020300,,,,CPRD_AURUM
-6.46604E+15,Olanzapine 10mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 10.000mg,,,,,CPRD_AURUM
-6.46534E+15,Zalasta 10mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 10.000mg,,,,,CPRD_AURUM
-6.51504E+15,Arkolamyl 10mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 10.000mg,,,,,CPRD_AURUM
-6.46614E+15,Olanzapine 15mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 15.000mg,,,,,CPRD_AURUM
-6.46544E+15,Zalasta 15mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 15.000mg,,,,,CPRD_AURUM
-6.51514E+15,Arkolamyl 15mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 15.000mg,,,,,CPRD_AURUM
-6.51524E+15,Arkolamyl 20mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-6.46554E+15,Zalasta 20mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-6.46624E+15,Olanzapine 20mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-6.46594E+15,Olanzapine 5mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 5.000mg,,,,,CPRD_AURUM
-6.46564E+15,Zalasta 5mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 5.000mg,,,,,CPRD_AURUM
-6.51494E+15,Arkolamyl 5mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 5.000mg,,,,,CPRD_AURUM
-7.68164E+15,Olanzapine 10mg orodispersible tablets Orodispersible tablet Oral Olanzapine 10.000mg,,,,,CPRD_AURUM
-7.68174E+15,Olanzapine 15mg orodispersible tablets Orodispersible tablet Oral Olanzapine 15.000mg,,,,,CPRD_AURUM
-7.68184E+15,Olanzapine 20mg orodispersible tablets Orodispersible tablet Oral Olanzapine 20.000mg,,,,,CPRD_AURUM
-7.68194E+15,Olanzapine 5mg orodispersible tablets Orodispersible tablet Oral Olanzapine 5.000mg,,,,,CPRD_AURUM
-8.88604E+15,Chlorpromazine 10mg capsules Capsule Oral Chlorpromazine hydrochloride 10.000mg,,,,,CPRD_AURUM
-8.96044E+15,Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd) Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg,4020200,,,,CPRD_AURUM
-8.96024E+15,Aripiprazole 400mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg,4020200,,,,CPRD_AURUM
-9.80894E+15,Lurasidone 18.5mg tablets Tablet Oral Lurasidone hydrochloride 18.500mg,4020100,,,,CPRD_AURUM
-9.80924E+15,Latuda 18.5mg tablets (Sunovion Pharmaceuticals Europe Ltd) Tablet Oral Lurasidone hydrochloride 18.500mg,4020100,,,,CPRD_AURUM
-9.80934E+15,Latuda 37mg tablets (Sunovion Pharmaceuticals Europe Ltd) Tablet Oral Lurasidone hydrochloride 37.000mg,4020100,,,,CPRD_AURUM
-9.80904E+15,Lurasidone 37mg tablets Tablet Oral Lurasidone hydrochloride 37.000mg,4020100,,,,CPRD_AURUM
-9.80914E+15,Lurasidone 74mg tablets Tablet Oral Lurasidone hydrochloride 74.000mg,4020100,,,,CPRD_AURUM
-9.80944E+15,Latuda 74mg tablets (Sunovion Pharmaceuticals Europe Ltd) Tablet Oral Lurasidone hydrochloride 74.000mg,4020100,,,,CPRD_AURUM
-2.75814E+15,Haloperidol 200micrograms/ml oral solution sugar free Oral solution Oral Haloperidol 200.000microgram/1.000ml,,,,,CPRD_AURUM
-1.31554E+16,Halkid 200micrograms/ml oral solution (Thame Laboratories Ltd) Oral solution Oral Haloperidol 200.000microgram/1.000ml,,,,,CPRD_AURUM
-1.09464E+16,Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes (Otsuka Pharmaceuticals (U.K.) Ltd) Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg,,,,,CPRD_AURUM
-1.09463E+16,Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg,,,,,CPRD_AURUM
-1.15837E+16,Loxapine 9.1mg/dose inhalation powder Inhalation powder Inhalation Loxapine 9.100mg,4020100,,,,CPRD_AURUM
-1.15838E+16,Adasuve 9.1mg/dose inhalation powder (Galen Ltd) Inhalation powder Inhalation Loxapine 9.100mg,4020100,,,,CPRD_AURUM
-1.16943E+16,Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.16947E+16,Trevicta 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.16948E+16,Trevicta 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.16944E+16,Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.16945E+16,Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.16949E+16,Trevicta 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.1695E+16,Trevicta 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.16946E+16,Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-2.40041E+14,Chlorpromazine 25mg/5ml oral solution Oral solution Oral Chlorpromazine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-1.18215E+16,Levomepromazine 62.5mg/5ml oral suspension Oral suspension Oral Levomepromazine maleate 12.500mg/1.000ml,,,,,CPRD_AURUM
-1.26653E+16,Cariprazine 1.5mg capsules Capsule Oral Cariprazine hydrochloride 1.500mg,,,,,CPRD_AURUM
-1.26657E+16,Reagila 1.5mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 1.500mg,,,,,CPRD_AURUM
-1.26658E+16,Reagila 3mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 3.000mg,,,,,CPRD_AURUM
-1.26654E+16,Cariprazine 3mg capsules Capsule Oral Cariprazine hydrochloride 3.000mg,,,,,CPRD_AURUM
-1.26655E+16,Cariprazine 4.5mg capsules Capsule Oral Cariprazine hydrochloride 4.500mg,,,,,CPRD_AURUM
-1.26659E+16,Reagila 4.5mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 4.500mg,,,,,CPRD_AURUM
-1.2666E+16,Reagila 6mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 6.000mg,,,,,CPRD_AURUM
-1.26656E+16,Cariprazine 6mg capsules Capsule Oral Cariprazine hydrochloride 6.000mg,,,,,CPRD_AURUM
-2.64494E+15,Solian 100mg/ml oral solution (Sanofi) Oral solution Oral Amisulpride 100.000mg/1.000ml,4020100,,,,CPRD_AURUM
-2.64484E+15,Amisulpride 100mg/ml oral solution sugar free Oral solution Oral Amisulpride 100.000mg/1.000ml,4020100,,,,CPRD_AURUM
-2.65894E+15,Sulpor 200mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Sulpiride 40.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.69844E+15,Sulpiride 200mg/5ml oral solution sugar free Oral solution Oral Sulpiride 40.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.12964E+15,Promazine 25mg/5ml oral solution Oral solution Oral Promazine hydrochloride 5.000mg/1.000ml,4020100,,,,CPRD_AURUM
-2.94404E+15,Stemetil 12.5mg/1ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Prochlorperazine mesilate 12.500mg/1.000ml,4060000,,,,CPRD_AURUM
-3.10894E+15,Prochlorperazine 12.5mg/1ml solution for injection ampoules Solution for injection Intramuscular Prochlorperazine mesilate 12.500mg/1.000ml,4060000,,,,CPRD_AURUM
-1.38604E+15,Stemetil 5mg/5ml syrup (Sanofi) Oral solution Oral Prochlorperazine mesilate 1.000mg/1.000ml,4060000,,,,CPRD_AURUM
-3.10914E+15,Prochlorperazine 5mg/5ml oral solution Oral solution Oral Prochlorperazine mesilate 1.000mg/1.000ml,4060000,,,,CPRD_AURUM
-9.65041E+14,Neulactil Forte syrup (Sanofi) Oral solution Oral Pericyazine 2.000mg/1.000ml,,,,,CPRD_AURUM
-1.06354E+15,Pericyazine 10mg/5ml oral solution Oral solution Oral Pericyazine 2.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.27154E+15,Serenace 20mg/2ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd) Solution for injection Intravenous/ Intramuscular Haloperidol 10.000mg/1.000ml,,,,,CPRD_AURUM
-6.59641E+14,Haloperidol 20mg/2ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Haloperidol 10.000mg/1.000ml,,,,,CPRD_AURUM
-2.92984E+15,Haldol 5mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intramuscular Haloperidol 5.000mg/1.000ml,,,,,CPRD_AURUM
-1.27164E+15,Serenace 5mg/1ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd) Solution for injection Intravenous/ Intramuscular Haloperidol 5.000mg/1.000ml,,,,,CPRD_AURUM
-2.92974E+15,Haloperidol 5mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Haloperidol 5.000mg/1.000ml,4020100,,,,CPRD_AURUM
-6.59441E+14,Haldol decanoate 100mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intramuscular Haloperidol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.59741E+14,Haloperidol decanoate 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Haloperidol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-6.59541E+14,Haldol decanoate 50mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intramuscular Haloperidol decanoate 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-6.59841E+14,Haloperidol decanoate 50mg/1ml solution for injection ampoules Solution for injection Intramuscular Haloperidol decanoate 50.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.20441E+14,Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-8.54004E+15,Psytixol 50mg/0.5ml solution for injection ampoules (Mylan) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,,,,,CPRD_AURUM
-3.09054E+15,Flupentixol 50mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-9.25941E+14,Modecate Concentrate 100mg/1ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-5.87741E+14,Fluphenazine decanoate 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-9.25841E+14,Modecate 12.5mg/0.5ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,4020200,,,,CPRD_AURUM
-5.86641E+14,Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,4020200,,,,CPRD_AURUM
-9.27741E+14,Modecate 250mg/10ml solution for injection vials (Sanofi-Synthelabo Ltd) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-5.86741E+14,Fluphenazine decanoate 250mg/10ml solution for injection vials Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-9.34841E+14,Modecate 25mg/1ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,4020200,,,,CPRD_AURUM
-5.84641E+14,Fluphenazine decanoate 25mg/1ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,4020200,,,,CPRD_AURUM
-9.24241E+14,Modecate 25mg/1ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-5.82041E+14,Fluphenazine decanoate 25mg/1ml solution for injection pre-filled syringes Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-9.27841E+14,Modecate Concentrate 50mg/0.5ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-5.86941E+14,Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-9.25341E+14,Modecate 50mg/2ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,4020200,,,,CPRD_AURUM
-5.86841E+14,Fluphenazine decanoate 50mg/2ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,4020200,,,,CPRD_AURUM
-9.24341E+14,Modecate 50mg/2ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-5.82141E+14,Fluphenazine decanoate 50mg/2ml solution for injection pre-filled syringes Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-4.23041E+14,Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-3.09064E+15,Flupentixol 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.19941E+14,Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-3.09074E+15,Flupentixol 200mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.22941E+14,Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020100,,,,CPRD_AURUM
-3.09084E+15,Flupentixol 20mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020200,,,,CPRD_AURUM
-4.20141E+14,Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020200,,,,CPRD_AURUM
-3.09094E+15,Flupentixol 40mg/2ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml,4020200,,,,CPRD_AURUM
-8.13441E+14,Largactil Forte 100mg/5ml oral suspension (Sanofi) Oral suspension Oral Chlorpromazine embonate 20.000mg/1.000ml,,,,,CPRD_AURUM
-2.46641E+14,Chlorpromazine 100mg/5ml oral suspension sugar free Oral suspension Oral Chlorpromazine embonate 20.000mg/1.000ml,,,,,CPRD_AURUM
-3.85894E+15,Chlorpromazine 25mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Chlorpromazine hydrochloride 25.000mg/1.000ml,4060000,,,,CPRD_AURUM
-8.13741E+14,Largactil 25mg/5ml syrup (Sanofi) Oral solution Oral Chlorpromazine hydrochloride 5.000mg/1.000ml,,,,,CPRD_AURUM
-8.11041E+14,Largactil 50mg/2ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Chlorpromazine hydrochloride 25.000mg/1.000ml,4060000,,,,CPRD_AURUM
-2.41341E+14,Chlorpromazine 50mg/2ml solution for injection ampoules Solution for injection Intramuscular Chlorpromazine hydrochloride 25.000mg/1.000ml,4060000,,,,CPRD_AURUM
-1.38534E+15,Stelazine 10mg Spansules (Mercury Pharma Group Ltd) Modified-release capsule Oral Trifluoperazine hydrochloride 10.000mg,,,,,CPRD_AURUM
-1.46694E+15,Trifluoperazine 10mg modified-release capsules Modified-release capsule Oral Trifluoperazine hydrochloride 10.000mg,,,,,CPRD_AURUM
-1.38544E+15,Stelazine 15mg Spansules (Mercury Pharma Group Ltd) Modified-release capsule Oral Trifluoperazine hydrochloride 15.000mg,,,,,CPRD_AURUM
-1.46704E+15,Trifluoperazine 15mg modified-release capsules Modified-release capsule Oral Trifluoperazine hydrochloride 15.000mg,,,,,CPRD_AURUM
-1.38594E+15,Stelazine 1mg/5ml syrup (Mercury Pharma Group Ltd) Oral solution Oral Trifluoperazine hydrochloride 200.000microgram/1.000ml,4060000,,,,CPRD_AURUM
-1.46764E+15,Trifluoperazine 1mg/5ml oral solution sugar free Oral solution Oral Trifluoperazine hydrochloride 200.000microgram/1.000ml,4060000,,,,CPRD_AURUM
-1.38554E+15,Stelazine 2mg Spansules (Mercury Pharma Group Ltd) Modified-release capsule Oral Trifluoperazine hydrochloride 2.000mg,,,,,CPRD_AURUM
-1.46714E+15,Trifluoperazine 2mg modified-release capsules Modified-release capsule Oral Trifluoperazine hydrochloride 2.000mg,,,,,CPRD_AURUM
-2.74841E+14,Clopixol Acuphase 100mg/2ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.56344E+15,Zuclopenthixol acetate 100mg/2ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-2.73641E+14,Clopixol Acuphase 50mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-1.56354E+15,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml,4020100,,,,CPRD_AURUM
-2.76041E+14,Clopixol 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol decanoate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.56364E+15,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol decanoate 200.000mg/1.000ml,4020200,,,,CPRD_AURUM
-2.76141E+14,Clopixol Conc 500mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol decanoate 500.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.56374E+15,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol decanoate 500.000mg/1.000ml,4020200,,,,CPRD_AURUM
-1.29887E+16,Olanzapine 2.5mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 2.500mg,,,,,CPRD_AURUM
-1.29888E+16,Olanzapine 7.5mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 7.500mg,,,,,CPRD_AURUM
-1.33532E+16,Aripiprazole 1mg/ml oral solution sugar free Oral solution Oral Aripiprazole 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.31583E+16,Clozapine 100mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 100.000mg,,,,,CPRD_AURUM
-1.31588E+16,Zaponex 100mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 100.000mg,,,,,CPRD_AURUM
-1.31584E+16,Clozapine 12.5mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 12.500mg,,,,,CPRD_AURUM
-1.31589E+16,Zaponex 12.5mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 12.500mg,,,,,CPRD_AURUM
-1.31585E+16,Clozapine 200mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 200.000mg,,,,,CPRD_AURUM
-1.3159E+16,Zaponex 200mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 200.000mg,,,,,CPRD_AURUM
-1.31586E+16,Clozapine 25mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 25.000mg,,,,,CPRD_AURUM
-1.31591E+16,Zaponex 25mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 25.000mg,,,,,CPRD_AURUM
-1.31592E+16,Zaponex 50mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 50.000mg,,,,,CPRD_AURUM
-1.31587E+16,Clozapine 50mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 50.000mg,,,,,CPRD_AURUM
-1.37191E+16,Levomepromazine 100mg tablets Levomepromazine 100mg tablets Tablet Oral Levomepromazine maleate 100.000mg,,,,,CPRD_AURUM
-1.35816E+16,Risperidone 250microgram tablets Risperidone 250microgram tablets Tablet Oral Risperidone 250.000microgram,,,,,CPRD_AURUM
-1.3719E+16,Levomepromazine 50mg tablets Levomepromazine 50mg tablets Tablet Oral Levomepromazine maleate 50.000mg,,,,,CPRD_AURUM
-1.37349E+16,Biquelle XL 600mg tablets (Aspire Pharma Ltd) Biquelle XL 600mg tablets Modified-release tablet Oral Quetiapine fumarate 600.000mg,,,,,CPRD_AURUM
-1.37455E+16,Haloperidol 5mg/5ml oral solution sugar free (Special Order) Haloperidol 5mg/5ml oral solution sugar free Oral solution  Haloperidol 1.000mg/1.000ml,,,,,CPRD_AURUM
-1.37466E+16,Modecate 25mg/1ml solution for injection ampoules (Imported (Germany)) Modecate 25mg/1ml solution for injection ampoules Solution for injection  Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-1.37465E+16,Modecate 25mg/1ml solution for injection ampoules (Imported (Denmark)) Modecate 25mg/1ml solution for injection ampoules Solution for injection  Fluphenazine decanoate 25.000mg/1.000ml,,,,,CPRD_AURUM
-1.37467E+16,Modecate Concentrate 100mg/1ml solution for injection ampoules (Imported (Germany)) Modecate Concentrate 100mg/1ml solution for injection ampoules Solution for injection  Fluphenazine decanoate 100.000mg/1.000ml,,,,,CPRD_AURUM
-1.37484E+16,Trifluoperazine 1mg/5ml oral suspension (Special Order) Trifluoperazine 1mg/5ml oral suspension Oral suspension  Trifluoperazine hydrochloride 200.000microgram/1.000ml,,,,,CPRD_AURUM
+"DRUG_CODE_ID","DESCRIPTION","BNF1","BNF2","BNF3","ATC","FREQUENCY","DATABASE"
+"8882441000033111","Chlorpromazine Hydrochloride Suppositories 25 mg    ",,,,,"0","CPRD_AURUM"
+"584741000033119","Fluphenazine Enanthate Injection 25 mg/ml    ",,,,,"146","CPRD_AURUM"
+"661641000033116","Haldol Oral liquid conc. 10 mg/ml    ",,,,,"25","CPRD_AURUM"
+"1277941000033111","Seroquel Tablets (starter pack) 6 x 25 mg, 2 x 100 mg    ",,,,,"14","CPRD_AURUM"
+"1067141000033114","Pericyazine Tablets 25 mg    ",,,,,"263","CPRD_AURUM"
+"1114041000033112","Prochlorperazine Mesylate Eff sachets Sugar Free 5 mg/sachet    ",,,,,"0","CPRD_AURUM"
+"1116541000033114","Prochlorperazine Mesylate Injection 25 mg/2 ml    ",,,,,"295","CPRD_AURUM"
+"1462041000033119","Trifluoperazine Liquid 10mg/ml    ",,,,,"602","CPRD_AURUM"
+"1467841000033111","Trimeprazine Tartrate Syrup forte 30 mg/5 ml    ",,,,,"0","CPRD_AURUM"
+"659241000033113","Haloperidol Elixir 2 mg/5 ml    ",,,,,"1077","CPRD_AURUM"
+"902641000033111","Methotrimeprazine Maleate Tablets 25 mg    ",,,,,"0","CPRD_AURUM"
+"1016341000033111","Orap Tablets 10 mg    ",,,,,"271","CPRD_AURUM"
+"1379641000033119","Stemetil Injection 12.5 mg/ml    ",,,,,"67681","CPRD_AURUM"
+"1269641000033115","Serenace Elixir 2 mg/5 ml    ",,,,,"328","CPRD_AURUM"
+"1127741000033112","Prochlorperazine Maleate Spansules 10 mg    ",,,,,"605","CPRD_AURUM"
+"485041000033112","Droperidol Tablets 10 mg    ",,,,,"33517","CPRD_AURUM"
+"242341000033113","Chlorpromazine Hydrochloride Injection 25 mg/ml    ",,,,,"1107","CPRD_AURUM"
+"420041000033111","Depixol Injection 200 mg/10 ml    ",,,,,"1495","CPRD_AURUM"
+"420341000033113","Depixol Injection (syringe) 40 mg/2 ml    ",,,,,"883","CPRD_AURUM"
+"659941000033116","Haloperidol Injection 5 mg/ml    ",,,,,"25636","CPRD_AURUM"
+"885941000033119","Methotrimeprazine Hydrochloride Injection 25mg/ml, 1 ml ampoule    ",,,,,"0","CPRD_AURUM"
+"965741000033110","Neulactil Tablets 25 mg    ",,,,,"72","CPRD_AURUM"
+"1117541000033112","Promazine Hydrochloride Injection 50 mg/ml    ",,,,,"448","CPRD_AURUM"
+"1459841000033114","Trifluoperazine Injection 1 mg/ml    ",,,,,"105","CPRD_AURUM"
+"1832941000033117","Seroquel Tablets (starter pack) 6x25 mg, 2x100 mg, 2x150 mg    ",,,,,"81","CPRD_AURUM"
+"1134241000033114","Promazine Hydrochloride Tablets 100 mg    ",,,,,"978","CPRD_AURUM"
+"2730641000033111","Promazine Hydrochloride Syrup 50 mg/5 ml    ",,,,,"10","CPRD_AURUM"
+"420541000033118","Depixol Conc. Injection 500 mg/5 ml    ",,,,,"238","CPRD_AURUM"
+"483141000033112","Droperidol Injection 5mg/ml    ",,,,,"247","CPRD_AURUM"
+"1127841000033119","Prochlorperazine Maleate Spansules 15 mg    ",,,,,"226","CPRD_AURUM"
+"1129141000033118","Promazine Hydrochloride Suspension 50 mg/5 ml    ",,,,,"40782","CPRD_AURUM"
+"813341000033115","Largactil Suppositories 100 mg    ",,,,,"92","CPRD_AURUM"
+"1090841000033118","Pimozide Tablets 10 mg    ",,,,,"3229","CPRD_AURUM"
+"4148441000033110","Chlorpromazine Capsules 10 mg    ",,,,,"684","CPRD_AURUM"
+"246541000033119","Chlorpromazine Hydrochloride Suppositories 100 mg    ",,,,,"368","CPRD_AURUM"
+"247241000033118","Chlorpromazine Hydrochloride Syrup 25 mg/5 ml    ",,,,,"0","CPRD_AURUM"
+"476641000033118","Dozic Liquid 2mg/ml    ",,,,,"2","CPRD_AURUM"
+"483541000033115","Droperidol Liquid 1mg/ml    ",,,,,"6044","CPRD_AURUM"
+"660441000033110","Haloperidol Liquid 2mg/ml    ",,,,,"9188","CPRD_AURUM"
+"661441000033118","Haloperidol Oral liquid conc. 10 mg/ml    ",,,,,"571","CPRD_AURUM"
+"1379241000033117","Stelazine Injection 1 mg/ml    ",,,,,"185","CPRD_AURUM"
+"1129941000033116","Prochlorperazine Mesylate Syrup 5 mg/5 ml    ",,,,,"0","CPRD_AURUM"
+"1471041000033118","Trimeprazine Tartrate Tablets 10 mg    ",,,,,"0","CPRD_AURUM"
+"242241000033115","Chlorpromazine Hydrochloride Injection 100 mg/5 ml    ",,,,,"258","CPRD_AURUM"
+"420241000033115","Depixol Injection (syringe) 20 mg/1 ml    ",,,,,"1842","CPRD_AURUM"
+"660041000033118","Haldol Injection 5 mg/ml    ",,,,,"698","CPRD_AURUM"
+"1381441000033113","Stelazine Liquid 10mg/ml    ",,,,,"363","CPRD_AURUM"
+"926041000033110","Moditen Enanthate Injection 25 mg/ml    ",,,,,"102","CPRD_AURUM"
+"1379041000033113","Stemetil Injection 25 mg/2 ml    ",,,,,"2177","CPRD_AURUM"
+"1116441000033113","Prochlorperazine Mesylate Injection 12.5 mg/1 ml ampoule    ",,,,,"0","CPRD_AURUM"
+"1116941000033115","Prochlorperazine Maleate Injection 12.5 mg/ml    ",,,,,"2941","CPRD_AURUM"
+"1467741000033118","Trimeprazine Tartrate Syrup 7.5 mg/5 ml    ",,,,,"0","CPRD_AURUM"
+"2653741000033117","Methotrimeprazine Maleate Tablets 6 mg    ",,,,,"0","CPRD_AURUM"
+"2216741000033116","Solian 400 tablets (Sanofi) Tablet Oral Amisulpride 400.000mg","4020100",,,,"515","CPRD_AURUM"
+"2216641000033113","Amisulpride 400mg tablets Tablet Oral Amisulpride 400.000mg","4020100",,,,"205936","CPRD_AURUM"
+"815741000033115","Largactil 10mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 10.000mg",,,,,"11277","CPRD_AURUM"
+"249041000033117","Chlorpromazine 10mg tablets Tablet Oral Chlorpromazine hydrochloride 10.000mg","4060000",,,,"141329","CPRD_AURUM"
+"249241000033113","Chlorpromazine 25mg tablets Tablet Oral Chlorpromazine hydrochloride 25.000mg","4060000",,,,"1155817","CPRD_AURUM"
+"815941000033117","Largactil 25mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 25.000mg",,,,,"54785","CPRD_AURUM"
+"816041000033110","Largactil 50mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 50.000mg",,,,,"44308","CPRD_AURUM"
+"249341000033115","Chlorpromazine 50mg tablets Tablet Oral Chlorpromazine hydrochloride 50.000mg","4060000",,,,"979058","CPRD_AURUM"
+"249141000033118","Chlorpromazine 100mg tablets Tablet Oral Chlorpromazine hydrochloride 100.000mg","4060000",,,,"603333","CPRD_AURUM"
+"815841000033113","Largactil 100mg tablets (Sanofi) Tablet Oral Chlorpromazine hydrochloride 100.000mg",,,,,"25215","CPRD_AURUM"
+"12667641000033113","Chlorpromazine 100mg suppositories Suppository Rectal Chlorpromazine hydrochloride 100.000mg",,,,,"5","CPRD_AURUM"
+"145141000033119","Benperidol 250microgram tablets Tablet Oral Benperidol 250.000microgram","4020100",,,,"48508","CPRD_AURUM"
+"2846441000033114","Benquil 250microgram tablets (Concord Pharmaceuticals Ltd) Tablet Oral Benperidol 250.000microgram",,,,,"0","CPRD_AURUM"
+"69041000033115","Anquil 250microgram tablets (Kyowa Kirin Ltd) Tablet Oral Benperidol 250.000microgram","4020100",,,,"1666","CPRD_AURUM"
+"431741000033118","Depixol 3mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 3.000mg","4020100",,,,"26515","CPRD_AURUM"
+"3091241000033119","Flupentixol 3mg tablets Tablet Oral Flupentixol dihydrochloride 3.000mg","4030400",,,,"95459","CPRD_AURUM"
+"595441000033112","Fluphenazine 1mg tablets Tablet Oral Fluphenazine hydrochloride 1.000mg","4020100",,,,"27560","CPRD_AURUM"
+"935041000033115","Moditen 1mg tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride 1.000mg","4020100",,,,"7597","CPRD_AURUM"
+"935141000033116","Moditen 2.5mg tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride 2.500mg",,,,,"1869","CPRD_AURUM"
+"595641000033114","Fluphenazine 2.5mg tablets Tablet Oral Fluphenazine hydrochloride 2.500mg",,,,,"3215","CPRD_AURUM"
+"595741000033117","Fluphenazine 5mg tablets Tablet Oral Fluphenazine hydrochloride 5.000mg",,,,,"2516","CPRD_AURUM"
+"935241000033111","Moditen 5mg tablets (Sanofi-Synthelabo Ltd) Tablet Oral Fluphenazine hydrochloride 5.000mg",,,,,"1225","CPRD_AURUM"
+"1275941000033115","Serenace 1.5mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 1.500mg","4090300",,,,"13780","CPRD_AURUM"
+"662341000033115","Haloperidol 1.5mg tablets Tablet Oral Haloperidol 1.500mg","4090300",,,,"577103","CPRD_AURUM"
+"662541000033110","Haloperidol 5mg tablets Tablet Oral Haloperidol 5.000mg","4090300",,,,"546537","CPRD_AURUM"
+"663541000033116","Haldol 5mg tablets (Janssen-Cilag Ltd) Tablet Oral Haloperidol 5.000mg",,,,,"1038","CPRD_AURUM"
+"1276241000033117","Serenace 5mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 5.000mg",,,,,"6901","CPRD_AURUM"
+"663441000033117","Haldol 10mg tablets (Janssen-Cilag Ltd) Tablet Oral Haloperidol 10.000mg",,,,,"581","CPRD_AURUM"
+"1276041000033113","Serenace 10mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 10.000mg","4090300",,,,"1357","CPRD_AURUM"
+"663241000033118","Haloperidol 10mg tablets Tablet Oral Haloperidol 10.000mg","4090300",,,,"157992","CPRD_AURUM"
+"662441000033114","Haloperidol 20mg tablets Tablet Oral Haloperidol 20.000mg","4020100",,,,"14601","CPRD_AURUM"
+"1276141000033112","Serenace 20mg tablets (Teva UK Ltd) Tablet Oral Haloperidol 20.000mg",,,,,"340","CPRD_AURUM"
+"1269741000033112","Serenace 2mg/ml liquid (Teva UK Ltd) Oral solution Oral Haloperidol 2.000mg/1.000ml","4090300",,,,"2271","CPRD_AURUM"
+"661541000033117","Haldol 2mg/ml oral solution (Janssen-Cilag Ltd) Oral solution Oral Haloperidol 2.000mg/1.000ml","4090300",,,,"2312","CPRD_AURUM"
+"661341000033112","Haloperidol 10mg/5ml oral solution sugar free Oral solution Oral Haloperidol 2.000mg/1.000ml","4090300",,,,"32402","CPRD_AURUM"
+"658341000033110","Haloperidol 500microgram capsules Capsule Oral Haloperidol 500.000microgram","4090300",,,,"714180","CPRD_AURUM"
+"1268341000033116","Serenace 500microgram capsules (Teva UK Ltd) Capsule Oral Haloperidol 500.000microgram","4090300",,,,"26416","CPRD_AURUM"
+"476541000033119","Dozic 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Haloperidol 1.000mg/1.000ml","4090300",,,,"711","CPRD_AURUM"
+"660341000033116","Haloperidol 5mg/5ml oral solution sugar free Oral solution Oral Haloperidol 1.000mg/1.000ml","4090300",,,,"96979","CPRD_AURUM"
+"663341000033111","Haloperidol 500microgram tablets Tablet Oral Haloperidol 500.000microgram","4090300",,,,"109966","CPRD_AURUM"
+"3063441000033119","Levomepromazine 25mg/1ml solution for injection ampoules Solution for injection Subcutaneous/ Intravenous/ Intramuscular Levomepromazine hydrochloride 25.000mg/1.000ml","4020100",,,,"198488","CPRD_AURUM"
+"981641000033117","Nozinan 25mg/1ml solution for injection ampoules (Sanofi) Solution for injection Subcutaneous/ Intravenous/ Intramuscular Levomepromazine hydrochloride 25.000mg/1.000ml","4020100",,,,"23249","CPRD_AURUM"
+"1512741000033113","Nozinan 25mg tablets (Sanofi) Tablet Oral Levomepromazine maleate 25.000mg","4020100",,,,"15177","CPRD_AURUM"
+"3063541000033118","Levomepromazine 25mg tablets Tablet Oral Levomepromazine maleate 25.000mg","4020100",,,,"134904","CPRD_AURUM"
+"1067041000033110","Pericyazine 2.5mg tablets Tablet Oral Pericyazine 2.500mg","4020100",,,,"81744","CPRD_AURUM"
+"965641000033118","Neulactil 2.5mg tablets (Sanofi) Tablet Oral Pericyazine 2.500mg",,,,,"6191","CPRD_AURUM"
+"965541000033119","Neulactil 10mg tablets (Sanofi) Tablet Oral Pericyazine 10.000mg",,,,,"4637","CPRD_AURUM"
+"1066741000033111","Pericyazine 10mg tablets Tablet Oral Pericyazine 10.000mg","4020100",,,,"48950","CPRD_AURUM"
+"1090941000033114","Pimozide 2mg tablets Tablet Oral Pimozide 2.000mg","4020100",,,,"30661","CPRD_AURUM"
+"1016441000033117","Orap 2mg tablets (Janssen-Cilag Ltd) Tablet Oral Pimozide 2.000mg",,,,,"7590","CPRD_AURUM"
+"1016541000033116","Orap 4mg tablets (Eumedica Pharmaceuticals) Tablet Oral Pimozide 4.000mg","4020100",,,,"5098","CPRD_AURUM"
+"1091041000033116","Pimozide 4mg tablets Tablet Oral Pimozide 4.000mg","4020100",,,,"48277","CPRD_AURUM"
+"1134341000033116","Promazine 25mg tablets Tablet Oral Promazine hydrochloride 25.000mg","4020100",,,,"279457","CPRD_AURUM"
+"1134441000033110","Promazine 50mg tablets Tablet Oral Promazine hydrochloride 50.000mg","4020100",,,,"129774","CPRD_AURUM"
+"2640141000033112","Promazine 50mg/5ml oral solution Oral solution Oral Promazine hydrochloride 10.000mg/1.000ml","4020100",,,,"99261","CPRD_AURUM"
+"1397641000033117","Sulpiride 400mg tablets Tablet Oral Sulpiride 400.000mg","4020100",,,,"166159","CPRD_AURUM"
+"479841000033112","Dolmatil 400mg tablets (Sanofi) Tablet Oral Sulpiride 400.000mg","4020100",,,,"1181","CPRD_AURUM"
+"480941000033116","Dolmatil 200mg tablets (Sanofi) Tablet Oral Sulpiride 200.000mg","4020100",,,,"23794","CPRD_AURUM"
+"1396541000033116","Sulpitil 200mg tablets (Pfizer Ltd) Tablet Oral Sulpiride 200.000mg",,,,,"3289","CPRD_AURUM"
+"1396441000033117","Sulpiride 200mg tablets Tablet Oral Sulpiride 200.000mg","4020100",,,,"908955","CPRD_AURUM"
+"3141141000033114","Stelazine Forte 1mg/ml oral solution (Mercury Pharma Group Ltd) Oral solution Oral Trifluoperazine hydrochloride 1.000mg/1.000ml",,,,,"68","CPRD_AURUM"
+"1464141000033113","Trifluoperazine 5mg/5ml oral solution sugar free Oral solution Oral Trifluoperazine hydrochloride 1.000mg/1.000ml","4060000",,,,"94735","CPRD_AURUM"
+"1470641000033116","Trifluoperazine 1mg tablets Tablet Oral Trifluoperazine hydrochloride 1.000mg","4060000",,,,"576066","CPRD_AURUM"
+"1386341000033112","Stelazine 1mg tablets (Mercury Pharma Group Ltd) Tablet Oral Trifluoperazine hydrochloride 1.000mg","4060000",,,,"188867","CPRD_AURUM"
+"2955541000033113","Terrazine 1mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Trifluoperazine hydrochloride 1.000mg",,,,,"1","CPRD_AURUM"
+"2955641000033114","Terrazine 5mg tablets (Dr Reddy's Laboratories (UK) Ltd) Tablet Oral Trifluoperazine hydrochloride 5.000mg",,,,,"0","CPRD_AURUM"
+"1386441000033118","Stelazine 5mg tablets (Mercury Pharma Group Ltd) Tablet Oral Trifluoperazine hydrochloride 5.000mg","4020100",,,,"170346","CPRD_AURUM"
+"1470741000033113","Trifluoperazine 5mg tablets Tablet Oral Trifluoperazine hydrochloride 5.000mg","4020100",,,,"440222","CPRD_AURUM"
+"1564141000033115","Zuclopenthixol 2mg tablets Tablet Oral Zuclopenthixol dihydrochloride 2.000mg","4020100",,,,"101306","CPRD_AURUM"
+"287041000033119","Clopixol 2mg tablets (Lundbeck Ltd) Tablet Oral Zuclopenthixol dihydrochloride 2.000mg","4020100",,,,"56526","CPRD_AURUM"
+"286941000033115","Clopixol 10mg tablets (Lundbeck Ltd) Tablet Oral Zuclopenthixol dihydrochloride 10.000mg","4020100",,,,"75771","CPRD_AURUM"
+"1564041000033119","Zuclopenthixol 10mg tablets Tablet Oral Zuclopenthixol dihydrochloride 10.000mg","4020100",,,,"158257","CPRD_AURUM"
+"1564241000033110","Zuclopenthixol 25mg tablets Tablet Oral Zuclopenthixol dihydrochloride 25.000mg","4020100",,,,"39893","CPRD_AURUM"
+"287141000033115","Clopixol 25mg tablets (Lundbeck Ltd) Tablet Oral Zuclopenthixol dihydrochloride 25.000mg","4020100",,,,"17036","CPRD_AURUM"
+"842041000033117","Loxapac 10mg capsules (Wyeth Pharmaceuticals) Capsule Oral Loxapine succinate 10.000mg",,,,,"826","CPRD_AURUM"
+"840741000033115","Loxapine 10mg capsules Capsule Oral Loxapine succinate 10.000mg",,,,,"6355","CPRD_AURUM"
+"840841000033113","Loxapine 25mg capsules Capsule Oral Loxapine succinate 25.000mg",,,,,"3991","CPRD_AURUM"
+"842141000033118","Loxapac 25mg capsules (Wyeth Pharmaceuticals) Capsule Oral Loxapine succinate 25.000mg",,,,,"573","CPRD_AURUM"
+"842241000033113","Loxapac 50mg capsules (Wyeth Pharmaceuticals) Capsule Oral Loxapine succinate 50.000mg",,,,,"448","CPRD_AURUM"
+"840941000033117","Loxapine 50mg capsules Capsule Oral Loxapine succinate 50.000mg",,,,,"5689","CPRD_AURUM"
+"287641000033113","Clozapine 25mg tablets Tablet Oral Clozapine 25.000mg","4020100",,,,"27953","CPRD_AURUM"
+"284941000033113","Clozaril 25mg tablets (Mylan) Tablet Oral Clozapine 25.000mg","4020100",,,,"1698","CPRD_AURUM"
+"3158941000033116","Denzapine 25mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 25.000mg","4020100",,,,"556","CPRD_AURUM"
+"3226341000033115","Zaponex 25mg tablets (Leyden Delta B.V.) Tablet Oral Clozapine 25.000mg","4020100",,,,"24","CPRD_AURUM"
+"3226441000033114","Zaponex 100mg tablets (Leyden Delta B.V.) Tablet Oral Clozapine 100.000mg","4020100",,,,"40","CPRD_AURUM"
+"3159041000033113","Denzapine 100mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 100.000mg","4020100",,,,"1121","CPRD_AURUM"
+"285041000033113","Clozaril 100mg tablets (Mylan) Tablet Oral Clozapine 100.000mg","4020100",,,,"3550","CPRD_AURUM"
+"287541000033112","Clozapine 100mg tablets Tablet Oral Clozapine 100.000mg","4020100",,,,"48242","CPRD_AURUM"
+"1176641000033117","Risperidone 1mg tablets Tablet Oral Risperidone 1.000mg","4020100",,,,"2130447","CPRD_AURUM"
+"1176241000033115","Risperdal 1mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 1.000mg","4020100",,,,"51780","CPRD_AURUM"
+"1176341000033113","Risperdal 2mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 2.000mg","4020100",,,,"24853","CPRD_AURUM"
+"1176741000033114","Risperidone 2mg tablets Tablet Oral Risperidone 2.000mg","4020100",,,,"1374290","CPRD_AURUM"
+"1176841000033116","Risperidone 3mg tablets Tablet Oral Risperidone 3.000mg","4020100",,,,"629636","CPRD_AURUM"
+"1176441000033119","Risperdal 3mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 3.000mg","4020100",,,,"14287","CPRD_AURUM"
+"1176541000033118","Risperdal 4mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 4.000mg","4020100",,,,"12163","CPRD_AURUM"
+"1176941000033112","Risperidone 4mg tablets Tablet Oral Risperidone 4.000mg","4020100",,,,"589861","CPRD_AURUM"
+"1173941000033117","Risperidone 1mg/ml oral solution sugar free Oral solution Oral Risperidone 1.000mg/1.000ml","4020100",,,,"246243","CPRD_AURUM"
+"1173841000033113","Risperdal 1mg/ml oral solution (Janssen-Cilag Ltd) Oral solution Oral Risperidone 1.000mg/1.000ml","4020100",,,,"16948","CPRD_AURUM"
+"1177641000033119","Risperdal 6mg tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 6.000mg","4020100",,,,"2903","CPRD_AURUM"
+"1177741000033111","Risperidone 6mg tablets Tablet Oral Risperidone 6.000mg","4020100",,,,"88270","CPRD_AURUM"
+"2188241000033110","Risperidone 500microgram tablets Tablet Oral Risperidone 500.000microgram","4020100",,,,"2103758","CPRD_AURUM"
+"2188141000033115","Risperdal 500microgram tablets (Janssen-Cilag Ltd) Tablet Oral Risperidone 500.000microgram","4020100",,,,"57846","CPRD_AURUM"
+"1565241000033114","Zyprexa 5mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 5.000mg","4020100",,,,"9157","CPRD_AURUM"
+"1003741000033116","Olanzapine 5mg tablets Tablet Oral Olanzapine 5.000mg","4020100",,,,"2606147","CPRD_AURUM"
+"6457141000033112","Zalasta 5mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 5.000mg",,,,,"64","CPRD_AURUM"
+"6457241000033117","Zalasta 7.5mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 7.500mg",,,,,"0","CPRD_AURUM"
+"1003841000033114","Olanzapine 7.5mg tablets Tablet Oral Olanzapine 7.500mg","4020100",,,,"485192","CPRD_AURUM"
+"1565341000033116","Zyprexa 7.5mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 7.500mg","4020100",,,,"1521","CPRD_AURUM"
+"1565141000033119","Zyprexa 10mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 10.000mg","4020100",,,,"11456","CPRD_AURUM"
+"1003641000033113","Olanzapine 10mg tablets Tablet Oral Olanzapine 10.000mg","4020100",,,,"3293585","CPRD_AURUM"
+"6456741000033114","Zalasta 10mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 10.000mg",,,,,"33","CPRD_AURUM"
+"6456941000033112","Zalasta 2.5mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 2.500mg",,,,,"1","CPRD_AURUM"
+"1661141000033114","Olanzapine 2.5mg tablets Tablet Oral Olanzapine 2.500mg","4020100",,,,"1596593","CPRD_AURUM"
+"1713941000033118","Zyprexa 2.5mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 2.500mg","4020100",,,,"6175","CPRD_AURUM"
+"2077941000033117","Zyprexa 5mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 5.000mg","4020100",,,,"6302","CPRD_AURUM"
+"2077741000033115","Olanzapine 5mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 5.000mg","4020100",,,,"114353","CPRD_AURUM"
+"2077841000033113","Olanzapine 10mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 10.000mg","4020100",,,,"157946","CPRD_AURUM"
+"2078041000033119","Zyprexa 10mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 10.000mg","4020100",,,,"8438","CPRD_AURUM"
+"1277841000033115","Seroquel 25mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 25.000mg","4020100",,,,"22936","CPRD_AURUM"
+"1277641000033116","Seroquel 100mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 100.000mg","4020100",,,,"14435","CPRD_AURUM"
+"1277741000033113","Seroquel 200mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 200.000mg","4020100",,,,"10353","CPRD_AURUM"
+"1844741000033110","Seroquel 150mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 150.000mg","4020100",,,,"4592","CPRD_AURUM"
+"1366741000033110","Solian 50 tablets (Sanofi) Tablet Oral Amisulpride 50.000mg","4020100",,,,"2877","CPRD_AURUM"
+"59041000033114","Amisulpride 50mg tablets Tablet Oral Amisulpride 50.000mg","4020100",,,,"533616","CPRD_AURUM"
+"58941000033117","Amisulpride 200mg tablets Tablet Oral Amisulpride 200.000mg","4020100",,,,"672255","CPRD_AURUM"
+"1366641000033118","Solian 200 tablets (Sanofi) Tablet Oral Amisulpride 200.000mg","4020100",,,,"2302","CPRD_AURUM"
+"938841000033118","Motipress tablets (Sanofi-Synthelabo Ltd) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 1.500mg + 30.000mg",,,,,"23186","CPRD_AURUM"
+"938941000033114","Motival 10mg/500microgram tablets (Sanofi) Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg",,,,,"216939","CPRD_AURUM"
+"3179941000033111","Nortriptyline 10mg / Fluphenazine 500microgram tablets Tablet Oral Fluphenazine hydrochloride/ Nortriptyline hydrochloride 500.000microgram + 10.000mg",,,,,"12534","CPRD_AURUM"
+"3091141000033114","Flupentixol 500microgram tablets Tablet Oral Flupentixol dihydrochloride 500.000microgram","4030400",,,,"478230","CPRD_AURUM"
+"593541000033112","Fluanxol 500microgram tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 500.000microgram","4030400",,,,"211594","CPRD_AURUM"
+"593441000033111","Fluanxol 1mg tablets (Lundbeck Ltd) Tablet Oral Flupentixol dihydrochloride 1.000mg","4030400",,,,"114149","CPRD_AURUM"
+"3091041000033110","Flupentixol 1mg tablets Tablet Oral Flupentixol dihydrochloride 1.000mg","4030400",,,,"343274","CPRD_AURUM"
+"3108841000033119","Prochlorperazine 5mg effervescent granules sachets sugar free Effervescent granules Oral Prochlorperazine mesilate 5.000mg",,,,,"21753","CPRD_AURUM"
+"1384241000033110","Stemetil Eff 5mg sachets (Sanofi) Effervescent granules Oral Prochlorperazine mesilate 5.000mg",,,,,"30050","CPRD_AURUM"
+"2969141000033110","Buccastem M 3mg tablets (Alliance Pharmaceuticals Ltd) Buccal tablet Buccal Prochlorperazine maleate 3.000mg","4060000",,,,"49656","CPRD_AURUM"
+"173841000033113","Buccastem 3mg tablets (Alliance Pharmaceuticals Ltd) Buccal tablet Buccal Prochlorperazine maleate 3.000mg","4060000",,,,"358270","CPRD_AURUM"
+"1139841000033114","Prochlorperazine 3mg buccal tablets Buccal tablet Buccal Prochlorperazine maleate 3.000mg","4060000",,,,"1238699","CPRD_AURUM"
+"1133641000033110","Prochlorperazine 5mg tablets Tablet Oral Prochlorperazine maleate 5.000mg","4060000",,,,"7859870","CPRD_AURUM"
+"1386641000033116","Stemetil 5mg tablets (Sanofi) Tablet Oral Prochlorperazine maleate 5.000mg","4060000",,,,"1168799","CPRD_AURUM"
+"1130941000033113","Proziere 5mg tablets (Ashbourne Pharmaceuticals Ltd) Tablet Oral Prochlorperazine maleate 5.000mg","4060000",,,,"14758","CPRD_AURUM"
+"1386541000033117","Stemetil 25mg tablets (Sanofi) Tablet Oral Prochlorperazine maleate 25.000mg","4060000",,,,"2335","CPRD_AURUM"
+"1133541000033114","Prochlorperazine 25mg tablets Tablet Oral Prochlorperazine maleate 25.000mg","4060000",,,,"2891","CPRD_AURUM"
+"1128741000033111","Prochlorperazine 5mg suppositories Suppository Rectal Prochlorperazine maleate 5.000mg",,,,,"19734","CPRD_AURUM"
+"1385841000033113","Stemetil 5mg suppositories (Sanofi) Suppository Rectal Prochlorperazine maleate 5.000mg",,,,,"11812","CPRD_AURUM"
+"1385741000033115","Stemetil 25mg suppositories (Sanofi) Suppository Rectal Prochlorperazine maleate 25.000mg",,,,,"17914","CPRD_AURUM"
+"1128641000033119","Prochlorperazine 25mg suppositories Suppository Rectal Prochlorperazine maleate 25.000mg",,,,,"28536","CPRD_AURUM"
+"2760341000033112","Tranquilyn 10mg tablets (Genesis Pharmaceuticals Ltd) Tablet Oral Methylphenidate hydrochloride 10.000mg",,,,,"818","CPRD_AURUM"
+"2760241000033119","Tranquilyn 5mg tablets (Genesis Pharmaceuticals Ltd) Tablet Oral Methylphenidate hydrochloride 5.000mg",,,,,"612","CPRD_AURUM"
+"2760441000033118","Tranquilyn 20mg tablets (Genesis Pharmaceuticals Ltd) Tablet Oral Methylphenidate hydrochloride 20.000mg",,,,,"246","CPRD_AURUM"
+"8885941000033111","Chlorpromazine 25mg suppositories Suppository Rectal Chlorpromazine hydrochloride 25.000mg",,,,,"13","CPRD_AURUM"
+"3996241000033117","Olanzapine 20mg tablets Tablet Oral Olanzapine 20.000mg",,,,,"625007","CPRD_AURUM"
+"3996341000033110","Zyprexa 20mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 20.000mg",,,,,"1478","CPRD_AURUM"
+"6457041000033113","Zalasta 20mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 20.000mg",,,,,"117","CPRD_AURUM"
+"2759641000033117","Olanzapine 15mg tablets Tablet Oral Olanzapine 15.000mg","4020100",,,,"572560","CPRD_AURUM"
+"2759841000033116","Zyprexa 15mg tablets (Eli Lilly and Company Ltd) Tablet Oral Olanzapine 15.000mg","4020100",,,,"1933","CPRD_AURUM"
+"6456841000033116","Zalasta 15mg tablets (Consilient Health Ltd) Tablet Oral Olanzapine 15.000mg",,,,,"10","CPRD_AURUM"
+"3866541000033110","Olanzapine 20mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 20.000mg",,,,,"36729","CPRD_AURUM"
+"3866641000033111","Zyprexa 20mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 20.000mg",,,,,"4163","CPRD_AURUM"
+"2835241000033119","Solian 100 tablets (Sanofi) Tablet Oral Amisulpride 100.000mg","4020100",,,,"656","CPRD_AURUM"
+"2835141000033114","Amisulpride 100mg tablets Tablet Oral Amisulpride 100.000mg","4020100",,,,"374911","CPRD_AURUM"
+"3225341000033111","Abilify 5mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 5.000mg","4020100",,,,"5442","CPRD_AURUM"
+"3225241000033118","Aripiprazole 5mg tablets Tablet Oral Aripiprazole 5.000mg","4020100",,,,"686305","CPRD_AURUM"
+"12990341000033118","Arpoya 5mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 5.000mg",,,,,"1","CPRD_AURUM"
+"3137541000033113","Aripiprazole 10mg tablets Tablet Oral Aripiprazole 10.000mg","4020100",,,,"1129478","CPRD_AURUM"
+"3137841000033110","Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 10.000mg","4020100",,,,"7742","CPRD_AURUM"
+"12990441000033112","Arpoya 10mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 10.000mg",,,,,"0","CPRD_AURUM"
+"3137941000033119","Abilify 15mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 15.000mg","4020100",,,,"4292","CPRD_AURUM"
+"3137641000033114","Aripiprazole 15mg tablets Tablet Oral Aripiprazole 15.000mg","4020100",,,,"687017","CPRD_AURUM"
+"12990541000033113","Arpoya 15mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 15.000mg",,,,,"0","CPRD_AURUM"
+"3137741000033117","Aripiprazole 30mg tablets Tablet Oral Aripiprazole 30.000mg","4020100",,,,"145608","CPRD_AURUM"
+"3138041000033116","Abilify 30mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Tablet Oral Aripiprazole 30.000mg","4020100",,,,"1283","CPRD_AURUM"
+"12990641000033114","Arpoya 30mg tablets (Torrent Pharma (UK) Ltd) Tablet Oral Aripiprazole 30.000mg",,,,,"0","CPRD_AURUM"
+"3950541000033110","Aripiprazole 1mg/ml oral solution Oral solution Oral Aripiprazole 1.000mg/1.000ml","4020100",,,,"50898","CPRD_AURUM"
+"3950841000033112","Abilify 1mg/ml oral solution (Otsuka Pharmaceuticals (U.K.) Ltd) Oral solution Oral Aripiprazole 1.000mg/1.000ml","4020100",,,,"997","CPRD_AURUM"
+"5078241000033113","Denzapine 50mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 50.000mg",,,,,"103","CPRD_AURUM"
+"5078041000033117","Clozapine 50mg tablets Tablet Oral Clozapine 50.000mg",,,,,"1876","CPRD_AURUM"
+"4592341000033116","Seroquel XL 300mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg","4020100",,,,"23158","CPRD_AURUM"
+"8298441000033117","Seotiapim XL 300mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"7","CPRD_AURUM"
+"8113141000033117","Tenprolide XL 300mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"27","CPRD_AURUM"
+"7688041000033115","Sondate XL 300mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"41581","CPRD_AURUM"
+"11579441000033118","Psyquet XL 300mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"5","CPRD_AURUM"
+"11782141000033111","Brancico XL 300mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"286","CPRD_AURUM"
+"10255041000033113","Mintreleq XL 300mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"1806","CPRD_AURUM"
+"10041441000033114","Biquelle XL 300mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"57900","CPRD_AURUM"
+"10042041000033110","Zaluron XL 300mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"69691","CPRD_AURUM"
+"10615341000033117","Atrolak XL 300mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"354","CPRD_AURUM"
+"9605941000033118","Ebesque XL 300mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 300.000mg",,,,,"26959","CPRD_AURUM"
+"4592241000033114","Seroquel XL 200mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg","4020100",,,,"11591","CPRD_AURUM"
+"8298341000033111","Seotiapim XL 200mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"1","CPRD_AURUM"
+"8113041000033116","Tenprolide XL 200mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"3","CPRD_AURUM"
+"7687941000033118","Sondate XL 200mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"27904","CPRD_AURUM"
+"11782041000033112","Brancico XL 200mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"70","CPRD_AURUM"
+"11579341000033112","Psyquet XL 200mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"56","CPRD_AURUM"
+"10254941000033113","Mintreleq XL 200mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"1832","CPRD_AURUM"
+"10615241000033110","Atrolak XL 200mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"288","CPRD_AURUM"
+"10041341000033115","Biquelle XL 200mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"36452","CPRD_AURUM"
+"10041941000033116","Zaluron XL 200mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"38239","CPRD_AURUM"
+"9605541000033112","Ebesque XL 200mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 200.000mg",,,,,"14432","CPRD_AURUM"
+"7688141000033116","Sondate XL 400mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"28029","CPRD_AURUM"
+"8298541000033116","Seotiapim XL 400mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"1","CPRD_AURUM"
+"8349141000033117","Tenprolide XL 400mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"18","CPRD_AURUM"
+"4592441000033110","Seroquel XL 400mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg","4020100",,,,"10917","CPRD_AURUM"
+"9606341000033113","Ebesque XL 400mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"16112","CPRD_AURUM"
+"10041541000033110","Biquelle XL 400mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"37507","CPRD_AURUM"
+"10042141000033114","Zaluron XL 400mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"37541","CPRD_AURUM"
+"10255141000033112","Mintreleq XL 400mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"1851","CPRD_AURUM"
+"10615441000033111","Atrolak XL 400mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"95","CPRD_AURUM"
+"11579541000033117","Psyquet XL 400mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"180","CPRD_AURUM"
+"11782241000033116","Brancico XL 400mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 400.000mg",,,,,"51","CPRD_AURUM"
+"2975941000033117","Seroquel 300mg tablets (AstraZeneca UK Ltd) Tablet Oral Quetiapine fumarate 300.000mg","4020100",,,,"6278","CPRD_AURUM"
+"2759741000033114","Olanzapine 15mg oral lyophilisates sugar free Oral lyophilisate Oral Olanzapine 15.000mg","4020100",,,,"39539","CPRD_AURUM"
+"2759941000033112","Zyprexa 15mg Velotabs (Eli Lilly and Company Ltd) Oral lyophilisate Oral Olanzapine 15.000mg","4020100",,,,"1497","CPRD_AURUM"
+"2868841000033116","Risperidone 1mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 1.000mg","4020100",,,,"38720","CPRD_AURUM"
+"2869041000033115","Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 1.000mg","4020100",,,,"6216","CPRD_AURUM"
+"2869141000033116","Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 2.000mg","4020100",,,,"8392","CPRD_AURUM"
+"2868941000033112","Risperidone 2mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 2.000mg","4020100",,,,"34203","CPRD_AURUM"
+"2779941000033114","Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Powder and solvent for suspension for injection Intramuscular Risperidone 37.500mg","4020200",,,,"15530","CPRD_AURUM"
+"2780241000033117","Risperidone 37.5mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Risperidone 37.500mg","4020200",,,,"13947","CPRD_AURUM"
+"2780341000033110","Risperidone 50mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Risperidone 50.000mg","4020200",,,,"17561","CPRD_AURUM"
+"2780041000033113","Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Powder and solvent for suspension for injection Intramuscular Risperidone 50.000mg","4020200",,,,"23124","CPRD_AURUM"
+"2779841000033118","Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd) Powder and solvent for suspension for injection Intramuscular Risperidone 25.000mg","4020200",,,,"17619","CPRD_AURUM"
+"2780141000033112","Risperidone 25mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Risperidone 25.000mg","4020200",,,,"14261","CPRD_AURUM"
+"3030941000033114","Zyprexa 10mg powder for solution for injection vials (Eli Lilly and Company Ltd) Powder for solution for injection Intramuscular Olanzapine 10.000mg","4020100",,,,"0","CPRD_AURUM"
+"3030841000033118","Olanzapine 10mg powder for solution for injection vials Powder for solution for injection Intramuscular Olanzapine 10.000mg","4020100",,,,"40","CPRD_AURUM"
+"4940141000033119","Amisulpride 25mg/5ml oral solution Oral solution Oral Amisulpride 5.000mg/1.000ml",,,,,"2169","CPRD_AURUM"
+"5890941000033114","Amisulpride 25mg/5ml oral suspension Oral suspension Oral Amisulpride 5.000mg/1.000ml",,,,,"1485","CPRD_AURUM"
+"1719341000033115","Chlorpromazine 100mg/5ml oral solution Oral solution Oral Chlorpromazine hydrochloride 20.000mg/1.000ml",,,,,"15880","CPRD_AURUM"
+"3849441000033112","Chlorpromazine 50mg/5ml oral solution Oral solution Oral Chlorpromazine hydrochloride 10.000mg/1.000ml",,,,,"1737","CPRD_AURUM"
+"5054641000033118","Haloperidol 1mg/5ml oral solution Oral solution Oral Haloperidol 200.000microgram/1.000ml",,,,,"1357","CPRD_AURUM"
+"5890741000033111","Haloperidol 1mg/5ml oral suspension Oral suspension Oral Haloperidol 200.000microgram/1.000ml",,,,,"208","CPRD_AURUM"
+"10493341000033115","Haloperidol 500micrograms/5ml oral solution Oral solution Oral Haloperidol 100.000microgram/1.000ml",,,,,"39","CPRD_AURUM"
+"10493441000033114","Haloperidol 500micrograms/5ml oral suspension Oral suspension Oral Haloperidol 100.000microgram/1.000ml",,,,,"11","CPRD_AURUM"
+"5814341000033116","Levomepromazine 2.5mg/5ml oral suspension Oral suspension Oral Levomepromazine maleate 500.000microgram/1.000ml",,,,,"1016","CPRD_AURUM"
+"3246141000033115","Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 500.000microgram",,,,,"7457","CPRD_AURUM"
+"3246041000033119","Risperidone 500microgram orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 500.000microgram",,,,,"52523","CPRD_AURUM"
+"2653841000033110","Levinan 6mg tablets (Kyowa Kirin Ltd) Tablet Oral Levomepromazine maleate 6.000mg",,,,,"545","CPRD_AURUM"
+"3063641000033117","Levomepromazine 6mg tablets Tablet Oral Levomepromazine maleate 6.000mg",,,,,"18748","CPRD_AURUM"
+"3950641000033111","Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Orodispersible tablet Oral Aripiprazole 10.000mg","4020100",,,,"451","CPRD_AURUM"
+"3950341000033115","Aripiprazole 10mg orodispersible tablets sugar free Orodispersible tablet Oral Aripiprazole 10.000mg","4020100",,,,"15274","CPRD_AURUM"
+"3950441000033114","Aripiprazole 15mg orodispersible tablets sugar free Orodispersible tablet Oral Aripiprazole 15.000mg","4020100",,,,"13631","CPRD_AURUM"
+"3950741000033119","Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd) Orodispersible tablet Oral Aripiprazole 15.000mg","4020100",,,,"360","CPRD_AURUM"
+"4012241000033112","Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 3.000mg",,,,,"2608","CPRD_AURUM"
+"4012041000033116","Risperidone 3mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 3.000mg",,,,,"10815","CPRD_AURUM"
+"4012141000033117","Risperidone 4mg orodispersible tablets sugar free Orodispersible tablet Oral Risperidone 4.000mg",,,,,"9654","CPRD_AURUM"
+"4012341000033119","Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd) Orodispersible tablet Oral Risperidone 4.000mg",,,,,"3140","CPRD_AURUM"
+"4200641000033118","Paliperidone 3mg modified-release tablets Modified-release tablet Oral Paliperidone 3.000mg","4020100",,,,"1225","CPRD_AURUM"
+"4200941000033113","Invega 3mg modified-release tablets (Janssen-Cilag Ltd) Modified-release tablet Oral Paliperidone 3.000mg","4020100",,,,"85","CPRD_AURUM"
+"4201041000033115","Invega 6mg modified-release tablets (Janssen-Cilag Ltd) Modified-release tablet Oral Paliperidone 6.000mg","4020100",,,,"83","CPRD_AURUM"
+"4200741000033110","Paliperidone 6mg modified-release tablets Modified-release tablet Oral Paliperidone 6.000mg","4020100",,,,"1474","CPRD_AURUM"
+"4200841000033117","Paliperidone 9mg modified-release tablets Modified-release tablet Oral Paliperidone 9.000mg","4020100",,,,"1233","CPRD_AURUM"
+"4201141000033116","Invega 9mg modified-release tablets (Janssen-Cilag Ltd) Modified-release tablet Oral Paliperidone 9.000mg","4020100",,,,"50","CPRD_AURUM"
+"5969441000033117","Haloperidol 1.5mg/5ml oral solution Oral solution Oral Haloperidol 300.000microgram/1.000ml",,,,,"58","CPRD_AURUM"
+"5969541000033116","Haloperidol 1.5mg/5ml oral suspension Oral suspension Oral Haloperidol 300.000microgram/1.000ml",,,,,"15","CPRD_AURUM"
+"5969641000033115","Haloperidol 250micrograms/5ml oral solution Oral solution Oral Haloperidol 50.000microgram/1.000ml",,,,,"202","CPRD_AURUM"
+"5969741000033112","Haloperidol 250micrograms/5ml oral suspension Oral suspension Oral Haloperidol 50.000microgram/1.000ml",,,,,"286","CPRD_AURUM"
+"4424541000033119","Haloperidol 5mg/5ml oral solution Oral solution Oral Haloperidol 1.000mg/1.000ml",,,,,"1751","CPRD_AURUM"
+"5993541000033117","Haloperidol 5mg/5ml oral suspension Oral suspension Oral Haloperidol 1.000mg/1.000ml",,,,,"117","CPRD_AURUM"
+"6445641000033110","Levomepromazine 6mg/5ml oral suspension Oral suspension Oral Levomepromazine maleate 1.200mg/1.000ml",,,,,"340","CPRD_AURUM"
+"11798841000033118","Pimozide 2mg/5ml oral suspension Oral suspension Oral Pimozide 400.000microgram/1.000ml",,,,,"6","CPRD_AURUM"
+"4456841000033110","Abilify 9.75mg/1.3ml solution for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd) Solution for injection Intramuscular Aripiprazole 7.500mg/1.000ml","4020100",,,,"1","CPRD_AURUM"
+"4456741000033117","Aripiprazole 9.75mg/1.3ml solution for injection vials Solution for injection Intramuscular Aripiprazole 7.500mg/1.000ml","4020100",,,,"104","CPRD_AURUM"
+"5997341000033118","Olanzapine 2.5mg/5ml oral solution Oral solution Oral Olanzapine 500.000microgram/1.000ml",,,,,"323","CPRD_AURUM"
+"3892541000033114","Olanzapine 2.5mg/5ml oral suspension Oral suspension Oral Olanzapine 500.000microgram/1.000ml",,,,,"1898","CPRD_AURUM"
+"4592141000033119","Seroquel XL 50mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg","4020100",,,,"16030","CPRD_AURUM"
+"7687841000033114","Sondate XL 50mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"42700","CPRD_AURUM"
+"8112941000033114","Tenprolide XL 50mg tablets (Actavis UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"11","CPRD_AURUM"
+"10254741000033110","Mintreleq XL 50mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"2921","CPRD_AURUM"
+"10041141000033118","Biquelle XL 50mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"52683","CPRD_AURUM"
+"10041741000033119","Zaluron XL 50mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"58811","CPRD_AURUM"
+"10615141000033115","Atrolak XL 50mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"607","CPRD_AURUM"
+"9604441000033112","Ebesque XL 50mg tablets (Ethypharm UK Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"20302","CPRD_AURUM"
+"11578941000033118","Psyquet XL 50mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"9","CPRD_AURUM"
+"11782341000033114","Brancico XL 50mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 50.000mg",,,,,"432","CPRD_AURUM"
+"5055241000033117","Droperidol 2.5mg/1ml solution for injection ampoules Solution for injection Intravenous Droperidol 2.500mg/1.000ml",,,,,"2","CPRD_AURUM"
+"5055341000033110","Xomolix 2.5mg/1ml solution for injection ampoules (Kyowa Kirin Ltd) Solution for injection Intravenous Droperidol 2.500mg/1.000ml",,,,,"0","CPRD_AURUM"
+"5077941000033115","Clozapine 200mg tablets Tablet Oral Clozapine 200.000mg",,,,,"2093","CPRD_AURUM"
+"5078141000033118","Denzapine 200mg tablets (Britannia Pharmaceuticals Ltd) Tablet Oral Clozapine 200.000mg",,,,,"107","CPRD_AURUM"
+"5077741000033118","Denzapine 50mg/ml oral suspension (Britannia Pharmaceuticals Ltd) Oral suspension Oral Clozapine 50.000mg/1.000ml","4020100",,,,"23","CPRD_AURUM"
+"5077641000033110","Clozapine 50mg/ml oral suspension sugar free Oral suspension Oral Clozapine 50.000mg/1.000ml","4020100",,,,"304","CPRD_AURUM"
+"5575741000033110","Olanzapine embonate 210mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 210.000mg",,,,,"74","CPRD_AURUM"
+"5565041000033117","Zypadhera 210mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 210.000mg",,,,,"0","CPRD_AURUM"
+"5575841000033117","Olanzapine embonate 300mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 300.000mg",,,,,"440","CPRD_AURUM"
+"5565141000033118","Zypadhera 300mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 300.000mg",,,,,"8","CPRD_AURUM"
+"5575941000033113","Olanzapine embonate 405mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 405.000mg",,,,,"111","CPRD_AURUM"
+"5565241000033113","Zypadhera 405mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd) Powder and solvent for suspension for injection Intramuscular Olanzapine embonate monohydrate 405.000mg",,,,,"0","CPRD_AURUM"
+"5909441000033118","Seroquel XL 150mg tablets (AstraZeneca UK Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"4590","CPRD_AURUM"
+"8246241000033114","Sondate XL 150mg tablets (Teva UK Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"12213","CPRD_AURUM"
+"12428041000033114","Atrolak XL 150mg tablets (Accord Healthcare Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"5","CPRD_AURUM"
+"11579241000033119","Psyquet XL 150mg tablets (Sandoz Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"5","CPRD_AURUM"
+"11781941000033118","Brancico XL 150mg tablets (Zentiva) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"164","CPRD_AURUM"
+"10041841000033112","Zaluron XL 150mg tablets (Fontus Health Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"19044","CPRD_AURUM"
+"10041241000033113","Biquelle XL 150mg tablets (Aspire Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"18386","CPRD_AURUM"
+"10254841000033117","Mintreleq XL 150mg tablets (Aristo Pharma Ltd) Modified-release tablet Oral Quetiapine fumarate 150.000mg",,,,,"1359","CPRD_AURUM"
+"11876741000033116","Chlorpromazine 25mg/5ml oral solution sugar free Oral solution Oral Chlorpromazine hydrochloride 5.000mg/1.000ml",,,,,"2574","CPRD_AURUM"
+"6359641000033119","Paliperidone 100mg/1ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"7462","CPRD_AURUM"
+"6360041000033112","Xeplion 100mg/1ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"307","CPRD_AURUM"
+"6360141000033111","Xeplion 150mg/1.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"400","CPRD_AURUM"
+"6359741000033111","Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"7147","CPRD_AURUM"
+"6359441000033116","Paliperidone 50mg/0.5ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"3601","CPRD_AURUM"
+"6359841000033118","Xeplion 50mg/0.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"237","CPRD_AURUM"
+"6359941000033114","Xeplion 75mg/0.75ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"436","CPRD_AURUM"
+"6359541000033115","Paliperidone 75mg/0.75ml suspension for injection pre-filled syringes Suspension for injection Intramuscular Paliperidone palmitate 100.000mg/1.000ml","4020200",,,,"5462","CPRD_AURUM"
+"6443341000033118","Sycrest 10mg sublingual tablets (Lundbeck Ltd) Sublingual tablet Sublingual Asenapine maleate 10.000mg","4020300",,,,"77","CPRD_AURUM"
+"6443141000033116","Asenapine 10mg sublingual tablets sugar free Sublingual tablet Sublingual Asenapine maleate 10.000mg","4020300",,,,"1497","CPRD_AURUM"
+"6443041000033115","Asenapine 5mg sublingual tablets sugar free Sublingual tablet Sublingual Asenapine maleate 5.000mg","4020300",,,,"1850","CPRD_AURUM"
+"6443241000033111","Sycrest 5mg sublingual tablets (Lundbeck Ltd) Sublingual tablet Sublingual Asenapine maleate 5.000mg","4020300",,,,"2","CPRD_AURUM"
+"6466041000033115","Olanzapine 10mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 10.000mg",,,,,"15556","CPRD_AURUM"
+"6465341000033114","Zalasta 10mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 10.000mg",,,,,"1","CPRD_AURUM"
+"6515041000033116","Arkolamyl 10mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 10.000mg",,,,,"0","CPRD_AURUM"
+"6466141000033116","Olanzapine 15mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 15.000mg",,,,,"5351","CPRD_AURUM"
+"6465441000033115","Zalasta 15mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 15.000mg",,,,,"0","CPRD_AURUM"
+"6515141000033117","Arkolamyl 15mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 15.000mg",,,,,"0","CPRD_AURUM"
+"6515241000033112","Arkolamyl 20mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 20.000mg",,,,,"0","CPRD_AURUM"
+"6465541000033119","Zalasta 20mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 20.000mg",,,,,"0","CPRD_AURUM"
+"6466241000033111","Olanzapine 20mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 20.000mg",,,,,"8445","CPRD_AURUM"
+"6465941000033113","Olanzapine 5mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 5.000mg",,,,,"13717","CPRD_AURUM"
+"6465641000033118","Zalasta 5mg orodispersible tablets (Consilient Health Ltd) Orodispersible tablet Oral Olanzapine 5.000mg",,,,,"2","CPRD_AURUM"
+"6514941000033116","Arkolamyl 5mg orodispersible tablets (Mylan) Orodispersible tablet Oral Olanzapine 5.000mg",,,,,"0","CPRD_AURUM"
+"7681641000033116","Olanzapine 10mg orodispersible tablets Orodispersible tablet Oral Olanzapine 10.000mg",,,,,"42858","CPRD_AURUM"
+"7681741000033113","Olanzapine 15mg orodispersible tablets Orodispersible tablet Oral Olanzapine 15.000mg",,,,,"17884","CPRD_AURUM"
+"7681841000033115","Olanzapine 20mg orodispersible tablets Orodispersible tablet Oral Olanzapine 20.000mg",,,,,"31134","CPRD_AURUM"
+"7681941000033111","Olanzapine 5mg orodispersible tablets Orodispersible tablet Oral Olanzapine 5.000mg",,,,,"43589","CPRD_AURUM"
+"8886041000033118","Chlorpromazine 10mg capsules Capsule Oral Chlorpromazine hydrochloride 10.000mg",,,,,"79","CPRD_AURUM"
+"8960441000033116","Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd) Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg","4020200",,,,"548","CPRD_AURUM"
+"8960241000033117","Aripiprazole 400mg powder and solvent for suspension for injection vials Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg","4020200",,,,"4507","CPRD_AURUM"
+"9808941000033118","Lurasidone 18.5mg tablets Tablet Oral Lurasidone hydrochloride 18.500mg","4020100",,,,"2588","CPRD_AURUM"
+"9809241000033119","Latuda 18.5mg tablets (Sunovion Pharmaceuticals Europe Ltd) Tablet Oral Lurasidone hydrochloride 18.500mg","4020100",,,,"114","CPRD_AURUM"
+"9809341000033112","Latuda 37mg tablets (Sunovion Pharmaceuticals Europe Ltd) Tablet Oral Lurasidone hydrochloride 37.000mg","4020100",,,,"303","CPRD_AURUM"
+"9809041000033110","Lurasidone 37mg tablets Tablet Oral Lurasidone hydrochloride 37.000mg","4020100",,,,"8464","CPRD_AURUM"
+"9809141000033114","Lurasidone 74mg tablets Tablet Oral Lurasidone hydrochloride 74.000mg","4020100",,,,"9924","CPRD_AURUM"
+"9809441000033118","Latuda 74mg tablets (Sunovion Pharmaceuticals Europe Ltd) Tablet Oral Lurasidone hydrochloride 74.000mg","4020100",,,,"374","CPRD_AURUM"
+"2758141000033116","Haloperidol 200micrograms/ml oral solution sugar free Oral solution Oral Haloperidol 200.000microgram/1.000ml",,,,,"11975","CPRD_AURUM"
+"13155441000033117","Halkid 200micrograms/ml oral solution (Thame Laboratories Ltd) Oral solution Oral Haloperidol 200.000microgram/1.000ml",,,,,"0","CPRD_AURUM"
+"10946441000033110","Abilify Maintena 400mg powder and solvent for prolonged-release suspension for injection pre-filled syringes (Otsuka Pharmaceuticals (U.K.) Ltd) Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg",,,,,"734","CPRD_AURUM"
+"10946341000033116","Aripiprazole 400mg powder and solvent for suspension for injection pre-filled syringes Powder and solvent for suspension for injection Intramuscular Aripiprazole 400.000mg",,,,,"7436","CPRD_AURUM"
+"11583741000033116","Loxapine 9.1mg/dose inhalation powder Inhalation powder Inhalation Loxapine 9.100mg","4020100",,,,"0","CPRD_AURUM"
+"11583841000033114","Adasuve 9.1mg/dose inhalation powder (Galen Ltd) Inhalation powder Inhalation Loxapine 9.100mg","4020100",,,,"0","CPRD_AURUM"
+"11694341000033111","Paliperidone 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"52","CPRD_AURUM"
+"11694741000033112","Trevicta 175mg/0.875ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"31","CPRD_AURUM"
+"11694841000033119","Trevicta 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"64","CPRD_AURUM"
+"11694441000033117","Paliperidone 263mg/1.315ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"141","CPRD_AURUM"
+"11694541000033116","Paliperidone 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"109","CPRD_AURUM"
+"11694941000033110","Trevicta 350mg/1.75ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"57","CPRD_AURUM"
+"11695041000033110","Trevicta 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes (Janssen-Cilag Ltd) Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"90","CPRD_AURUM"
+"11694641000033115","Paliperidone 525mg/2.625ml prolonged-release suspension for injection pre-filled syringes Prolonged-release suspension for injection Intramuscular Paliperidone palmitate 200.000mg/1.000ml","4020200",,,,"125","CPRD_AURUM"
+"240041000033110","Chlorpromazine 25mg/5ml oral solution Oral solution Oral Chlorpromazine hydrochloride 5.000mg/1.000ml",,,,,"99567","CPRD_AURUM"
+"11821541000033119","Levomepromazine 62.5mg/5ml oral suspension Oral suspension Oral Levomepromazine maleate 12.500mg/1.000ml",,,,,"36","CPRD_AURUM"
+"12665341000033110","Cariprazine 1.5mg capsules Capsule Oral Cariprazine hydrochloride 1.500mg",,,,,"91","CPRD_AURUM"
+"12665741000033111","Reagila 1.5mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 1.500mg",,,,,"0","CPRD_AURUM"
+"12665841000033118","Reagila 3mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 3.000mg",,,,,"0","CPRD_AURUM"
+"12665441000033116","Cariprazine 3mg capsules Capsule Oral Cariprazine hydrochloride 3.000mg",,,,,"152","CPRD_AURUM"
+"12665541000033115","Cariprazine 4.5mg capsules Capsule Oral Cariprazine hydrochloride 4.500mg",,,,,"129","CPRD_AURUM"
+"12665941000033114","Reagila 4.5mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 4.500mg",,,,,"0","CPRD_AURUM"
+"12666041000033116","Reagila 6mg capsules (Recordati Pharmaceuticals Ltd) Capsule Oral Cariprazine hydrochloride 6.000mg",,,,,"0","CPRD_AURUM"
+"12665641000033119","Cariprazine 6mg capsules Capsule Oral Cariprazine hydrochloride 6.000mg",,,,,"137","CPRD_AURUM"
+"2644941000033118","Solian 100mg/ml oral solution (Sanofi) Oral solution Oral Amisulpride 100.000mg/1.000ml","4020100",,,,"582","CPRD_AURUM"
+"2644841000033114","Amisulpride 100mg/ml oral solution sugar free Oral solution Oral Amisulpride 100.000mg/1.000ml","4020100",,,,"33058","CPRD_AURUM"
+"2658941000033110","Sulpor 200mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Oral solution Oral Sulpiride 40.000mg/1.000ml","4020100",,,,"302","CPRD_AURUM"
+"1698441000033110","Sulpiride 200mg/5ml oral solution sugar free Oral solution Oral Sulpiride 40.000mg/1.000ml","4020100",,,,"28998","CPRD_AURUM"
+"1129641000033111","Promazine 25mg/5ml oral solution Oral solution Oral Promazine hydrochloride 5.000mg/1.000ml","4020100",,,,"351926","CPRD_AURUM"
+"2944041000033118","Stemetil 12.5mg/1ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Prochlorperazine mesilate 12.500mg/1.000ml","4060000",,,,"25596","CPRD_AURUM"
+"3108941000033110","Prochlorperazine 12.5mg/1ml solution for injection ampoules Solution for injection Intramuscular Prochlorperazine mesilate 12.500mg/1.000ml","4060000",,,,"49025","CPRD_AURUM"
+"1386041000033110","Stemetil 5mg/5ml syrup (Sanofi) Oral solution Oral Prochlorperazine mesilate 1.000mg/1.000ml","4060000",,,,"19300","CPRD_AURUM"
+"3109141000033119","Prochlorperazine 5mg/5ml oral solution Oral solution Oral Prochlorperazine mesilate 1.000mg/1.000ml","4060000",,,,"57313","CPRD_AURUM"
+"965041000033112","Neulactil Forte syrup (Sanofi) Oral solution Oral Pericyazine 2.000mg/1.000ml",,,,,"881","CPRD_AURUM"
+"1063541000033113","Pericyazine 10mg/5ml oral solution Oral solution Oral Pericyazine 2.000mg/1.000ml","4020100",,,,"4532","CPRD_AURUM"
+"1271541000033112","Serenace 20mg/2ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd) Solution for injection Intravenous/ Intramuscular Haloperidol 10.000mg/1.000ml",,,,,"120","CPRD_AURUM"
+"659641000033111","Haloperidol 20mg/2ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Haloperidol 10.000mg/1.000ml",,,,,"1376","CPRD_AURUM"
+"2929841000033111","Haldol 5mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intramuscular Haloperidol 5.000mg/1.000ml",,,,,"410","CPRD_AURUM"
+"1271641000033113","Serenace 5mg/1ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd) Solution for injection Intravenous/ Intramuscular Haloperidol 5.000mg/1.000ml",,,,,"1147","CPRD_AURUM"
+"2929741000033118","Haloperidol 5mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Haloperidol 5.000mg/1.000ml","4020100",,,,"103164","CPRD_AURUM"
+"659441000033114","Haldol decanoate 100mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intramuscular Haloperidol decanoate 100.000mg/1.000ml","4020200",,,,"23511","CPRD_AURUM"
+"659741000033119","Haloperidol decanoate 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Haloperidol decanoate 100.000mg/1.000ml","4020200",,,,"23968","CPRD_AURUM"
+"659541000033110","Haldol decanoate 50mg/1ml solution for injection ampoules (Janssen-Cilag Ltd) Solution for injection Intramuscular Haloperidol decanoate 50.000mg/1.000ml","4020100",,,,"13879","CPRD_AURUM"
+"659841000033112","Haloperidol decanoate 50mg/1ml solution for injection ampoules Solution for injection Intramuscular Haloperidol decanoate 50.000mg/1.000ml","4020200",,,,"14079","CPRD_AURUM"
+"420441000033119","Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"20431","CPRD_AURUM"
+"8540041000033111","Psytixol 50mg/0.5ml solution for injection ampoules (Mylan) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml",,,,,"205","CPRD_AURUM"
+"3090541000033111","Flupentixol 50mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"10928","CPRD_AURUM"
+"925941000033117","Modecate Concentrate 100mg/1ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml","4020200",,,,"42338","CPRD_AURUM"
+"587741000033113","Fluphenazine decanoate 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml","4020200",,,,"29479","CPRD_AURUM"
+"925841000033113","Modecate 12.5mg/0.5ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml","4020200",,,,"18960","CPRD_AURUM"
+"586641000033119","Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml","4020200",,,,"5882","CPRD_AURUM"
+"927741000033110","Modecate 250mg/10ml solution for injection vials (Sanofi-Synthelabo Ltd) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml",,,,,"63","CPRD_AURUM"
+"586741000033111","Fluphenazine decanoate 250mg/10ml solution for injection vials Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml",,,,,"10","CPRD_AURUM"
+"934841000033111","Modecate 25mg/1ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml","4020200",,,,"85598","CPRD_AURUM"
+"584641000033111","Fluphenazine decanoate 25mg/1ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml","4020200",,,,"33662","CPRD_AURUM"
+"924241000033110","Modecate 25mg/1ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml",,,,,"5139","CPRD_AURUM"
+"582041000033112","Fluphenazine decanoate 25mg/1ml solution for injection pre-filled syringes Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml",,,,,"929","CPRD_AURUM"
+"927841000033117","Modecate Concentrate 50mg/0.5ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml","4020200",,,,"10599","CPRD_AURUM"
+"586941000033114","Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 100.000mg/1.000ml","4020200",,,,"6788","CPRD_AURUM"
+"925341000033116","Modecate 50mg/2ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml","4020200",,,,"11395","CPRD_AURUM"
+"586841000033118","Fluphenazine decanoate 50mg/2ml solution for injection ampoules Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml","4020200",,,,"4357","CPRD_AURUM"
+"924341000033117","Modecate 50mg/2ml solution for injection pre-filled syringes (Sanofi-Synthelabo Ltd) Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml",,,,,"1789","CPRD_AURUM"
+"582141000033111","Fluphenazine decanoate 50mg/2ml solution for injection pre-filled syringes Solution for injection Intramuscular Fluphenazine decanoate 25.000mg/1.000ml",,,,,"488","CPRD_AURUM"
+"423041000033115","Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"109805","CPRD_AURUM"
+"3090641000033112","Flupentixol 100mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 100.000mg/1.000ml","4020200",,,,"63708","CPRD_AURUM"
+"419941000033113","Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml","4020200",,,,"17739","CPRD_AURUM"
+"3090741000033115","Flupentixol 200mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 200.000mg/1.000ml","4020200",,,,"21466","CPRD_AURUM"
+"422941000033113","Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020100",,,,"115510","CPRD_AURUM"
+"3090841000033113","Flupentixol 20mg/1ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020200",,,,"42970","CPRD_AURUM"
+"420141000033110","Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020200",,,,"92505","CPRD_AURUM"
+"3090941000033117","Flupentixol 40mg/2ml solution for injection ampoules Solution for injection Intramuscular Flupentixol decanoate 20.000mg/1.000ml","4020200",,,,"32799","CPRD_AURUM"
+"813441000033114","Largactil Forte 100mg/5ml oral suspension (Sanofi) Oral suspension Oral Chlorpromazine embonate 20.000mg/1.000ml",,,,,"3633","CPRD_AURUM"
+"246641000033118","Chlorpromazine 100mg/5ml oral suspension sugar free Oral suspension Oral Chlorpromazine embonate 20.000mg/1.000ml",,,,,"13527","CPRD_AURUM"
+"3858941000033110","Chlorpromazine 25mg/1ml solution for injection ampoules Solution for injection Intravenous/ Intramuscular Chlorpromazine hydrochloride 25.000mg/1.000ml","4060000",,,,"94","CPRD_AURUM"
+"813741000033119","Largactil 25mg/5ml syrup (Sanofi) Oral solution Oral Chlorpromazine hydrochloride 5.000mg/1.000ml",,,,,"9699","CPRD_AURUM"
+"811041000033116","Largactil 50mg/2ml solution for injection ampoules (Sanofi) Solution for injection Intramuscular Chlorpromazine hydrochloride 25.000mg/1.000ml","4060000",,,,"2235","CPRD_AURUM"
+"241341000033116","Chlorpromazine 50mg/2ml solution for injection ampoules Solution for injection Intramuscular Chlorpromazine hydrochloride 25.000mg/1.000ml","4060000",,,,"1463","CPRD_AURUM"
+"1385341000033116","Stelazine 10mg Spansules (Mercury Pharma Group Ltd) Modified-release capsule Oral Trifluoperazine hydrochloride 10.000mg",,,,,"42336","CPRD_AURUM"
+"1466941000033117","Trifluoperazine 10mg modified-release capsules Modified-release capsule Oral Trifluoperazine hydrochloride 10.000mg",,,,,"81932","CPRD_AURUM"
+"1385441000033110","Stelazine 15mg Spansules (Mercury Pharma Group Ltd) Modified-release capsule Oral Trifluoperazine hydrochloride 15.000mg",,,,,"24697","CPRD_AURUM"
+"1467041000033116","Trifluoperazine 15mg modified-release capsules Modified-release capsule Oral Trifluoperazine hydrochloride 15.000mg",,,,,"46109","CPRD_AURUM"
+"1385941000033117","Stelazine 1mg/5ml syrup (Mercury Pharma Group Ltd) Oral solution Oral Trifluoperazine hydrochloride 200.000microgram/1.000ml","4060000",,,,"14165","CPRD_AURUM"
+"1467641000033110","Trifluoperazine 1mg/5ml oral solution sugar free Oral solution Oral Trifluoperazine hydrochloride 200.000microgram/1.000ml","4060000",,,,"49413","CPRD_AURUM"
+"1385541000033111","Stelazine 2mg Spansules (Mercury Pharma Group Ltd) Modified-release capsule Oral Trifluoperazine hydrochloride 2.000mg",,,,,"118320","CPRD_AURUM"
+"1467141000033117","Trifluoperazine 2mg modified-release capsules Modified-release capsule Oral Trifluoperazine hydrochloride 2.000mg",,,,,"171143","CPRD_AURUM"
+"274841000033112","Clopixol Acuphase 100mg/2ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml","4020100",,,,"561","CPRD_AURUM"
+"1563441000033114","Zuclopenthixol acetate 100mg/2ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml","4020100",,,,"1497","CPRD_AURUM"
+"273641000033114","Clopixol Acuphase 50mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml","4020100",,,,"711","CPRD_AURUM"
+"1563541000033110","Zuclopenthixol acetate 50mg/1ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol acetate 50.000mg/1.000ml","4020100",,,,"1185","CPRD_AURUM"
+"276041000033113","Clopixol 200mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol decanoate 200.000mg/1.000ml","4020200",,,,"99430","CPRD_AURUM"
+"1563641000033111","Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol decanoate 200.000mg/1.000ml","4020200",,,,"79240","CPRD_AURUM"
+"276141000033112","Clopixol Conc 500mg/1ml solution for injection ampoules (Lundbeck Ltd) Solution for injection Intramuscular Zuclopenthixol decanoate 500.000mg/1.000ml","4020200",,,,"40967","CPRD_AURUM"
+"1563741000033119","Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules Solution for injection Intramuscular Zuclopenthixol decanoate 500.000mg/1.000ml","4020200",,,,"57204","CPRD_AURUM"
+"12988741000033118","Olanzapine 2.5mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 2.500mg",,,,,"400","CPRD_AURUM"
+"12988841000033111","Olanzapine 7.5mg orodispersible tablets sugar free Orodispersible tablet Oral Olanzapine 7.500mg",,,,,"94","CPRD_AURUM"
+"13353241000033112","Aripiprazole 1mg/ml oral solution sugar free Oral solution Oral Aripiprazole 1.000mg/1.000ml",,,,,"475","CPRD_AURUM"
+"13158341000033119","Clozapine 100mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 100.000mg",,,,,"16","CPRD_AURUM"
+"13158841000033111","Zaponex 100mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 100.000mg",,,,,"0","CPRD_AURUM"
+"13158441000033113","Clozapine 12.5mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 12.500mg",,,,,"66","CPRD_AURUM"
+"13158941000033115","Zaponex 12.5mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 12.500mg",,,,,"0","CPRD_AURUM"
+"13158541000033114","Clozapine 200mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 200.000mg",,,,,"28","CPRD_AURUM"
+"13159041000033112","Zaponex 200mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 200.000mg",,,,,"0","CPRD_AURUM"
+"13158641000033110","Clozapine 25mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 25.000mg",,,,,"11","CPRD_AURUM"
+"13159141000033111","Zaponex 25mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 25.000mg",,,,,"0","CPRD_AURUM"
+"13159241000033116","Zaponex 50mg orodispersible tablets (Leyden Delta B.V.) Orodispersible tablet Oral Clozapine 50.000mg",,,,,"0","CPRD_AURUM"
+"13158741000033118","Clozapine 50mg orodispersible tablets sugar free Orodispersible tablet Oral Clozapine 50.000mg",,,,,"11","CPRD_AURUM"
+"13719141000033112","Levomepromazine 100mg tablets Levomepromazine 100mg tablets Tablet Oral Levomepromazine maleate 100.000mg",,,,,"0","CPRD_AURUM"
+"13581641000033117","Risperidone 250microgram tablets Risperidone 250microgram tablets Tablet Oral Risperidone 250.000microgram",,,,,"2913","CPRD_AURUM"
+"13719041000033113","Levomepromazine 50mg tablets Levomepromazine 50mg tablets Tablet Oral Levomepromazine maleate 50.000mg",,,,,"2","CPRD_AURUM"
+"13734941000033119","Biquelle XL 600mg tablets (Aspire Pharma Ltd) Biquelle XL 600mg tablets Modified-release tablet Oral Quetiapine fumarate 600.000mg",,,,,"15","CPRD_AURUM"
+"13745541000033113","Haloperidol 5mg/5ml oral solution sugar free (Special Order) Haloperidol 5mg/5ml oral solution sugar free Oral solution  Haloperidol 1.000mg/1.000ml",,,,,"0","CPRD_AURUM"
+"13746641000033118","Modecate 25mg/1ml solution for injection ampoules (Imported (Germany)) Modecate 25mg/1ml solution for injection ampoules Solution for injection  Fluphenazine decanoate 25.000mg/1.000ml",,,,,"0","CPRD_AURUM"
+"13746541000033119","Modecate 25mg/1ml solution for injection ampoules (Imported (Denmark)) Modecate 25mg/1ml solution for injection ampoules Solution for injection  Fluphenazine decanoate 25.000mg/1.000ml",,,,,"0","CPRD_AURUM"
+"13746741000033110","Modecate Concentrate 100mg/1ml solution for injection ampoules (Imported (Germany)) Modecate Concentrate 100mg/1ml solution for injection ampoules Solution for injection  Fluphenazine decanoate 100.000mg/1.000ml",,,,,"3","CPRD_AURUM"
+"13748441000033116","Trifluoperazine 1mg/5ml oral suspension (Special Order) Trifluoperazine 1mg/5ml oral suspension Oral suspension  Trifluoperazine hydrochloride 200.000microgram/1.000ml",,,,,"0","CPRD_AURUM"
