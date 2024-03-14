@@ -2,6 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10816326.svg)](https://doi.org/10.5281/zenodo.10816326)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
