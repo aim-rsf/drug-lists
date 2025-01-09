@@ -4,8 +4,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10816326.svg)](https://doi.org/10.5281/zenodo.10816326) [![CC BY 4.0][cc-by-shield]][cc-by]
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12705968.svg)](https://doi.org/10.5281/zenodo.12705968)  _'Clinical coding in multiple long-term conditions research: challenges and best practices'_ paper preprint
-
 This repository has been setup to share drug lists across NIHR's AIM projects.
 Currently, the drug lists come from the AIM Consortium OPTIMAL, based in Birmingham.
 You can find all the drug lists created by OPTIMAL in [this repository]([https://github.com/aim-rsf/phenotypes/tree/main/Drug%20Codes](https://github.com/THINKINGGroup/phenotypes/tree/main/Drug%20Codes)).
@@ -20,6 +18,13 @@ The drug lists have been created using different methods to find a more efficien
   - this method is a substance-based approach and involves running through a list of IDs for medicinal products.
 
 The process for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
+
+## Further context
+Our recent article provides further context about how and why these drug lists were developed and how they are used in health research. Read the pre-print for our paper [here](https://doi.org/10.5281/zenodo.12705968) and the abstract below.
+
+Title: _'Clinical coding in multiple long-term conditions research: challenges and best practices'_
+
+Abstract: Access to health data, of good enough volume and quality, is central to our understanding of multiple long-term conditions (MLTCs) and how to treat them. There is a rise in the use of health data for cohort selection using clinical codes, with the potential to advance areas of MLTC treatment and polypharmacy research. We have reviewed literature with published methodologies to discuss current understanding and potential challenges around coding of clinical data, selection of data sources (e.g. electronic health records) and validity of the decision making process. We include a suggested frame- work to curate drug lists with clinician input and provide an extensive list of resources to assist MLTC researchers to access or create code lists, prioritising re-usability and transparency. Sharing best practice guidelines and agreeing on standards can help this research field move towards having a unified approach to structuring and coding clinical information, with the ultimate goal being more accurate and effective clinical decision making.
 
 ## Contributors ✨
 
