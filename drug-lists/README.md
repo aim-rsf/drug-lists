@@ -19,3 +19,4 @@ Each file contains the following columns (this information is copied from the [C
 - `Database`: the database to which this information applies
 
 ### How to use
+The code lists are in csv format so can be loaded using your preferred methods, for example, using a pandas dataframe or into a SQL table. You can then use the code lists to extract the BNF/ATC codes, or to extract drug class specific term strings to query another data source or populate a cohort.
