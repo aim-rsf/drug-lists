@@ -19,6 +19,10 @@ The drug lists have been created using different methods to find a more efficien
 
 The process for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
 
+Figure below gives a count of the drug terms contained for each drug class categorised by data source, in the drug-lists folder.
+
+![image info](./figs/drug_term_count_per_class.png)
+
 ## Further context
 Our recent article provides further context about how and why these drug lists were developed and how they are used in health research. Read the pre-print for our paper [here](https://doi.org/10.5281/zenodo.12705968) and the abstract below.
 
