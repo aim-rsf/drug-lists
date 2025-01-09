@@ -2,9 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10816326.svg)](https://doi.org/10.5281/zenodo.10816326)
-
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10816326.svg)](https://doi.org/10.5281/zenodo.10816326) [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This repository has been setup to share drug lists across NIHR's AIM projects.
 Currently, the drug lists come from the AIM Consortium OPTIMAL, based in Birmingham.
@@ -20,6 +18,13 @@ The drug lists have been created using different methods to find a more efficien
   - this method is a substance-based approach and involves running through a list of IDs for medicinal products.
 
 The process for the creation of the lists can be found in the [generation-process folder](/generation-process) and the drug lists themselves in the [drug-lists folder](/drug-lists).
+
+## Further context
+Our recent article provides further context about how and why these drug lists were developed and how they are used in health research. Read the pre-print for our paper [here](https://doi.org/10.5281/zenodo.12705968) and the abstract below.
+
+Title: Clinical coding in multiple long-term conditions research: challenges and best practices
+
+Abstract: _Access to health data, of good enough volume and quality, is central to our understanding of multiple long-term conditions (MLTCs) and how to treat them. There is a rise in the use of health data for cohort selection using clinical codes, with the potential to advance areas of MLTC treatment and polypharmacy research. We have reviewed literature with published methodologies to discuss current understanding and potential challenges around coding of clinical data, selection of data sources (e.g. electronic health records) and validity of the decision making process. We include a suggested frame- work to curate drug lists with clinician input and provide an extensive list of resources to assist MLTC researchers to access or create code lists, prioritising re-usability and transparency. Sharing best practice guidelines and agreeing on standards can help this research field move towards having a unified approach to structuring and coding clinical information, with the ultimate goal being more accurate and effective clinical decision making._
 
 ## Contributors ✨
 
@@ -45,7 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Specifically, 🖋️ `content` refers to creation of drug lists, 📖 `documentation` refers to the documentation created in this repository, and 🤔 `Feedback` refers to clinical auditing of the lists.
 
-If you would like to contribute to this repository, e.g. because you have found an error, or because you have a code list you would like to contribute, please [open an issue](https://github.com/aim-rsf/drug-lists/issues/new), or email Dr. Eirini Zormpa at [ezormpa@turing.ac.uk](mailto:ezormpa@turing.ac.uk).
+If you would like to contribute to this repository, e.g. because you have found an error, or because you have a code list you would like to contribute, please [open an issue](https://github.com/aim-rsf/drug-lists/issues/new), or email either Mahwish at [mmohammad@turing.ac.uk](mailto:mmohammad@turing.ac.uk) or the team at [aimrsf@turing.ac.uk](mailto:aimrsf@turing.ac.uk).
 
 ## Licence
 The materials in this repository are free to reuse under the conditions of the [Creative Commons Attribution 4.0 licence](http://creativecommons.org/licenses/by/4.0/).
