@@ -2,9 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10816326.svg)](https://doi.org/10.5281/zenodo.10816326)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10816326.svg)](https://doi.org/10.5281/zenodo.10816326) [![CC BY 4.0][cc-by-shield]][cc-by]
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12705968.svg)](https://doi.org/10.5281/zenodo.12705968)  _'Clinical coding in multiple long-term conditions research: challenges and best practices'_ paper preprint
 
 This repository has been setup to share drug lists across NIHR's AIM projects.
 Currently, the drug lists come from the AIM Consortium OPTIMAL, based in Birmingham.
