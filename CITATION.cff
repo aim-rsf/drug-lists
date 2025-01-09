@@ -1,1 +1,18 @@
-
+cff-version: 1.0.0
+message: "If you use any of our code lists, please cite it as below."
+authors:
+  - family-names: Mohammad
+    given-names: Mahwish
+    orcid: https://orcid.org/1234-5678-9101-1121
+  - family-names: Cooper
+    given-names: Jenny
+    orcid: https://orcid.org/0000-0001-6566-4527
+  - family-names: Stickland
+    given-names: Rachael
+    orcid: https://orcid.org/0000-0003-3398-4272
+title: "AIM-RSF Drug Code Lists"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.1234
+date-released: 2023-03-15
