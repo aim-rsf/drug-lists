@@ -23,14 +23,17 @@ Figure below gives a count of the drug terms contained for each drug class categ
 
 ![image info](./figs/drug_term_count_per_class.png)
 
-## Further context
+## Further context in our recent article 
+
 Our recent article provides further context about how and why these drug lists were developed and how they are used in health research. Read the pre-print for our paper [here](https://doi.org/10.5281/zenodo.12705968) and the abstract below.
 
 Title: Clinical coding in multiple long-term conditions research: challenges and best practices
 
 Abstract: _Access to health data, of good enough volume and quality, is central to our understanding of multiple long-term conditions (MLTCs) and how to treat them. There is a rise in the use of health data for cohort selection using clinical codes, with the potential to advance areas of MLTC treatment and polypharmacy research. We have reviewed literature with published methodologies to discuss current understanding and potential challenges around coding of clinical data, selection of data sources (e.g. electronic health records) and validity of the decision making process. We include a suggested frame- work to curate drug lists with clinician input and provide an extensive list of resources to assist MLTC researchers to access or create code lists, prioritising re-usability and transparency. Sharing best practice guidelines and agreeing on standards can help this research field move towards having a unified approach to structuring and coding clinical information, with the ultimate goal being more accurate and effective clinical decision making._
 
-## Contributors ✨
+# Contributors and Acknowledgments ✨
+
+This repository is created and maintained by the [AI for Multiple Long Term Conditions Research Support Facility (AIM-RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) (link to the [same archived website](https://web.archive.org/web/20250212145350/https://www.turing.ac.uk/research/research-projects/ai-for-multiple-long-term-conditions-research-support-facility?__cf_chl_rt_tk=XKaDrLiiU8hmzZk2rKaWDBVpnO8exVqC4EHijqlWTIQ-1739372030-1.0.1.1-hmHFksRkdOQcBH9PsOgRVdNAatQdr3i4hFOqtyPcyZU)). AIM RSF is funded by the NIHR Artificial Intelligence for Multiple Long-Term Conditions (AIM) programme (NIHR202647). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
