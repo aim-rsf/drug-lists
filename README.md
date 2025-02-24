@@ -1,4 +1,4 @@
-# AI-MLTC Drug Lists
+# AIM-MLTC Drug Lists
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -70,5 +70,5 @@ The materials in this repository are free to reuse under the conditions of the [
 
 ## Citation
 
-Mohammad, M., Cooper, J., & Zormpa, E. (2023). AIM-RSF Drug Code Lists. Zenodo: https://doi.org/10.5281/zenodo.10135263
+Mohammad, M., Cooper, J., & Zormpa, E. (2023). AIM-MLTC Drug Lists. Zenodo: https://doi.org/10.5281/zenodo.10135263
 
